@@ -1,0 +1,11 @@
+{
+  "clientId": 16615,
+  "key": "item.16615",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик исследователя Изморози",
+    "en": "Hoarfrost Researcher's Crate"
+  },
+  "apiId": "okp36",
+  "apiIdStatus": "inferred"
+}

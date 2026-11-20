@@ -1,0 +1,11 @@
+{
+  "clientId": 27334,
+  "key": "item.misc.inside_glass_2",
+  "kind": "item",
+  "name": {
+    "ru": "Чистое стекло",
+    "en": "Clear Glass"
+  },
+  "apiId": "j5yl4",
+  "apiIdStatus": "inferred"
+}

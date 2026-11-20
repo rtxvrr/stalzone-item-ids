@@ -1,0 +1,11 @@
+{
+  "clientId": 8281,
+  "key": "item.quest.the_shock_wave_tag",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон Веринского",
+    "en": "Verinsky’s Token"
+  },
+  "apiId": "qr4j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8290,
+  "key": "item.quest.crash_pda_voenstal",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА Военстала",
+    "en": "Military Stalker’s PDA"
+  },
+  "apiId": "vpmr",
+  "apiIdStatus": "inferred"
+}

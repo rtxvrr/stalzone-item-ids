@@ -1,0 +1,11 @@
+{
+  "clientId": 4519,
+  "key": "item.plc.pattern.morgue",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Морга",
+    "en": "Morgue Pattern"
+  },
+  "apiId": "d939",
+  "apiIdStatus": "inferred"
+}

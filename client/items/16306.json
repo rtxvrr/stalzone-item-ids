@@ -1,0 +1,11 @@
+{
+  "clientId": 16306,
+  "key": "item.16306",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон группировки «Небо»",
+    "en": "Sky Faction Token"
+  },
+  "apiId": "wjlyo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12022,
+  "key": "item.cont.psychocell",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Психоклетка»",
+    "en": "Psychocell Container"
+  },
+  "apiId": "7zz9",
+  "apiIdStatus": "inferred"
+}

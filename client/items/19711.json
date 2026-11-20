@@ -1,0 +1,11 @@
+{
+  "clientId": 19711,
+  "key": "item.camo.arm.warning",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Угроза»",
+    "en": "Threat Paint"
+  },
+  "apiId": "lyl9o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6417,
+  "key": "item.misc.electric_motor",
+  "kind": "item",
+  "name": {
+    "ru": "Электродвигатель",
+    "en": "Electric Motor"
+  },
+  "apiId": "p3vw",
+  "apiIdStatus": "inferred"
+}

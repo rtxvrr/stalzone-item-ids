@@ -1,0 +1,11 @@
+{
+  "clientId": 4212,
+  "key": "item.plc.background.autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Ужасы Зоны»",
+    "en": "Horrors of the Zone Season Background"
+  },
+  "apiId": "r99z",
+  "apiIdStatus": "inferred"
+}

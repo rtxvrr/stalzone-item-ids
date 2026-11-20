@@ -1,0 +1,11 @@
+{
+  "clientId": 24789,
+  "key": "item.charm.winter26_snowman",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Среднестатистический»",
+    "en": "Average Charm"
+  },
+  "apiId": "p6mk2",
+  "apiIdStatus": "inferred"
+}

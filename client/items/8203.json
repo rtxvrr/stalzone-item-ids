@@ -1,0 +1,11 @@
+{
+  "clientId": 8203,
+  "key": "item.quest.whirlpool_chertozvet",
+  "kind": "item",
+  "name": {
+    "ru": "Активный чертоцвет",
+    "en": "Active Hellroot"
+  },
+  "apiId": "zp0y",
+  "apiIdStatus": "inferred"
+}

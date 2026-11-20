@@ -1,0 +1,11 @@
+{
+  "clientId": 21029,
+  "key": "item.melee.britva_acid",
+  "kind": "item",
+  "name": {
+    "ru": "Кислотная бритва",
+    "en": "Acid Razor"
+  },
+  "apiId": "y3jj0",
+  "apiIdStatus": "inferred"
+}

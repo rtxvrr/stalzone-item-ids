@@ -1,0 +1,11 @@
+{
+  "clientId": 16263,
+  "key": "item.misc.cat_tail_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост кошки",
+    "en": "Cat's Tail"
+  },
+  "apiId": "okpz5",
+  "apiIdStatus": "inferred"
+}

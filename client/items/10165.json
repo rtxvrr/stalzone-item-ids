@@ -1,0 +1,11 @@
+{
+  "clientId": 10165,
+  "key": "item.quest.smotrikov16",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Зацепка",
+    "en": "Audio recorder: Clue"
+  },
+  "apiId": "pdy4",
+  "apiIdStatus": "inferred"
+}

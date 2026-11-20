@@ -1,0 +1,11 @@
+{
+  "clientId": 31782,
+  "key": "item.part.aa12_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть AA-12 #2",
+    "en": "AA-12 Part #2"
+  },
+  "apiId": "j0wqg",
+  "apiIdStatus": "inferred"
+}

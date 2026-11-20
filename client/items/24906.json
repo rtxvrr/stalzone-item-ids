@@ -1,0 +1,11 @@
+{
+  "clientId": 24906,
+  "key": "item.charm.media_glasses",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Красные очки»",
+    "en": "Red Glasses Charm"
+  },
+  "apiId": "wjg0d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13615,
+  "key": "item.camo.arm.bureau_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Интересующийся»",
+    "en": "Interested Paint"
+  },
+  "apiId": "oo56",
+  "apiIdStatus": "inferred"
+}

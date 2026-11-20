@@ -1,0 +1,11 @@
+{
+  "clientId": 20525,
+  "key": "item.wpn.wz88",
+  "kind": "item",
+  "name": {
+    "ru": "Kbk wz. 88 Tantal",
+    "en": "Kbk wz. 88 Tantal"
+  },
+  "apiId": "1r731",
+  "apiIdStatus": "inferred"
+}

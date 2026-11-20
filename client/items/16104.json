@@ -1,0 +1,11 @@
+{
+  "clientId": 16104,
+  "key": "item.16104",
+  "kind": "item",
+  "name": {
+    "ru": "Печень с Бораля",
+    "en": "Liver from Boral"
+  },
+  "apiId": "5lymq",
+  "apiIdStatus": "inferred"
+}

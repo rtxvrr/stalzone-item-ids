@@ -1,0 +1,11 @@
+{
+  "clientId": 25020,
+  "key": "item.arm.vorsa",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Ворса»",
+    "en": "Vorsa Armored Suit"
+  },
+  "apiId": "2oqdl",
+  "apiIdStatus": "inferred"
+}

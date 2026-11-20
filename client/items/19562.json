@@ -1,0 +1,11 @@
+{
+  "clientId": 19562,
+  "key": "item.camo.unique_arm.ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Закаленный в боях»",
+    "en": "Forged in Battle"
+  },
+  "apiId": "m0zlr",
+  "apiIdStatus": "inferred"
+}

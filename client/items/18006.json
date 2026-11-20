@@ -1,0 +1,11 @@
+{
+  "clientId": 18006,
+  "key": "item.camo.wpn.indigo",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Синяя»",
+    "en": "Blue Weapon Paint"
+  },
+  "apiId": "wjyzz",
+  "apiIdStatus": "inferred"
+}

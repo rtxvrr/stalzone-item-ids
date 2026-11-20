@@ -1,0 +1,11 @@
+{
+  "clientId": 24661,
+  "key": "item.charm.welcome_lynch",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Линч»",
+    "en": "Lynch Channel Fan Charm"
+  },
+  "apiId": "0rz4k",
+  "apiIdStatus": "inferred"
+}

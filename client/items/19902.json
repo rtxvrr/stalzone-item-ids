@@ -1,0 +1,11 @@
+{
+  "clientId": 19902,
+  "key": "item.motif.wpn.mr155_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Охотник на уток»",
+    "en": "Goose Hunt"
+  },
+  "apiId": "g40op",
+  "apiIdStatus": "inferred"
+}

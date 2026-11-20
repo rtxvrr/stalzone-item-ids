@@ -1,0 +1,11 @@
+{
+  "clientId": 16292,
+  "key": "item.misc.pseudodog_undercoat_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Подшерсток дикой гончей",
+    "en": "Strong Wild Hound's Undercoat"
+  },
+  "apiId": "2o03v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19760,
+  "key": "item.camo.arm.holiday_lights",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Праздничные огни»",
+    "en": "Holiday Lights Paint"
+  },
+  "apiId": "rwr9y",
+  "apiIdStatus": "inferred"
+}

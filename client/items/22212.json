@@ -1,0 +1,11 @@
+{
+  "clientId": 22212,
+  "key": "item.att.scope_vism",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический NcStar VISM",
+    "en": "NcStar VISM Optical Sight"
+  },
+  "apiId": "rw0qz",
+  "apiIdStatus": "inferred"
+}

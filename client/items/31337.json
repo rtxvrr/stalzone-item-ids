@@ -1,0 +1,11 @@
+{
+  "clientId": 31337,
+  "key": "item.ny_toys.setE.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовый шарик",
+    "en": "Purple Bauble"
+  },
+  "apiId": "00jy1",
+  "apiIdStatus": "inferred"
+}

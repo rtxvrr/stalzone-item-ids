@@ -1,0 +1,11 @@
+{
+  "clientId": 20589,
+  "key": "item.wpn.hk417",
+  "kind": "item",
+  "name": {
+    "ru": "HK417",
+    "en": "HK417"
+  },
+  "apiId": "p63d2",
+  "apiIdStatus": "inferred"
+}

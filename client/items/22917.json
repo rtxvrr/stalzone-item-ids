@@ -1,0 +1,11 @@
+{
+  "clientId": 22917,
+  "key": "item.att.mount_dpris",
+  "kind": "item",
+  "name": {
+    "ru": "Адаптивная планка RIS для ДП",
+    "en": "Adaptive RIS Rail for DP"
+  },
+  "apiId": "p6y72",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22060,
+  "key": "item.att.forend_skstop",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая накладка СКС",
+    "en": "SKS TriRail System"
+  },
+  "apiId": "rw09v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17137,
+  "key": "item.style.arm.abo_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Снегоступ»",
+    "en": "Snowshoe"
+  },
+  "apiId": "0r9zr",
+  "apiIdStatus": "inferred"
+}

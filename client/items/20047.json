@@ -1,0 +1,11 @@
+{
+  "clientId": 20047,
+  "key": "item.wpn.aek973",
+  "kind": "item",
+  "name": {
+    "ru": "АЕК-973 «Марс»",
+    "en": "AEK-973 Mars"
+  },
+  "apiId": "6wr0j",
+  "apiIdStatus": "inferred"
+}

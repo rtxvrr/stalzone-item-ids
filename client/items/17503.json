@@ -1,0 +1,11 @@
+{
+  "clientId": 17503,
+  "key": "item.style.wpn.a545_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Жребий гладиатора»",
+    "en": "Gladiator's Lot"
+  },
+  "apiId": "zzo6n",
+  "apiIdStatus": "inferred"
+}

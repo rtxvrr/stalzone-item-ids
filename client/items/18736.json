@@ -1,0 +1,11 @@
+{
+  "clientId": 18736,
+  "key": "item.camo.wpn.metamorphosis",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Метаморфоз»",
+    "en": "Metamorphosis Paint"
+  },
+  "apiId": "rwyz5",
+  "apiIdStatus": "inferred"
+}

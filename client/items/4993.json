@@ -1,0 +1,11 @@
+{
+  "clientId": 4993,
+  "key": "item.plc.sticker.prestige_picklock",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Мрак»",
+    "en": "Gloom Sticker"
+  },
+  "apiId": "3myg",
+  "apiIdStatus": "inferred"
+}

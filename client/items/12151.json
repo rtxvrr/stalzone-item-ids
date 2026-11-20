@@ -1,0 +1,11 @@
+{
+  "clientId": 12151,
+  "key": "item.bag.medium1",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак Secret Valley 35",
+    "en": "Secret Valley 35 Backpack"
+  },
+  "apiId": "zq3n",
+  "apiIdStatus": "inferred"
+}

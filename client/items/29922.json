@@ -1,0 +1,11 @@
+{
+  "clientId": 29922,
+  "key": "item.filler.mining_3",
+  "kind": "item",
+  "name": {
+    "ru": "Резонатор",
+    "en": "Resonator"
+  },
+  "apiId": "77w9j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18692,
+  "key": "item.camo.wpn.icecrust",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Гололед»",
+    "en": "Black Ice Camouflage"
+  },
+  "apiId": "2omdv",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8323,
+  "key": "item.quest.shock_wave_infra",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенная инфракрасным излучением вытяжка",
+    "en": "Infrared-Purified Extract"
+  },
+  "apiId": "6vr0",
+  "apiIdStatus": "inferred"
+}

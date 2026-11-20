@@ -1,0 +1,11 @@
+{
+  "clientId": 16759,
+  "key": "item.gachapon.spring24",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Славянской весны»",
+    "en": "Case with Folktale Spring styles"
+  },
+  "apiId": "ly90o",
+  "apiIdStatus": "inferred"
+}

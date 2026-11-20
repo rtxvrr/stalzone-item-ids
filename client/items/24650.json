@@ -1,0 +1,11 @@
+{
+  "clientId": 24650,
+  "key": "item.charm.nina_worthy",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Достойная»",
+    "en": "Worthy Charm"
+  },
+  "apiId": "g46yn",
+  "apiIdStatus": "inferred"
+}

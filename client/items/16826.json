@@ -1,0 +1,11 @@
+{
+  "clientId": 16826,
+  "key": "item.quest.collar",
+  "kind": "item",
+  "name": {
+    "ru": "Ошейник",
+    "en": "Collar"
+  },
+  "apiId": "g499n",
+  "apiIdStatus": "inferred"
+}

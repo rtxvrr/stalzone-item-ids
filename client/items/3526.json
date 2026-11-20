@@ -1,0 +1,11 @@
+{
+  "clientId": 3526,
+  "key": "tile.3526",
+  "kind": "tile",
+  "name": {
+    "ru": "хромокей",
+    "en": "green screen"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

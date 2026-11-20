@@ -1,0 +1,11 @@
+{
+  "clientId": 26100,
+  "key": "item.med.bady_energy",
+  "kind": "item",
+  "name": {
+    "ru": "Энергетик «Батарейка»",
+    "en": "Battery Energy Drink"
+  },
+  "apiId": "964ow",
+  "apiIdStatus": "inferred"
+}

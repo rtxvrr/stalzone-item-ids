@@ -1,0 +1,11 @@
+{
+  "clientId": 26091,
+  "key": "item.food.ny23.peas_old",
+  "kind": "item",
+  "name": {
+    "ru": "Горох «Прошлогодний»",
+    "en": "Last Year's Peas"
+  },
+  "apiId": "dmk95",
+  "apiIdStatus": "inferred"
+}

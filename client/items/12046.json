@@ -1,0 +1,11 @@
+{
+  "clientId": 12046,
+  "key": "item.cont.krab5",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «КРАБ-5»",
+    "en": "CRAW-5 Container"
+  },
+  "apiId": "7zy9",
+  "apiIdStatus": "inferred"
+}

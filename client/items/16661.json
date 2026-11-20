@@ -1,0 +1,11 @@
+{
+  "clientId": 16661,
+  "key": "item.16661",
+  "kind": "item",
+  "name": {
+    "ru": "Запакованный ключ для редкого контейнера",
+    "en": "Packaged Key to a Rare Container"
+  },
+  "apiId": "0rlo9",
+  "apiIdStatus": "inferred"
+}

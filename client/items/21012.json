@@ -1,0 +1,11 @@
+{
+  "clientId": 21012,
+  "key": "item.21012",
+  "kind": "item",
+  "name": {
+    "ru": "Русский штык",
+    "en": "Russian Bayonet"
+  },
+  "apiId": "rwz2z",
+  "apiIdStatus": "inferred"
+}

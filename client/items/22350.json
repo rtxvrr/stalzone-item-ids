@@ -1,0 +1,11 @@
+{
+  "clientId": 22350,
+  "key": "item.att.sight_obzor",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Обзор»",
+    "en": "Obzor Collimator Sight"
+  },
+  "apiId": "g4gyp",
+  "apiIdStatus": "inferred"
+}

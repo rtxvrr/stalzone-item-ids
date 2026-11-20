@@ -1,0 +1,11 @@
+{
+  "clientId": 22516,
+  "key": "item.att.barrel_vp09",
+  "kind": "item",
+  "name": {
+    "ru": "Vendetta Precision VP-09 Interceptor",
+    "en": "Vendetta Precision VP-09 Interceptor"
+  },
+  "apiId": "n4zkw",
+  "apiIdStatus": "inferred"
+}

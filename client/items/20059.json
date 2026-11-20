@@ -1,0 +1,11 @@
+{
+  "clientId": 20059,
+  "key": "item.wpn.m4_lb",
+  "kind": "item",
+  "name": {
+    "ru": "M4 LB",
+    "en": "M4 LB"
+  },
+  "apiId": "lyljj",
+  "apiIdStatus": "inferred"
+}

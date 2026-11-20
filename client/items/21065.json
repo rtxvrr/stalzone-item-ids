@@ -1,0 +1,11 @@
+{
+  "clientId": 21065,
+  "key": "item.melee.katran",
+  "kind": "item",
+  "name": {
+    "ru": "«Катран-1»",
+    "en": "Katran-1 Combat Knife"
+  },
+  "apiId": "p614d",
+  "apiIdStatus": "inferred"
+}

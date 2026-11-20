@@ -1,0 +1,11 @@
+{
+  "clientId": 31531,
+  "key": "item.ny_toys.setL.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Осколок",
+    "en": "Shard Artifact Decoration"
+  },
+  "apiId": "4k3yl",
+  "apiIdStatus": "inferred"
+}

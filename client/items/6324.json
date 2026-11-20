@@ -1,0 +1,11 @@
+{
+  "clientId": 6324,
+  "key": "item.misc.condensed_milk",
+  "kind": "item",
+  "name": {
+    "ru": "Сгущенка",
+    "en": "Condensed Milk"
+  },
+  "apiId": "9m7w",
+  "apiIdStatus": "inferred"
+}

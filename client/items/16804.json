@@ -1,0 +1,11 @@
+{
+  "clientId": 16804,
+  "key": "item.16804",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных Наемников",
+    "en": "Mercenaries Data Block"
+  },
+  "apiId": "5l6oo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25176,
+  "key": "item.arm.exo_shaman",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет Шамана",
+    "en": "Shaman's Exoskeleton"
+  },
+  "apiId": "5lrwq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20839,
+  "key": "item.wpn.deagle_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Большой Билл»",
+    "en": "Big Bill"
+  },
+  "apiId": "ok9p6",
+  "apiIdStatus": "inferred"
+}

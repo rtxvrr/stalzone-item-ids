@@ -1,0 +1,11 @@
+{
+  "clientId": 30017,
+  "key": "item.filler.valuable_18",
+  "kind": "item",
+  "name": {
+    "ru": "Результаты сканирования аномалий",
+    "en": "Anomaly Scanning Results"
+  },
+  "apiId": "pjqjd",
+  "apiIdStatus": "inferred"
+}

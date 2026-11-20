@@ -1,0 +1,11 @@
+{
+  "clientId": 20425,
+  "key": "item.wpn.fort12",
+  "kind": "item",
+  "name": {
+    "ru": "Форт-12",
+    "en": "Fort-12"
+  },
+  "apiId": "1r77r",
+  "apiIdStatus": "inferred"
+}

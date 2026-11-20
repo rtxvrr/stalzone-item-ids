@@ -1,0 +1,11 @@
+{
+  "clientId": 26619,
+  "key": "item.food.pasta_with_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Макароны по-флотски",
+    "en": "Navy-Style Pasta"
+  },
+  "apiId": "dm165",
+  "apiIdStatus": "inferred"
+}

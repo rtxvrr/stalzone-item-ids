@@ -1,0 +1,11 @@
+{
+  "clientId": 16417,
+  "key": "item.16417",
+  "kind": "item",
+  "name": {
+    "ru": "Связка ключ-карт",
+    "en": "Bunch of Key Cards"
+  },
+  "apiId": "p6q16",
+  "apiIdStatus": "inferred"
+}

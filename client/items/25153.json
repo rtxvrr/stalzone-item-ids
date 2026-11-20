@@ -1,0 +1,11 @@
+{
+  "clientId": 25153,
+  "key": "item.arm.spanner",
+  "kind": "item",
+  "name": {
+    "ru": "УКАЗ «Спаннер»",
+    "en": "RAPS Spanner"
+  },
+  "apiId": "y35l3",
+  "apiIdStatus": "inferred"
+}

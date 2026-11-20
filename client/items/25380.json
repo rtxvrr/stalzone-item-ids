@@ -1,0 +1,11 @@
+{
+  "clientId": 25380,
+  "key": "item.arm.zivcas_fighter",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм ZIVCAS M2-O",
+    "en": "ZIVCAS M2-O Armored Suit"
+  },
+  "apiId": "kn3nv",
+  "apiIdStatus": "inferred"
+}

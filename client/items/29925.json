@@ -1,0 +1,11 @@
+{
+  "clientId": 29925,
+  "key": "item.filler.mining_6",
+  "kind": "item",
+  "name": {
+    "ru": "Трансформатор",
+    "en": "Transformer"
+  },
+  "apiId": "19on2",
+  "apiIdStatus": "inferred"
+}

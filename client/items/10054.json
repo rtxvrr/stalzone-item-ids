@@ -1,0 +1,11 @@
+{
+  "clientId": 10054,
+  "key": "item.10054",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанный СН-2у",
+    "en": "Broken SN-2u"
+  },
+  "apiId": "w5o2",
+  "apiIdStatus": "inferred"
+}

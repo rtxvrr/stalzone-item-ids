@@ -1,0 +1,11 @@
+{
+  "clientId": 17545,
+  "key": "item.style.wpn.mk47_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "Обр. №47",
+    "en": "Model No. 47"
+  },
+  "apiId": "3g3ng",
+  "apiIdStatus": "inferred"
+}

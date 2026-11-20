@@ -1,0 +1,11 @@
+{
+  "clientId": 25180,
+  "key": "item.arm.halat",
+  "kind": "item",
+  "name": {
+    "ru": "Халат",
+    "en": "Lab Coat"
+  },
+  "apiId": "knqdp",
+  "apiIdStatus": "inferred"
+}

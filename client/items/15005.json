@@ -1,0 +1,11 @@
+{
+  "clientId": 15005,
+  "key": "item.lootbox.ny25_case6",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс 6-го уровня Ёлочки",
+    "en": "X-Mas Tree Level 6 Case"
+  },
+  "apiId": "y3430",
+  "apiIdStatus": "inferred"
+}

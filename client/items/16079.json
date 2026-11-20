@@ -1,0 +1,11 @@
+{
+  "clientId": 16079,
+  "key": "item.16079",
+  "kind": "item",
+  "name": {
+    "ru": "Комплект снабжения",
+    "en": "Set of Supplies"
+  },
+  "apiId": "4qogr",
+  "apiIdStatus": "inferred"
+}

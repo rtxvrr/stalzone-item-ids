@@ -1,0 +1,11 @@
+{
+  "clientId": 12828,
+  "key": "item.amm.545psy",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 «Ши-3»",
+    "en": "5.45 Shi-3 Round"
+  },
+  "apiId": "523g",
+  "apiIdStatus": "inferred"
+}

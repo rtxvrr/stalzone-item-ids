@@ -1,0 +1,11 @@
+{
+  "clientId": 19629,
+  "key": "item.motif.arm.albatros_heavy_rune",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель Истины»",
+    "en": "Keeper of Truth"
+  },
+  "apiId": "y373k",
+  "apiIdStatus": "inferred"
+}

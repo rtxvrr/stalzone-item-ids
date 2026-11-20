@@ -1,0 +1,11 @@
+{
+  "clientId": 20103,
+  "key": "item.wpn.ots14m",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-14М «Разряд»",
+    "en": "OTs-14M Surge"
+  },
+  "apiId": "zz7q9",
+  "apiIdStatus": "inferred"
+}

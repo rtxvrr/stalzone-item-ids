@@ -1,0 +1,11 @@
+{
+  "clientId": 20093,
+  "key": "item.wpn.mpx",
+  "kind": "item",
+  "name": {
+    "ru": "SIG MPX",
+    "en": "SIG MPX"
+  },
+  "apiId": "3gr1z",
+  "apiIdStatus": "inferred"
+}

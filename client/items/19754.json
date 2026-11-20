@@ -1,0 +1,11 @@
+{
+  "clientId": 19754,
+  "key": "item.camo.arm.cooling",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Охлаждение»",
+    "en": "Cool Paint"
+  },
+  "apiId": "wjoy3",
+  "apiIdStatus": "inferred"
+}

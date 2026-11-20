@@ -1,0 +1,11 @@
+{
+  "clientId": 18326,
+  "key": "item.camo.wpn.dayx_twitch_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Токсичная туманность Twitch»",
+    "en": "Toxic Twitch Nebula Paint"
+  },
+  "apiId": "g4zyg",
+  "apiIdStatus": "inferred"
+}

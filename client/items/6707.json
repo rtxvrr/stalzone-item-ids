@@ -1,0 +1,11 @@
+{
+  "clientId": 6707,
+  "key": "item.misc.telomerase",
+  "kind": "item",
+  "name": {
+    "ru": "Теломераза",
+    "en": "Telomerase"
+  },
+  "apiId": "4npn",
+  "apiIdStatus": "inferred"
+}

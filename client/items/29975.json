@@ -1,0 +1,11 @@
+{
+  "clientId": 29975,
+  "key": "item.filler.npc_limansk_6",
+  "kind": "item",
+  "name": {
+    "ru": "Запчасти для ПДА",
+    "en": "PDA Spare Parts"
+  },
+  "apiId": "z3wgm",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12458,
+  "key": "item.abl.anm.stimshot",
+  "kind": "item",
+  "name": {
+    "ru": "Шприц Зивкаса",
+    "en": "ZIVCAS Syringe"
+  },
+  "apiId": "jm20",
+  "apiIdStatus": "inferred"
+}

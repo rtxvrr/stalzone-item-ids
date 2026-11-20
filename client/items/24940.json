@@ -1,0 +1,11 @@
+{
+  "clientId": 24940,
+  "key": "item.charm.autumn26_blood_balloon",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кровавый шарик»",
+    "en": "Bloody Balloon Charm"
+  },
+  "apiId": "n4row",
+  "apiIdStatus": "inferred"
+}

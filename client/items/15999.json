@@ -1,0 +1,11 @@
+{
+  "clientId": 15999,
+  "key": "item.15999",
+  "kind": "item",
+  "name": {
+    "ru": "Гадкие сладости",
+    "en": "Tricky Treats"
+  },
+  "apiId": "zzkd9",
+  "apiIdStatus": "inferred"
+}

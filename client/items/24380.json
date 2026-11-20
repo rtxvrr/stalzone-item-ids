@@ -1,0 +1,11 @@
+{
+  "clientId": 24380,
+  "key": "item.charm.head_shaman",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шаман»",
+    "en": "Shaman Charm"
+  },
+  "apiId": "kn723",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20483,
+  "key": "item.wpn.rsh12",
+  "kind": "item",
+  "name": {
+    "ru": "РШ-12",
+    "en": "RSh-12"
+  },
+  "apiId": "ly2z2",
+  "apiIdStatus": "inferred"
+}

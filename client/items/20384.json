@@ -1,0 +1,11 @@
+{
+  "clientId": 20384,
+  "key": "item.wpn.mts255",
+  "kind": "item",
+  "name": {
+    "ru": "МЦ-255",
+    "en": "MTs-255"
+  },
+  "apiId": "rw2ky",
+  "apiIdStatus": "inferred"
+}

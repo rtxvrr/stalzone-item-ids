@@ -1,0 +1,11 @@
+{
+  "clientId": 12803,
+  "key": "item.amm.556fire",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм жгучий",
+    "en": "5.56 mm Fluff Round"
+  },
+  "apiId": "z102",
+  "apiIdStatus": "inferred"
+}

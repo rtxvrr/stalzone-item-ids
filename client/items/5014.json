@@ -1,0 +1,11 @@
+{
+  "clientId": 5014,
+  "key": "item.plc.sticker.prestige_night_hunter",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Ночной охотник»",
+    "en": "Night Hunter Sticker"
+  },
+  "apiId": "m9oj",
+  "apiIdStatus": "inferred"
+}

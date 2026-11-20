@@ -1,0 +1,11 @@
+{
+  "clientId": 31267,
+  "key": "item.ny_toys.setQ.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Советская игрушка-шишка",
+    "en": "Soviet Pine Cone Ornament"
+  },
+  "apiId": "drppg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26667,
+  "key": "item.premium.token_14d",
+  "kind": "item",
+  "name": {
+    "ru": "Премиум на 14 дней",
+    "en": "Premium for 14 days"
+  },
+  "apiId": "dm195",
+  "apiIdStatus": "inferred"
+}

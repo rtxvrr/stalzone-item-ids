@@ -1,0 +1,11 @@
+{
+  "clientId": 10650,
+  "key": "item.key.safe_factory",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от заводского сейфа",
+    "en": "Factory Safe Key"
+  },
+  "apiId": "g6m6",
+  "apiIdStatus": "inferred"
+}

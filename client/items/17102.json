@@ -1,0 +1,11 @@
+{
+  "clientId": 17102,
+  "key": "item.style.arm.centurion_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Укротитель Бурана»",
+    "en": "Blizzard Tamer"
+  },
+  "apiId": "g49qg",
+  "apiIdStatus": "inferred"
+}

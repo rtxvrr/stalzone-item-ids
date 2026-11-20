@@ -1,0 +1,11 @@
+{
+  "clientId": 31044,
+  "key": "item.brt.les.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Адский уголь",
+    "en": "Infernal Coal"
+  },
+  "apiId": "21g9l",
+  "apiIdStatus": "inferred"
+}

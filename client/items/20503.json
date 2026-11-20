@@ -1,0 +1,11 @@
+{
+  "clientId": 20503,
+  "key": "item.wpn.pmm",
+  "kind": "item",
+  "name": {
+    "ru": "ПММ",
+    "en": "PMM"
+  },
+  "apiId": "zz2pn",
+  "apiIdStatus": "inferred"
+}

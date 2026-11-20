@@ -1,0 +1,11 @@
+{
+  "clientId": 19872,
+  "key": "item.motif.wpn.jackhammer_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "«Счастливый билет»",
+    "en": "Lucky Ticket"
+  },
+  "apiId": "96mwq",
+  "apiIdStatus": "inferred"
+}

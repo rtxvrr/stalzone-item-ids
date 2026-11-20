@@ -1,0 +1,11 @@
+{
+  "clientId": 25385,
+  "key": "item.arm.mule_bm",
+  "kind": "item",
+  "name": {
+    "ru": "«Посредник»",
+    "en": "Mediator"
+  },
+  "apiId": "0rnr1",
+  "apiIdStatus": "inferred"
+}

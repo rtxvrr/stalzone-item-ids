@@ -1,0 +1,11 @@
+{
+  "clientId": 31818,
+  "key": "item.part.mg34",
+  "kind": "item",
+  "name": {
+    "ru": "Часть MG-34",
+    "en": "MG-34 Part"
+  },
+  "apiId": "vn507",
+  "apiIdStatus": "inferred"
+}

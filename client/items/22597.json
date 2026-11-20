@@ -1,0 +1,11 @@
+{
+  "clientId": 22597,
+  "key": "item.att.silencer_pbs4_f",
+  "kind": "item",
+  "name": {
+    "ru": "ПБС-4, зимний",
+    "en": "PBS-4, Winter"
+  },
+  "apiId": "1r31q",
+  "apiIdStatus": "inferred"
+}

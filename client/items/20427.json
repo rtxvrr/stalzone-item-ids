@@ -1,0 +1,11 @@
+{
+  "clientId": 20427,
+  "key": "item.wpn.r92",
+  "kind": "item",
+  "name": {
+    "ru": "Р-92",
+    "en": "R-92"
+  },
+  "apiId": "zz22k",
+  "apiIdStatus": "inferred"
+}

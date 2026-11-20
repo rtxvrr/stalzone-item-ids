@@ -1,0 +1,11 @@
+{
+  "clientId": 12029,
+  "key": "item.cont.cocoonu",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Кокон-У»",
+    "en": "Cocoon-U Container"
+  },
+  "apiId": "yqk0",
+  "apiIdStatus": "inferred"
+}

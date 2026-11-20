@@ -1,0 +1,11 @@
+{
+  "clientId": 24624,
+  "key": "item.charm.spring24_bogatir",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Микробогатырь»",
+    "en": "Microbogatyr Charm"
+  },
+  "apiId": "96rrq",
+  "apiIdStatus": "inferred"
+}

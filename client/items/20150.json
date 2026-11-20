@@ -1,0 +1,11 @@
+{
+  "clientId": 20150,
+  "key": "item.wpn.l86",
+  "kind": "item",
+  "name": {
+    "ru": "L86A1",
+    "en": "L86A1"
+  },
+  "apiId": "g407g",
+  "apiIdStatus": "inferred"
+}

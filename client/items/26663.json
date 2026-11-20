@@ -1,0 +1,11 @@
+{
+  "clientId": 26663,
+  "key": "item.premium.token_2d",
+  "kind": "item",
+  "name": {
+    "ru": "Премиум на 2 дня",
+    "en": "Premium for 2 days"
+  },
+  "apiId": "okrno",
+  "apiIdStatus": "inferred"
+}

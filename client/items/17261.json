@@ -1,0 +1,11 @@
+{
+  "clientId": 17261,
+  "key": "item.style.melee.endgame_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Опустошитель»",
+    "en": "Ravager"
+  },
+  "apiId": "0r959",
+  "apiIdStatus": "inferred"
+}

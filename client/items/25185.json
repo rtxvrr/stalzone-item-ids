@@ -1,0 +1,11 @@
+{
+  "clientId": 25185,
+  "key": "item.arm.zarya_balon_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Аврора» Санитаров",
+    "en": "Orderlies' Aurora"
+  },
+  "apiId": "0r41y",
+  "apiIdStatus": "inferred"
+}

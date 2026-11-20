@@ -1,0 +1,11 @@
+{
+  "clientId": 21060,
+  "key": "item.melee.raxe",
+  "kind": "item",
+  "name": {
+    "ru": "Ритуальный топор",
+    "en": "Ritual Hatchet"
+  },
+  "apiId": "rwzqz",
+  "apiIdStatus": "inferred"
+}

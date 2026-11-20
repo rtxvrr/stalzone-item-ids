@@ -1,0 +1,11 @@
+{
+  "clientId": 22649,
+  "key": "item.att.butt_g3wood",
+  "kind": "item",
+  "name": {
+    "ru": "Деревянный приклад G3 с ремнем",
+    "en": "G3 Wooden Stock with Strap"
+  },
+  "apiId": "1r3yg",
+  "apiIdStatus": "inferred"
+}

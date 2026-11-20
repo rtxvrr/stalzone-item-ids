@@ -1,0 +1,11 @@
+{
+  "clientId": 26740,
+  "key": "item.26740",
+  "kind": "item",
+  "name": {
+    "ru": "Специальный сканер",
+    "en": "Special Scanner"
+  },
+  "apiId": "n4lpw",
+  "apiIdStatus": "inferred"
+}

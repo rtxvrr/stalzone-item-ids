@@ -1,0 +1,11 @@
+{
+  "clientId": 25150,
+  "key": "item.arm.wanderer",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Скиталец»",
+    "en": "Vagrant Armored Suit"
+  },
+  "apiId": "g4y25",
+  "apiIdStatus": "inferred"
+}

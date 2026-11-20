@@ -1,0 +1,11 @@
+{
+  "clientId": 22915,
+  "key": "item.att.forend_kedrris",
+  "kind": "item",
+  "name": {
+    "ru": "Планка RIS на ПП-91 «Кедр»",
+    "en": "RIS Rail for PP-91 Kedr"
+  },
+  "apiId": "ok570",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27221,
+  "key": "item.27221",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта",
+    "en": "Key Card"
+  },
+  "apiId": "3gj3z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31033,
+  "key": "item.brt.td.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Алюминиевый кабель",
+    "en": "Aluminum Cable"
+  },
+  "apiId": "q039j",
+  "apiIdStatus": "inferred"
+}

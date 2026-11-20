@@ -1,0 +1,11 @@
+{
+  "clientId": 19539,
+  "key": "item.camo.unique_arm.wolverine",
+  "kind": "item",
+  "name": {
+    "ru": "«Росомаха»",
+    "en": "Wolverine"
+  },
+  "apiId": "okyr4",
+  "apiIdStatus": "inferred"
+}

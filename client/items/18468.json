@@ -1,0 +1,11 @@
+{
+  "clientId": 18468,
+  "key": "item.camo.wpn.autumn25_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Осенний покров»",
+    "en": "Autumn Cover Paint"
+  },
+  "apiId": "2omol",
+  "apiIdStatus": "inferred"
+}

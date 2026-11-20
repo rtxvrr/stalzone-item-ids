@@ -1,0 +1,11 @@
+{
+  "clientId": 20357,
+  "key": "item.wpn.triple",
+  "kind": "item",
+  "name": {
+    "ru": "Chiappa Triple Crown",
+    "en": "Chiappa Triple Crown"
+  },
+  "apiId": "qj253",
+  "apiIdStatus": "inferred"
+}

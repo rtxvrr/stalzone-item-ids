@@ -1,0 +1,11 @@
+{
+  "clientId": 26105,
+  "key": "item.med.strike_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Обезболивающее",
+    "en": "Painkiller"
+  },
+  "apiId": "y3k6w",
+  "apiIdStatus": "inferred"
+}

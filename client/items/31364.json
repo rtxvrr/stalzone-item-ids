@@ -1,0 +1,11 @@
+{
+  "clientId": 31364,
+  "key": "item.ny_toys.setG.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-человечек",
+    "en": "Gingerbread Man Decoration"
+  },
+  "apiId": "nknp3",
+  "apiIdStatus": "inferred"
+}

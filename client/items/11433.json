@@ -1,0 +1,11 @@
+{
+  "clientId": 11433,
+  "key": "item.ravent_lyudi",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Люди»",
+    "en": "Ljudije Amulet"
+  },
+  "apiId": "qo14",
+  "apiIdStatus": "inferred"
+}

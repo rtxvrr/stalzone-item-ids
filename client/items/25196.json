@@ -1,0 +1,11 @@
+{
+  "clientId": 25196,
+  "key": "item.arm.saturn_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Сатурн» Санитаров",
+    "en": "Orderlies' Saturn"
+  },
+  "apiId": "96njy",
+  "apiIdStatus": "inferred"
+}

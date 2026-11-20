@@ -1,0 +1,11 @@
+{
+  "clientId": 8250,
+  "key": "item.quest.mushroom_epic_nightlight",
+  "kind": "item",
+  "name": {
+    "ru": "«Ночник»",
+    "en": "Night-Light"
+  },
+  "apiId": "ggz6",
+  "apiIdStatus": "inferred"
+}

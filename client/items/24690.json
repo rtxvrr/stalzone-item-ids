@@ -1,0 +1,11 @@
+{
+  "clientId": 24690,
+  "key": "item.charm.winter25_bundle",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Царица Зоны»",
+    "en": "QueenoftheZone Charm"
+  },
+  "apiId": "vj767",
+  "apiIdStatus": "inferred"
+}

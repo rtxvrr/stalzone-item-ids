@@ -1,0 +1,11 @@
+{
+  "clientId": 31475,
+  "key": "item.lootbox.shadowwealth",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Тень богатств»",
+    "en": "Shadow of Wealth Case"
+  },
+  "apiId": "z3o92",
+  "apiIdStatus": "inferred"
+}

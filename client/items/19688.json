@@ -1,0 +1,11 @@
+{
+  "clientId": 19688,
+  "key": "item.camo.arm.cover",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Покрытие»",
+    "en": "Cover Paint"
+  },
+  "apiId": "n4pw1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29902,
+  "key": "item.filler.npc_3",
+  "kind": "item",
+  "name": {
+    "ru": "Туалетная бумага",
+    "en": "Toilet Paper"
+  },
+  "apiId": "gnkl5",
+  "apiIdStatus": "inferred"
+}

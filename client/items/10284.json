@@ -1,0 +1,11 @@
+{
+  "clientId": 10284,
+  "key": "item.phonograph.vinyl_other_country",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Кантри»",
+    "en": "Country Vinyl Record"
+  },
+  "apiId": "rdgz",
+  "apiIdStatus": "inferred"
+}

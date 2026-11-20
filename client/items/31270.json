@@ -1,0 +1,11 @@
+{
+  "clientId": 31270,
+  "key": "item.ny_toys.setQ.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Советский узорчатый шарик",
+    "en": "Soviet Patterned Bauble"
+  },
+  "apiId": "77339",
+  "apiIdStatus": "inferred"
+}

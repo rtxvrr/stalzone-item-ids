@@ -1,0 +1,11 @@
+{
+  "clientId": 26080,
+  "key": "item.food.ny23.mandarine_half",
+  "kind": "item",
+  "name": {
+    "ru": "Половинка мандарина",
+    "en": "Half a Mandarin"
+  },
+  "apiId": "knoz0",
+  "apiIdStatus": "inferred"
+}

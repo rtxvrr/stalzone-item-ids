@@ -1,0 +1,11 @@
+{
+  "clientId": 12882,
+  "key": "item.amm.545test2",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм экспансивный",
+    "en": "5.45 mm Expanding Round"
+  },
+  "apiId": "j4j7",
+  "apiIdStatus": "inferred"
+}

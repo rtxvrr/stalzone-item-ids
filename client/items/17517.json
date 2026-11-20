@@ -1,0 +1,11 @@
+{
+  "clientId": 17517,
+  "key": "item.style.wpn.amb17_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Гнев Перуна»",
+    "en": "Perun's Wrath"
+  },
+  "apiId": "p6nw2",
+  "apiIdStatus": "inferred"
+}

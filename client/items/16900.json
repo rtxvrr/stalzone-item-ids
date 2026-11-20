@@ -1,0 +1,11 @@
+{
+  "clientId": 16900,
+  "key": "item.quest.covenant_commandment6",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 6",
+    "en": "6th Covenant Commandment"
+  },
+  "apiId": "96k0z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24860,
+  "key": "item.charm.mt_vbol",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Вболь»",
+    "en": "Into Pain Charm"
+  },
+  "apiId": "rwnmg",
+  "apiIdStatus": "inferred"
+}

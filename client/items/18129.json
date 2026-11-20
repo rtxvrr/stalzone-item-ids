@@ -1,0 +1,11 @@
+{
+  "clientId": 18129,
+  "key": "item.camo.wpn.gryada",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Гряда»",
+    "en": "Ridge Camouflage"
+  },
+  "apiId": "y362o",
+  "apiIdStatus": "inferred"
+}

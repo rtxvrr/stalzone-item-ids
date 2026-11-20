@@ -1,0 +1,11 @@
+{
+  "clientId": 21061,
+  "key": "item.melee.fireknuckle",
+  "kind": "item",
+  "name": {
+    "ru": "«Пламенный привет»",
+    "en": "Fiery Greeting"
+  },
+  "apiId": "0rqkk",
+  "apiIdStatus": "inferred"
+}

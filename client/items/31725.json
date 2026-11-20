@@ -1,0 +1,11 @@
+{
+  "clientId": 31725,
+  "key": "item.part.lantac_bmd_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть Lantac BMD #3",
+    "en": "Lantac BMD Part #3"
+  },
+  "apiId": "19yr2",
+  "apiIdStatus": "inferred"
+}

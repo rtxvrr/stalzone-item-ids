@@ -1,0 +1,11 @@
+{
+  "clientId": 20560,
+  "key": "item.wpn.m249",
+  "kind": "item",
+  "name": {
+    "ru": "M249 SAW",
+    "en": "M249 SAW"
+  },
+  "apiId": "rw255",
+  "apiIdStatus": "inferred"
+}

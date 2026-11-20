@@ -1,0 +1,11 @@
+{
+  "clientId": 25472,
+  "key": "item.arm.scout_zombie",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Скаут»",
+    "en": "Scout Suit"
+  },
+  "apiId": "96yk0",
+  "apiIdStatus": "inferred"
+}

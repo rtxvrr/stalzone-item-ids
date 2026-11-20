@@ -1,0 +1,11 @@
+{
+  "clientId": 20460,
+  "key": "item.wpn.sr1-10",
+  "kind": "item",
+  "name": {
+    "ru": "СР-1-10",
+    "en": "SR-1-10"
+  },
+  "apiId": "rw2zz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12719,
+  "key": "item.amm.556st",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм",
+    "en": "5.56 mm Round"
+  },
+  "apiId": "d1mn",
+  "apiIdStatus": "inferred"
+}

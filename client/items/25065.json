@@ -1,0 +1,11 @@
+{
+  "clientId": 25065,
+  "key": "item.arm.ao4",
+  "kind": "item",
+  "name": {
+    "ru": "УКАЗ АО-4 «Рейдер»",
+    "en": "RAPS AH-4 Raider"
+  },
+  "apiId": "p6m1w",
+  "apiIdStatus": "inferred"
+}

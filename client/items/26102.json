@@ -1,0 +1,11 @@
+{
+  "clientId": 26102,
+  "key": "item.med.vodka_geyser",
+  "kind": "item",
+  "name": {
+    "ru": "Водка «Гейзер»",
+    "en": "Geyser Vodka"
+  },
+  "apiId": "g4lzg",
+  "apiIdStatus": "inferred"
+}

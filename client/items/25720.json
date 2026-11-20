@@ -1,0 +1,11 @@
+{
+  "clientId": 25720,
+  "key": "item.skin.halloween5",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Фанат Тыквера»",
+    "en": "Pumpker Fan Skin"
+  },
+  "apiId": "2ov75",
+  "apiIdStatus": "inferred"
+}

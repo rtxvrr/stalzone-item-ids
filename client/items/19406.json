@@ -1,0 +1,11 @@
+{
+  "clientId": 19406,
+  "key": "item.camo.arm.bf_skin_9",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Кровавый туман»",
+    "en": "Bloody Fog Paint"
+  },
+  "apiId": "wjmqp",
+  "apiIdStatus": "inferred"
+}

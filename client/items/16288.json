@@ -1,0 +1,11 @@
+{
+  "clientId": 16288,
+  "key": "item.misc.krovosos_sack_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматический мешок",
+    "en": "Chromatic Sack"
+  },
+  "apiId": "n4wn9",
+  "apiIdStatus": "inferred"
+}

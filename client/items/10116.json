@@ -1,0 +1,11 @@
+{
+  "clientId": 10116,
+  "key": "item.quest.snegurochka2025_12",
+  "kind": "item",
+  "name": {
+    "ru": "Послание Sнегурочки 12",
+    "en": "Snow Maiden's Message 12"
+  },
+  "apiId": "ndy2",
+  "apiIdStatus": "inferred"
+}

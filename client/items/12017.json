@@ -1,0 +1,11 @@
+{
+  "clientId": 12017,
+  "key": "item.cont.iu2",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «ИУ-2»",
+    "en": "IU-2 Container"
+  },
+  "apiId": "p99d",
+  "apiIdStatus": "inferred"
+}

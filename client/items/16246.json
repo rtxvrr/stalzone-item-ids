@@ -1,0 +1,11 @@
+{
+  "clientId": 16246,
+  "key": "item.16246",
+  "kind": "item",
+  "name": {
+    "ru": "Энергоячейка для сейфа",
+    "en": "Safe Energy Cell"
+  },
+  "apiId": "7l119",
+  "apiIdStatus": "inferred"
+}

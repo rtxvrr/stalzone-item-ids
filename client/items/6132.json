@@ -1,0 +1,11 @@
+{
+  "clientId": 6132,
+  "key": "item.misc.milk",
+  "kind": "item",
+  "name": {
+    "ru": "Молоко",
+    "en": "Milk"
+  },
+  "apiId": "kl9v",
+  "apiIdStatus": "inferred"
+}

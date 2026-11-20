@@ -1,0 +1,11 @@
+{
+  "clientId": 22914,
+  "key": "item.att.mount_mosinris",
+  "kind": "item",
+  "name": {
+    "ru": "Кронштейн Кочетова «Патриот» с планкой Пикатинни",
+    "en": "Kochetov Mount for Patriot with Picatinny Rail"
+  },
+  "apiId": "m0g77",
+  "apiIdStatus": "inferred"
+}

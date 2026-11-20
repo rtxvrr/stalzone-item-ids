@@ -1,0 +1,11 @@
+{
+  "clientId": 6506,
+  "key": "item.misc.nitrogen_chloride",
+  "kind": "item",
+  "name": {
+    "ru": "Отбеливатель",
+    "en": "Bleach"
+  },
+  "apiId": "w7y3",
+  "apiIdStatus": "inferred"
+}

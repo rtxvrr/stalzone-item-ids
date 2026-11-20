@@ -1,0 +1,11 @@
+{
+  "clientId": 20099,
+  "key": "item.wpn.aug9xs",
+  "kind": "item",
+  "name": {
+    "ru": "Steyr AUG A3 9mm XS",
+    "en": "Steyr AUG A3 9mm XS"
+  },
+  "apiId": "zz7q2",
+  "apiIdStatus": "inferred"
+}

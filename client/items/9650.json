@@ -1,0 +1,11 @@
+{
+  "clientId": 9650,
+  "key": "item.med.apt_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "Аптечка Колизея",
+    "en": "Coliseum First-Aid Kit"
+  },
+  "apiId": "gq6n",
+  "apiIdStatus": "inferred"
+}

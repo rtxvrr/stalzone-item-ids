@@ -1,0 +1,11 @@
+{
+  "clientId": 20055,
+  "key": "item.wpn.pp2000",
+  "kind": "item",
+  "name": {
+    "ru": "ПП-2000",
+    "en": "PP-2000"
+  },
+  "apiId": "4q0lp",
+  "apiIdStatus": "inferred"
+}

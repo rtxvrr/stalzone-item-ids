@@ -1,0 +1,11 @@
+{
+  "clientId": 11426,
+  "key": "item.ravent_buki",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Буки»",
+    "en": "Buky Amulet"
+  },
+  "apiId": "gy3n",
+  "apiIdStatus": "inferred"
+}

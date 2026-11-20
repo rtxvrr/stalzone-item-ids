@@ -1,0 +1,11 @@
+{
+  "clientId": 24656,
+  "key": "item.charm.welcome_topor",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Лихой Топоръ»",
+    "en": "Likhoy Topor Channel Fan Charm"
+  },
+  "apiId": "kn7qj",
+  "apiIdStatus": "inferred"
+}

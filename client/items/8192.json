@@ -1,0 +1,11 @@
+{
+  "clientId": 8192,
+  "key": "item.quest.wild_north_stalker_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка сталкера",
+    "en": "Stalker Note"
+  },
+  "apiId": "22gm",
+  "apiIdStatus": "inferred"
+}

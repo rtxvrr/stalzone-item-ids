@@ -1,0 +1,11 @@
+{
+  "clientId": 16834,
+  "key": "item.16834",
+  "kind": "item",
+  "name": {
+    "ru": "Ловушка на зомби",
+    "en": "Zombie Trap"
+  },
+  "apiId": "j5zzl",
+  "apiIdStatus": "inferred"
+}

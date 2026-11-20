@@ -1,0 +1,11 @@
+{
+  "clientId": 16128,
+  "key": "item.filler.npc_military",
+  "kind": "item",
+  "name": {
+    "ru": "Офицерский шеврон",
+    "en": "Officer's Chevron"
+  },
+  "apiId": "5loqq",
+  "apiIdStatus": "inferred"
+}

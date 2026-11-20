@@ -1,0 +1,11 @@
+{
+  "clientId": 15969,
+  "key": "item.crt.winter_26_episode",
+  "kind": "item",
+  "name": {
+    "ru": "Блок сигнальных данных",
+    "en": "Signal data block"
+  },
+  "apiId": "3go5k",
+  "apiIdStatus": "inferred"
+}

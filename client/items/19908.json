@@ -1,0 +1,11 @@
+{
+  "clientId": 19908,
+  "key": "item.mtl.wpn.lim",
+  "kind": "item",
+  "name": {
+    "ru": "«Лимб»",
+    "en": "Limbo"
+  },
+  "apiId": "knlgv",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31704,
+  "key": "item.part.mcmillan_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть McMillan CS5 #1",
+    "en": "McMillan CS5 Part #1"
+  },
+  "apiId": "55jlq",
+  "apiIdStatus": "inferred"
+}

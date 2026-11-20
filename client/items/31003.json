@@ -1,0 +1,11 @@
+{
+  "clientId": 31003,
+  "key": "item.brt.bolota.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Камышовый грибок",
+    "en": "Reed Fungus"
+  },
+  "apiId": "z30yy",
+  "apiIdStatus": "inferred"
+}

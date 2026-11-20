@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 3,
+  "clientBuild": "global-20261110",
+  "registryDefinitions": 8779,
+  "registryKinds": {
+    "item": 8342,
+    "placeholder": 158,
+    "tile": 279
+  },
+  "indexedApiIds": 8342,
+  "encoding": {
+    "radix": 24,
+    "minClientId": 576,
+    "maxClientId": 331775,
+    "prefixAlphabet": "91gz5yw4kqjlr0monpvd2376",
+    "digitAlphabets": {
+      "9": "q6d3zk1o02m9w5vpljrny4g7",
+      "1": "0r9ol14ym6d7jqv3zg5kp2nw",
+      "g": "r4nk19pzjw0mvog2qd6y3l57",
+      "z": "gz3kw0onv672l5p9r4dyjq1m",
+      "5": "ql5yo63j07dng9vp4wkr1z2m",
+      "y": "134gn0y6vo72jzpmlwd5qk9r",
+      "w": "nj39l0zyvmo761prq5dg4w2k",
+      "4": "zqko753jm20n16vpwy4l9gdr",
+      "k": "ynr6p5z2j1lmvgw90d7q3ok4",
+      "q": "lj0yq3np54v2gkrwz67o19md",
+      "j": "p50nqzgwj9lov162rd7k3m4y",
+      "l": "wy0kr95opgl2vz41md7j3n6q",
+      "r": "lwjmv6p9ykr2zq045d7ng1o3",
+      "0": "wr07l9j6my32qkvpg1z4ndo5",
+      "m": "w0r4q1yn9z2mv5kgod763pjl",
+      "o": "qkl4pzn6gyvm9wj512703dro",
+      "n": "64kjwgno15pm2yqz9d7r3vl0",
+      "p": "k6jvq5nozwr314lygd7m920p",
+      "v": "qjno30g5vmr249plkz716ydw",
+      "d": "lmr5y6p94zqjvo02wd7g3k1n",
+      "2": "6o1r0g3wm4dnlj275zyqv9pk",
+      "3": "0g4oqz32mkrn9l7py5w6d1vj",
+      "7": "4l7w1o3d02rn5g6pqkjmzy9v",
+      "6": "mwoy9l7jd2r6z1vpk4q0g53n"
+    }
+  }
+}

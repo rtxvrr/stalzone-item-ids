@@ -1,0 +1,11 @@
+{
+  "clientId": 24551,
+  "key": "item.charm.set_quest_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Драгоценный шарик»",
+    "en": "Valuable Orb Charm"
+  },
+  "apiId": "zzdpm",
+  "apiIdStatus": "inferred"
+}

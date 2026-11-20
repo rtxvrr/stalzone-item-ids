@@ -1,0 +1,11 @@
+{
+  "clientId": 26006,
+  "key": "item.med.antirad_2",
+  "kind": "item",
+  "name": {
+    "ru": "Антирад Б-292",
+    "en": "Antirad B-292"
+  },
+  "apiId": "wjw9p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11301,
+  "key": "item.art.voronka_gravi",
+  "kind": "item",
+  "name": {
+    "ru": "Прима",
+    "en": "Prima"
+  },
+  "apiId": "1kv2",
+  "apiIdStatus": "inferred"
+}

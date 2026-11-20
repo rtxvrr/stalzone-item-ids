@@ -1,0 +1,11 @@
+{
+  "clientId": 28626,
+  "key": "item.tmp.item.killer_tag",
+  "kind": "item",
+  "name": {
+    "ru": "Компенсация жетонов убийцы",
+    "en": "Killer Token Compensation"
+  },
+  "apiId": "gn4q6",
+  "apiIdStatus": "inferred"
+}

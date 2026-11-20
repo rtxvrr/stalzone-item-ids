@@ -1,0 +1,11 @@
+{
+  "clientId": 23307,
+  "key": "item.bolt_gem.base_blue",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Синяя",
+    "en": "Chromatic Particle: Blue"
+  },
+  "apiId": "4qwno",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4910,
+  "key": "item.plc.sticker.sphere",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер-круг",
+    "en": "Circle Sticker"
+  },
+  "apiId": "jjv6",
+  "apiIdStatus": "inferred"
+}

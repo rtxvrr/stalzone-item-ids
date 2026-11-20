@@ -1,0 +1,11 @@
+{
+  "clientId": 6119,
+  "key": "item.misc.flesh_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Мясо хрюши",
+    "en": "Piggy Meat"
+  },
+  "apiId": "dq0n",
+  "apiIdStatus": "inferred"
+}

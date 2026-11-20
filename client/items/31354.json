@@ -1,0 +1,11 @@
+{
+  "clientId": 31354,
+  "key": "item.ny_toys.setF.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-упырь",
+    "en": "Plush Ghoul Decoration"
+  },
+  "apiId": "w3zoo",
+  "apiIdStatus": "inferred"
+}

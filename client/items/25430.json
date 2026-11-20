@@ -1,0 +1,11 @@
+{
+  "clientId": 25430,
+  "key": "item.arm.zveroboi",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Зверобой»",
+    "en": "Beast Slayer Exoarmor"
+  },
+  "apiId": "wj49p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16093,
+  "key": "item.quest.kolenval_steel",
+  "kind": "item",
+  "name": {
+    "ru": "Cтальной коленвал",
+    "en": "Steel crankshaft"
+  },
+  "apiId": "3govl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16635,
+  "key": "item.16635",
+  "kind": "item",
+  "name": {
+    "ru": "Металлический кейс",
+    "en": "Metal Case"
+  },
+  "apiId": "lyrnk",
+  "apiIdStatus": "inferred"
+}

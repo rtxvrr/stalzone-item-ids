@@ -1,0 +1,11 @@
+{
+  "clientId": 22069,
+  "key": "item.att.forend_ppsh",
+  "kind": "item",
+  "name": {
+    "ru": "Набор планок для ППШ",
+    "en": "Pack of Rails for PPSh"
+  },
+  "apiId": "3g72l",
+  "apiIdStatus": "inferred"
+}

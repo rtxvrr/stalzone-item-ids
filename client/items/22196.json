@@ -1,0 +1,11 @@
+{
+  "clientId": 22196,
+  "key": "item.att.handgrip_magpul_f",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка KAC Vertical Foregrip, зимняя",
+    "en": "KAC Vertical Foregrip Tactical Grip, Winter"
+  },
+  "apiId": "96vwy",
+  "apiIdStatus": "inferred"
+}

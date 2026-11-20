@@ -1,0 +1,11 @@
+{
+  "clientId": 22787,
+  "key": "item.att.mag_ergo545",
+  "kind": "item",
+  "name": {
+    "ru": "Эргономичный магазин 5.45",
+    "en": "Ergonomic Magazine 5.45"
+  },
+  "apiId": "ok5wm",
+  "apiIdStatus": "inferred"
+}

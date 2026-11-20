@@ -1,0 +1,11 @@
+{
+  "clientId": 8146,
+  "key": "item.quest.pda_fritted_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Оплавленный ПДА бойца РХБЗ",
+    "en": "Melted NBCP Soldier's PDA"
+  },
+  "apiId": "76wr",
+  "apiIdStatus": "inferred"
+}

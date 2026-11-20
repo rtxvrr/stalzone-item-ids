@@ -1,0 +1,11 @@
+{
+  "clientId": 16868,
+  "key": "item.quest.habar_Yoga",
+  "kind": "item",
+  "name": {
+    "ru": "Хабар Йога",
+    "en": "Yogi's Loot"
+  },
+  "apiId": "2og3v",
+  "apiIdStatus": "inferred"
+}

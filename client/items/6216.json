@@ -1,0 +1,11 @@
+{
+  "clientId": 6216,
+  "key": "item.misc.zinc",
+  "kind": "item",
+  "name": {
+    "ru": "Цинк",
+    "en": "Zinc"
+  },
+  "apiId": "npr6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21102,
+  "key": "item.melee.atam",
+  "kind": "item",
+  "name": {
+    "ru": "Атам",
+    "en": "Athame"
+  },
+  "apiId": "g4v2p",
+  "apiIdStatus": "inferred"
+}

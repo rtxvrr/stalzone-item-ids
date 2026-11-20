@@ -1,0 +1,11 @@
+{
+  "clientId": 26067,
+  "key": "item.med.inside_grace",
+  "kind": "item",
+  "name": {
+    "ru": "Молитва Священника",
+    "en": "Clergyman's Prayer"
+  },
+  "apiId": "dmkp5",
+  "apiIdStatus": "inferred"
+}

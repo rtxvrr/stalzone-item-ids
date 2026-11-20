@@ -1,0 +1,11 @@
+{
+  "clientId": 17534,
+  "key": "item.style.wpn.ash12_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«ШАК Рынка»",
+    "en": "Market's ShAK"
+  },
+  "apiId": "j5gl6",
+  "apiIdStatus": "inferred"
+}

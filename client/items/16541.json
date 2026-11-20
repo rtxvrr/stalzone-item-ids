@@ -1,0 +1,11 @@
+{
+  "clientId": 16541,
+  "key": "item.bag.545bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка бронебойных 5.45 мм",
+    "en": "Pouch of 5.45 mm Armor-Piercing Rounds"
+  },
+  "apiId": "p6qd5",
+  "apiIdStatus": "inferred"
+}

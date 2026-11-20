@@ -1,0 +1,11 @@
+{
+  "clientId": 16889,
+  "key": "item.quest.covenant.herbs",
+  "kind": "item",
+  "name": {
+    "ru": "Лечебное растение",
+    "en": "Medicinal Plant"
+  },
+  "apiId": "p65od",
+  "apiIdStatus": "inferred"
+}

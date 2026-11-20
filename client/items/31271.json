@@ -1,0 +1,11 @@
+{
+  "clientId": 31271,
+  "key": "item.ny_toys.setQ.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Красная Звезда",
+    "en": "Large Red Star"
+  },
+  "apiId": "6o77n",
+  "apiIdStatus": "inferred"
+}

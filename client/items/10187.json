@@ -1,0 +1,11 @@
+{
+  "clientId": 10187,
+  "key": "item.quest.covenant_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «заветовца»",
+    "en": "Covenant Member Cassette"
+  },
+  "apiId": "o21m",
+  "apiIdStatus": "inferred"
+}

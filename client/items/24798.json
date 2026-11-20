@@ -1,0 +1,11 @@
+{
+  "clientId": 24798,
+  "key": "item.charm.dmz26_grenade",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Милота»",
+    "en": "Cuteness Charm"
+  },
+  "apiId": "g4y4p",
+  "apiIdStatus": "inferred"
+}

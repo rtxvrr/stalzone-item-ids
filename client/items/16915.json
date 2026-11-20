@@ -1,0 +1,11 @@
+{
+  "clientId": 16915,
+  "key": "item.quest.merc.phil_zombie_device_not_charged",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство для контроля зомбированных (не заряжено)",
+    "en": "Zombie Control Device (Not Charged)"
+  },
+  "apiId": "okzg0",
+  "apiIdStatus": "inferred"
+}

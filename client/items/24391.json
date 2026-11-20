@@ -1,0 +1,11 @@
+{
+  "clientId": 24391,
+  "key": "item.24391",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Аврора»",
+    "en": "Aurora Charm"
+  },
+  "apiId": "dm749",
+  "apiIdStatus": "inferred"
+}

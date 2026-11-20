@@ -1,0 +1,11 @@
+{
+  "clientId": 15054,
+  "key": "item.grant.winter26",
+  "kind": "item",
+  "name": {
+    "ru": "Таинственный подарок",
+    "en": "Mysterious Gift"
+  },
+  "apiId": "wj39z",
+  "apiIdStatus": "inferred"
+}

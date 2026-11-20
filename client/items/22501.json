@@ -1,0 +1,11 @@
+{
+  "clientId": 22501,
+  "key": "item.att.barrel_diamondhead",
+  "kind": "item",
+  "name": {
+    "ru": "Diamondhead Compensator",
+    "en": "Diamondhead Compensator"
+  },
+  "apiId": "1r3rq",
+  "apiIdStatus": "inferred"
+}

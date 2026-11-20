@@ -1,0 +1,11 @@
+{
+  "clientId": 19010,
+  "key": "item.camo.arm.sand",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Хаки»",
+    "en": "Khaki Armor Paint"
+  },
+  "apiId": "j59p0",
+  "apiIdStatus": "inferred"
+}

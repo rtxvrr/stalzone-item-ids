@@ -1,0 +1,11 @@
+{
+  "clientId": 16831,
+  "key": "item.quest.flash_hw23",
+  "kind": "item",
+  "name": {
+    "ru": "Загадочная флешка",
+    "en": "Mysterious Flash Drive"
+  },
+  "apiId": "4q55j",
+  "apiIdStatus": "inferred"
+}

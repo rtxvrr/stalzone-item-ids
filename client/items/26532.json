@@ -1,0 +1,11 @@
+{
+  "clientId": 26532,
+  "key": "item.food.peas",
+  "kind": "item",
+  "name": {
+    "ru": "Консервированый горох",
+    "en": "Canned Peas"
+  },
+  "apiId": "knknv",
+  "apiIdStatus": "inferred"
+}

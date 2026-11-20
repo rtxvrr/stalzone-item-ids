@@ -1,0 +1,11 @@
+{
+  "clientId": 29904,
+  "key": "item.filler.npc_5",
+  "kind": "item",
+  "name": {
+    "ru": "Кубик Рубика",
+    "en": "Rubik's Cube"
+  },
+  "apiId": "55y2q",
+  "apiIdStatus": "inferred"
+}

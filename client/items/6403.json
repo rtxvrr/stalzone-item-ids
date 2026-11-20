@@ -1,0 +1,11 @@
+{
+  "clientId": 6403,
+  "key": "item.misc.bullet_form",
+  "kind": "item",
+  "name": {
+    "ru": "Форма пули",
+    "en": "Bullet Mold"
+  },
+  "apiId": "z23y",
+  "apiIdStatus": "inferred"
+}

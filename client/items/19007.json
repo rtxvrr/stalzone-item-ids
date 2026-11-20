@@ -1,0 +1,11 @@
+{
+  "clientId": 19007,
+  "key": "item.camo.arm.violet",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Фиолетовая»",
+    "en": "Purple Armor Paint"
+  },
+  "apiId": "4qmrr",
+  "apiIdStatus": "inferred"
+}

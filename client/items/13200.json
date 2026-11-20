@@ -1,0 +1,11 @@
+{
+  "clientId": 13200,
+  "key": "item.camo.wpn.winter26_skin_cooling",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Регуляция»",
+    "en": "Regulation Paint"
+  },
+  "apiId": "9ggq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26002,
+  "key": "item.med.apt_a",
+  "kind": "item",
+  "name": {
+    "ru": "Военная аптечка",
+    "en": "Military First-Aid Kit"
+  },
+  "apiId": "g4lk0",
+  "apiIdStatus": "inferred"
+}

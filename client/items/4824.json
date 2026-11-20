@@ -1,0 +1,11 @@
+{
+  "clientId": 4824,
+  "key": "item.plc.sticker.coldline",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Coldline»",
+    "en": "Coldline Sticker  "
+  },
+  "apiId": "902q",
+  "apiIdStatus": "inferred"
+}

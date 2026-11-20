@@ -1,0 +1,11 @@
+{
+  "clientId": 11303,
+  "key": "item.art.voronka_goldgravi",
+  "kind": "item",
+  "name": {
+    "ru": "Золотистая Прима",
+    "en": "Golden Prima"
+  },
+  "apiId": "zypm",
+  "apiIdStatus": "inferred"
+}

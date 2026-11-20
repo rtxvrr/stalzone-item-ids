@@ -1,0 +1,11 @@
+{
+  "clientId": 18421,
+  "key": "item.camo.wpn.spring25_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Вечный двигатель»",
+    "en": "Perpetual Motion Machine Paint"
+  },
+  "apiId": "3g2jl",
+  "apiIdStatus": "inferred"
+}

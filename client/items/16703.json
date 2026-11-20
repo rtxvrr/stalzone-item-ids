@@ -1,0 +1,11 @@
+{
+  "clientId": 16703,
+  "key": "item.art.mod_change",
+  "kind": "item",
+  "name": {
+    "ru": "Сыворотка изменения",
+    "en": "Changing Serum"
+  },
+  "apiId": "zzwmm",
+  "apiIdStatus": "inferred"
+}

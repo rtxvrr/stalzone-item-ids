@@ -1,0 +1,11 @@
+{
+  "clientId": 20293,
+  "key": "item.wpn.qbu191",
+  "kind": "item",
+  "name": {
+    "ru": "QBU-191",
+    "en": "QBU-191"
+  },
+  "apiId": "3gnzl",
+  "apiIdStatus": "inferred"
+}

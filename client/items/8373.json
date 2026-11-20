@@ -1,0 +1,11 @@
+{
+  "clientId": 8373,
+  "key": "item.quest.zov_zapiska_krovi_3",
+  "kind": "item",
+  "name": {
+    "ru": "Окровавленная записка 3",
+    "en": "Bloodstained Note 3"
+  },
+  "apiId": "1vj2",
+  "apiIdStatus": "inferred"
+}

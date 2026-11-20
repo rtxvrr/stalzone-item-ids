@@ -1,0 +1,11 @@
+{
+  "clientId": 28602,
+  "key": "item.28602",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая плата",
+    "en": "Green Circuit Board"
+  },
+  "apiId": "gn426",
+  "apiIdStatus": "inferred"
+}

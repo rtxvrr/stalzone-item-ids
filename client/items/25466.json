@@ -1,0 +1,11 @@
+{
+  "clientId": 25466,
+  "key": "item.arm.trader_vest",
+  "kind": "item",
+  "name": {
+    "ru": "Куртка с разгрузкой",
+    "en": "Jacket with Utility Vest"
+  },
+  "apiId": "vj60n",
+  "apiIdStatus": "inferred"
+}

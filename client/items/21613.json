@@ -1,0 +1,11 @@
+{
+  "clientId": 21613,
+  "key": "item.wpn_mod.adv.deformator",
+  "kind": "item",
+  "name": {
+    "ru": "«Деформатор»",
+    "en": "Deformer"
+  },
+  "apiId": "0rkqk",
+  "apiIdStatus": "inferred"
+}

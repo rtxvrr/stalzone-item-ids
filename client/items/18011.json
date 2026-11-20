@@ -1,0 +1,11 @@
+{
+  "clientId": 18011,
+  "key": "item.camo.wpn.oliva",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Оливковая»",
+    "en": "Olive Weapon Paint"
+  },
+  "apiId": "lyo52",
+  "apiIdStatus": "inferred"
+}

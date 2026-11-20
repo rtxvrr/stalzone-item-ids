@@ -1,0 +1,11 @@
+{
+  "clientId": 16891,
+  "key": "item.quest.merc_chevron",
+  "kind": "item",
+  "name": {
+    "ru": "Шеврон офицера Наемников",
+    "en": "Mercenary Officer Chevron"
+  },
+  "apiId": "dm69g",
+  "apiIdStatus": "inferred"
+}

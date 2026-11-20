@@ -1,0 +1,11 @@
+{
+  "clientId": 8105,
+  "key": "item.quest.documentation_notary",
+  "kind": "item",
+  "name": {
+    "ru": "Документ от Нотариуса",
+    "en": "Document from Notary"
+  },
+  "apiId": "yp3w",
+  "apiIdStatus": "inferred"
+}

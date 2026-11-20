@@ -1,0 +1,11 @@
+{
+  "clientId": 20283,
+  "key": "item.wpn.l96-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенная L96A1",
+    "en": "Worn L96A1"
+  },
+  "apiId": "ly29k",
+  "apiIdStatus": "inferred"
+}

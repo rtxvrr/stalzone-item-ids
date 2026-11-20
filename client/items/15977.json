@@ -1,0 +1,11 @@
+{
+  "clientId": 15977,
+  "key": "item.crt.subsidies",
+  "kind": "item",
+  "name": {
+    "ru": "Дотации",
+    "en": "Dotations"
+  },
+  "apiId": "y3gww",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16242,
+  "key": "item.16242",
+  "kind": "item",
+  "name": {
+    "ru": "Осколок звезды",
+    "en": "Star Shard"
+  },
+  "apiId": "vj337",
+  "apiIdStatus": "inferred"
+}

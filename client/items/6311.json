@@ -1,0 +1,11 @@
+{
+  "clientId": 6311,
+  "key": "item.misc.sodium_hydroxide",
+  "kind": "item",
+  "name": {
+    "ru": "Едкий натрий",
+    "en": "Caustic Sodium"
+  },
+  "apiId": "ll6q",
+  "apiIdStatus": "inferred"
+}

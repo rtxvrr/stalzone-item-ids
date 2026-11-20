@@ -1,0 +1,11 @@
+{
+  "clientId": 31657,
+  "key": "item.blueprint.arm.sokol",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Костюм «Сокол»",
+    "en": "Falcon Jumpsuit Blueprint"
+  },
+  "apiId": "q0ndj",
+  "apiIdStatus": "inferred"
+}

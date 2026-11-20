@@ -1,0 +1,11 @@
+{
+  "clientId": 22762,
+  "key": "item.att.mag_rumag762b",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 7.62 бакелитовый",
+    "en": "7.62 Bakelite Magazine"
+  },
+  "apiId": "m0gv2",
+  "apiIdStatus": "inferred"
+}

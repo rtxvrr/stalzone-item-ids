@@ -1,0 +1,11 @@
+{
+  "clientId": 26615,
+  "key": "item.26615",
+  "kind": "item",
+  "name": {
+    "ru": "Каша кукурузная с мясом",
+    "en": "Cornmeal Porridge with Meat"
+  },
+  "apiId": "okrpo",
+  "apiIdStatus": "inferred"
+}

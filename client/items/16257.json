@@ -1,0 +1,11 @@
+{
+  "clientId": 16257,
+  "key": "item.misc.krovosos_tentacles_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Щупальца слабого упыря",
+    "en": "Weak Ghoul's Tentacle"
+  },
+  "apiId": "qjq34",
+  "apiIdStatus": "inferred"
+}

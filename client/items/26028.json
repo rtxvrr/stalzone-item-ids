@@ -1,0 +1,11 @@
+{
+  "clientId": 26028,
+  "key": "item.med.alcohol",
+  "kind": "item",
+  "name": {
+    "ru": "Спирт",
+    "en": "Alcohol"
+  },
+  "apiId": "5lzog",
+  "apiIdStatus": "inferred"
+}

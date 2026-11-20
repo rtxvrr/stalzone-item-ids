@@ -1,0 +1,11 @@
+{
+  "clientId": 6606,
+  "key": "item.misc.aluminum_tritylate",
+  "kind": "item",
+  "name": {
+    "ru": "Этилалюмин",
+    "en": "Ethyl Aluminum"
+  },
+  "apiId": "w77z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20007,
+  "key": "item.wpn.aksu_main",
+  "kind": "item",
+  "name": {
+    "ru": "«Блаженный» АКС-74У",
+    "en": "Blessed AKS-74U"
+  },
+  "apiId": "4q0yp",
+  "apiIdStatus": "inferred"
+}

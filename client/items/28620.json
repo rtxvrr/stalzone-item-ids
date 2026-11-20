@@ -1,0 +1,11 @@
+{
+  "clientId": 28620,
+  "key": "item.med.homemade_stimulator",
+  "kind": "item",
+  "name": {
+    "ru": "Стимулятор самодельный",
+    "en": "Homemade Stimulator"
+  },
+  "apiId": "21o5l",
+  "apiIdStatus": "inferred"
+}

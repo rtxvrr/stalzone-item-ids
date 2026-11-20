@@ -1,0 +1,11 @@
+{
+  "clientId": 4954,
+  "key": "item.plc.sticker.bureau_jiden_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «JIDEN V2»",
+    "en": "JIDEN V2 Sticker"
+  },
+  "apiId": "wvpo",
+  "apiIdStatus": "inferred"
+}

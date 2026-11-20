@@ -1,0 +1,11 @@
+{
+  "clientId": 16058,
+  "key": "item.16058",
+  "kind": "item",
+  "name": {
+    "ru": "Модуль аномального рассеивания",
+    "en": "Anomalous Dissipation Module"
+  },
+  "apiId": "j5nm0",
+  "apiIdStatus": "inferred"
+}

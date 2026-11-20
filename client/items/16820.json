@@ -1,0 +1,11 @@
+{
+  "clientId": 16820,
+  "key": "item.quest.truhlyavnik",
+  "kind": "item",
+  "name": {
+    "ru": "Трухлявник",
+    "en": "Crumbly Shroom"
+  },
+  "apiId": "2og0v",
+  "apiIdStatus": "inferred"
+}

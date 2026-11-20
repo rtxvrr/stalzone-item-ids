@@ -1,0 +1,11 @@
+{
+  "clientId": 12382,
+  "key": "item.exp.freeze_ravent",
+  "kind": "item",
+  "name": {
+    "ru": "Криовзрыв",
+    "en": "Cryo Explosion"
+  },
+  "apiId": "jmo4",
+  "apiIdStatus": "inferred"
+}

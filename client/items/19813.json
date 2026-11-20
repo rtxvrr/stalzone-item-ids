@@ -1,0 +1,11 @@
+{
+  "clientId": 19813,
+  "key": "item.mtl.wpn.blackice",
+  "kind": "item",
+  "name": {
+    "ru": "«Темная наледь»",
+    "en": "Dark Ice Glaze"
+  },
+  "apiId": "0r3yk",
+  "apiIdStatus": "inferred"
+}

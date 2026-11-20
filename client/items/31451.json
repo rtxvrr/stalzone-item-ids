@@ -1,0 +1,11 @@
+{
+  "clientId": 31451,
+  "key": "item.31451",
+  "kind": "item",
+  "name": {
+    "ru": "Особый контейнер (перс.)",
+    "en": "Special case (pers.)"
+  },
+  "apiId": "z3op2",
+  "apiIdStatus": "inferred"
+}

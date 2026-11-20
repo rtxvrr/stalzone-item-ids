@@ -1,0 +1,11 @@
+{
+  "clientId": 22011,
+  "key": "item.att.forend_lr300ris",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье RIS LR-300",
+    "en": "Handguard RIS LR-300"
+  },
+  "apiId": "ly49k",
+  "apiIdStatus": "inferred"
+}

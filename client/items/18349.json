@@ -1,0 +1,11 @@
+{
+  "clientId": 18349,
+  "key": "item.camo.wpn.dayx",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «XDev»",
+    "en": "«XDev» Paint"
+  },
+  "apiId": "1rypq",
+  "apiIdStatus": "inferred"
+}

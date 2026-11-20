@@ -1,0 +1,11 @@
+{
+  "clientId": 11255,
+  "key": "item.art.trampoline_protomeduza",
+  "kind": "item",
+  "name": {
+    "ru": "Протоцибуля",
+    "en": "Proto-Onion"
+  },
+  "apiId": "4l1r",
+  "apiIdStatus": "inferred"
+}

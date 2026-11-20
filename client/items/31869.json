@@ -1,0 +1,11 @@
+{
+  "clientId": 31869,
+  "key": "item.blueprint.wpn.ravent_mk14ebr",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Mk 14 EBR",
+    "en": "Mk 14 EBR Blueprint"
+  },
+  "apiId": "34221",
+  "apiIdStatus": "inferred"
+}

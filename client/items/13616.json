@@ -1,0 +1,11 @@
+{
+  "clientId": 13616,
+  "key": "item.camo.arm.bureau_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Наблюдающий»",
+    "en": "Observer Paint"
+  },
+  "apiId": "n0z1",
+  "apiIdStatus": "inferred"
+}

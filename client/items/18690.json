@@ -1,0 +1,11 @@
+{
+  "clientId": 18690,
+  "key": "item.camo.wpn.faces",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Грани»",
+    "en": "Facets Camouflage"
+  },
+  "apiId": "vjvr7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20014,
+  "key": "item.wpn.vz68",
+  "kind": "item",
+  "name": {
+    "ru": "Vz.68 Škorpion",
+    "en": "Vz.68 Škorpion"
+  },
+  "apiId": "m02dj",
+  "apiIdStatus": "inferred"
+}

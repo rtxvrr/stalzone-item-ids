@@ -1,0 +1,11 @@
+{
+  "clientId": 16677,
+  "key": "item.lootbox.convertation_medium",
+  "kind": "item",
+  "name": {
+    "ru": "Средний ящик конвертации",
+    "en": "Medium Conversion Crate"
+  },
+  "apiId": "y3n9k",
+  "apiIdStatus": "inferred"
+}

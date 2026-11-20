@@ -1,0 +1,11 @@
+{
+  "clientId": 11105,
+  "key": "item.art.karousel_prujina",
+  "kind": "item",
+  "name": {
+    "ru": "Гантель",
+    "en": "Dumbbell"
+  },
+  "apiId": "y5yw",
+  "apiIdStatus": "inferred"
+}

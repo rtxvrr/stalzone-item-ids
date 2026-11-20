@@ -1,0 +1,11 @@
+{
+  "clientId": 10188,
+  "key": "item.quest.merc_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета наемника",
+    "en": "Mercenary Member Cassette"
+  },
+  "apiId": "nd92",
+  "apiIdStatus": "inferred"
+}

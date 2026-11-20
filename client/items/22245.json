@@ -1,0 +1,11 @@
+{
+  "clientId": 22245,
+  "key": "item.22245",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел XM8",
+    "en": "XM8 Scope"
+  },
+  "apiId": "3g771",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29967,
+  "key": "item.filler.mob_limansk_8",
+  "kind": "item",
+  "name": {
+    "ru": "Селезенка мутанта из Любеча",
+    "en": "Lyubech Mutant's Spleen"
+  },
+  "apiId": "dryl2",
+  "apiIdStatus": "inferred"
+}

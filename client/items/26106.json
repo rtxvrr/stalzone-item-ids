@@ -1,0 +1,11 @@
+{
+  "clientId": 26106,
+  "key": "item.med.stimulyator_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Разбег»",
+    "en": "Runup"
+  },
+  "apiId": "wjwyd",
+  "apiIdStatus": "inferred"
+}

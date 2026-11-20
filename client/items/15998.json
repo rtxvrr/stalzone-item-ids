@@ -1,0 +1,11 @@
+{
+  "clientId": 15998,
+  "key": "item.15998",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяные осколки",
+    "en": "Ice Shards"
+  },
+  "apiId": "g4k6g",
+  "apiIdStatus": "inferred"
+}

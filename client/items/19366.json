@@ -1,0 +1,11 @@
+{
+  "clientId": 19366,
+  "key": "item.camo.arm.winter25_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Небо»",
+    "en": "Sky Paint"
+  },
+  "apiId": "vjmpd",
+  "apiIdStatus": "inferred"
+}

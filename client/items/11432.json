@@ -1,0 +1,11 @@
+{
+  "clientId": 11432,
+  "key": "item.ravent_dobro",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Добро»",
+    "en": "Dobro Amulet"
+  },
+  "apiId": "kq3j",
+  "apiIdStatus": "inferred"
+}

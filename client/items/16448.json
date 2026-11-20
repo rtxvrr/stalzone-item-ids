@@ -1,0 +1,11 @@
+{
+  "clientId": 16448,
+  "key": "item.16448",
+  "kind": "item",
+  "name": {
+    "ru": "Приемник",
+    "en": "Receiver"
+  },
+  "apiId": "96z50",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6315,
+  "key": "item.misc.silicon_carbide",
+  "kind": "item",
+  "name": {
+    "ru": "Абразив",
+    "en": "Abrasive"
+  },
+  "apiId": "ovo4",
+  "apiIdStatus": "inferred"
+}

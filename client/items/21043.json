@@ -1,0 +1,11 @@
+{
+  "clientId": 21043,
+  "key": "item.melee.bolotnik",
+  "kind": "item",
+  "name": {
+    "ru": "«Друг болотника»",
+    "en": "Swamp Dweller's Friend"
+  },
+  "apiId": "dmvvg",
+  "apiIdStatus": "inferred"
+}

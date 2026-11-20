@@ -1,0 +1,11 @@
+{
+  "clientId": 28603,
+  "key": "item.28603",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя плата",
+    "en": "Blue Circuit Board"
+  },
+  "apiId": "z3z9y",
+  "apiIdStatus": "inferred"
+}

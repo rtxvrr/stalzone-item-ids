@@ -1,0 +1,11 @@
+{
+  "clientId": 24582,
+  "key": "item.charm.meme_toska",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Тоска»",
+    "en": "Ennui Charm"
+  },
+  "apiId": "j57rg",
+  "apiIdStatus": "inferred"
+}

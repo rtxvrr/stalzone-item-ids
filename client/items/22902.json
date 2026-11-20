@@ -1,0 +1,11 @@
+{
+  "clientId": 22902,
+  "key": "item.att.mount_tozris",
+  "kind": "item",
+  "name": {
+    "ru": "Планка с базой Пикатинни",
+    "en": "Picatinny Rail and Base"
+  },
+  "apiId": "g426p",
+  "apiIdStatus": "inferred"
+}

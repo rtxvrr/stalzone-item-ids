@@ -1,0 +1,11 @@
+{
+  "clientId": 16134,
+  "key": "item.quest.limansk.11929",
+  "kind": "item",
+  "name": {
+    "ru": "Флешка отряда «Вега»",
+    "en": "Vega Squad Flash Drive"
+  },
+  "apiId": "j5qpg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24645,
+  "key": "item.charm.zivcas_defector",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Расколотый Зивкас»",
+    "en": "Charm Broken ZIVCAS"
+  },
+  "apiId": "3gww1",
+  "apiIdStatus": "inferred"
+}

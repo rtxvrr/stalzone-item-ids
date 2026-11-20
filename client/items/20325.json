@@ -1,0 +1,11 @@
+{
+  "clientId": 20325,
+  "key": "item.wpn.bm16",
+  "kind": "item",
+  "name": {
+    "ru": "БМ-16",
+    "en": "BM-16"
+  },
+  "apiId": "1r742",
+  "apiIdStatus": "inferred"
+}

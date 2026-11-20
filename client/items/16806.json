@@ -1,0 +1,11 @@
+{
+  "clientId": 16806,
+  "key": "item.16806",
+  "kind": "item",
+  "name": {
+    "ru": "Кишки свиные",
+    "en": "Pig Intestines"
+  },
+  "apiId": "wj0lz",
+  "apiIdStatus": "inferred"
+}

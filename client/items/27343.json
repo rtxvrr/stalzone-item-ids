@@ -1,0 +1,11 @@
+{
+  "clientId": 27343,
+  "key": "item.misc.blizzard_quest_yellow_liqueur",
+  "kind": "item",
+  "name": {
+    "ru": "Наливка Палтуса",
+    "en": "Halibut's Liqueur"
+  },
+  "apiId": "dmnj9",
+  "apiIdStatus": "inferred"
+}

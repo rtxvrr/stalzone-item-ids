@@ -1,0 +1,11 @@
+{
+  "clientId": 21602,
+  "key": "item.wpn_mod.adv.versus_all",
+  "kind": "item",
+  "name": {
+    "ru": "«Универсал»",
+    "en": "Universal"
+  },
+  "apiId": "g4ovn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22916,
+  "key": "item.att.mount_mcris",
+  "kind": "item",
+  "name": {
+    "ru": "Направляющая RIS",
+    "en": "Guiding RIS"
+  },
+  "apiId": "n4z73",
+  "apiIdStatus": "inferred"
+}

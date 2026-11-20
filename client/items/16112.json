@@ -1,0 +1,11 @@
+{
+  "clientId": 16112,
+  "key": "item.16112",
+  "kind": "item",
+  "name": {
+    "ru": "Капкан",
+    "en": "Trap"
+  },
+  "apiId": "rwm3y",
+  "apiIdStatus": "inferred"
+}

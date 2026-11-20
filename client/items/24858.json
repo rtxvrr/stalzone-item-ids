@@ -1,0 +1,11 @@
+{
+  "clientId": 24858,
+  "key": "item.charm.mt_kust",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Невидимка»",
+    "en": "Invisible Man Charm"
+  },
+  "apiId": "j5kn7",
+  "apiIdStatus": "inferred"
+}

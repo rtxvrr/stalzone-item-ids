@@ -1,0 +1,11 @@
+{
+  "clientId": 19537,
+  "key": "item.camo.unique_arm.mourner",
+  "kind": "item",
+  "name": {
+    "ru": "«Истязающий»",
+    "en": "Torturer"
+  },
+  "apiId": "0ryor",
+  "apiIdStatus": "inferred"
+}

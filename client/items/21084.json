@@ -1,0 +1,11 @@
+{
+  "clientId": 21084,
+  "key": "item.melee.kortik",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS Valor",
+    "en": "ZIVCAS Valor"
+  },
+  "apiId": "rwz0z",
+  "apiIdStatus": "inferred"
+}

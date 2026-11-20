@@ -1,0 +1,11 @@
+{
+  "clientId": 16066,
+  "key": "item.16066",
+  "kind": "item",
+  "name": {
+    "ru": "Красная ключ-карта",
+    "en": "Old Key Card"
+  },
+  "apiId": "vjoyr",
+  "apiIdStatus": "inferred"
+}

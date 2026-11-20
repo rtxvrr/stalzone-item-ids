@@ -1,0 +1,11 @@
+{
+  "clientId": 31503,
+  "key": "item.ny_toys.setK.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-шишка",
+    "en": "Crafted Pine Cone Ornament"
+  },
+  "apiId": "z3or9",
+  "apiIdStatus": "inferred"
+}

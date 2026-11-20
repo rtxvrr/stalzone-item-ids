@@ -1,0 +1,11 @@
+{
+  "clientId": 16569,
+  "key": "item.bag.armorpack_meh5",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка утепленных пластин",
+    "en": "Bag of Insulated Plates"
+  },
+  "apiId": "3gqwk",
+  "apiIdStatus": "inferred"
+}

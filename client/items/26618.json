@@ -1,0 +1,11 @@
+{
+  "clientId": 26618,
+  "key": "item.food.beans_with_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Фасоль тушеная с мясом",
+    "en": "Canned Beans with Meat"
+  },
+  "apiId": "vjd0n",
+  "apiIdStatus": "inferred"
+}

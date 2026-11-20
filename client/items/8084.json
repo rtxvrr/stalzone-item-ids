@@ -1,0 +1,11 @@
+{
+  "clientId": 8084,
+  "key": "item.quest.bond_fake_docs",
+  "kind": "item",
+  "name": {
+    "ru": "Фальшивые документы",
+    "en": "Fake documents"
+  },
+  "apiId": "r0lg",
+  "apiIdStatus": "inferred"
+}

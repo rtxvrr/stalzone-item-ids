@@ -1,0 +1,11 @@
+{
+  "clientId": 22306,
+  "key": "item.att.sight_bsa",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный BSA Reflex",
+    "en": "BSA Reflex Collimator Sight"
+  },
+  "apiId": "wjp5o",
+  "apiIdStatus": "inferred"
+}

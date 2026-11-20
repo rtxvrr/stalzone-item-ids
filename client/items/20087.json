@@ -1,0 +1,11 @@
+{
+  "clientId": 20087,
+  "key": "item.wpn.kriss-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный TDI Kriss Vector",
+    "en": "Worn TDI KRISS Vector"
+  },
+  "apiId": "okv3o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6408,
+  "key": "item.misc.sulfur_oxide",
+  "kind": "item",
+  "name": {
+    "ru": "Серная соль",
+    "en": "Sulfuric Salt"
+  },
+  "apiId": "km6y",
+  "apiIdStatus": "inferred"
+}

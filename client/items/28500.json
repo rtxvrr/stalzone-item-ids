@@ -1,0 +1,11 @@
+{
+  "clientId": 28500,
+  "key": "item.28500",
+  "kind": "item",
+  "name": {
+    "ru": "Отечественные детали",
+    "en": "Domestic-Made Parts"
+  },
+  "apiId": "9d69w",
+  "apiIdStatus": "inferred"
+}

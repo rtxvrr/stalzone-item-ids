@@ -1,0 +1,11 @@
+{
+  "clientId": 19399,
+  "key": "item.camo.arm.bf_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ярость»",
+    "en": "Rage Paint"
+  },
+  "apiId": "zz6rn",
+  "apiIdStatus": "inferred"
+}

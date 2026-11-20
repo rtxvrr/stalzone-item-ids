@@ -1,0 +1,11 @@
+{
+  "clientId": 25067,
+  "key": "item.arm.osh",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Ош»",
+    "en": "Osh Heavy Armored Suit"
+  },
+  "apiId": "dmgvj",
+  "apiIdStatus": "inferred"
+}

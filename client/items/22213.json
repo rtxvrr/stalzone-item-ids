@@ -1,0 +1,11 @@
+{
+  "clientId": 22213,
+  "key": "item.att.scope_acog2",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Trijicon ACOG 2x40",
+    "en": "Trijicon ACOG 2x40 Optical Sight"
+  },
+  "apiId": "0rvkk",
+  "apiIdStatus": "inferred"
+}

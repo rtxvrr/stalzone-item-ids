@@ -1,0 +1,11 @@
+{
+  "clientId": 16536,
+  "key": "item.bag.545exp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка экспансивных патронов 5.45 мм",
+    "en": "Pouch of 5.45 mm Expanding Rounds"
+  },
+  "apiId": "rwvdl",
+  "apiIdStatus": "inferred"
+}

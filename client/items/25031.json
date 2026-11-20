@@ -1,0 +1,11 @@
+{
+  "clientId": 25031,
+  "key": "item.arm.longcoat",
+  "kind": "item",
+  "name": {
+    "ru": "Плащ",
+    "en": "Cloak"
+  },
+  "apiId": "4ql0r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4952,
+  "key": "item.plc.sticker.dmz26_caption",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Почти апокалипсис»",
+    "en": "Near Apocalypse Sticker"
+  },
+  "apiId": "50v0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16552,
+  "key": "item.bag.apt_s",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка с аптечками ученых",
+    "en": "Bag of Lab First-Aid Kits"
+  },
+  "apiId": "5low4",
+  "apiIdStatus": "inferred"
+}

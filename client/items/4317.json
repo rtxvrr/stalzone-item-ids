@@ -1,0 +1,11 @@
+{
+  "clientId": 4317,
+  "key": "item.plc.background.prestige_crimson_raid",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Багровый рейд»",
+    "en": "Crimson Raid Background"
+  },
+  "apiId": "po32",
+  "apiIdStatus": "inferred"
+}

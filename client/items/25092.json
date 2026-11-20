@@ -1,0 +1,11 @@
+{
+  "clientId": 25092,
+  "key": "item.arm.berill_main",
+  "kind": "item",
+  "name": {
+    "ru": "«Комбат» Оракула",
+    "en": "Oracle's Combat"
+  },
+  "apiId": "2oqjl",
+  "apiIdStatus": "inferred"
+}

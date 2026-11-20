@@ -1,0 +1,11 @@
+{
+  "clientId": 26099,
+  "key": "item.med.bady_tonic",
+  "kind": "item",
+  "name": {
+    "ru": "Нейротоник",
+    "en": "Neurotonic"
+  },
+  "apiId": "zzqn2",
+  "apiIdStatus": "inferred"
+}

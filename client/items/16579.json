@@ -1,0 +1,11 @@
+{
+  "clientId": 16579,
+  "key": "item.16579",
+  "kind": "item",
+  "name": {
+    "ru": "1000 рублей АП",
+    "en": "1,000 GAR"
+  },
+  "apiId": "4q74l",
+  "apiIdStatus": "inferred"
+}

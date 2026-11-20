@@ -1,0 +1,11 @@
+{
+  "clientId": 16561,
+  "key": "item.bag.12inc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка зажигательных 12х76 мм",
+    "en": "Pouch of 12x76 mm Incendiary Rounds"
+  },
+  "apiId": "0rlzr",
+  "apiIdStatus": "inferred"
+}

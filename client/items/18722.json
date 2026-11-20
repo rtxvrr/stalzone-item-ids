@@ -1,0 +1,11 @@
+{
+  "clientId": 18722,
+  "key": "item.camo.wpn.cookies",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пряники»",
+    "en": "Gingerbread Paint"
+  },
+  "apiId": "7l057",
+  "apiIdStatus": "inferred"
+}

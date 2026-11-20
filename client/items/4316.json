@@ -1,0 +1,11 @@
+{
+  "clientId": 4316,
+  "key": "item.plc.background.bureau26",
+  "kind": "item",
+  "name": {
+    "ru": "Фон “Ручная работа”",
+    "en": "Handmade Background"
+  },
+  "apiId": "nom3",
+  "apiIdStatus": "inferred"
+}

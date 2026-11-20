@@ -1,0 +1,11 @@
+{
+  "clientId": 3536,
+  "key": "tile.3536",
+  "kind": "tile",
+  "name": {
+    "ru": "Замок Песчанник",
+    "en": "Castle Sandstone"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

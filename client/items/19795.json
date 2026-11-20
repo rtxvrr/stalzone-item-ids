@@ -1,0 +1,11 @@
+{
+  "clientId": 19795,
+  "key": "item.camo.arm.nasty_marks",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Гадкие метки»",
+    "en": "Nasty marks"
+  },
+  "apiId": "6wrd0",
+  "apiIdStatus": "inferred"
+}

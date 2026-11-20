@@ -1,0 +1,11 @@
+{
+  "clientId": 12745,
+  "key": "item.amm.127st",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12.7 мм",
+    "en": "12.7 mm Round"
+  },
+  "apiId": "3vog",
+  "apiIdStatus": "inferred"
+}

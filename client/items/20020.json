@@ -1,0 +1,11 @@
+{
+  "clientId": 20020,
+  "key": "item.wpn.ots14a1",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-14-1А «Тор»",
+    "en": "OTs-14-A1 Thor"
+  },
+  "apiId": "2ody0",
+  "apiIdStatus": "inferred"
+}

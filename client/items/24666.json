@@ -1,0 +1,11 @@
+{
+  "clientId": 24666,
+  "key": "item.charm.welcome_dem",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Дем»",
+    "en": "Dem Channel Fan Charm"
+  },
+  "apiId": "vj717",
+  "apiIdStatus": "inferred"
+}

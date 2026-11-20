@@ -1,0 +1,11 @@
+{
+  "clientId": 31014,
+  "key": "item.brt.svalka.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Ржавый мухомор",
+    "en": "Rusty Fly Agaric"
+  },
+  "apiId": "mr13y",
+  "apiIdStatus": "inferred"
+}

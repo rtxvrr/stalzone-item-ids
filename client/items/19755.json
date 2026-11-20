@@ -1,0 +1,11 @@
+{
+  "clientId": 19755,
+  "key": "item.camo.arm.draft",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Наброски»",
+    "en": "Sketches Paint"
+  },
+  "apiId": "4q0jo",
+  "apiIdStatus": "inferred"
+}

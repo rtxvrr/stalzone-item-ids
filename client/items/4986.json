@@ -1,0 +1,11 @@
+{
+  "clientId": 4986,
+  "key": "item.plc.sticker.nea_symbol",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Тхэгык Норигэ»",
+    "en": "Tiger Sticker"
+  },
+  "apiId": "m9g7",
+  "apiIdStatus": "inferred"
+}

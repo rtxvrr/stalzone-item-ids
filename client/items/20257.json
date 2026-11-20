@@ -1,0 +1,11 @@
+{
+  "clientId": 20257,
+  "key": "item.wpn.svd_coin",
+  "kind": "item",
+  "name": {
+    "ru": "«Шлёпа»",
+    "en": "Caracal"
+  },
+  "apiId": "qj2qj",
+  "apiIdStatus": "inferred"
+}

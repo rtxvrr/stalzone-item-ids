@@ -1,0 +1,11 @@
+{
+  "clientId": 15018,
+  "key": "item.lootbox.odd_mosaic",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Иная мозаика»",
+    "en": "Odd Mosaic Container"
+  },
+  "apiId": "vjnj7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15087,
+  "key": "item.lootbox.summer26_electrostorm",
+  "kind": "item",
+  "name": {
+    "ru": "Награда информатора",
+    "en": "Informer’s Reward"
+  },
+  "apiId": "oklp5",
+  "apiIdStatus": "inferred"
+}

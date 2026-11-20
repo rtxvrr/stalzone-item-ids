@@ -1,0 +1,11 @@
+{
+  "clientId": 17528,
+  "key": "item.style.wpn.svu_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "«Покаяние»",
+    "en": "Penitence"
+  },
+  "apiId": "5l3d0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25573,
+  "key": "item.arm.heavyaltyn_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Солдат»",
+    "en": "Soldier"
+  },
+  "apiId": "1rp6q",
+  "apiIdStatus": "inferred"
+}

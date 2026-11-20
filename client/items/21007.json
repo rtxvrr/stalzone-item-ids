@@ -1,0 +1,11 @@
+{
+  "clientId": 21007,
+  "key": "item.melee.kukri",
+  "kind": "item",
+  "name": {
+    "ru": "Кукри",
+    "en": "Kukri"
+  },
+  "apiId": "4q1nj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25018,
+  "key": "item.arm.goplit-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный бронекостюм «Гоплит»",
+    "en": "Worn Hoplite Armored Suit"
+  },
+  "apiId": "vj1rr",
+  "apiIdStatus": "inferred"
+}

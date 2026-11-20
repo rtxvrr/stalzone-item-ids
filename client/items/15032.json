@@ -1,0 +1,11 @@
+{
+  "clientId": 15032,
+  "key": "item.lootbox.frontline_4",
+  "kind": "item",
+  "name": {
+    "ru": "Заначка полковника",
+    "en": "Colonel's Reserve"
+  },
+  "apiId": "knrrj",
+  "apiIdStatus": "inferred"
+}

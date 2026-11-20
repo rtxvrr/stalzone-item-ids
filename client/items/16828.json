@@ -1,0 +1,11 @@
+{
+  "clientId": 16828,
+  "key": "item.quest.incendiary_mixture",
+  "kind": "item",
+  "name": {
+    "ru": "Зажигательная смесь",
+    "en": "Incendiary Mixture"
+  },
+  "apiId": "5l66o",
+  "apiIdStatus": "inferred"
+}

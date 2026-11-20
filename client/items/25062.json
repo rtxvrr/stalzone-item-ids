@@ -1,0 +1,11 @@
+{
+  "clientId": 25062,
+  "key": "item.arm.izumrud",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-116 «Изумруд»",
+    "en": "MIS-116 Emerald"
+  },
+  "apiId": "m06vy",
+  "apiIdStatus": "inferred"
+}

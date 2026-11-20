@@ -1,0 +1,11 @@
+{
+  "clientId": 31844,
+  "key": "item.blueprint.wpn.ravent_l85-1",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Поношенный L85A1",
+    "en": "Worn L85A1 Blueprint"
+  },
+  "apiId": "21w3v",
+  "apiIdStatus": "inferred"
+}

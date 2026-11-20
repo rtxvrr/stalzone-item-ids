@@ -1,0 +1,11 @@
+{
+  "clientId": 31287,
+  "key": "item.ny_toys.setA.garland2",
+  "kind": "item",
+  "name": {
+    "ru": "Красная хорошая гирлянда",
+    "en": "Nice Red Tree Lights"
+  },
+  "apiId": "oln65",
+  "apiIdStatus": "inferred"
+}

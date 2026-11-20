@@ -1,0 +1,11 @@
+{
+  "clientId": 31551,
+  "key": "item.ny_toys.setM.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Простая гирлянда диггеров",
+    "en": "Simple Digger's Garland"
+  },
+  "apiId": "z3od9",
+  "apiIdStatus": "inferred"
+}

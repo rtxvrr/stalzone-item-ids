@@ -1,0 +1,11 @@
+{
+  "clientId": 4928,
+  "key": "item.plc.sticker.inside_master",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Восставшего",
+    "en": "Risen Sticker"
+  },
+  "apiId": "5090",
+  "apiIdStatus": "inferred"
+}

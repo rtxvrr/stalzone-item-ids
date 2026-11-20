@@ -1,0 +1,11 @@
+{
+  "clientId": 20019,
+  "key": "item.wpn.ppk20",
+  "kind": "item",
+  "name": {
+    "ru": "ППК-20",
+    "en": "PPK-20"
+  },
+  "apiId": "dmq75",
+  "apiIdStatus": "inferred"
+}

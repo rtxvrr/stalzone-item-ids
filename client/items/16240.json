@@ -1,0 +1,11 @@
+{
+  "clientId": 16240,
+  "key": "item.16240",
+  "kind": "item",
+  "name": {
+    "ru": "Инструмент для модификации ретранслятора",
+    "en": "Tool for Relay Station Modification"
+  },
+  "apiId": "n4ww9",
+  "apiIdStatus": "inferred"
+}

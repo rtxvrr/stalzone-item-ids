@@ -1,0 +1,11 @@
+{
+  "clientId": 6407,
+  "key": "item.misc.aluminum_oxide",
+  "kind": "item",
+  "name": {
+    "ru": "Алюминиевый порошок",
+    "en": "Aluminum Powder"
+  },
+  "apiId": "4nkr",
+  "apiIdStatus": "inferred"
+}

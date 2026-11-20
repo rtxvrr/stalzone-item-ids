@@ -1,0 +1,11 @@
+{
+  "clientId": 26050,
+  "key": "item.med.inside_memoria",
+  "kind": "item",
+  "name": {
+    "ru": "Плоды Мемории",
+    "en": "Memoria Fruit"
+  },
+  "apiId": "g4l90",
+  "apiIdStatus": "inferred"
+}

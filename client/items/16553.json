@@ -1,0 +1,11 @@
+{
+  "clientId": 16553,
+  "key": "item.bag.apt_a",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка с военными аптечками",
+    "en": "Bag of Military First-Aid Kits"
+  },
+  "apiId": "y3nww",
+  "apiIdStatus": "inferred"
+}

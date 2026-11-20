@@ -1,0 +1,11 @@
+{
+  "clientId": 22756,
+  "key": "item.att.mag_pmdrum",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин для ПМ",
+    "en": "Drum Magazine for PM"
+  },
+  "apiId": "kn9vp",
+  "apiIdStatus": "inferred"
+}

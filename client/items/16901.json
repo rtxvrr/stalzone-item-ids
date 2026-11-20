@@ -1,0 +1,11 @@
+{
+  "clientId": 16901,
+  "key": "item.quest.covenant.poisonbowl",
+  "kind": "item",
+  "name": {
+    "ru": "Баланда с вороньим ядом",
+    "en": "Gruel with Crow Poison"
+  },
+  "apiId": "1r1m1",
+  "apiIdStatus": "inferred"
+}

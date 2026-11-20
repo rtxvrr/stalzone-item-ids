@@ -1,0 +1,11 @@
+{
+  "clientId": 31675,
+  "key": "item.blueprint.arm.kim85",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж КИМ-85Д",
+    "en": "MIS-85D Blueprint"
+  },
+  "apiId": "z3omy",
+  "apiIdStatus": "inferred"
+}

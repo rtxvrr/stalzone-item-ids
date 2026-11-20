@@ -1,0 +1,11 @@
+{
+  "clientId": 4231,
+  "key": "item.plc.background.mk_burelom",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Морской бурелом»",
+    "en": "Sea Behemoth Background"
+  },
+  "apiId": "4jmj",
+  "apiIdStatus": "inferred"
+}

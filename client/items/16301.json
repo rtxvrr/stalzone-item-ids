@@ -1,0 +1,11 @@
+{
+  "clientId": 16301,
+  "key": "item.16301",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон группировки «Заря»",
+    "en": "Rise Faction Token"
+  },
+  "apiId": "1rly1",
+  "apiIdStatus": "inferred"
+}

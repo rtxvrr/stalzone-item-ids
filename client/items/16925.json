@@ -1,0 +1,11 @@
+{
+  "clientId": 16925,
+  "key": "item.quest.merc.docs_stack",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка документов наемников",
+    "en": "Stack of Mercenary Documents"
+  },
+  "apiId": "1r161",
+  "apiIdStatus": "inferred"
+}

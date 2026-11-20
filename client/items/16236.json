@@ -1,0 +1,11 @@
+{
+  "clientId": 16236,
+  "key": "item.16236",
+  "kind": "item",
+  "name": {
+    "ru": "Заряженный кристалл Поэта",
+    "en": "Poet's Charged Crystal"
+  },
+  "apiId": "rwvvz",
+  "apiIdStatus": "inferred"
+}

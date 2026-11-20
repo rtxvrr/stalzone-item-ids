@@ -1,0 +1,11 @@
+{
+  "clientId": 31091,
+  "key": "item.brt.sever.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Рыжий папоротник",
+    "en": "Red Fern"
+  },
+  "apiId": "dr6nj",
+  "apiIdStatus": "inferred"
+}

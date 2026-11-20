@@ -1,0 +1,11 @@
+{
+  "clientId": 17504,
+  "key": "item.style.wpn.mts255_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Железная рука»",
+    "en": "Iron Hand"
+  },
+  "apiId": "5l370",
+  "apiIdStatus": "inferred"
+}

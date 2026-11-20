@@ -1,0 +1,11 @@
+{
+  "clientId": 10267,
+  "key": "item.phonograph.vinyl_location_black_detour",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Черный объезд»",
+    "en": "Black Detour Vinyl Record"
+  },
+  "apiId": "ddgg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22066,
+  "key": "item.att.forend_sks",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическое ложе для СКС",
+    "en": "Tactical Stock for SKS"
+  },
+  "apiId": "vjp5r",
+  "apiIdStatus": "inferred"
+}

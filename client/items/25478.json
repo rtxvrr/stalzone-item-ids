@@ -1,0 +1,11 @@
+{
+  "clientId": 25478,
+  "key": "item.arm.kyrtka_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "Куртка ящеров",
+    "en": "Lizard's Jacket"
+  },
+  "apiId": "wj40p",
+  "apiIdStatus": "inferred"
+}

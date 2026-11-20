@@ -1,0 +1,11 @@
+{
+  "clientId": 17546,
+  "key": "item.style.wpn.vssm_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Винт»",
+    "en": "Vint"
+  },
+  "apiId": "7l3n7",
+  "apiIdStatus": "inferred"
+}

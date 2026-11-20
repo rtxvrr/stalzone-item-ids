@@ -1,0 +1,11 @@
+{
+  "clientId": 27234,
+  "key": "item.misc.triumph_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Монетка Бати",
+    "en": "Pops' Coin"
+  },
+  "apiId": "j5yg7",
+  "apiIdStatus": "inferred"
+}

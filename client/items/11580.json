@@ -1,0 +1,11 @@
+{
+  "clientId": 11580,
+  "key": "item.art.lesta_hedgehog",
+  "kind": "item",
+  "name": {
+    "ru": "Чертов еж",
+    "en": "Wicked Hedgehog"
+  },
+  "apiId": "k3rv",
+  "apiIdStatus": "inferred"
+}

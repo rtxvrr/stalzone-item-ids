@@ -1,0 +1,11 @@
+{
+  "clientId": 24941,
+  "key": "item.charm.autumn26_peculiar_sphere",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Странная сфера»",
+    "en": "Strange Sphere Charm"
+  },
+  "apiId": "p6mo5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24601,
+  "key": "item.charm.ny24_league_5",
+  "kind": "item",
+  "name": {
+    "ru": "Орден Новогоднего Чемпиона Деревянной лиги",
+    "en": "Insignia of the Wooden League New Year Champion"
+  },
+  "apiId": "1r5gr",
+  "apiIdStatus": "inferred"
+}

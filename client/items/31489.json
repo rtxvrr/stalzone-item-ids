@@ -1,0 +1,11 @@
+{
+  "clientId": 31489,
+  "key": "item.case.autumn24_innovative",
+  "kind": "item",
+  "name": {
+    "ru": "Передовой кейс «Черного Рынка»",
+    "en": "Advanced Black Market Case"
+  },
+  "apiId": "pjng6",
+  "apiIdStatus": "inferred"
+}

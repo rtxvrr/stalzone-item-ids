@@ -1,0 +1,11 @@
+{
+  "clientId": 20403,
+  "key": "item.wpn.tt_fara",
+  "kind": "item",
+  "name": {
+    "ru": "ТТ Фары",
+    "en": "Farah's TT"
+  },
+  "apiId": "zz27k",
+  "apiIdStatus": "inferred"
+}

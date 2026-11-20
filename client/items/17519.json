@@ -1,0 +1,11 @@
+{
+  "clientId": 17519,
+  "key": "item.style.wpn.rpl20_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Громовержец»",
+    "en": "Thunderer"
+  },
+  "apiId": "dmpzn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11414,
+  "key": "item.art.ravent_broom",
+  "kind": "item",
+  "name": {
+    "ru": "Метла Яги",
+    "en": "Yaga's Broom"
+  },
+  "apiId": "m66k",
+  "apiIdStatus": "inferred"
+}

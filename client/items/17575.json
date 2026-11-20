@@ -1,0 +1,11 @@
+{
+  "clientId": 17575,
+  "key": "item.style.wpn.mk47_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Русая прядь»",
+    "en": "Sandy Lock"
+  },
+  "apiId": "zzoln",
+  "apiIdStatus": "inferred"
+}

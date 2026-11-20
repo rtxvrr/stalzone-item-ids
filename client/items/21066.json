@@ -1,0 +1,11 @@
+{
+  "clientId": 21066,
+  "key": "item.melee.shashka",
+  "kind": "item",
+  "name": {
+    "ru": "Казачья шашка",
+    "en": "Cossack Shashka"
+  },
+  "apiId": "vj497",
+  "apiIdStatus": "inferred"
+}

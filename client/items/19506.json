@@ -1,0 +1,11 @@
+{
+  "clientId": 19506,
+  "key": "item.camo.unique_arm.iron",
+  "kind": "item",
+  "name": {
+    "ru": "«Железяка»",
+    "en": "Metal Scrap"
+  },
+  "apiId": "wjm4d",
+  "apiIdStatus": "inferred"
+}

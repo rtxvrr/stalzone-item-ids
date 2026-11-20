@@ -1,0 +1,11 @@
+{
+  "clientId": 26065,
+  "key": "item.med.inside_insight",
+  "kind": "item",
+  "name": {
+    "ru": "Вдохновение Поэта",
+    "en": "Poet's Inspiration"
+  },
+  "apiId": "p62n6",
+  "apiIdStatus": "inferred"
+}

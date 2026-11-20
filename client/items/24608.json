@@ -1,0 +1,11 @@
+{
+  "clientId": 24608,
+  "key": "item.charm.ny24_snowman",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Голова Высокого»",
+    "en": "Tall's Head Charm"
+  },
+  "apiId": "kn7dj",
+  "apiIdStatus": "inferred"
+}

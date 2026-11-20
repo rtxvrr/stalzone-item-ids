@@ -1,0 +1,11 @@
+{
+  "clientId": 24663,
+  "key": "item.charm.welcome_moris",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Moris & Never»",
+    "en": "Moris & Never Channel Fan Charm"
+  },
+  "apiId": "ok705",
+  "apiIdStatus": "inferred"
+}

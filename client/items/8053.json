@@ -1,0 +1,11 @@
+{
+  "clientId": 8053,
+  "key": "item.quest.cannabidifloretin",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка «Каннабидифлоретин»",
+    "en": "Test tube \"Cannabidifloritin\""
+  },
+  "apiId": "yzrz",
+  "apiIdStatus": "inferred"
+}

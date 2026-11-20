@@ -1,0 +1,11 @@
+{
+  "clientId": 18761,
+  "key": "item.camo.wpn.twentyfour",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «24»",
+    "en": "2024 Paint"
+  },
+  "apiId": "0rmk1",
+  "apiIdStatus": "inferred"
+}

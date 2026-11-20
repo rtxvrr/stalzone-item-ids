@@ -1,0 +1,11 @@
+{
+  "clientId": 19862,
+  "key": "item.motif.wpn.famas_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Гад»",
+    "en": "Adder"
+  },
+  "apiId": "m02mk",
+  "apiIdStatus": "inferred"
+}

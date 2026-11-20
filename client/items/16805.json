@@ -1,0 +1,11 @@
+{
+  "clientId": 16805,
+  "key": "item.16805",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Завета»",
+    "en": "Covenant Data Block"
+  },
+  "apiId": "y30n0",
+  "apiIdStatus": "inferred"
+}

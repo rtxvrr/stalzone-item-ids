@@ -1,0 +1,11 @@
+{
+  "clientId": 10009,
+  "key": "item.quest.audio_diary_merc_4",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиодневник Зигфрида 4",
+    "en": "Siegfried's Audio Journal 4"
+  },
+  "apiId": "q64j",
+  "apiIdStatus": "inferred"
+}

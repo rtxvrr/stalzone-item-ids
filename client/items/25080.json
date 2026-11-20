@@ -1,0 +1,11 @@
+{
+  "clientId": 25080,
+  "key": "item.arm.yantar-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный КИМ-99 «Янтарь»",
+    "en": "Worn MIS-99 Amber"
+  },
+  "apiId": "knqgy",
+  "apiIdStatus": "inferred"
+}

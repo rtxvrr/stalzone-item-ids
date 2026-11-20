@@ -1,0 +1,11 @@
+{
+  "clientId": 14994,
+  "key": "item.tool.hedge",
+  "kind": "item",
+  "name": {
+    "ru": "Колючка",
+    "en": "Thorn"
+  },
+  "apiId": "7l74j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16865,
+  "key": "item.quest.Baramzin_diary",
+  "kind": "item",
+  "name": {
+    "ru": "Дневник профессора Барамзина",
+    "en": "Professor Baramzin's Journal"
+  },
+  "apiId": "p65nd",
+  "apiIdStatus": "inferred"
+}

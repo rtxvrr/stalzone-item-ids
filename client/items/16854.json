@@ -1,0 +1,11 @@
+{
+  "clientId": 16854,
+  "key": "item.quest.living_water_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Живая вода»",
+    "en": "The Water of Life"
+  },
+  "apiId": "wj0zz",
+  "apiIdStatus": "inferred"
+}

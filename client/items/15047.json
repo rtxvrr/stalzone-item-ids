@@ -1,0 +1,11 @@
+{
+  "clientId": 15047,
+  "key": "item.lootbox.twitch_currency",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Twitch Shards»",
+    "en": "Twitch Shards Container"
+  },
+  "apiId": "6woon",
+  "apiIdStatus": "inferred"
+}

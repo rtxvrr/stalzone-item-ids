@@ -1,0 +1,11 @@
+{
+  "clientId": 9621,
+  "key": "item.prestige.ability.blink",
+  "kind": "item",
+  "name": {
+    "ru": "ИП-4 «Якорь»",
+    "en": "IR-4 Anchor"
+  },
+  "apiId": "3yy1",
+  "apiIdStatus": "inferred"
+}

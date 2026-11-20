@@ -1,0 +1,11 @@
+{
+  "clientId": 6100,
+  "key": "item.misc.tire",
+  "kind": "item",
+  "name": {
+    "ru": "Покрышка",
+    "en": "Tire"
+  },
+  "apiId": "9mvz",
+  "apiIdStatus": "inferred"
+}

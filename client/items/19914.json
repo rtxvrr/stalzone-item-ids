@@ -1,0 +1,11 @@
+{
+  "clientId": 19914,
+  "key": "item.mtl.wpn.scorched",
+  "kind": "item",
+  "name": {
+    "ru": "«Выгорание»",
+    "en": "Embers"
+  },
+  "apiId": "m0257",
+  "apiIdStatus": "inferred"
+}

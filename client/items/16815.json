@@ -1,0 +1,11 @@
+{
+  "clientId": 16815,
+  "key": "item.quest.notebook_list",
+  "kind": "item",
+  "name": {
+    "ru": "Тетрадный лист",
+    "en": "Notebook Sheet"
+  },
+  "apiId": "okzp5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22106,
+  "key": "item.22106",
+  "kind": "item",
+  "name": {
+    "ru": "Сложить рукоять",
+    "en": "Fold grip"
+  },
+  "apiId": "wjpm3",
+  "apiIdStatus": "inferred"
+}

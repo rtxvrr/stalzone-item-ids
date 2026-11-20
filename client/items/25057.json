@@ -1,0 +1,11 @@
+{
+  "clientId": 25057,
+  "key": "item.arm.mocking",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Пересмешник»",
+    "en": "Mockingbird Jumpsuit"
+  },
+  "apiId": "qjogj",
+  "apiIdStatus": "inferred"
+}

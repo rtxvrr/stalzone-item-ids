@@ -1,0 +1,11 @@
+{
+  "clientId": 31450,
+  "key": "item.31450",
+  "kind": "item",
+  "name": {
+    "ru": "Обычный контейнер (перс.)",
+    "en": "Standard case (pers.)"
+  },
+  "apiId": "gnpg0",
+  "apiIdStatus": "inferred"
+}

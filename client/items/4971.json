@@ -1,0 +1,11 @@
+{
+  "clientId": 4971,
+  "key": "item.plc.sticker.reichstag_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Герб Советов»",
+    "en": "Soviet Coat of Arms Sticker"
+  },
+  "apiId": "6dpy",
+  "apiIdStatus": "inferred"
+}

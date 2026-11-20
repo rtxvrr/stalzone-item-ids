@@ -1,0 +1,11 @@
+{
+  "clientId": 22703,
+  "key": "item.att.mag_pmag30b",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.56 NATO PMAG, черный",
+    "en": "5.56 NATO PMAG Magazine, Black"
+  },
+  "apiId": "zz96m",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19319,
+  "key": "item.camo.arm.dayx_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Осколки неба»",
+    "en": "Sky Shards Paint"
+  },
+  "apiId": "dmzvn",
+  "apiIdStatus": "inferred"
+}

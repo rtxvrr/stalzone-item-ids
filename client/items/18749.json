@@ -1,0 +1,11 @@
+{
+  "clientId": 18749,
+  "key": "item.camo.wpn.consumer",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Потребитель»",
+    "en": "Consumer Paint"
+  },
+  "apiId": "1rmq1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4211,
+  "key": "item.plc.background.summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Шепот над Зоной»",
+    "en": "Murmur of the Zone Season Background "
+  },
+  "apiId": "loo2",
+  "apiIdStatus": "inferred"
+}

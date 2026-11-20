@@ -1,0 +1,11 @@
+{
+  "clientId": 16634,
+  "key": "item.16634",
+  "kind": "item",
+  "name": {
+    "ru": "Наградной ящик бандитов",
+    "en": "Bandits' Reward Crate"
+  },
+  "apiId": "j5qm0",
+  "apiIdStatus": "inferred"
+}

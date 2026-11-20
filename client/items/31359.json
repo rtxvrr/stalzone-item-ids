@@ -1,0 +1,11 @@
+{
+  "clientId": 31359,
+  "key": "item.ny_toys.setF.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая мишура",
+    "en": "Plush Tinsel"
+  },
+  "apiId": "l05l1",
+  "apiIdStatus": "inferred"
+}

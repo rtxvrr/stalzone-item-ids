@@ -1,0 +1,11 @@
+{
+  "clientId": 29960,
+  "key": "item.filler.mob_limansk_1",
+  "kind": "item",
+  "name": {
+    "ru": "Шерсть мутанта из Любеча",
+    "en": "Lyubech Mutant's Hair"
+  },
+  "apiId": "rjvly",
+  "apiIdStatus": "inferred"
+}

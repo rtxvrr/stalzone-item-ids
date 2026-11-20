@@ -1,0 +1,11 @@
+{
+  "clientId": 25148,
+  "key": "item.arm.polar",
+  "kind": "item",
+  "name": {
+    "ru": "«Полярник»",
+    "en": "Arctic Explorer"
+  },
+  "apiId": "96npy",
+  "apiIdStatus": "inferred"
+}

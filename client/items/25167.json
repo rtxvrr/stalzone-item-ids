@@ -1,0 +1,11 @@
+{
+  "clientId": 25167,
+  "key": "item.arm.ghillie",
+  "kind": "item",
+  "name": {
+    "ru": "Маскировочный костюм",
+    "en": "Ghillie Suit"
+  },
+  "apiId": "dmgw2",
+  "apiIdStatus": "inferred"
+}

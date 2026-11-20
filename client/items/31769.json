@@ -1,0 +1,11 @@
+{
+  "clientId": 31769,
+  "key": "item.part.zivcas_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть JD ZIVCAS 2A #1",
+    "en": "JD ZIVCAS 2A Part #1"
+  },
+  "apiId": "342o5",
+  "apiIdStatus": "inferred"
+}

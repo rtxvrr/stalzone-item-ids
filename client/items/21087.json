@@ -1,0 +1,11 @@
+{
+  "clientId": 21087,
+  "key": "item.melee.britva_frost",
+  "kind": "item",
+  "name": {
+    "ru": "Морозная бритва",
+    "en": "Frost Razor"
+  },
+  "apiId": "ok9j5",
+  "apiIdStatus": "inferred"
+}

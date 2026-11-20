@@ -1,0 +1,11 @@
+{
+  "clientId": 31312,
+  "key": "item.ny_toys.setC.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Желтый шарик с узором",
+    "en": "Yellow Patterned Bauble"
+  },
+  "apiId": "rjpy5",
+  "apiIdStatus": "inferred"
+}

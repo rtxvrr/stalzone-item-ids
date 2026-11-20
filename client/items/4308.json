@@ -1,0 +1,11 @@
+{
+  "clientId": 4308,
+  "key": "item.plc.background.triumph26_bar",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Умиротворение»",
+    "en": "Serenity Background"
+  },
+  "apiId": "k2mv",
+  "apiIdStatus": "inferred"
+}

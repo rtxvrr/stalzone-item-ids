@@ -1,0 +1,11 @@
+{
+  "clientId": 19742,
+  "key": "item.camo.arm.darkisland",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Темный остров»",
+    "en": "Dark Island Paint"
+  },
+  "apiId": "vjrgp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25191,
+  "key": "item.arm.smog_pp",
+  "kind": "item",
+  "name": {
+    "ru": "«Туманный охотник» Первопроходцев",
+    "en": "Trailblazers' Fog Hunter"
+  },
+  "apiId": "dmgd2",
+  "apiIdStatus": "inferred"
+}

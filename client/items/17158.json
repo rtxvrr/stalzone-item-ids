@@ -1,0 +1,11 @@
+{
+  "clientId": 17158,
+  "key": "item.style.arm.saturn_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "«Миротворец»",
+    "en": "Peacemaker"
+  },
+  "apiId": "j5z74",
+  "apiIdStatus": "inferred"
+}

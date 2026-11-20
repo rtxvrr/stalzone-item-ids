@@ -1,0 +1,11 @@
+{
+  "clientId": 25147,
+  "key": "item.arm.citizen",
+  "kind": "item",
+  "name": {
+    "ru": "«Гражданин»",
+    "en": "Citizen"
+  },
+  "apiId": "6w0p0",
+  "apiIdStatus": "inferred"
+}

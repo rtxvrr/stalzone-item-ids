@@ -1,0 +1,11 @@
+{
+  "clientId": 4526,
+  "key": "item.plc.pattern.dmz26_2",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Рождественское перемирие»",
+    "en": "Christmas Truce Pattern"
+  },
+  "apiId": "gz3g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27233,
+  "key": "item.case_token.functional",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон Особого кейса",
+    "en": "Special Case Token"
+  },
+  "apiId": "qjdn6",
+  "apiIdStatus": "inferred"
+}

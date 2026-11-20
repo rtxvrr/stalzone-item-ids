@@ -1,0 +1,11 @@
+{
+  "clientId": 8226,
+  "key": "item.quest.puer_fleshka",
+  "kind": "item",
+  "name": {
+    "ru": "Жесткий диск",
+    "en": "Hard Drive"
+  },
+  "apiId": "ggp6",
+  "apiIdStatus": "inferred"
+}

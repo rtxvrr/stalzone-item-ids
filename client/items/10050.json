@@ -1,0 +1,11 @@
+{
+  "clientId": 10050,
+  "key": "item.misc.cn1",
+  "kind": "item",
+  "name": {
+    "ru": "СН-1 «Блин»",
+    "en": "SN-1 Pancake"
+  },
+  "apiId": "gd06",
+  "apiIdStatus": "inferred"
+}

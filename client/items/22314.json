@@ -1,0 +1,11 @@
+{
+  "clientId": 22314,
+  "key": "item.att.sight_vortex2",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Vortex",
+    "en": "Vortex Collimator Sight (Red)"
+  },
+  "apiId": "m0kd7",
+  "apiIdStatus": "inferred"
+}

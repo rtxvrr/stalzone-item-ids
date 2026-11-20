@@ -1,0 +1,11 @@
+{
+  "clientId": 12735,
+  "key": "item.amm.762snp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм снайперский",
+    "en": "7.62 mm Sniper Round"
+  },
+  "apiId": "l601",
+  "apiIdStatus": "inferred"
+}

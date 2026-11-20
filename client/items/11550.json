@@ -1,0 +1,11 @@
+{
+  "clientId": 11550,
+  "key": "item.art.kisel_spinning",
+  "kind": "item",
+  "name": {
+    "ru": "Юла",
+    "en": "Peg-Top"
+  },
+  "apiId": "g34p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31386,
+  "key": "item.ny_toys.setH.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичная простецкая мишура",
+    "en": "Simple Futuristic Tinsel"
+  },
+  "apiId": "mrym7",
+  "apiIdStatus": "inferred"
+}

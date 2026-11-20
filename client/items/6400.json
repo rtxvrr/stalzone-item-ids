@@ -1,0 +1,11 @@
+{
+  "clientId": 6400,
+  "key": "item.misc.milling_cutter",
+  "kind": "item",
+  "name": {
+    "ru": "Фреза",
+    "en": "Milling Cutter"
+  },
+  "apiId": "99dl",
+  "apiIdStatus": "inferred"
+}

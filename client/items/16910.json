@@ -1,0 +1,11 @@
+{
+  "clientId": 16910,
+  "key": "item.quest.covenant.dossier",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Панг",
+    "en": "Dossier: Pang"
+  },
+  "apiId": "j5zj6",
+  "apiIdStatus": "inferred"
+}

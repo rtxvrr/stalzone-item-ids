@@ -1,0 +1,11 @@
+{
+  "clientId": 16870,
+  "key": "item.quest.Lukum_fragment",
+  "kind": "item",
+  "name": {
+    "ru": "Отрывок из записей Лукума",
+    "en": "Excerpt from Lokum's Notes"
+  },
+  "apiId": "7lo39",
+  "apiIdStatus": "inferred"
+}

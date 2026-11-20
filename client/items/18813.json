@@ -1,0 +1,11 @@
+{
+  "clientId": 18813,
+  "key": "item.mtl.arm.mineral",
+  "kind": "item",
+  "name": {
+    "ru": "«Минералы»",
+    "en": "Minerals"
+  },
+  "apiId": "0rmpd",
+  "apiIdStatus": "inferred"
+}

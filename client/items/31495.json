@@ -1,0 +1,11 @@
+{
+  "clientId": 31495,
+  "key": "item.lootbox.winter25_tickets_small",
+  "kind": "item",
+  "name": {
+    "ru": "Схрончик",
+    "en": "Little Stash"
+  },
+  "apiId": "6o7kj",
+  "apiIdStatus": "inferred"
+}

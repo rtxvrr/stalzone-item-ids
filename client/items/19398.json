@@ -1,0 +1,11 @@
+{
+  "clientId": 19398,
+  "key": "item.camo.arm.bf_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Срыв»",
+    "en": "Breakdown Paint"
+  },
+  "apiId": "g4wqp",
+  "apiIdStatus": "inferred"
+}

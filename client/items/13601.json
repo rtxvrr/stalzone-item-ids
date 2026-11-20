@@ -1,0 +1,11 @@
+{
+  "clientId": 13601,
+  "key": "item.camo.arm.winter26_garland",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Зеленая гирлянда»",
+    "en": "Green Garland Paint"
+  },
+  "apiId": "1wvg",
+  "apiIdStatus": "inferred"
+}

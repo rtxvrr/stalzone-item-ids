@@ -1,0 +1,11 @@
+{
+  "clientId": 6126,
+  "key": "item.misc.peas_box",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с горохом",
+    "en": "Can of Peas"
+  },
+  "apiId": "g02p",
+  "apiIdStatus": "inferred"
+}

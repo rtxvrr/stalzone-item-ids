@@ -1,0 +1,11 @@
+{
+  "clientId": 19597,
+  "key": "item.motif.arm.apostle_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "«Морж»",
+    "en": "Walrus"
+  },
+  "apiId": "1rd0q",
+  "apiIdStatus": "inferred"
+}

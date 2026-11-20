@@ -1,0 +1,11 @@
+{
+  "clientId": 10273,
+  "key": "item.phonograph.vinyl_event_black_raid",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Черный Рейд»",
+    "en": "Black Raid Vinyl Record"
+  },
+  "apiId": "1gpr",
+  "apiIdStatus": "inferred"
+}

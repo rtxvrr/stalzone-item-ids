@@ -1,0 +1,11 @@
+{
+  "clientId": 25170,
+  "key": "item.arm.ny22_frostwalker",
+  "kind": "item",
+  "name": {
+    "ru": "«Идущий в метели» группы «Норд-22»",
+    "en": "Nord-22 Group Blizzard Walker"
+  },
+  "apiId": "7lmqj",
+  "apiIdStatus": "inferred"
+}

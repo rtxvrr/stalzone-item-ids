@@ -1,0 +1,11 @@
+{
+  "clientId": 22757,
+  "key": "item.att.mag_vss20",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин эргономичный для ВСС/Вал",
+    "en": "Ergonomic Magazine for VSS/Val"
+  },
+  "apiId": "qjwg3",
+  "apiIdStatus": "inferred"
+}

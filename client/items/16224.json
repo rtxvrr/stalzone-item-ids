@@ -1,0 +1,11 @@
+{
+  "clientId": 16224,
+  "key": "item.16224",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная кастрюля",
+    "en": "Anomalous Pan"
+  },
+  "apiId": "96zzq",
+  "apiIdStatus": "inferred"
+}

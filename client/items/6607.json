@@ -1,0 +1,11 @@
+{
+  "clientId": 6607,
+  "key": "item.misc.mercury_fulminate",
+  "kind": "item",
+  "name": {
+    "ru": "Гремучая ртуть",
+    "en": "Mercury Fulminate"
+  },
+  "apiId": "4nnj",
+  "apiIdStatus": "inferred"
+}

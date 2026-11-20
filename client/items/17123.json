@@ -1,0 +1,11 @@
+{
+  "clientId": 17123,
+  "key": "item.style.arm.saturn_monk",
+  "kind": "item",
+  "name": {
+    "ru": "«Мудрейший»",
+    "en": "The Wisest"
+  },
+  "apiId": "6wl46",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19459,
+  "key": "item.camo.arm.stalcraft_store_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «SCSTORE-2»",
+    "en": "«SCSTORE-2» Paint"
+  },
+  "apiId": "lyg7j",
+  "apiIdStatus": "inferred"
+}

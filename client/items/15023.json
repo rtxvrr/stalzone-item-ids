@@ -1,0 +1,11 @@
+{
+  "clientId": 15023,
+  "key": "item.lootbox.summer25_tickets_small",
+  "kind": "item",
+  "name": {
+    "ru": "Походный сейф",
+    "en": "Field Safe"
+  },
+  "apiId": "6wown",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26076,
+  "key": "item.food.ny23.mandarin_slice",
+  "kind": "item",
+  "name": {
+    "ru": "Дольки мандарина",
+    "en": "Mandarin Segments"
+  },
+  "apiId": "5lz3g",
+  "apiIdStatus": "inferred"
+}

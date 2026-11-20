@@ -1,0 +1,11 @@
+{
+  "clientId": 22580,
+  "key": "item.att.silencer_9a91",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель 9а-91",
+    "en": "9a-91 Silencer"
+  },
+  "apiId": "kn9p3",
+  "apiIdStatus": "inferred"
+}

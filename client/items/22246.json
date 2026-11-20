@@ -1,0 +1,11 @@
+{
+  "clientId": 22246,
+  "key": "item.22246",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел инфракрасный Renegade",
+    "en": "Renegade Infrared Sight"
+  },
+  "apiId": "7l669",
+  "apiIdStatus": "inferred"
+}

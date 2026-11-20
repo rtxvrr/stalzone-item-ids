@@ -1,0 +1,11 @@
+{
+  "clientId": 22563,
+  "key": "item.att.silencer_arsenal_indifferent",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель «Торопыжка»",
+    "en": "Hasty Silencer"
+  },
+  "apiId": "ok5p4",
+  "apiIdStatus": "inferred"
+}

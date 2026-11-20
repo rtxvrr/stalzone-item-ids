@@ -1,0 +1,11 @@
+{
+  "clientId": 16098,
+  "key": "item.16098",
+  "kind": "item",
+  "name": {
+    "ru": "Карманный прибор",
+    "en": "Pocket Device"
+  },
+  "apiId": "g4k56",
+  "apiIdStatus": "inferred"
+}

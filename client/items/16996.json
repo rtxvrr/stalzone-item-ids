@@ -1,0 +1,11 @@
+{
+  "clientId": 16996,
+  "key": "item.quest.covenant_equipment",
+  "kind": "item",
+  "name": {
+    "ru": "Снаряжение бойца «Завета»",
+    "en": "Covenant Soldier's Gear"
+  },
+  "apiId": "96kwz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25123,
+  "key": "item.arm.murmur_medic",
+  "kind": "item",
+  "name": {
+    "ru": "«Наитие»",
+    "en": "Intuition"
+  },
+  "apiId": "6w0v0",
+  "apiIdStatus": "inferred"
+}

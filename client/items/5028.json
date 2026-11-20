@@ -1,0 +1,11 @@
+{
+  "clientId": 5028,
+  "key": "item.plc.sticker.scstore_a26_freedom_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Оковы Зоны»",
+    "en": "Zone Shackles Sticker"
+  },
+  "apiId": "50wg",
+  "apiIdStatus": "inferred"
+}

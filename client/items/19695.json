@@ -1,0 +1,11 @@
+{
+  "clientId": 19695,
+  "key": "item.camo.arm.pacifist",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Пацифист»",
+    "en": "Pacifist Camouflage"
+  },
+  "apiId": "6wr9p",
+  "apiIdStatus": "inferred"
+}

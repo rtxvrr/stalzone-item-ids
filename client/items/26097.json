@@ -1,0 +1,11 @@
+{
+  "clientId": 26097,
+  "key": "item.med.desperol",
+  "kind": "item",
+  "name": {
+    "ru": "Десперол",
+    "en": "Desperol"
+  },
+  "apiId": "1r2y6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16697,
+  "key": "item.lootbox.ravent_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Гладиаторский хабар",
+    "en": "Gladiator Loot"
+  },
+  "apiId": "1rlwg",
+  "apiIdStatus": "inferred"
+}

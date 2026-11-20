@@ -1,0 +1,11 @@
+{
+  "clientId": 15019,
+  "key": "item.lootbox.spring25_top_furniture",
+  "kind": "item",
+  "name": {
+    "ru": "Декоративный набор Изнанки",
+    "en": "The Inside Out Decoration Set"
+  },
+  "apiId": "dmrmg",
+  "apiIdStatus": "inferred"
+}

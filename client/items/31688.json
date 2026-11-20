@@ -1,0 +1,11 @@
+{
+  "clientId": 31688,
+  "key": "item.blueprint.wpn.ravent_ump45",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж HK UMP45",
+    "en": "HK UMP45 Blueprint"
+  },
+  "apiId": "nko61",
+  "apiIdStatus": "inferred"
+}

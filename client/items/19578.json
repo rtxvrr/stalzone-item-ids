@@ -1,0 +1,11 @@
+{
+  "clientId": 19578,
+  "key": "item.motif.arm.skat10_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Дунай»",
+    "en": "Danube"
+  },
+  "apiId": "wjmkd",
+  "apiIdStatus": "inferred"
+}

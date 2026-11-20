@@ -1,0 +1,11 @@
+{
+  "clientId": 31523,
+  "key": "item.ny_toys.setJ.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская простая гирлянда",
+    "en": "Simple Stalker Tree Lights"
+  },
+  "apiId": "6o746",
+  "apiIdStatus": "inferred"
+}

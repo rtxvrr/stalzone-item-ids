@@ -1,0 +1,11 @@
+{
+  "clientId": 16878,
+  "key": "item.quest.otchet_3",
+  "kind": "item",
+  "name": {
+    "ru": "Отчет о проделанной работе: техническая группа профессора Ветлицкого",
+    "en": "Report on the Work Done: Professor Vetlitsky's Technical Group"
+  },
+  "apiId": "wj0yz",
+  "apiIdStatus": "inferred"
+}

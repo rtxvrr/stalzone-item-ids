@@ -1,0 +1,11 @@
+{
+  "clientId": 20583,
+  "key": "item.wpn.famas_sopmod",
+  "kind": "item",
+  "name": {
+    "ru": "FAMAS G2 SG",
+    "en": "FAMAS G2 SG"
+  },
+  "apiId": "ly2d1",
+  "apiIdStatus": "inferred"
+}

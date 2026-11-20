@@ -1,0 +1,11 @@
+{
+  "clientId": 12728,
+  "key": "item.amm.762inc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм зажигательный",
+    "en": "7.62 mm Incendiary Round"
+  },
+  "apiId": "5250",
+  "apiIdStatus": "inferred"
+}

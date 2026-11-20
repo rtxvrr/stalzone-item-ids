@@ -1,0 +1,11 @@
+{
+  "clientId": 4238,
+  "key": "item.plc.background.cosplay_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Фиолетовая бумага»",
+    "en": "Purple Paper Background"
+  },
+  "apiId": "mn9k",
+  "apiIdStatus": "inferred"
+}

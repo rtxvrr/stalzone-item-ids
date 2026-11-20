@@ -1,0 +1,11 @@
+{
+  "clientId": 25136,
+  "key": "item.arm.bulat_military",
+  "kind": "item",
+  "name": {
+    "ru": "«Скиф-2м» Военных",
+    "en": "Military SCYTHIAN-2M"
+  },
+  "apiId": "rwn4y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20279,
+  "key": "item.wpn.cr380",
+  "kind": "item",
+  "name": {
+    "ru": "CR-380",
+    "en": "CR-380"
+  },
+  "apiId": "4qn7r",
+  "apiIdStatus": "inferred"
+}

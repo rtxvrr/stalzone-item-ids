@@ -1,0 +1,11 @@
+{
+  "clientId": 26016,
+  "key": "item.med.mazz",
+  "kind": "item",
+  "name": {
+    "ru": "Мазь от ожогов",
+    "en": "Burn Cream"
+  },
+  "apiId": "n4vw6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31127,
+  "key": "item.brt.limansk.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Расцветший Горьколистник",
+    "en": "Flowering Bitterleaf"
+  },
+  "apiId": "z3ogm",
+  "apiIdStatus": "inferred"
+}

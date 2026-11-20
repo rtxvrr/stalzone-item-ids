@@ -1,0 +1,11 @@
+{
+  "clientId": 31670,
+  "key": "item.blueprint.arm.kimm",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж КИМ-99М «Малахит»",
+    "en": "MIS-99M Malachite Blueprint"
+  },
+  "apiId": "773v6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22752,
+  "key": "item.att.mag_rumag54545b",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.45 бакелитовый",
+    "en": "5.45 Bakelite Magazine"
+  },
+  "apiId": "5lpgq",
+  "apiIdStatus": "inferred"
+}

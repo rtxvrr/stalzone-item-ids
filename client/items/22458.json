@@ -1,0 +1,11 @@
+{
+  "clientId": 22458,
+  "key": "item.att.lcu_anpeqbg",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический блок AN/PEQ 15, черный (зеленый лазер)",
+    "en": "AN/PEQ 15 Tactical Unit, Black (Green Laser)"
+  },
+  "apiId": "j56y7",
+  "apiIdStatus": "inferred"
+}

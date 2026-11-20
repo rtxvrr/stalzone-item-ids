@@ -1,0 +1,11 @@
+{
+  "clientId": 10506,
+  "key": "item.device.spsh_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Ракетница",
+    "en": "Flare Gun"
+  },
+  "apiId": "wd0d",
+  "apiIdStatus": "inferred"
+}

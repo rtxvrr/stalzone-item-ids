@@ -1,0 +1,11 @@
+{
+  "clientId": 26083,
+  "key": "item.food.ny23.beans_christmas",
+  "kind": "item",
+  "name": {
+    "ru": "Фасоль «Рождественская»",
+    "en": "Christmas Beans"
+  },
+  "apiId": "lyn5j",
+  "apiIdStatus": "inferred"
+}

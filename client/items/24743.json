@@ -1,0 +1,11 @@
+{
+  "clientId": 24743,
+  "key": "item.charm.scstore_krovosos_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «SCSTORE-2»",
+    "en": "SCSTORE-2 Charm"
+  },
+  "apiId": "dm71n",
+  "apiIdStatus": "inferred"
+}

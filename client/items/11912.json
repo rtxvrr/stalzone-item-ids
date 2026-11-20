@@ -1,0 +1,11 @@
+{
+  "clientId": 11912,
+  "key": "item.plate.ceramic3",
+  "kind": "item",
+  "name": {
+    "ru": "Керамическая пластина III",
+    "en": "Ceramic Plate III"
+  },
+  "apiId": "rg5y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20035,
+  "key": "item.wpn.m16a1",
+  "kind": "item",
+  "name": {
+    "ru": "M16A1",
+    "en": "M16A1"
+  },
+  "apiId": "lyl7j",
+  "apiIdStatus": "inferred"
+}

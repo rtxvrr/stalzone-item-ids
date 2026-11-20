@@ -1,0 +1,11 @@
+{
+  "clientId": 19810,
+  "key": "item.mtl.wpn.izmoroz",
+  "kind": "item",
+  "name": {
+    "ru": "«Изморозь»",
+    "en": "Hoarfrost"
+  },
+  "apiId": "j5l9l",
+  "apiIdStatus": "inferred"
+}

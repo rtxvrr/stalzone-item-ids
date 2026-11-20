@@ -1,0 +1,11 @@
+{
+  "clientId": 18402,
+  "key": "item.camo.wpn.bf_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Токсичные осколки»",
+    "en": "Toxic shards Paint"
+  },
+  "apiId": "g4z56",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16080,
+  "key": "item.16080",
+  "kind": "item",
+  "name": {
+    "ru": "Голова Борова",
+    "en": "Hog's Head"
+  },
+  "apiId": "kn6ky",
+  "apiIdStatus": "inferred"
+}

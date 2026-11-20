@@ -1,0 +1,11 @@
+{
+  "clientId": 16267,
+  "key": "item.misc.snork_hand_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Рука шныря",
+    "en": "Skitter's Hand"
+  },
+  "apiId": "dmy6g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24872,
+  "key": "item.charm.promo_stalzone",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «STALZONE»",
+    "en": "STALZONE Charm"
+  },
+  "apiId": "96nz0",
+  "apiIdStatus": "inferred"
+}

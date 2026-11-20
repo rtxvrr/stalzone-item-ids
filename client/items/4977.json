@@ -1,0 +1,11 @@
+{
+  "clientId": 4977,
+  "key": "item.plc.sticker.scstore_nina",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Вас заметили»",
+    "en": "You've been detected Sticker"
+  },
+  "apiId": "yvmo",
+  "apiIdStatus": "inferred"
+}

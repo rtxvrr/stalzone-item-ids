@@ -1,0 +1,11 @@
+{
+  "clientId": 19012,
+  "key": "item.camo.arm.brown",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Коричневая»",
+    "en": "Brown Armor Paint"
+  },
+  "apiId": "rwklv",
+  "apiIdStatus": "inferred"
+}

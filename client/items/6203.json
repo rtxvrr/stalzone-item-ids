@@ -1,0 +1,11 @@
+{
+  "clientId": 6203,
+  "key": "item.misc.acid",
+  "kind": "item",
+  "name": {
+    "ru": "Кислота",
+    "en": "Acid"
+  },
+  "apiId": "z7d2",
+  "apiIdStatus": "inferred"
+}

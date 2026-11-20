@@ -1,0 +1,11 @@
+{
+  "clientId": 21080,
+  "key": "item.melee.antiterror",
+  "kind": "item",
+  "name": {
+    "ru": "Антитеррор",
+    "en": "Antiterror"
+  },
+  "apiId": "knvwj",
+  "apiIdStatus": "inferred"
+}

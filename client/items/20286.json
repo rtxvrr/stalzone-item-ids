@@ -1,0 +1,11 @@
+{
+  "clientId": 20286,
+  "key": "item.wpn.m1a_zashitnik",
+  "kind": "item",
+  "name": {
+    "ru": "M1A «Защитник»",
+    "en": "Protector M1A"
+  },
+  "apiId": "m0m1y",
+  "apiIdStatus": "inferred"
+}

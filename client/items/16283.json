@@ -1,0 +1,11 @@
+{
+  "clientId": 16283,
+  "key": "item.misc.snork_leg_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Голень шныря",
+    "en": "Skitter Shin"
+  },
+  "apiId": "lyr52",
+  "apiIdStatus": "inferred"
+}

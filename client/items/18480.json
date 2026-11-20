@@ -1,0 +1,11 @@
+{
+  "clientId": 18480,
+  "key": "item.camo.wpn.autumn25_skin_14",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ликвидация»",
+    "en": "Elimination Paint"
+  },
+  "apiId": "knjry",
+  "apiIdStatus": "inferred"
+}

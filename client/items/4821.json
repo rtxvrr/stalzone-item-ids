@@ -1,0 +1,11 @@
+{
+  "clientId": 4821,
+  "key": "item.plc.sticker.winter26",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «Зона ниже нуля»",
+    "en": "Sub-Zero Zone Season Sticker "
+  },
+  "apiId": "3mm1",
+  "apiIdStatus": "inferred"
+}

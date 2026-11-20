@@ -1,0 +1,11 @@
+{
+  "clientId": 25177,
+  "key": "item.arm.exo_vlasov",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет Полковника",
+    "en": "Colonel's Exoskeleton"
+  },
+  "apiId": "y35w3",
+  "apiIdStatus": "inferred"
+}

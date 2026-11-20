@@ -1,0 +1,11 @@
+{
+  "clientId": 18727,
+  "key": "item.camo.wpn.snowstorm",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Буран»",
+    "en": "Blizzard Paint"
+  },
+  "apiId": "zzvln",
+  "apiIdStatus": "inferred"
+}

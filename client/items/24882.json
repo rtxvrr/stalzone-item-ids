@@ -1,0 +1,11 @@
+{
+  "clientId": 24882,
+  "key": "item.charm.personal_shop_card_pshop",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Образец»",
+    "en": "Sample Charm"
+  },
+  "apiId": "j5kq7",
+  "apiIdStatus": "inferred"
+}

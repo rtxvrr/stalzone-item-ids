@@ -1,0 +1,11 @@
+{
+  "clientId": 24895,
+  "key": "item.charm.nea_obereg",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Оберег Хэтхэ»",
+    "en": "Haetae Amulet Charm"
+  },
+  "apiId": "6w0lj",
+  "apiIdStatus": "inferred"
+}

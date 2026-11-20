@@ -1,0 +1,11 @@
+{
+  "clientId": 16152,
+  "key": "item.16152",
+  "kind": "item",
+  "name": {
+    "ru": "Диктофон караванщика",
+    "en": "Caravan Driver's Dictophone"
+  },
+  "apiId": "5lolq",
+  "apiIdStatus": "inferred"
+}

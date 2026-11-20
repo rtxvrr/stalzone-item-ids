@@ -1,0 +1,11 @@
+{
+  "clientId": 17161,
+  "key": "item.style.arm.zveroboi_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Радист»",
+    "en": "Radio Operator"
+  },
+  "apiId": "0r94r",
+  "apiIdStatus": "inferred"
+}

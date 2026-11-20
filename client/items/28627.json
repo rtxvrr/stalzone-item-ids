@@ -1,0 +1,11 @@
+{
+  "clientId": 28627,
+  "key": "item.tmp.item.hunter_tag",
+  "kind": "item",
+  "name": {
+    "ru": "Компенсация охотничьих жетонов",
+    "en": "Hunter Token Compensation"
+  },
+  "apiId": "z3zry",
+  "apiIdStatus": "inferred"
+}

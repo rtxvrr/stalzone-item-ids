@@ -1,0 +1,11 @@
+{
+  "clientId": 8153,
+  "key": "item.quest.infection_sensor_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Датчик расчета динамики заражений",
+    "en": "Infection dynamics calculation sensor"
+  },
+  "apiId": "ypgw",
+  "apiIdStatus": "inferred"
+}

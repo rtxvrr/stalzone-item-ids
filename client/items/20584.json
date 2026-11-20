@@ -1,0 +1,11 @@
+{
+  "clientId": 20584,
+  "key": "item.wpn.mcmillan",
+  "kind": "item",
+  "name": {
+    "ru": "McMillan CS5",
+    "en": "McMillan CS5"
+  },
+  "apiId": "rw2d5",
+  "apiIdStatus": "inferred"
+}

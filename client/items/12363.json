@@ -1,0 +1,11 @@
+{
+  "clientId": 12363,
+  "key": "item.exp.lg1",
+  "kind": "item",
+  "name": {
+    "ru": "ЛГ-1 «Восторг»",
+    "en": "HG-1 Rapture"
+  },
+  "apiId": "odm4",
+  "apiIdStatus": "inferred"
+}

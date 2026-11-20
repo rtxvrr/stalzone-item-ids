@@ -1,0 +1,11 @@
+{
+  "clientId": 22250,
+  "key": "item.att.scope_rakurs",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел широкоугольный «Ракурс»",
+    "en": "Rakurs Wide-Angle Sight"
+  },
+  "apiId": "g4g2n",
+  "apiIdStatus": "inferred"
+}

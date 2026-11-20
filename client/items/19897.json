@@ -1,0 +1,11 @@
+{
+  "clientId": 19897,
+  "key": "item.motif.wpn.mk47_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Вечная война»",
+    "en": "Eternal War"
+  },
+  "apiId": "1rdqr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31480,
+  "key": "item.lootbox.autumn24_furniture",
+  "kind": "item",
+  "name": {
+    "ru": "Набор мебели для отдыха",
+    "en": "Set of furniture for relaxation"
+  },
+  "apiId": "krz90",
+  "apiIdStatus": "inferred"
+}

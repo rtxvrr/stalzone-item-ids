@@ -1,0 +1,11 @@
+{
+  "clientId": 24758,
+  "key": "item.charm.am17",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мини АМ-17»",
+    "en": "Mini AM-17 Charm"
+  },
+  "apiId": "j57y6",
+  "apiIdStatus": "inferred"
+}

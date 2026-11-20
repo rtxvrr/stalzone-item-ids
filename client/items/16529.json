@@ -1,0 +1,11 @@
+{
+  "clientId": 16529,
+  "key": "item.bag.12kar",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка картечи 12х76 мм",
+    "en": "Pouch of 12x76 mm Buckshot"
+  },
+  "apiId": "y3nlw",
+  "apiIdStatus": "inferred"
+}

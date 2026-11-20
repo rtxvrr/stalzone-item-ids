@@ -1,0 +1,11 @@
+{
+  "clientId": 4802,
+  "key": "item.plc.sticker.merc",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Наемников",
+    "en": "Mercenary Sticker"
+  },
+  "apiId": "gjjn",
+  "apiIdStatus": "inferred"
+}

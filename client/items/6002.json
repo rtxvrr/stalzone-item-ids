@@ -1,0 +1,11 @@
+{
+  "clientId": 6002,
+  "key": "item.misc.sweettooth",
+  "kind": "item",
+  "name": {
+    "ru": "Мякоть сластены",
+    "en": "Sweettooth Pulp"
+  },
+  "apiId": "g00n",
+  "apiIdStatus": "inferred"
+}

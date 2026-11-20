@@ -1,0 +1,11 @@
+{
+  "clientId": 12816,
+  "key": "item.amm.12silver",
+  "kind": "item",
+  "name": {
+    "ru": "Крупнокалиберный серебряный патрон",
+    "en": "Large-Caliber Silver Round"
+  },
+  "apiId": "nln6",
+  "apiIdStatus": "inferred"
+}

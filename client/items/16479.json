@@ -1,0 +1,11 @@
+{
+  "clientId": 16479,
+  "key": "item.misc.gas_balon",
+  "kind": "item",
+  "name": {
+    "ru": "Баллон с усыпляющим газом",
+    "en": "Canister of Sleeping Gas"
+  },
+  "apiId": "4q7vp",
+  "apiIdStatus": "inferred"
+}

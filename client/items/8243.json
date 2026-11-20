@@ -1,0 +1,11 @@
+{
+  "clientId": 8243,
+  "key": "item.quest.quest_inside_2026_anomaly_device",
+  "kind": "item",
+  "name": {
+    "ru": "Прибор Тхэ Минджуна",
+    "en": "Tae Minjoon's Device"
+  },
+  "apiId": "d09j",
+  "apiIdStatus": "inferred"
+}

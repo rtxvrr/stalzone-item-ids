@@ -1,0 +1,11 @@
+{
+  "clientId": 22556,
+  "key": "item.att.silencer_famas",
+  "kind": "item",
+  "name": {
+    "ru": "FAMAS IS",
+    "en": "FAMAS IS Silencer"
+  },
+  "apiId": "kn963",
+  "apiIdStatus": "inferred"
+}

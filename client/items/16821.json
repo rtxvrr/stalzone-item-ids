@@ -1,0 +1,11 @@
+{
+  "clientId": 16821,
+  "key": "item.quest.rusthair",
+  "kind": "item",
+  "name": {
+    "ru": "Ржавые волосы",
+    "en": "Rusty Locks"
+  },
+  "apiId": "3gzq1",
+  "apiIdStatus": "inferred"
+}

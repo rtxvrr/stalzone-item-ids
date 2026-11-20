@@ -1,0 +1,11 @@
+{
+  "clientId": 12810,
+  "key": "item.amm.9silver",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм серебряный",
+    "en": "9 mm Silver Round"
+  },
+  "apiId": "j4z7",
+  "apiIdStatus": "inferred"
+}

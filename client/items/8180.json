@@ -1,0 +1,11 @@
+{
+  "clientId": 8180,
+  "key": "item.quest.apocalypse_not_today_trap",
+  "kind": "item",
+  "name": {
+    "ru": "Ловушка",
+    "en": "Trap"
+  },
+  "apiId": "kwp3",
+  "apiIdStatus": "inferred"
+}

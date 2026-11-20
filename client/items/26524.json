@@ -1,0 +1,11 @@
+{
+  "clientId": 26524,
+  "key": "item.food.octopus",
+  "kind": "item",
+  "name": {
+    "ru": "Салат «Осьминожья свежесть»",
+    "en": "Octopus Fresh Salad"
+  },
+  "apiId": "96g6z",
+  "apiIdStatus": "inferred"
+}

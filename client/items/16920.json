@@ -1,0 +1,11 @@
+{
+  "clientId": 16920,
+  "key": "item.quest.covenant.covenant_weapons",
+  "kind": "item",
+  "name": {
+    "ru": "Запасы оружия «Завета»",
+    "en": "Covenant Weapon Reserves"
+  },
+  "apiId": "2og46",
+  "apiIdStatus": "inferred"
+}

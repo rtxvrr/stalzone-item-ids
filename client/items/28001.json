@@ -1,0 +1,11 @@
+{
+  "clientId": 28001,
+  "key": "item.28001",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Трансформатор»",
+    "en": "Transformer Artifact"
+  },
+  "apiId": "190vg",
+  "apiIdStatus": "inferred"
+}

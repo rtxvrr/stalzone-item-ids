@@ -1,0 +1,11 @@
+{
+  "clientId": 4615,
+  "key": "item.plc.pattern.na_guns",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Вторая поправка»",
+    "en": "Second Amendment Pattern"
+  },
+  "apiId": "ogq6",
+  "apiIdStatus": "inferred"
+}

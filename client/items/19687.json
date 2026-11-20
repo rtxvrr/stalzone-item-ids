@@ -1,0 +1,11 @@
+{
+  "clientId": 19687,
+  "key": "item.camo.arm.aldite",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Алдайт»",
+    "en": "Aldite Camouflage"
+  },
+  "apiId": "okvp6",
+  "apiIdStatus": "inferred"
+}

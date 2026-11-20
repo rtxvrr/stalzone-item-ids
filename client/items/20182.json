@@ -1,0 +1,11 @@
+{
+  "clientId": 20182,
+  "key": "item.wpn.k15",
+  "kind": "item",
+  "name": {
+    "ru": "K15",
+    "en": "K15"
+  },
+  "apiId": "j5op4",
+  "apiIdStatus": "inferred"
+}

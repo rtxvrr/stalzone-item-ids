@@ -1,0 +1,11 @@
+{
+  "clientId": 29950,
+  "key": "item.filler.airdrop_1",
+  "kind": "item",
+  "name": {
+    "ru": "Малая поставка торговцу",
+    "en": "Small Merchant Delivery"
+  },
+  "apiId": "gnk75",
+  "apiIdStatus": "inferred"
+}

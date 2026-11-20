@@ -1,0 +1,11 @@
+{
+  "clientId": 16514,
+  "key": "item.16514",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик патронов 9 мм",
+    "en": "Crate of 9 mm Rounds"
+  },
+  "apiId": "m0qor",
+  "apiIdStatus": "inferred"
+}

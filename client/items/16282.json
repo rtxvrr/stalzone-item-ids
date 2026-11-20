@@ -1,0 +1,11 @@
+{
+  "clientId": 16282,
+  "key": "item.misc.chimera_claw_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Коготь сильной бестии",
+    "en": "Strong Fiend's Claw"
+  },
+  "apiId": "j5qgl",
+  "apiIdStatus": "inferred"
+}

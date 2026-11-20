@@ -1,0 +1,11 @@
+{
+  "clientId": 24808,
+  "key": "item.charm.media_velichyt",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Секретный ингредиент»",
+    "en": "Secret Ingredient Charm"
+  },
+  "apiId": "knqn0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8332,
+  "key": "item.quest.logbook_sitnikova",
+  "kind": "item",
+  "name": {
+    "ru": "Журнал Ситникова",
+    "en": "Sitnikov’s Journal"
+  },
+  "apiId": "kwmp",
+  "apiIdStatus": "inferred"
+}

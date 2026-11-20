@@ -1,0 +1,11 @@
+{
+  "clientId": 9617,
+  "key": "item.prestige.ability.low_gravity",
+  "kind": "item",
+  "name": {
+    "ru": "ГГ тип IV",
+    "en": "GG type IV"
+  },
+  "apiId": "pggd",
+  "apiIdStatus": "inferred"
+}

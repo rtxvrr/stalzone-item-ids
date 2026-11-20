@@ -1,0 +1,11 @@
+{
+  "clientId": 31380,
+  "key": "item.ny_toys.setH.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичная игрушка-атом",
+    "en": "Futuristic Atom Decoration"
+  },
+  "apiId": "krzmv",
+  "apiIdStatus": "inferred"
+}

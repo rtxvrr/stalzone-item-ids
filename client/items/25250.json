@@ -1,0 +1,11 @@
+{
+  "clientId": 25250,
+  "key": "item.arm.kz1",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «КЗ-1»",
+    "en": "CD-1 Jumpsuit"
+  },
+  "apiId": "g4y3n",
+  "apiIdStatus": "inferred"
+}

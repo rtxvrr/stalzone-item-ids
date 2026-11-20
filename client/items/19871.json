@@ -1,0 +1,11 @@
+{
+  "clientId": 19871,
+  "key": "item.motif.wpn.famas_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "«Мирняк»",
+    "en": "Civvy"
+  },
+  "apiId": "6wr6n",
+  "apiIdStatus": "inferred"
+}

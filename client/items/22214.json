@@ -1,0 +1,11 @@
+{
+  "clientId": 22214,
+  "key": "item.att.scope_murmur_apogey",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический «Апогей»",
+    "en": "Apogee Optical Sight"
+  },
+  "apiId": "m0k5k",
+  "apiIdStatus": "inferred"
+}

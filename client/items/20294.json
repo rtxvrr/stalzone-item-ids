@@ -1,0 +1,11 @@
+{
+  "clientId": 20294,
+  "key": "item.wpn.cheytac200",
+  "kind": "item",
+  "name": {
+    "ru": "CheyTac M200 Intervention",
+    "en": "CheyTac M200 Intervention"
+  },
+  "apiId": "7lno6",
+  "apiIdStatus": "inferred"
+}

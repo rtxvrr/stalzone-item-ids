@@ -1,0 +1,11 @@
+{
+  "clientId": 8091,
+  "key": "item.quest.hookah_coolant",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер с хладагентом Мкртчяна",
+    "en": "Container with Mkrtchyan's coolant"
+  },
+  "apiId": "d0m5",
+  "apiIdStatus": "inferred"
+}

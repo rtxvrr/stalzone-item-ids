@@ -1,0 +1,11 @@
+{
+  "clientId": 20253,
+  "key": "item.wpn.m40-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенная M40A5",
+    "en": "Worn M40A5"
+  },
+  "apiId": "y32gk",
+  "apiIdStatus": "inferred"
+}

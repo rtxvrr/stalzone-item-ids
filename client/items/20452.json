@@ -1,0 +1,11 @@
+{
+  "clientId": 20452,
+  "key": "item.wpn.mauser",
+  "kind": "item",
+  "name": {
+    "ru": "Mauser C96",
+    "en": "Mauser C96"
+  },
+  "apiId": "5lngo",
+  "apiIdStatus": "inferred"
+}

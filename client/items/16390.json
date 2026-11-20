@@ -1,0 +1,11 @@
+{
+  "clientId": 16390,
+  "key": "item.16390",
+  "kind": "item",
+  "name": {
+    "ru": "Измененный глаз бурелома",
+    "en": "Altered Behemoth's Eye"
+  },
+  "apiId": "vj3rd",
+  "apiIdStatus": "inferred"
+}

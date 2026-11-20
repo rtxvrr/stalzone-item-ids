@@ -1,0 +1,11 @@
+{
+  "clientId": 6312,
+  "key": "item.misc.copper_oxide",
+  "kind": "item",
+  "name": {
+    "ru": "Патина",
+    "en": "Patina"
+  },
+  "apiId": "rr3l",
+  "apiIdStatus": "inferred"
+}

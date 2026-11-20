@@ -1,0 +1,11 @@
+{
+  "clientId": 22900,
+  "key": "item.att.forend_bm",
+  "kind": "item",
+  "name": {
+    "ru": "Надствольное крепление БМ",
+    "en": "BM Barrel Mount"
+  },
+  "apiId": "96prz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22714,
+  "key": "item.att.mag_browning",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин Browning",
+    "en": "Browning Extended Magazine"
+  },
+  "apiId": "m0g22",
+  "apiIdStatus": "inferred"
+}

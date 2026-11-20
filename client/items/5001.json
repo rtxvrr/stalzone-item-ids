@@ -1,0 +1,11 @@
+{
+  "clientId": 5001,
+  "key": "item.plc.sticker.prestige_patience",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Терпение»",
+    "en": "Patience Sticker"
+  },
+  "apiId": "1mz6",
+  "apiIdStatus": "inferred"
+}

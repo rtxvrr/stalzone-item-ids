@@ -1,0 +1,11 @@
+{
+  "clientId": 29930,
+  "key": "item.filler.node_4",
+  "kind": "item",
+  "name": {
+    "ru": "Огромный артефактный фрагмент",
+    "en": "Huge Artifact Fragment"
+  },
+  "apiId": "w39k3",
+  "apiIdStatus": "inferred"
+}

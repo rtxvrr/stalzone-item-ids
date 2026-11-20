@@ -1,0 +1,11 @@
+{
+  "clientId": 11459,
+  "key": "item.art.blizzard_palantir",
+  "kind": "item",
+  "name": {
+    "ru": "Морозец",
+    "en": "Chilly"
+  },
+  "apiId": "ljn2",
+  "apiIdStatus": "inferred"
+}

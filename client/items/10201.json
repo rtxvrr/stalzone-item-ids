@@ -1,0 +1,11 @@
+{
+  "clientId": 10201,
+  "key": "item.quest.breadcrumbs_audiocassette_razvoplosheniye_9",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Развоплощение»",
+    "en": "Disembodiment Cassette"
+  },
+  "apiId": "1ggr",
+  "apiIdStatus": "inferred"
+}

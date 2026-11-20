@@ -1,0 +1,11 @@
+{
+  "clientId": 17112,
+  "key": "item.style.arm.ris_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Дрессировщик Арены»",
+    "en": "Arena Tamer"
+  },
+  "apiId": "rw6dl",
+  "apiIdStatus": "inferred"
+}

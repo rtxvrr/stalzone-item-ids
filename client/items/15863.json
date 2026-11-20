@@ -1,0 +1,11 @@
+{
+  "clientId": 15863,
+  "key": "item.item_pack.spring25_2",
+  "kind": "item",
+  "name": {
+    "ru": "Сезонный Набор №2",
+    "en": "Season Pack #2"
+  },
+  "apiId": "ok49o",
+  "apiIdStatus": "inferred"
+}

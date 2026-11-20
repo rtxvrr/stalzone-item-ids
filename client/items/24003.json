@@ -1,0 +1,11 @@
+{
+  "clientId": 24003,
+  "key": "item.24003",
+  "kind": "item",
+  "name": {
+    "ru": "Золотой жетон сталкера",
+    "en": "Gold Stalker Token"
+  },
+  "apiId": "zz4rk",
+  "apiIdStatus": "inferred"
+}

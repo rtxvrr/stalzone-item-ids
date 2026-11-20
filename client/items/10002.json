@@ -1,0 +1,11 @@
+{
+  "clientId": 10002,
+  "key": "item.device.dud_elbrus",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор узкого диапазона «Эльбрус»",
+    "en": "Elbrus Short Range Detector"
+  },
+  "apiId": "gdj6",
+  "apiIdStatus": "inferred"
+}

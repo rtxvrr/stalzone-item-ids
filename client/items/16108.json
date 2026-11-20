@@ -1,0 +1,11 @@
+{
+  "clientId": 16108,
+  "key": "item.16108",
+  "kind": "item",
+  "name": {
+    "ru": "Приманка на мертвеца",
+    "en": "Bait for a Living Dead"
+  },
+  "apiId": "kn64p",
+  "apiIdStatus": "inferred"
+}

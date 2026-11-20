@@ -1,0 +1,11 @@
+{
+  "clientId": 11002,
+  "key": "item.art.electra_vspyshka",
+  "kind": "item",
+  "name": {
+    "ru": "Комета",
+    "en": "Comet"
+  },
+  "apiId": "gyn0",
+  "apiIdStatus": "inferred"
+}

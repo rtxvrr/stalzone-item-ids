@@ -1,0 +1,11 @@
+{
+  "clientId": 8193,
+  "key": "item.quest.wild_north_freed_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка «зорьки»",
+    "en": "Rise Member Cassette"
+  },
+  "apiId": "37zk",
+  "apiIdStatus": "inferred"
+}

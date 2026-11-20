@@ -1,0 +1,11 @@
+{
+  "clientId": 6054,
+  "key": "item.misc.hadron_converter",
+  "kind": "item",
+  "name": {
+    "ru": "Адронный конвертор",
+    "en": "Hadron converter"
+  },
+  "apiId": "wo6z",
+  "apiIdStatus": "inferred"
+}

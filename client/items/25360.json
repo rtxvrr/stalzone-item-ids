@@ -1,0 +1,11 @@
+{
+  "clientId": 25360,
+  "key": "item.arm.granat",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-100 «Гранат»",
+    "en": "MIS-100 Garnet"
+  },
+  "apiId": "rwgl5",
+  "apiIdStatus": "inferred"
+}

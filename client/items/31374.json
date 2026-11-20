@@ -1,0 +1,11 @@
+{
+  "clientId": 31374,
+  "key": "item.ny_toys.setG.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная редкая мишура",
+    "en": "Rare Gingerbread Tinsel"
+  },
+  "apiId": "gnpmp",
+  "apiIdStatus": "inferred"
+}

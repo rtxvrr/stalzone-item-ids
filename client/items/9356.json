@@ -1,0 +1,11 @@
+{
+  "clientId": 9356,
+  "key": "item.wpn.python_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Colt Python Выживших",
+    "en": "Survivors' Python Colt"
+  },
+  "apiId": "k053",
+  "apiIdStatus": "inferred"
+}

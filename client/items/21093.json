@@ -1,0 +1,11 @@
+{
+  "clientId": 21093,
+  "key": "item.melee.kukri_knife",
+  "kind": "item",
+  "name": {
+    "ru": "Кукри Кюри",
+    "en": "Kyuri Kukri"
+  },
+  "apiId": "3g971",
+  "apiIdStatus": "inferred"
+}

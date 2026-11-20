@@ -1,0 +1,11 @@
+{
+  "clientId": 10143,
+  "key": "item.quest.wild_north_audio_unknown3",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета неизвестного сталкера",
+    "en": "Unknown Stalker Cassette"
+  },
+  "apiId": "dd02",
+  "apiIdStatus": "inferred"
+}

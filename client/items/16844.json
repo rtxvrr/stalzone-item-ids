@@ -1,0 +1,11 @@
+{
+  "clientId": 16844,
+  "key": "item.quest.stabil_1_ny24",
+  "kind": "item",
+  "name": {
+    "ru": "Стабилизатор",
+    "en": "Stabilizer"
+  },
+  "apiId": "2oggv",
+  "apiIdStatus": "inferred"
+}

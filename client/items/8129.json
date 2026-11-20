@@ -1,0 +1,11 @@
+{
+  "clientId": 8129,
+  "key": "item.quest.operation2025_cassette2",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из администрации Полигона-7",
+    "en": "Cassette from the Administration of Area-7"
+  },
+  "apiId": "yp4w",
+  "apiIdStatus": "inferred"
+}

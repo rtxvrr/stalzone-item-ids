@@ -1,0 +1,11 @@
+{
+  "clientId": 31534,
+  "key": "item.ny_toys.setL.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Иней",
+    "en": "Frost Artifact Decoration"
+  },
+  "apiId": "j0gd4",
+  "apiIdStatus": "inferred"
+}

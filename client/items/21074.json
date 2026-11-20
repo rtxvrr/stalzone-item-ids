@@ -1,0 +1,11 @@
+{
+  "clientId": 21074,
+  "key": "item.melee.goldknuckle",
+  "kind": "item",
+  "name": {
+    "ru": "Золотые кастеты",
+    "en": "Golden Knuckles"
+  },
+  "apiId": "g4vgn",
+  "apiIdStatus": "inferred"
+}

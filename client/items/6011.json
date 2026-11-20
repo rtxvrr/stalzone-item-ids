@@ -1,0 +1,11 @@
+{
+  "clientId": 6011,
+  "key": "item.misc.golden_minerals",
+  "kind": "item",
+  "name": {
+    "ru": "Золотые минералы",
+    "en": "Golden Minerals"
+  },
+  "apiId": "lll2",
+  "apiIdStatus": "inferred"
+}

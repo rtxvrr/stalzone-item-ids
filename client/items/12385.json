@@ -1,0 +1,11 @@
+{
+  "clientId": 12385,
+  "key": "item.exp.v40_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "V40 Mini-Grenade (ослабленная)",
+    "en": "V40 Mini-Grenade (weakened)"
+  },
+  "apiId": "0dqr",
+  "apiIdStatus": "inferred"
+}

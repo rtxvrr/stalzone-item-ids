@@ -1,0 +1,11 @@
+{
+  "clientId": 31432,
+  "key": "item.lootbox.faction_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик «Зари»",
+    "en": "Rise Crate"
+  },
+  "apiId": "krzg0",
+  "apiIdStatus": "inferred"
+}

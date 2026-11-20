@@ -1,0 +1,11 @@
+{
+  "clientId": 16144,
+  "key": "item.16144",
+  "kind": "item",
+  "name": {
+    "ru": "Жучок Дерибасова",
+    "en": "Deribasov's Tracker"
+  },
+  "apiId": "2o065",
+  "apiIdStatus": "inferred"
+}

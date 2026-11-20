@@ -1,0 +1,11 @@
+{
+  "clientId": 25713,
+  "key": "item.skin.merc1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Оператор»",
+    "en": "Operator Skin"
+  },
+  "apiId": "0rnpy",
+  "apiIdStatus": "inferred"
+}

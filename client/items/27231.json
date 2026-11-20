@@ -1,0 +1,11 @@
+{
+  "clientId": 27231,
+  "key": "item.crt.season_pass_ticket_2",
+  "kind": "item",
+  "name": {
+    "ru": "Талон II-го акта",
+    "en": "Act II Ticket"
+  },
+  "apiId": "4qr3p",
+  "apiIdStatus": "inferred"
+}

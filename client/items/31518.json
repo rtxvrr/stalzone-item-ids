@@ -1,0 +1,11 @@
+{
+  "clientId": 31518,
+  "key": "item.ny_toys.setJ.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская игрушка-консерва",
+    "en": "Stalker Tin Decoration"
+  },
+  "apiId": "vngzg",
+  "apiIdStatus": "inferred"
+}

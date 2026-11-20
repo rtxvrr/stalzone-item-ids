@@ -1,0 +1,11 @@
+{
+  "clientId": 22707,
+  "key": "item.att.mag_cmag100b",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин 5.56 NATO черный",
+    "en": "5.56 NATO Drum Magazine, Black"
+  },
+  "apiId": "4qp0o",
+  "apiIdStatus": "inferred"
+}

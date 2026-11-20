@@ -1,0 +1,11 @@
+{
+  "clientId": 18754,
+  "key": "item.camo.wpn.cooling",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Охлаждение»",
+    "en": "Cool Paint"
+  },
+  "apiId": "wjv1o",
+  "apiIdStatus": "inferred"
+}

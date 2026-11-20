@@ -1,0 +1,11 @@
+{
+  "clientId": 19130,
+  "key": "item.camo.arm.tiger_digital",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Цифровой тигр»",
+    "en": "Digital Tiger Camouflage"
+  },
+  "apiId": "wjm03",
+  "apiIdStatus": "inferred"
+}

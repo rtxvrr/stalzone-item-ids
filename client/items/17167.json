@@ -1,0 +1,11 @@
+{
+  "clientId": 17167,
+  "key": "item.style.arm.albatros_heavy_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "«Арбитр»",
+    "en": "Referee"
+  },
+  "apiId": "dm6g9",
+  "apiIdStatus": "inferred"
+}

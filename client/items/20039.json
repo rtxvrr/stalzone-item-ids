@@ -1,0 +1,11 @@
+{
+  "clientId": 20039,
+  "key": "item.wpn.abakan-05",
+  "kind": "item",
+  "name": {
+    "ru": "АН-94 «Абакан»",
+    "en": "AN-94 Abakan"
+  },
+  "apiId": "okv7o",
+  "apiIdStatus": "inferred"
+}

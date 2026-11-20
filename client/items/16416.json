@@ -1,0 +1,11 @@
+{
+  "clientId": 16416,
+  "key": "item.16416",
+  "kind": "item",
+  "name": {
+    "ru": "Навигационный маячок",
+    "en": "Navigation tracker"
+  },
+  "apiId": "n4w26",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20863,
+  "key": "item.wpn.svch_a",
+  "kind": "item",
+  "name": {
+    "ru": "СВЧ (А)",
+    "en": "SVCh (A)"
+  },
+  "apiId": "ok9z6",
+  "apiIdStatus": "inferred"
+}

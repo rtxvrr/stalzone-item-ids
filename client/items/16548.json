@@ -1,0 +1,11 @@
+{
+  "clientId": 16548,
+  "key": "item.pouch.apt_s",
+  "kind": "item",
+  "name": {
+    "ru": "Подсумок с аптечками ученых",
+    "en": "Pouch of Lab First-Aid Kits"
+  },
+  "apiId": "96zjw",
+  "apiIdStatus": "inferred"
+}

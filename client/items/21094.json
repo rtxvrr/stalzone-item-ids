@@ -1,0 +1,11 @@
+{
+  "clientId": 21094,
+  "key": "item.melee.warden",
+  "kind": "item",
+  "name": {
+    "ru": "Нож Смотрителя",
+    "en": "Caretaker's Knife"
+  },
+  "apiId": "7l569",
+  "apiIdStatus": "inferred"
+}

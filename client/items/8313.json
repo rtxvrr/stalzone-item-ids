@@ -1,0 +1,11 @@
+{
+  "clientId": 8313,
+  "key": "item.quest.the_shock_wave_contract_for_the_demolition_of_the_facility",
+  "kind": "item",
+  "name": {
+    "ru": "Контракт на подрыв объекта",
+    "en": "Demolition Contract"
+  },
+  "apiId": "0v3y",
+  "apiIdStatus": "inferred"
+}

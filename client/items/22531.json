@@ -1,0 +1,11 @@
+{
+  "clientId": 22531,
+  "key": "item.att.barrel_ash12",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК АШ-12",
+    "en": "MBC ASh-12"
+  },
+  "apiId": "4qpkl",
+  "apiIdStatus": "inferred"
+}

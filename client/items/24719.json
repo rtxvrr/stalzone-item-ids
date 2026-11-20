@@ -1,0 +1,11 @@
+{
+  "clientId": 24719,
+  "key": "item.charm.summer25_pass_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Спутник»",
+    "en": "Satellite Charm"
+  },
+  "apiId": "dm7kn",
+  "apiIdStatus": "inferred"
+}

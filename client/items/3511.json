@@ -1,0 +1,11 @@
+{
+  "clientId": 3511,
+  "key": "tile.3511",
+  "kind": "tile",
+  "name": {
+    "ru": "Бетонные плиты 2х2",
+    "en": "2x2 Concrete Slabs"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

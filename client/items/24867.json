@@ -1,0 +1,11 @@
+{
+  "clientId": 24867,
+  "key": "item.charm.summer26_jeton",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон «Тайфуна»",
+    "en": "Typhoon Token"
+  },
+  "apiId": "dmgy5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22751,
+  "key": "item.att.mag_saiga1230",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин Сайга-12",
+    "en": "Saiga-12 Drum Magazine"
+  },
+  "apiId": "zz92m",
+  "apiIdStatus": "inferred"
+}

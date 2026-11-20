@@ -1,0 +1,11 @@
+{
+  "clientId": 16648,
+  "key": "item.16648",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер победителя",
+    "en": "Winner's Container"
+  },
+  "apiId": "96z4l",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20277,
+  "key": "item.wpn.wa2000",
+  "kind": "item",
+  "name": {
+    "ru": "WA2000",
+    "en": "WA2000"
+  },
+  "apiId": "y32nk",
+  "apiIdStatus": "inferred"
+}

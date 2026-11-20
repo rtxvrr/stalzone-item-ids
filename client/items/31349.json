@@ -1,0 +1,11 @@
+{
+  "clientId": 31349,
+  "key": "item.ny_toys.setF.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-лось",
+    "en": "Plush Elk Decoration"
+  },
+  "apiId": "194d1",
+  "apiIdStatus": "inferred"
+}

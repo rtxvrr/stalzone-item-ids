@@ -1,0 +1,11 @@
+{
+  "clientId": 9199,
+  "key": "item.wpn.gauss3000",
+  "kind": "item",
+  "name": {
+    "ru": "Изделие №47",
+    "en": "Object #47"
+  },
+  "apiId": "z9mn",
+  "apiIdStatus": "inferred"
+}

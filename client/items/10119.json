@@ -1,0 +1,11 @@
+{
+  "clientId": 10119,
+  "key": "item.quest.inside25_professor_echo",
+  "kind": "item",
+  "name": {
+    "ru": "Эхо Профессора",
+    "en": "Professors Echo"
+  },
+  "apiId": "ddo2",
+  "apiIdStatus": "inferred"
+}

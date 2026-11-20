@@ -1,0 +1,11 @@
+{
+  "clientId": 25714,
+  "key": "item.skin.duty1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Спец»",
+    "en": "Expert Skin"
+  },
+  "apiId": "m03g2",
+  "apiIdStatus": "inferred"
+}

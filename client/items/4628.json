@@ -1,0 +1,11 @@
+{
+  "clientId": 4628,
+  "key": "item.plc.pattern.scstore_a26_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Последний воин»",
+    "en": "Last Warrior Pattern"
+  },
+  "apiId": "50q1",
+  "apiIdStatus": "inferred"
+}

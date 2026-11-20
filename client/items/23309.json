@@ -1,0 +1,11 @@
+{
+  "clientId": 23309,
+  "key": "item.bolt_gem.base_pink",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Розовая",
+    "en": "Chromatic Particle: Pink"
+  },
+  "apiId": "qjz23",
+  "apiIdStatus": "inferred"
+}

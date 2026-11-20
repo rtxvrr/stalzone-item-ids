@@ -1,0 +1,11 @@
+{
+  "clientId": 24865,
+  "key": "item.charm.spring26_ladder",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Лестница»",
+    "en": "Ladder Charm"
+  },
+  "apiId": "p6mq6",
+  "apiIdStatus": "inferred"
+}

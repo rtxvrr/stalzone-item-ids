@@ -1,0 +1,11 @@
+{
+  "clientId": 16091,
+  "key": "item.16091",
+  "kind": "item",
+  "name": {
+    "ru": "Увесистая связка ключей",
+    "en": "Heavy Ring of Keys"
+  },
+  "apiId": "dm51j",
+  "apiIdStatus": "inferred"
+}

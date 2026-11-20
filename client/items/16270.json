@@ -1,0 +1,11 @@
+{
+  "clientId": 16270,
+  "key": "item.misc.chimera_head_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Голова бестии",
+    "en": "Fiend's Head"
+  },
+  "apiId": "7l1o9",
+  "apiIdStatus": "inferred"
+}

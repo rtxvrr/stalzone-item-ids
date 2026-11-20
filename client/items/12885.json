@@ -1,0 +1,11 @@
+{
+  "clientId": 12885,
+  "key": "item.amm.545test5",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм разрывной",
+    "en": "5.45 mm Explosive Round"
+  },
+  "apiId": "0omd",
+  "apiIdStatus": "inferred"
+}

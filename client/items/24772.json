@@ -1,0 +1,11 @@
+{
+  "clientId": 24772,
+  "key": "item.charm.lemon",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Лимон»",
+    "en": "Lemon Charm"
+  },
+  "apiId": "96nqz",
+  "apiIdStatus": "inferred"
+}

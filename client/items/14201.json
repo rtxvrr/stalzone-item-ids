@@ -1,0 +1,11 @@
+{
+  "clientId": 14201,
+  "key": "item.bag.10inc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка зажигательных 10 мм",
+    "en": "Pouch of 10 mm Incendiary Rounds"
+  },
+  "apiId": "1r03g",
+  "apiIdStatus": "inferred"
+}

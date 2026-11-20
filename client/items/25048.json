@@ -1,0 +1,11 @@
+{
+  "clientId": 25048,
+  "key": "item.arm.striker",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Страйкер»",
+    "en": "Striker Armored Suit"
+  },
+  "apiId": "96n9l",
+  "apiIdStatus": "inferred"
+}

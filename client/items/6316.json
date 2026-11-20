@@ -1,0 +1,11 @@
+{
+  "clientId": 6316,
+  "key": "item.misc.potash",
+  "kind": "item",
+  "name": {
+    "ru": "Поташ",
+    "en": "Potash"
+  },
+  "apiId": "np0w",
+  "apiIdStatus": "inferred"
+}

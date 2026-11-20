@@ -1,0 +1,11 @@
+{
+  "clientId": 16046,
+  "key": "item.16046",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты для тонкой работы",
+    "en": "Tools for Precise Work"
+  },
+  "apiId": "7lwz6",
+  "apiIdStatus": "inferred"
+}

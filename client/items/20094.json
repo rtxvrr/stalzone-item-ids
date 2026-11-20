@@ -1,0 +1,11 @@
+{
+  "clientId": 20094,
+  "key": "item.wpn.amb17",
+  "kind": "item",
+  "name": {
+    "ru": "АМБ-17",
+    "en": "AMB-17"
+  },
+  "apiId": "7lry3",
+  "apiIdStatus": "inferred"
+}

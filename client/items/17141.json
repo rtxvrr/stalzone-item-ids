@@ -1,0 +1,11 @@
+{
+  "clientId": 17141,
+  "key": "item.style.arm.grenadier_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Забытый гренадер»",
+    "en": "Forgotten Grenadier"
+  },
+  "apiId": "p6575",
+  "apiIdStatus": "inferred"
+}

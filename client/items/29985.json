@@ -1,0 +1,11 @@
+{
+  "clientId": 29985,
+  "key": "item.filler.outpost_1",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с деталями",
+    "en": "Crate of Parts"
+  },
+  "apiId": "00lry",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8260,
+  "key": "item.quest.doklad_dla_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Доклад для «Тайфуна»",
+    "en": "Report to Typhoon"
+  },
+  "apiId": "r0yv",
+  "apiIdStatus": "inferred"
+}

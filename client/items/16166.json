@@ -1,0 +1,11 @@
+{
+  "clientId": 16166,
+  "key": "item.16166",
+  "kind": "item",
+  "name": {
+    "ru": "Армейский жетон",
+    "en": "Army Token"
+  },
+  "apiId": "vj3jp",
+  "apiIdStatus": "inferred"
+}

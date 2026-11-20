@@ -1,0 +1,11 @@
+{
+  "clientId": 25053,
+  "key": "item.arm.gromila",
+  "kind": "item",
+  "name": {
+    "ru": "Tяжелый бронекостюм «Громила»",
+    "en": "Thug Heavy Armored Suit"
+  },
+  "apiId": "y352k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 9530,
+  "key": "item.abl.anm.prestige_inside",
+  "kind": "item",
+  "name": {
+    "ru": "КЛС «Порог»",
+    "en": "LPF Threshold"
+  },
+  "apiId": "wq13",
+  "apiIdStatus": "inferred"
+}

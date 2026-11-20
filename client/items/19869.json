@@ -1,0 +1,11 @@
+{
+  "clientId": 19869,
+  "key": "item.motif.wpn.arx160_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "«Спасатель»",
+    "en": "Rescuer"
+  },
+  "apiId": "3grn1",
+  "apiIdStatus": "inferred"
+}

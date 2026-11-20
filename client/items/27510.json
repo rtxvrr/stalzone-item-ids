@@ -1,0 +1,11 @@
+{
+  "clientId": 27510,
+  "key": "item.clan.tournament_camp",
+  "kind": "item",
+  "name": {
+    "ru": "Мобильный лагерь",
+    "en": "Mobile camp"
+  },
+  "apiId": "j5y7g",
+  "apiIdStatus": "inferred"
+}

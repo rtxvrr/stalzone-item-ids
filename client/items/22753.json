@@ -1,0 +1,11 @@
+{
+  "clientId": 22753,
+  "key": "item.att.mag_rumag54545p",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.45 пластиковый",
+    "en": "5.45 Plastic Magazine"
+  },
+  "apiId": "y3mj3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22323,
+  "key": "item.att.sight_panorama",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Панорама",
+    "en": "Panorama Collimator Sight"
+  },
+  "apiId": "6wvqy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8072,
+  "key": "item.quest.synthesized_composition_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Синтезированный препарат",
+    "en": "Synthesized drugs"
+  },
+  "apiId": "9vq0",
+  "apiIdStatus": "inferred"
+}

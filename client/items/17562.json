@@ -1,0 +1,11 @@
+{
+  "clientId": 17562,
+  "key": "item.style.wpn.kriss_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Промерзшая сталь»",
+    "en": "Frozen Steel"
+  },
+  "apiId": "m0ym7",
+  "apiIdStatus": "inferred"
+}

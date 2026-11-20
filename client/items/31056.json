@@ -1,0 +1,11 @@
+{
+  "clientId": 31056,
+  "key": "item.brt.bar.signal",
+  "kind": "item",
+  "name": {
+    "ru": "Маячок группы «Альфа»",
+    "en": "Alpha Group Tracker"
+  },
+  "apiId": "kr5ky",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31051,
+  "key": "item.brt.bar.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Синие дрожжи",
+    "en": "Blue Yeast"
+  },
+  "apiId": "z30qy",
+  "apiIdStatus": "inferred"
+}

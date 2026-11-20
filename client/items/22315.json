@@ -1,0 +1,11 @@
+{
+  "clientId": 22315,
+  "key": "item.att.sight_srs",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Trijicon",
+    "en": "Trijicon Collimator Sight (Green)"
+  },
+  "apiId": "okj20",
+  "apiIdStatus": "inferred"
+}

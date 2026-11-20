@@ -1,0 +1,11 @@
+{
+  "clientId": 26017,
+  "key": "item.med.morphin",
+  "kind": "item",
+  "name": {
+    "ru": "Морфин",
+    "en": "Morphine"
+  },
+  "apiId": "p62q6",
+  "apiIdStatus": "inferred"
+}

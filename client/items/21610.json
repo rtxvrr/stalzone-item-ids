@@ -1,0 +1,11 @@
+{
+  "clientId": 21610,
+  "key": "item.wpn_mod.adv.lucky_start",
+  "kind": "item",
+  "name": {
+    "ru": "«Дежавю»",
+    "en": "Deja Vu"
+  },
+  "apiId": "j51vl",
+  "apiIdStatus": "inferred"
+}

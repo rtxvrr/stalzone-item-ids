@@ -1,0 +1,11 @@
+{
+  "clientId": 17106,
+  "key": "item.style.arm.heavy_nord22",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель» группы «Норд-22»",
+    "en": "Nord-22 Group Guardian"
+  },
+  "apiId": "wj0qd",
+  "apiIdStatus": "inferred"
+}

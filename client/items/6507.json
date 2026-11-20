@@ -1,0 +1,11 @@
+{
+  "clientId": 6507,
+  "key": "item.misc.aluminum_chloride",
+  "kind": "item",
+  "name": {
+    "ru": "Хлорид алюминия",
+    "en": "Aluminum Chloride"
+  },
+  "apiId": "4njo",
+  "apiIdStatus": "inferred"
+}

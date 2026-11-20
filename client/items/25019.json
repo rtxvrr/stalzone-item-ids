@@ -1,0 +1,11 @@
+{
+  "clientId": 25019,
+  "key": "item.arm.vestcoat",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничий плащ",
+    "en": "Hunter's Cloak"
+  },
+  "apiId": "dmgqj",
+  "apiIdStatus": "inferred"
+}

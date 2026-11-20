@@ -1,0 +1,11 @@
+{
+  "clientId": 22781,
+  "key": "item.att.mag_545waffle",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.45 «Вафля»",
+    "en": "5.45 \"Waffle\" Magazine"
+  },
+  "apiId": "qjwk3",
+  "apiIdStatus": "inferred"
+}

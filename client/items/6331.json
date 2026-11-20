@@ -1,0 +1,11 @@
+{
+  "clientId": 6331,
+  "key": "item.misc.cutting_board",
+  "kind": "item",
+  "name": {
+    "ru": "Разделочная доска",
+    "en": "Cutting Board"
+  },
+  "apiId": "40rl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12741,
+  "key": "item.amm.10inc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 10 мм зажигательный",
+    "en": "10 mm Incendiary Round"
+  },
+  "apiId": "p0j2",
+  "apiIdStatus": "inferred"
+}

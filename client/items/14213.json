@@ -1,0 +1,11 @@
+{
+  "clientId": 14213,
+  "key": "item.bag.10boom",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка взрывных 10 мм",
+    "en": "Pouch of 10 mm Explosive Rounds"
+  },
+  "apiId": "0rwg9",
+  "apiIdStatus": "inferred"
+}

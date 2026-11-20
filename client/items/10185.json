@@ -1,0 +1,11 @@
+{
+  "clientId": 10185,
+  "key": "item.quest.murmur_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Тайфуна»: «Шепот»",
+    "en": "Typhoon Cassette: Murmur"
+  },
+  "apiId": "01gy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20284,
+  "key": "item.wpn.otl",
+  "kind": "item",
+  "name": {
+    "ru": "ОТЛ-03 «Карбач»",
+    "en": "OTL-03 Karbach"
+  },
+  "apiId": "rw26v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8351,
+  "key": "item.quest.zov_sever_5",
+  "kind": "item",
+  "name": {
+    "ru": "Записка группы Север 5",
+    "en": "North Group Note 5"
+  },
+  "apiId": "zp2m",
+  "apiIdStatus": "inferred"
+}

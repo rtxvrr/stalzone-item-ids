@@ -1,0 +1,11 @@
+{
+  "clientId": 20076,
+  "key": "item.wpn.groza",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-14 «Гроза»",
+    "en": "OTs-14 Groza"
+  },
+  "apiId": "5ld1g",
+  "apiIdStatus": "inferred"
+}

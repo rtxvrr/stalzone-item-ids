@@ -1,0 +1,11 @@
+{
+  "clientId": 6103,
+  "key": "item.misc.fabric",
+  "kind": "item",
+  "name": {
+    "ru": "Ткань",
+    "en": "Fabric"
+  },
+  "apiId": "z7pn",
+  "apiIdStatus": "inferred"
+}

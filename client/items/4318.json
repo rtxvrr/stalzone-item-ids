@@ -1,0 +1,11 @@
+{
+  "clientId": 4318,
+  "key": "item.plc.background.prestige_golden_raid",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Золотой рейд»",
+    "en": "Golden Raid Background"
+  },
+  "apiId": "v52d",
+  "apiIdStatus": "inferred"
+}

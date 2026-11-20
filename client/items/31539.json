@@ -1,0 +1,11 @@
+{
+  "clientId": 31539,
+  "key": "item.ny_toys.setL.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Артефактная простецкая мишура",
+    "en": "Simple Artifact Tinsel"
+  },
+  "apiId": "oln74",
+  "apiIdStatus": "inferred"
+}

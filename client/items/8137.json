@@ -1,0 +1,11 @@
+{
+  "clientId": 8137,
+  "key": "item.quest.printout_pda1_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Распечатка логов ПДА 1",
+    "en": "Printout of PDA 1 logs"
+  },
+  "apiId": "0v7r",
+  "apiIdStatus": "inferred"
+}

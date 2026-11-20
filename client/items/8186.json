@@ -1,0 +1,11 @@
+{
+  "clientId": 8186,
+  "key": "item.quest.devil_pda_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА «Заветовца»",
+    "en": "Covenant Member's PDA"
+  },
+  "apiId": "mk1r",
+  "apiIdStatus": "inferred"
+}

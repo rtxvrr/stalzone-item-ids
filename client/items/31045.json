@@ -1,0 +1,11 @@
+{
+  "clientId": 31045,
+  "key": "item.brt.les.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Чернобыльская ромашка",
+    "en": "Chernobyl Chamomile"
+  },
+  "apiId": "34z1l",
+  "apiIdStatus": "inferred"
+}

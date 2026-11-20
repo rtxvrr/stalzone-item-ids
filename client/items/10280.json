@@ -1,0 +1,11 @@
+{
+  "clientId": 10280,
+  "key": "item.phonograph.vinyl_event_newyear26",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Новый год 2026»",
+    "en": "New Year 2026 Vinyl Record"
+  },
+  "apiId": "kd3j",
+  "apiIdStatus": "inferred"
+}

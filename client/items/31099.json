@@ -1,0 +1,11 @@
+{
+  "clientId": 31099,
+  "key": "item.brt.sever.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Цветущий рыжий папоротник",
+    "en": "Flowering Red Fern"
+  },
+  "apiId": "z30my",
+  "apiIdStatus": "inferred"
+}

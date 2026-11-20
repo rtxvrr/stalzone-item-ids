@@ -1,0 +1,11 @@
+{
+  "clientId": 16259,
+  "key": "item.misc.chimera_head_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Голова слабой бестии",
+    "en": "Weak Fiend's Head"
+  },
+  "apiId": "lyr92",
+  "apiIdStatus": "inferred"
+}

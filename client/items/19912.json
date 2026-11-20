@@ -1,0 +1,11 @@
+{
+  "clientId": 19912,
+  "key": "item.mtl.wpn.mineral",
+  "kind": "item",
+  "name": {
+    "ru": "«Минералы»",
+    "en": "Minerals"
+  },
+  "apiId": "rwrq5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31520,
+  "key": "item.ny_toys.setJ.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская игрушка-горох",
+    "en": "Stalker Pea Decoration"
+  },
+  "apiId": "213zm",
+  "apiIdStatus": "inferred"
+}

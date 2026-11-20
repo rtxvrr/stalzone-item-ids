@@ -1,0 +1,11 @@
+{
+  "clientId": 16853,
+  "key": "item.quest.goat_pills_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Козлиные» пилюли",
+    "en": "Goat pills"
+  },
+  "apiId": "y30y0",
+  "apiIdStatus": "inferred"
+}

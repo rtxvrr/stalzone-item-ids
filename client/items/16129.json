@@ -1,0 +1,11 @@
+{
+  "clientId": 16129,
+  "key": "item.16129",
+  "kind": "item",
+  "name": {
+    "ru": "Шкура крысиного короля",
+    "en": "Rat King's Hide"
+  },
+  "apiId": "y3n13",
+  "apiIdStatus": "inferred"
+}

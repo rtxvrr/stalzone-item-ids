@@ -1,0 +1,11 @@
+{
+  "clientId": 19472,
+  "key": "item.camo.arm.autumn25_twitch_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Брызги»",
+    "en": "Splatters Paint"
+  },
+  "apiId": "962n0",
+  "apiIdStatus": "inferred"
+}

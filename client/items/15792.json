@@ -1,0 +1,11 @@
+{
+  "clientId": 15792,
+  "key": "item.quest.tutorial_case",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер с артефактом",
+    "en": "Container with an Artifact"
+  },
+  "apiId": "2ord6",
+  "apiIdStatus": "inferred"
+}

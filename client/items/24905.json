@@ -1,0 +1,11 @@
+{
+  "clientId": 24905,
+  "key": "item.charm.media_eto_zona",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Это Зона, братан»",
+    "en": "This is the Zone, bro Charm"
+  },
+  "apiId": "y350w",
+  "apiIdStatus": "inferred"
+}

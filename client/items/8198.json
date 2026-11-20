@@ -1,0 +1,11 @@
+{
+  "clientId": 8198,
+  "key": "item.quest.point_of_no_return_radan",
+  "kind": "item",
+  "name": {
+    "ru": "Прибор-измеритель",
+    "en": "Measuring Instrument"
+  },
+  "apiId": "gg9g",
+  "apiIdStatus": "inferred"
+}

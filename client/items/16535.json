@@ -1,0 +1,11 @@
+{
+  "clientId": 16535,
+  "key": "item.bag.12drob",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка дроби 12х76 мм",
+    "en": "Pouch of 12x76 mm Birdshot"
+  },
+  "apiId": "lyrmq",
+  "apiIdStatus": "inferred"
+}

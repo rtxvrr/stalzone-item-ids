@@ -1,0 +1,11 @@
+{
+  "clientId": 14212,
+  "key": "item.bag.556rad",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка 5.56 «Курчатов»",
+    "en": "Pouch of 5.56 mm Kurchatov Rounds"
+  },
+  "apiId": "rwl5v",
+  "apiIdStatus": "inferred"
+}

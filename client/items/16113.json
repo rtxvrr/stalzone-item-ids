@@ -1,0 +1,11 @@
+{
+  "clientId": 16113,
+  "key": "item.16113",
+  "kind": "item",
+  "name": {
+    "ru": "Трупная мина",
+    "en": "Corpse Mine"
+  },
+  "apiId": "0r75y",
+  "apiIdStatus": "inferred"
+}

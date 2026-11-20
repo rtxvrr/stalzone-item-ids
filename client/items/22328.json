@@ -1,0 +1,11 @@
+{
+  "clientId": 22328,
+  "key": "item.att.sight_murmur18",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Перспектива»",
+    "en": "Perspective Collimator Sight"
+  },
+  "apiId": "5lvk0",
+  "apiIdStatus": "inferred"
+}

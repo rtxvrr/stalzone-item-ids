@@ -1,0 +1,11 @@
+{
+  "clientId": 20110,
+  "key": "item.wpn.arx160",
+  "kind": "item",
+  "name": {
+    "ru": "Beretta ARX-160",
+    "en": "Beretta ARX160"
+  },
+  "apiId": "j5lm4",
+  "apiIdStatus": "inferred"
+}

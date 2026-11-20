@@ -1,0 +1,11 @@
+{
+  "clientId": 16843,
+  "key": "item.quest.quantum_battery_ny24",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер с Квантовым Барьером",
+    "en": "Container with a Quantum Barrier"
+  },
+  "apiId": "dm66g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22748,
+  "key": "item.att.mag_pmag30_f",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.56 NATO PMAG, зимний",
+    "en": "5.56 NATO PMAG Magazine, Winter"
+  },
+  "apiId": "96p9y",
+  "apiIdStatus": "inferred"
+}

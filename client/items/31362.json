@@ -1,0 +1,11 @@
+{
+  "clientId": 31362,
+  "key": "item.ny_toys.setG.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-орешек",
+    "en": "Gingerbread Nut Decoration"
+  },
+  "apiId": "mry27",
+  "apiIdStatus": "inferred"
+}

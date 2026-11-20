@@ -1,0 +1,11 @@
+{
+  "clientId": 16565,
+  "key": "item.bag.762snp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка снайперских 7.62 мм",
+    "en": "Pouch of 7.62 mm Sniper Rifle Rounds"
+  },
+  "apiId": "p6q75",
+  "apiIdStatus": "inferred"
+}

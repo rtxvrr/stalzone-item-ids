@@ -1,0 +1,11 @@
+{
+  "clientId": 28630,
+  "key": "item.crt.dmz_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Популярность",
+    "en": "Polularuty"
+  },
+  "apiId": "w3jq2",
+  "apiIdStatus": "inferred"
+}

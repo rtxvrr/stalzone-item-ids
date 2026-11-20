@@ -1,0 +1,11 @@
+{
+  "clientId": 16888,
+  "key": "item.quest.merc.phil_radar",
+  "kind": "item",
+  "name": {
+    "ru": "Мини-радар Фила",
+    "en": "Phil's Mini-Radar"
+  },
+  "apiId": "n4go9",
+  "apiIdStatus": "inferred"
+}

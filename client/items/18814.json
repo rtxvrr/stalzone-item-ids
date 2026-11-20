@@ -1,0 +1,11 @@
+{
+  "clientId": 18814,
+  "key": "item.mtl.arm.flesh",
+  "kind": "item",
+  "name": {
+    "ru": "«Трансформация»",
+    "en": "Transformation"
+  },
+  "apiId": "m09gj",
+  "apiIdStatus": "inferred"
+}

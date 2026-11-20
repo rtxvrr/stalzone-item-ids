@@ -1,0 +1,11 @@
+{
+  "clientId": 29941,
+  "key": "item.filler.soap",
+  "kind": "item",
+  "name": {
+    "ru": "Советское мыло",
+    "en": "Soviet Soap"
+  },
+  "apiId": "pjvp4",
+  "apiIdStatus": "inferred"
+}

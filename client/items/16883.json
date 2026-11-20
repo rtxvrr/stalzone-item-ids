@@ -1,0 +1,11 @@
+{
+  "clientId": 16883,
+  "key": "item.quest.cold_leika",
+  "kind": "item",
+  "name": {
+    "ru": "Лейка с холодной водой",
+    "en": "Watering Can with Cold Water"
+  },
+  "apiId": "ly9o2",
+  "apiIdStatus": "inferred"
+}

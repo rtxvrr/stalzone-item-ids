@@ -1,0 +1,11 @@
+{
+  "clientId": 8144,
+  "key": "item.quest.duty_box",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер снабжения ССОП",
+    "en": "SSPP Supply Container"
+  },
+  "apiId": "22rm",
+  "apiIdStatus": "inferred"
+}

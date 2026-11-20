@@ -1,0 +1,11 @@
+{
+  "clientId": 10283,
+  "key": "item.phonograph.vinyl_event_reichstag_breakthrough",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Штурм Рейхстага»",
+    "en": "Assault on the Reichstag Vinyl Record"
+  },
+  "apiId": "ld32",
+  "apiIdStatus": "inferred"
+}

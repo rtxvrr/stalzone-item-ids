@@ -1,0 +1,11 @@
+{
+  "clientId": 21604,
+  "key": "item.wpn_mod.adv.finish_him",
+  "kind": "item",
+  "name": {
+    "ru": "«Финиш»",
+    "en": "Finish"
+  },
+  "apiId": "5l9go",
+  "apiIdStatus": "inferred"
+}

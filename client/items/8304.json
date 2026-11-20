@@ -1,0 +1,11 @@
+{
+  "clientId": 8304,
+  "key": "item.quest.the_shock_wave_sakhalin_canister",
+  "kind": "item",
+  "name": {
+    "ru": "Бидон Сахалина",
+    "en": "Sakhalin’s Water Can"
+  },
+  "apiId": "5vdq",
+  "apiIdStatus": "inferred"
+}

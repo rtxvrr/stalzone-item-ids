@@ -1,0 +1,11 @@
+{
+  "clientId": 26520,
+  "key": "item.food.turist",
+  "kind": "item",
+  "name": {
+    "ru": "«Радость туриста»",
+    "en": "Tourist's Delight"
+  },
+  "apiId": "2opo6",
+  "apiIdStatus": "inferred"
+}

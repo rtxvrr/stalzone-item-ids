@@ -1,0 +1,11 @@
+{
+  "clientId": 20582,
+  "key": "item.wpn.famas",
+  "kind": "item",
+  "name": {
+    "ru": "FAMAS G2",
+    "en": "FAMAS G2"
+  },
+  "apiId": "j5od6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31061,
+  "key": "item.brt.mg.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Подозоновик",
+    "en": "Zoneshroom"
+  },
+  "apiId": "009o9",
+  "apiIdStatus": "inferred"
+}

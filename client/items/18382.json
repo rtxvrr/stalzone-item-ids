@@ -1,0 +1,11 @@
+{
+  "clientId": 18382,
+  "key": "item.camo.wpn.winter25_skin_18",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Вечнозеленый»",
+    "en": "Evergreen Paint"
+  },
+  "apiId": "j5wm4",
+  "apiIdStatus": "inferred"
+}

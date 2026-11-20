@@ -1,0 +1,11 @@
+{
+  "clientId": 26534,
+  "key": "item.food.excellent_stew",
+  "kind": "item",
+  "name": {
+    "ru": "Отличная тушенка",
+    "en": "Excellent Canned Meat"
+  },
+  "apiId": "j5456",
+  "apiIdStatus": "inferred"
+}

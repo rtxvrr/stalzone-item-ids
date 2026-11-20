@@ -1,0 +1,11 @@
+{
+  "clientId": 22522,
+  "key": "item.att.barrel_gunethics",
+  "kind": "item",
+  "name": {
+    "ru": "GE-OCTO Gunethics",
+    "en": "GE-OCTO Gunethics"
+  },
+  "apiId": "7lp7r",
+  "apiIdStatus": "inferred"
+}

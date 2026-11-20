@@ -1,0 +1,11 @@
+{
+  "clientId": 8283,
+  "key": "item.quest.the_shock_wave_key_wrench",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ на 20",
+    "en": "Size-20 Wrench"
+  },
+  "apiId": "l4gk",
+  "apiIdStatus": "inferred"
+}

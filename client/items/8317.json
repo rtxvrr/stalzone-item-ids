@@ -1,0 +1,11 @@
+{
+  "clientId": 8317,
+  "key": "item.quest.shock_wave_sound",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенная ультразвуком вытяжка",
+    "en": "Ultrasonically Purified Extract"
+  },
+  "apiId": "plr4",
+  "apiIdStatus": "inferred"
+}

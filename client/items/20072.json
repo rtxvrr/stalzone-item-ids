@@ -1,0 +1,11 @@
+{
+  "clientId": 20072,
+  "key": "item.wpn.alk22",
+  "kind": "item",
+  "name": {
+    "ru": "АЛК-22 «Стрекоза»",
+    "en": "ALK-22 Dragonfly"
+  },
+  "apiId": "96my0",
+  "apiIdStatus": "inferred"
+}

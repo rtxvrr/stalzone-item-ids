@@ -1,0 +1,11 @@
+{
+  "clientId": 19572,
+  "key": "item.motif.arm.tank_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Горнило»",
+    "en": "Crucible"
+  },
+  "apiId": "9627w",
+  "apiIdStatus": "inferred"
+}

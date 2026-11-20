@@ -1,0 +1,11 @@
+{
+  "clientId": 20287,
+  "key": "item.wpn.m1a_osvoboditel",
+  "kind": "item",
+  "name": {
+    "ru": "M1A «Новая Заря»",
+    "en": "New Rise M1A"
+  },
+  "apiId": "okmz6",
+  "apiIdStatus": "inferred"
+}

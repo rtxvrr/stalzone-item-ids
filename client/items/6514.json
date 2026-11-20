@@ -1,0 +1,11 @@
+{
+  "clientId": 6514,
+  "key": "item.misc.blood_serum",
+  "kind": "item",
+  "name": {
+    "ru": "Кровяная сыворотка",
+    "en": "Blood Serum"
+  },
+  "apiId": "mmn2",
+  "apiIdStatus": "inferred"
+}

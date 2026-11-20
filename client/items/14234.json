@@ -1,0 +1,11 @@
+{
+  "clientId": 14234,
+  "key": "item.crate.craft_thunder",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Гром»",
+    "en": "Crate of Thunder Grenades"
+  },
+  "apiId": "j5pd0",
+  "apiIdStatus": "inferred"
+}

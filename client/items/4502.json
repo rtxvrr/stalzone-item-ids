@@ -1,0 +1,11 @@
+{
+  "clientId": 4502,
+  "key": "item.plc.pattern.merc",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Наемников",
+    "en": "Mercenary Pattern"
+  },
+  "apiId": "gzyg",
+  "apiIdStatus": "inferred"
+}

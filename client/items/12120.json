@@ -1,0 +1,11 @@
+{
+  "clientId": 12120,
+  "key": "item.bag.sack",
+  "kind": "item",
+  "name": {
+    "ru": "Вещмешок",
+    "en": "Duffel Bag"
+  },
+  "apiId": "29o6",
+  "apiIdStatus": "inferred"
+}

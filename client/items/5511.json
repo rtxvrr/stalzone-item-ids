@@ -1,0 +1,11 @@
+{
+  "clientId": 5511,
+  "key": "item.plc.customisation_pack.dmz26_1",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Летняя жара»",
+    "en": "Summer Heat Customization Pack"
+  },
+  "apiId": "lgz1",
+  "apiIdStatus": "inferred"
+}

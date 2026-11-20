@@ -1,0 +1,11 @@
+{
+  "clientId": 31645,
+  "key": "item.blueprint.arm.striker",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Страйкер»",
+    "en": "Striker Armored Suit Blueprint"
+  },
+  "apiId": "343vl",
+  "apiIdStatus": "inferred"
+}

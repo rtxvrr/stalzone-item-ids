@@ -1,0 +1,11 @@
+{
+  "clientId": 29928,
+  "key": "item.filler.node_2",
+  "kind": "item",
+  "name": {
+    "ru": "Обычный артефактный фрагмент",
+    "en": "Common Artifact Fragment"
+  },
+  "apiId": "55ymq",
+  "apiIdStatus": "inferred"
+}

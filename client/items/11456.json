@@ -1,0 +1,11 @@
+{
+  "clientId": 11456,
+  "key": "item.art.blizzard_heel",
+  "kind": "item",
+  "name": {
+    "ru": "Каблук",
+    "en": "Heel"
+  },
+  "apiId": "kqoj",
+  "apiIdStatus": "inferred"
+}

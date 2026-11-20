@@ -1,0 +1,11 @@
+{
+  "clientId": 24736,
+  "key": "item.charm.frontline_shell_fab100",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Бомбочка»",
+    "en": "Baby boom Charm"
+  },
+  "apiId": "rw7o5",
+  "apiIdStatus": "inferred"
+}

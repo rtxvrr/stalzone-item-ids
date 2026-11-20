@@ -1,0 +1,11 @@
+{
+  "clientId": 31440,
+  "key": "item.lootbox.ny_box0",
+  "kind": "item",
+  "name": {
+    "ru": "Скромный подарок",
+    "en": "Modest Gift"
+  },
+  "apiId": "nknq6",
+  "apiIdStatus": "inferred"
+}

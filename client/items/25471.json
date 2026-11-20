@@ -1,0 +1,11 @@
+{
+  "clientId": 25471,
+  "key": "item.arm.boroda",
+  "kind": "item",
+  "name": {
+    "ru": "Одеяние Бороды",
+    "en": "Beard's Garb"
+  },
+  "apiId": "6wglj",
+  "apiIdStatus": "inferred"
+}

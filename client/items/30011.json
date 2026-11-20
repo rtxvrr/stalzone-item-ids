@@ -1,0 +1,11 @@
+{
+  "clientId": 30011,
+  "key": "item.filler.valuable_12",
+  "kind": "item",
+  "name": {
+    "ru": "Техническая документация",
+    "en": "Technical Documentation"
+  },
+  "apiId": "l0r02",
+  "apiIdStatus": "inferred"
+}

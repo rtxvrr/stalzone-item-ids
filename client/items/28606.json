@@ -1,0 +1,11 @@
+{
+  "clientId": 28606,
+  "key": "item.28606",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденное устройство",
+    "en": "Damaged Device"
+  },
+  "apiId": "w3jr2",
+  "apiIdStatus": "inferred"
+}

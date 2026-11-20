@@ -1,0 +1,11 @@
+{
+  "clientId": 17535,
+  "key": "item.style.wpn.ots14m_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Вопль»",
+    "en": "Scream"
+  },
+  "apiId": "ly5l1",
+  "apiIdStatus": "inferred"
+}

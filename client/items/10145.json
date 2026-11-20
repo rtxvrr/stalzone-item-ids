@@ -1,0 +1,11 @@
+{
+  "clientId": 10145,
+  "key": "item.quest.wild_north_audio_freedom_1",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «зорьки»",
+    "en": "Rise member's cassette"
+  },
+  "apiId": "3575",
+  "apiIdStatus": "inferred"
+}

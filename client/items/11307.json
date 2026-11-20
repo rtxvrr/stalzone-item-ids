@@ -1,0 +1,11 @@
+{
+  "clientId": 11307,
+  "key": "item.art.voronka_static",
+  "kind": "item",
+  "name": {
+    "ru": "Статик",
+    "en": "Static"
+  },
+  "apiId": "4lpo",
+  "apiIdStatus": "inferred"
+}

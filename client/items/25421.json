@@ -1,0 +1,11 @@
+{
+  "clientId": 25421,
+  "key": "item.arm.saturn-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный комбинезон «Сатурн»",
+    "en": "Worn Saturn Jumpsuit"
+  },
+  "apiId": "3gdoz",
+  "apiIdStatus": "inferred"
+}

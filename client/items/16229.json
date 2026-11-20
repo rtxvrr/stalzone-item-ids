@@ -1,0 +1,11 @@
+{
+  "clientId": 16229,
+  "key": "item.16229",
+  "kind": "item",
+  "name": {
+    "ru": "Карта местности",
+    "en": "Area Map"
+  },
+  "apiId": "y3nn0",
+  "apiIdStatus": "inferred"
+}

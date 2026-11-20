@@ -1,0 +1,11 @@
+{
+  "clientId": 6310,
+  "key": "item.misc.sulfuric_acid",
+  "kind": "item",
+  "name": {
+    "ru": "Серная кислота",
+    "en": "Sulfuric Acid"
+  },
+  "apiId": "jl44",
+  "apiIdStatus": "inferred"
+}

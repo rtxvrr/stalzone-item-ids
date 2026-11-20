@@ -1,0 +1,11 @@
+{
+  "clientId": 26039,
+  "key": "item.med.lemonade",
+  "kind": "item",
+  "name": {
+    "ru": "«Веселый лимонад»",
+    "en": "Jolly Lemonade"
+  },
+  "apiId": "okdpo",
+  "apiIdStatus": "inferred"
+}

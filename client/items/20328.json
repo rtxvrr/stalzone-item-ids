@@ -1,0 +1,11 @@
+{
+  "clientId": 20328,
+  "key": "item.wpn.izh81",
+  "kind": "item",
+  "name": {
+    "ru": "ИЖ-81",
+    "en": "IZh-81"
+  },
+  "apiId": "5lnjq",
+  "apiIdStatus": "inferred"
+}

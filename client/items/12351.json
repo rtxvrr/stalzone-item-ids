@@ -1,0 +1,11 @@
+{
+  "clientId": 12351,
+  "key": "item.exp.asz40",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный АСЗ-40 «Свирель»",
+    "en": "ASZ-40 Svirel Grenade Round"
+  },
+  "apiId": "zq79",
+  "apiIdStatus": "inferred"
+}

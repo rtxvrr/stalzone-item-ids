@@ -1,0 +1,11 @@
+{
+  "clientId": 19557,
+  "key": "item.camo.unique_arm.hunt",
+  "kind": "item",
+  "name": {
+    "ru": "«Стальной охотник»",
+    "en": "Steel Hunter"
+  },
+  "apiId": "qj4m9",
+  "apiIdStatus": "inferred"
+}

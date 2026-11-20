@@ -1,0 +1,11 @@
+{
+  "clientId": 20227,
+  "key": "item.wpn.winchester-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный Winchester M70",
+    "en": "Worn Winchester M70"
+  },
+  "apiId": "zz23y",
+  "apiIdStatus": "inferred"
+}

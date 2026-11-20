@@ -1,0 +1,11 @@
+{
+  "clientId": 31794,
+  "key": "item.part.zivcas_m2c",
+  "kind": "item",
+  "name": {
+    "ru": "Часть бронекостюма ZIVCAS M2-C",
+    "en": "ZIVCAS M2-C Armored Suit Part"
+  },
+  "apiId": "77d1j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 3130,
+  "key": "tile.3130",
+  "kind": "tile",
+  "name": {
+    "ru": "Пси-поле (уровень 3)",
+    "en": "Psy-field (Level 3)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

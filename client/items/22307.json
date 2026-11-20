@@ -1,0 +1,11 @@
+{
+  "clientId": 22307,
+  "key": "item.att.sight_valdai",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Валдай»",
+    "en": "Valday Collimator Sight"
+  },
+  "apiId": "4qvyn",
+  "apiIdStatus": "inferred"
+}

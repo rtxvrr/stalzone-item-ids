@@ -1,0 +1,11 @@
+{
+  "clientId": 8081,
+  "key": "item.quest.exorcism_powered_flask",
+  "kind": "item",
+  "name": {
+    "ru": "Заряженная водка",
+    "en": "Charged Vodka"
+  },
+  "apiId": "qrl6",
+  "apiIdStatus": "inferred"
+}

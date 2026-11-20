@@ -1,0 +1,11 @@
+{
+  "clientId": 14904,
+  "key": "item.exp.rgo_sessions",
+  "kind": "item",
+  "name": {
+    "ru": "РГО",
+    "en": "RGO"
+  },
+  "apiId": "5llzq",
+  "apiIdStatus": "inferred"
+}

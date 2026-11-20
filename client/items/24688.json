@@ -1,0 +1,11 @@
+{
+  "clientId": 24688,
+  "key": "item.charm.winter25_pass_3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Волонтер»",
+    "en": "Volunteer Charm"
+  },
+  "apiId": "n4739",
+  "apiIdStatus": "inferred"
+}

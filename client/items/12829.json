@@ -1,0 +1,11 @@
+{
+  "clientId": 12829,
+  "key": "item.amm.556rad",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 «Курчатов»",
+    "en": "5.56 Kurchatov Round"
+  },
+  "apiId": "y9yz",
+  "apiIdStatus": "inferred"
+}

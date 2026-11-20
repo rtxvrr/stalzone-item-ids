@@ -1,0 +1,11 @@
+{
+  "clientId": 25117,
+  "key": "item.arm.pahan-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный «Пахан»",
+    "en": "Damaged Kingpin"
+  },
+  "apiId": "p6ml4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8237,
+  "key": "item.quest.fools_day_container",
+  "kind": "item",
+  "name": {
+    "ru": "Закрытый контейнер с реально важным компонентом для неповторимого оружия Эстакады",
+    "en": "A sealed container with a truly important component for the unique weapon of the Estacada"
+  },
+  "apiId": "0v69",
+  "apiIdStatus": "inferred"
+}

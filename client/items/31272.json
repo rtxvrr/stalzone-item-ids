@@ -1,0 +1,11 @@
+{
+  "clientId": 31272,
+  "key": "item.ny_toys.setQ.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Советская простая гирлянда",
+    "en": "Simple Soviet Tree Lights"
+  },
+  "apiId": "9d1oq",
+  "apiIdStatus": "inferred"
+}

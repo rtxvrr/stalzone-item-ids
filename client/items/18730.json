@@ -1,0 +1,11 @@
+{
+  "clientId": 18730,
+  "key": "item.camo.wpn.floes",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Льдины»",
+    "en": "Ice Floe Paint"
+  },
+  "apiId": "wjv6o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19786,
+  "key": "item.camo.arm.dark_valley",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Темный дол»",
+    "en": "Dark Valley Camouflage"
+  },
+  "apiId": "m0292",
+  "apiIdStatus": "inferred"
+}

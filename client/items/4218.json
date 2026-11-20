@@ -1,0 +1,11 @@
+{
+  "clientId": 4218,
+  "key": "item.plc.background.operations_sniper",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Фокусировка»",
+    "en": "Focus Background "
+  },
+  "apiId": "v557",
+  "apiIdStatus": "inferred"
+}

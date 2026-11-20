@@ -1,0 +1,11 @@
+{
+  "clientId": 15007,
+  "key": "item.lootbox.winter25_furniture",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний набор для Убежища",
+    "en": "New Year set for the Hideout"
+  },
+  "apiId": "4qkqj",
+  "apiIdStatus": "inferred"
+}

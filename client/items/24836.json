@@ -1,0 +1,11 @@
+{
+  "clientId": 24836,
+  "key": "item.charm.mk_star",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Маршальская звезда»",
+    "en": "Marshal's Star Charm"
+  },
+  "apiId": "rwnjg",
+  "apiIdStatus": "inferred"
+}

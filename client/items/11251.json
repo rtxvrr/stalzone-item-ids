@@ -1,0 +1,11 @@
+{
+  "clientId": 11251,
+  "key": "item.art.trampoline_meduza",
+  "kind": "item",
+  "name": {
+    "ru": "Цибуля",
+    "en": "Onion"
+  },
+  "apiId": "zyly",
+  "apiIdStatus": "inferred"
+}

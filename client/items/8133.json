@@ -1,0 +1,11 @@
+{
+  "clientId": 8133,
+  "key": "item.quest.operation2025_cassette6",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета с пометкой \"К звездам!\"",
+    "en": "Cassette marked \"Ad astra!\""
+  },
+  "apiId": "qr09",
+  "apiIdStatus": "inferred"
+}

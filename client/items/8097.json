@@ -1,0 +1,11 @@
+{
+  "clientId": 8097,
+  "key": "item.quest.suspect_pda_reznika",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА Резника",
+    "en": "Reznik PDA"
+  },
+  "apiId": "1vr6",
+  "apiIdStatus": "inferred"
+}

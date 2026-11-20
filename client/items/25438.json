@@ -1,0 +1,11 @@
+{
+  "clientId": 25438,
+  "key": "item.arm.punisher",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Каратель»",
+    "en": "Punisher Exoarmor"
+  },
+  "apiId": "m034j",
+  "apiIdStatus": "inferred"
+}

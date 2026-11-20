@@ -1,0 +1,11 @@
+{
+  "clientId": 12359,
+  "key": "item.exp.freeze",
+  "kind": "item",
+  "name": {
+    "ru": "Морозная граната",
+    "en": "Frost Grenade"
+  },
+  "apiId": "lnlq",
+  "apiIdStatus": "inferred"
+}

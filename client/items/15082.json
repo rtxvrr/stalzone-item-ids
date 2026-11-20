@@ -1,0 +1,11 @@
+{
+  "clientId": 15082,
+  "key": "item.lootbox.summer26_pass_paint",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Снятие»",
+    "en": "Removal Container"
+  },
+  "apiId": "j50ql",
+  "apiIdStatus": "inferred"
+}

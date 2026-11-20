@@ -1,0 +1,11 @@
+{
+  "clientId": 31368,
+  "key": "item.ny_toys.setG.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-черепок",
+    "en": "Gingerbread Skull Decoration"
+  },
+  "apiId": "213n6",
+  "apiIdStatus": "inferred"
+}

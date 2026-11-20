@@ -1,0 +1,11 @@
+{
+  "clientId": 8244,
+  "key": "item.quest.trucks_skaner",
+  "kind": "item",
+  "name": {
+    "ru": "КС-У-11",
+    "en": "QS-E-11"
+  },
+  "apiId": "22wl",
+  "apiIdStatus": "inferred"
+}

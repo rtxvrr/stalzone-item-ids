@@ -1,0 +1,11 @@
+{
+  "clientId": 19781,
+  "key": "item.camo.arm.shake",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Встряска»",
+    "en": "Shake-Up Camouflage"
+  },
+  "apiId": "qjv53",
+  "apiIdStatus": "inferred"
+}

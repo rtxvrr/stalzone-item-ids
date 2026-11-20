@@ -1,0 +1,11 @@
+{
+  "clientId": 31348,
+  "key": "item.ny_toys.setF.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-снежинка",
+    "en": "Plush Snowflake Decoration"
+  },
+  "apiId": "9d1mz",
+  "apiIdStatus": "inferred"
+}

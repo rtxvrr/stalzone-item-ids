@@ -1,0 +1,11 @@
+{
+  "clientId": 8092,
+  "key": "item.quest.hookah_can",
+  "kind": "item",
+  "name": {
+    "ru": "Бидон с удобрением",
+    "en": "Canister with Fertilizer"
+  },
+  "apiId": "22o0",
+  "apiIdStatus": "inferred"
+}

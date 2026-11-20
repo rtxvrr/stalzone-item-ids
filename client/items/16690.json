@@ -1,0 +1,11 @@
+{
+  "clientId": 16690,
+  "key": "item.lootbox.halloween_2022",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик Разбитого отражения",
+    "en": "Shattered Reflection Crate"
+  },
+  "apiId": "vj3wr",
+  "apiIdStatus": "inferred"
+}

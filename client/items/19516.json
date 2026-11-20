@@ -1,0 +1,11 @@
+{
+  "clientId": 19516,
+  "key": "item.camo.unique_arm.neon",
+  "kind": "item",
+  "name": {
+    "ru": "«Псих»",
+    "en": "Psycho"
+  },
+  "apiId": "n45vw",
+  "apiIdStatus": "inferred"
+}

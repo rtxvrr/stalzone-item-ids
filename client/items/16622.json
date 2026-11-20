@@ -1,0 +1,11 @@
+{
+  "clientId": 16622,
+  "key": "item.bag.barricade",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка Баррикад",
+    "en": "Pouch of Barricades"
+  },
+  "apiId": "7l1z6",
+  "apiIdStatus": "inferred"
+}

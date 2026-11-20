@@ -1,0 +1,11 @@
+{
+  "clientId": 19563,
+  "key": "item.camo.unique_arm.ao5_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "«Любимчик Тренера»",
+    "en": "Coach's Favorite"
+  },
+  "apiId": "okyo4",
+  "apiIdStatus": "inferred"
+}

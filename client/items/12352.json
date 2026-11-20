@@ -1,0 +1,11 @@
+{
+  "clientId": 12352,
+  "key": "item.exp.m704",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный M704",
+    "en": "M704 Grenade Round"
+  },
+  "apiId": "5zd4",
+  "apiIdStatus": "inferred"
+}

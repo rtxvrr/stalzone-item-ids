@@ -1,0 +1,11 @@
+{
+  "clientId": 4201,
+  "key": "item.plc.background.stalkers",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сталкеров",
+    "en": "Stalker Background"
+  },
+  "apiId": "1yyr",
+  "apiIdStatus": "inferred"
+}

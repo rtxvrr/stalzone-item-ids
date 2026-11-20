@@ -1,0 +1,11 @@
+{
+  "clientId": 24854,
+  "key": "item.charm.blitz_turret",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «АркТек-Бот»",
+    "en": "ArcTech Bot Charm"
+  },
+  "apiId": "wjg9p",
+  "apiIdStatus": "inferred"
+}

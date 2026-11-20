@@ -1,0 +1,11 @@
+{
+  "clientId": 31057,
+  "key": "item.brt.bar.signal_add",
+  "kind": "item",
+  "name": {
+    "ru": "Ретранслятор «Альфа»",
+    "en": "Alpha Relay Station"
+  },
+  "apiId": "q03mj",
+  "apiIdStatus": "inferred"
+}

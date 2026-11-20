@@ -1,0 +1,11 @@
+{
+  "clientId": 18741,
+  "key": "item.camo.wpn.hotair",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Горячий воздух»",
+    "en": "Hot Air Paint"
+  },
+  "apiId": "p6z12",
+  "apiIdStatus": "inferred"
+}

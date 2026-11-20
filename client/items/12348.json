@@ -1,0 +1,11 @@
+{
+  "clientId": 12348,
+  "key": "item.exp.vog25p",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный ВОГ-25П «Подкидыш»",
+    "en": "VOG-25 Podkidysh Grenade Round"
+  },
+  "apiId": "94mw",
+  "apiIdStatus": "inferred"
+}

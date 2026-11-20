@@ -1,0 +1,11 @@
+{
+  "clientId": 5300,
+  "key": "item.plc.tag.mrcool",
+  "kind": "item",
+  "name": {
+    "ru": "Мистер Крутой",
+    "en": "Mr. Cool"
+  },
+  "apiId": "92zy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24303,
+  "key": "item.charm.psy_sivor",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Экспериментальная Пси-сыворотка»",
+    "en": "Experimental Psy-Serum Charm"
+  },
+  "apiId": "zzdw9",
+  "apiIdStatus": "inferred"
+}

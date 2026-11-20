@@ -1,0 +1,11 @@
+{
+  "clientId": 31505,
+  "key": "item.ny_toys.setK.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-лось",
+    "en": "Crafted Elk Decoration"
+  },
+  "apiId": "y4ylw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16564,
+  "key": "item.bag.762inc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка зажигательных 7.62 мм",
+    "en": "Pouch of 7.62 mm Incendiary Rounds"
+  },
+  "apiId": "n4w7w",
+  "apiIdStatus": "inferred"
+}

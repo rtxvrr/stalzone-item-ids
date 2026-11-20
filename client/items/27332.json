@@ -1,0 +1,11 @@
+{
+  "clientId": 27332,
+  "key": "item.misc.amalgam",
+  "kind": "item",
+  "name": {
+    "ru": "Амальгама",
+    "en": "Amalgam"
+  },
+  "apiId": "kn4l3",
+  "apiIdStatus": "inferred"
+}

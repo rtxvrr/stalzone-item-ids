@@ -1,0 +1,11 @@
+{
+  "clientId": 21803,
+  "key": "item.wpn_mod.adv.gas_bullets",
+  "kind": "item",
+  "name": {
+    "ru": "«Желчь»",
+    "en": "Bile"
+  },
+  "apiId": "zz5j2",
+  "apiIdStatus": "inferred"
+}

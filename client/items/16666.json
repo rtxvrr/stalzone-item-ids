@@ -1,0 +1,11 @@
+{
+  "clientId": 16666,
+  "key": "item.lootbox.incident_battlepack",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Мертвого времени»",
+    "en": "Dead Time Container"
+  },
+  "apiId": "vj3dr",
+  "apiIdStatus": "inferred"
+}

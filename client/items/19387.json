@@ -1,0 +1,11 @@
+{
+  "clientId": 19387,
+  "key": "item.camo.arm.winter25_twitch_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ядерный пепел»",
+    "en": "Nuclear Ash Paint"
+  },
+  "apiId": "oky50",
+  "apiIdStatus": "inferred"
+}

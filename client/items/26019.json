@@ -1,0 +1,11 @@
+{
+  "clientId": 26019,
+  "key": "item.med.clearmind",
+  "kind": "item",
+  "name": {
+    "ru": "«ClearMind+»",
+    "en": "\"ClearMind+\""
+  },
+  "apiId": "dmky5",
+  "apiIdStatus": "inferred"
+}

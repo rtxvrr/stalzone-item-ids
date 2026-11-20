@@ -1,0 +1,11 @@
+{
+  "clientId": 16195,
+  "key": "item.16195",
+  "kind": "item",
+  "name": {
+    "ru": "Свеча зажигания",
+    "en": "Spark Plug"
+  },
+  "apiId": "6w9o0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 30019,
+  "key": "item.filler.voenakum",
+  "kind": "item",
+  "name": {
+    "ru": "Военный аккумулятор",
+    "en": "Military Battery"
+  },
+  "apiId": "dryrg",
+  "apiIdStatus": "inferred"
+}

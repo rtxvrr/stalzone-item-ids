@@ -1,0 +1,11 @@
+{
+  "clientId": 12404,
+  "key": "item.exp.ops.combined",
+  "kind": "item",
+  "name": {
+    "ru": "«Пенная вечеринка»",
+    "en": "Foam party"
+  },
+  "apiId": "5zg1",
+  "apiIdStatus": "inferred"
+}

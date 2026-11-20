@@ -1,0 +1,11 @@
+{
+  "clientId": 4930,
+  "key": "item.plc.sticker.tiktok",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер TikTok",
+    "en": "TikTok Sticker"
+  },
+  "apiId": "wv1o",
+  "apiIdStatus": "inferred"
+}

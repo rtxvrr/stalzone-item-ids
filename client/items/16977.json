@@ -1,0 +1,11 @@
+{
+  "clientId": 16977,
+  "key": "item.season_pass.point_token_sealed",
+  "kind": "item",
+  "name": {
+    "ru": "Сезонные очки (запечатанные)",
+    "en": "Season Points (Sealed)"
+  },
+  "apiId": "y302o",
+  "apiIdStatus": "inferred"
+}

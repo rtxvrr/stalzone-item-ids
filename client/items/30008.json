@@ -1,0 +1,11 @@
+{
+  "clientId": 30008,
+  "key": "item.filler.valuable_9",
+  "kind": "item",
+  "name": {
+    "ru": "Коллекционные предметы",
+    "en": "Collectible Items"
+  },
+  "apiId": "krprj",
+  "apiIdStatus": "inferred"
+}

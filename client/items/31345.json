@@ -1,0 +1,11 @@
+{
+  "clientId": 31345,
+  "key": "item.ny_toys.setE.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая мишура",
+    "en": "Purple Tinsel"
+  },
+  "apiId": "343rg",
+  "apiIdStatus": "inferred"
+}

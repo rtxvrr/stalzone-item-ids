@@ -1,0 +1,11 @@
+{
+  "clientId": 22057,
+  "key": "item.att.forend_storm",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье «Урагана»",
+    "en": "Hurricane Handguard"
+  },
+  "apiId": "qjrpj",
+  "apiIdStatus": "inferred"
+}

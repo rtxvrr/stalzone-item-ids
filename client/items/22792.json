@@ -1,0 +1,11 @@
+{
+  "clientId": 22792,
+  "key": "item.att.mag_val30_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний увеличенный магазин для ВСС/Вал",
+    "en": "New Year's Extended Magazine for VSS/Val"
+  },
+  "apiId": "2o7j5",
+  "apiIdStatus": "inferred"
+}

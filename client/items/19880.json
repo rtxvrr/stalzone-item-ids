@@ -1,0 +1,11 @@
+{
+  "clientId": 19880,
+  "key": "item.motif.wpn.mk47_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "Оплавленный MK47",
+    "en": "Melted MK47"
+  },
+  "apiId": "knlvj",
+  "apiIdStatus": "inferred"
+}

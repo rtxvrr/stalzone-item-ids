@@ -1,0 +1,11 @@
+{
+  "clientId": 19378,
+  "key": "item.camo.arm.winter25_skin_14",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Прогресс»",
+    "en": "Progress Paint"
+  },
+  "apiId": "wjmro",
+  "apiIdStatus": "inferred"
+}

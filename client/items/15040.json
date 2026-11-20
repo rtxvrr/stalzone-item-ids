@@ -1,0 +1,11 @@
+{
+  "clientId": 15040,
+  "key": "item.lootbox.crimson_crate",
+  "kind": "item",
+  "name": {
+    "ru": "Багровый кейс",
+    "en": "Crimson Case"
+  },
+  "apiId": "n4kk9",
+  "apiIdStatus": "inferred"
+}

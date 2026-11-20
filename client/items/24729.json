@@ -1,0 +1,11 @@
+{
+  "clientId": 24729,
+  "key": "item.charm.summer25_ssop_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Наградной жетон ССОП",
+    "en": "SSPP Award Token"
+  },
+  "apiId": "y3d9o",
+  "apiIdStatus": "inferred"
+}

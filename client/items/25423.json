@@ -1,0 +1,11 @@
+{
+  "clientId": 25423,
+  "key": "item.arm.ao5-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный УКАЗ АО-5",
+    "en": "Damaged RAPS AH-5"
+  },
+  "apiId": "6wgyj",
+  "apiIdStatus": "inferred"
+}

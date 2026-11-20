@@ -1,0 +1,11 @@
+{
+  "clientId": 20069,
+  "key": "item.wpn.sr3",
+  "kind": "item",
+  "name": {
+    "ru": "СР-3 «Вихрь»",
+    "en": "SR-3 Vikhr"
+  },
+  "apiId": "3grdz",
+  "apiIdStatus": "inferred"
+}

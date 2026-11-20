@@ -1,0 +1,11 @@
+{
+  "clientId": 25710,
+  "key": "item.skin.blizzard6",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Молчание»",
+    "en": "Silence Skin"
+  },
+  "apiId": "j532g",
+  "apiIdStatus": "inferred"
+}

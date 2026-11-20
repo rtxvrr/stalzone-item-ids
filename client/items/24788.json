@@ -1,0 +1,11 @@
+{
+  "clientId": 24788,
+  "key": "item.charm.scstore_remove_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удалить перед устранением»",
+    "en": "Remove Before Assassination Charm"
+  },
+  "apiId": "n4r63",
+  "apiIdStatus": "inferred"
+}

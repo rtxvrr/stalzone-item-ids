@@ -1,0 +1,11 @@
+{
+  "clientId": 14240,
+  "key": "item.crate.craft_stinker",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Вонючка»",
+    "en": "Crate of Stinky Grenades"
+  },
+  "apiId": "n46d1",
+  "apiIdStatus": "inferred"
+}

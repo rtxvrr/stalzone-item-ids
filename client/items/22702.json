@@ -1,0 +1,11 @@
+{
+  "clientId": 22702,
+  "key": "item.att.mag_pmag30h",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.56 NATO PMAG, хаки",
+    "en": "5.56 NATO PMAG Magazine, Khaki"
+  },
+  "apiId": "g42w5",
+  "apiIdStatus": "inferred"
+}

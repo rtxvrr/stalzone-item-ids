@@ -1,0 +1,11 @@
+{
+  "clientId": 10001,
+  "key": "item.device.dud_buryat",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор узкого диапазона «Бурят»",
+    "en": "Buryat Short Range Detector"
+  },
+  "apiId": "1gmg",
+  "apiIdStatus": "inferred"
+}

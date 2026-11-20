@@ -1,0 +1,11 @@
+{
+  "clientId": 20038,
+  "key": "item.wpn.aks74_lda",
+  "kind": "item",
+  "name": {
+    "ru": "АКС Льда",
+    "en": "Iceman's AKS"
+  },
+  "apiId": "m027j",
+  "apiIdStatus": "inferred"
+}

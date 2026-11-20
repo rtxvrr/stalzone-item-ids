@@ -1,0 +1,11 @@
+{
+  "clientId": 16043,
+  "key": "item.misc.mongen",
+  "kind": "item",
+  "name": {
+    "ru": "Генератор «шепчущих»",
+    "en": "Murmur Generator"
+  },
+  "apiId": "dm53j",
+  "apiIdStatus": "inferred"
+}

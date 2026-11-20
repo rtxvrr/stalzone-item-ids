@@ -1,0 +1,11 @@
+{
+  "clientId": 22198,
+  "key": "item.att.handgrip_bone",
+  "kind": "item",
+  "name": {
+    "ru": "Костяная рукоятка",
+    "en": "Bone Grip"
+  },
+  "apiId": "g4gv5",
+  "apiIdStatus": "inferred"
+}

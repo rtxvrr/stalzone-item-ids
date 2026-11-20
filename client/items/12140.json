@@ -1,0 +1,11 @@
+{
+  "clientId": 12140,
+  "key": "item.bag.npa",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак NPA",
+    "en": "NPA Backpack"
+  },
+  "apiId": "nv43",
+  "apiIdStatus": "inferred"
+}

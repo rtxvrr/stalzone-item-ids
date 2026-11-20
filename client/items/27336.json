@@ -1,0 +1,11 @@
+{
+  "clientId": 27336,
+  "key": "item.misc.blizzard_iceshard",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяной осколок",
+    "en": "Ice Shard"
+  },
+  "apiId": "rw32l",
+  "apiIdStatus": "inferred"
+}

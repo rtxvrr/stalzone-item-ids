@@ -1,0 +1,11 @@
+{
+  "clientId": 22568,
+  "key": "item.att.silencer_honeybadger",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель AAC Honey Badger",
+    "en": "Honey Badger AAC Silencer"
+  },
+  "apiId": "2o70m",
+  "apiIdStatus": "inferred"
+}

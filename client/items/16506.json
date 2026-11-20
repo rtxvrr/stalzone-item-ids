@@ -1,0 +1,11 @@
+{
+  "clientId": 16506,
+  "key": "item.upg.tools_1",
+  "kind": "item",
+  "name": {
+    "ru": "Дешевые инструменты",
+    "en": "Cheap Tools"
+  },
+  "apiId": "wjlrd",
+  "apiIdStatus": "inferred"
+}

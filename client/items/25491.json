@@ -1,0 +1,11 @@
+{
+  "clientId": 25491,
+  "key": "item.arm.redhood",
+  "kind": "item",
+  "name": {
+    "ru": "Красная шапочка",
+    "en": "Red Riding Hood"
+  },
+  "apiId": "dm3p5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31098,
+  "key": "item.brt.sever.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенное вещество 07270",
+    "en": "Purified Substance 07270"
+  },
+  "apiId": "gn976",
+  "apiIdStatus": "inferred"
+}

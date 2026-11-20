@@ -1,0 +1,11 @@
+{
+  "clientId": 28708,
+  "key": "item.misc.raven_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон снаряжения гладиатора",
+    "en": "Gladiator Gear Token"
+  },
+  "apiId": "krn3p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16190,
+  "key": "item.16190",
+  "kind": "item",
+  "name": {
+    "ru": "Посылка ученых из Шахт",
+    "en": "Scientists' Package from the Mines"
+  },
+  "apiId": "vj3np",
+  "apiIdStatus": "inferred"
+}

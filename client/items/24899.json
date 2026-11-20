@@ -1,0 +1,11 @@
+{
+  "clientId": 24899,
+  "key": "item.charm.quest_mushroom_4",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Атомная груздь»",
+    "en": "Atomic Milk Mushroom Charm"
+  },
+  "apiId": "zzy02",
+  "apiIdStatus": "inferred"
+}

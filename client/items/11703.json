@@ -1,0 +1,11 @@
+{
+  "clientId": 11703,
+  "key": "item.wpn_mod.token",
+  "kind": "item",
+  "name": {
+    "ru": "Ингибитор ядра",
+    "en": "Core Inhibitor"
+  },
+  "apiId": "zjn9",
+  "apiIdStatus": "inferred"
+}

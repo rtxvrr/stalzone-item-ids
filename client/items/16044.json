@@ -1,0 +1,11 @@
+{
+  "clientId": 16044,
+  "key": "item.16044",
+  "kind": "item",
+  "name": {
+    "ru": "Колода карт",
+    "en": "Deck of Cards"
+  },
+  "apiId": "2orvl",
+  "apiIdStatus": "inferred"
+}

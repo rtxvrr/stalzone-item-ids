@@ -1,0 +1,11 @@
+{
+  "clientId": 25201,
+  "key": "item.arm.hunter_donate",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничий костюм",
+    "en": "Hunter's Suit"
+  },
+  "apiId": "1rk5r",
+  "apiIdStatus": "inferred"
+}

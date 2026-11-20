@@ -1,0 +1,11 @@
+{
+  "clientId": 16471,
+  "key": "item.quest.doc_live",
+  "kind": "item",
+  "name": {
+    "ru": "Документы о расселении",
+    "en": "Documents on resettlement"
+  },
+  "apiId": "6w9vj",
+  "apiIdStatus": "inferred"
+}

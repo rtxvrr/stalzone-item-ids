@@ -1,0 +1,11 @@
+{
+  "clientId": 19543,
+  "key": "item.camo.unique_arm.arctica",
+  "kind": "item",
+  "name": {
+    "ru": "«Арктика»",
+    "en": "Arctic"
+  },
+  "apiId": "dmz19",
+  "apiIdStatus": "inferred"
+}

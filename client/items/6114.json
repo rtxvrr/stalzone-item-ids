@@ -1,0 +1,11 @@
+{
+  "clientId": 6114,
+  "key": "item.misc.dead_eye",
+  "kind": "item",
+  "name": {
+    "ru": "Глаз зомби",
+    "en": "Zombie Eye"
+  },
+  "apiId": "m2k7",
+  "apiIdStatus": "inferred"
+}

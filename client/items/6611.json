@@ -1,0 +1,11 @@
+{
+  "clientId": 6611,
+  "key": "item.misc.detoxification_agent",
+  "kind": "item",
+  "name": {
+    "ru": "Антитоксин",
+    "en": "Antitoxin"
+  },
+  "apiId": "l222",
+  "apiIdStatus": "inferred"
+}

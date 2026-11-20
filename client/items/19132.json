@@ -1,0 +1,11 @@
+{
+  "clientId": 19132,
+  "key": "item.camo.arm.fir",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Ельник»",
+    "en": "Spruce Camouflage"
+  },
+  "apiId": "kn15p",
+  "apiIdStatus": "inferred"
+}

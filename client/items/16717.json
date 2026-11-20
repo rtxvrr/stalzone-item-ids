@@ -1,0 +1,11 @@
+{
+  "clientId": 16717,
+  "key": "item.16717",
+  "kind": "item",
+  "name": {
+    "ru": "Протоартефакт «Пуха»",
+    "en": "Fluff Protoartifact"
+  },
+  "apiId": "p65k4",
+  "apiIdStatus": "inferred"
+}

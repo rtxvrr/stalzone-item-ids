@@ -1,0 +1,11 @@
+{
+  "clientId": 22709,
+  "key": "item.att.mag_aa1220",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин AA-12",
+    "en": "AA-12 Drum Magazine"
+  },
+  "apiId": "qjwv3",
+  "apiIdStatus": "inferred"
+}

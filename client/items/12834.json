@@ -1,0 +1,11 @@
+{
+  "clientId": 12834,
+  "key": "item.amm.127sft",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12.7 мм «EasyMode»",
+    "en": "12.7 mm Easy Mode Round"
+  },
+  "apiId": "j4g7",
+  "apiIdStatus": "inferred"
+}

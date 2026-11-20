@@ -1,0 +1,11 @@
+{
+  "clientId": 24313,
+  "key": "item.charm.limonka",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Лимонка»",
+    "en": "Hand Grenade Charm"
+  },
+  "apiId": "0rz9r",
+  "apiIdStatus": "inferred"
+}

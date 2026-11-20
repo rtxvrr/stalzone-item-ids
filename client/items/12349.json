@@ -1,0 +1,11 @@
+{
+  "clientId": 12349,
+  "key": "item.exp.m381",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный M381",
+    "en": "M381 Grenade Round"
+  },
+  "apiId": "12dq",
+  "apiIdStatus": "inferred"
+}

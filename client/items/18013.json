@@ -1,0 +1,11 @@
+{
+  "clientId": 18013,
+  "key": "item.camo.wpn.pink",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Розовая»",
+    "en": "Pink Weapon Paint"
+  },
+  "apiId": "0r6jk",
+  "apiIdStatus": "inferred"
+}

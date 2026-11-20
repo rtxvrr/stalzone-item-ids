@@ -1,0 +1,11 @@
+{
+  "clientId": 31911,
+  "key": "item.upg.protector_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стандартные запчасти",
+    "en": "Standard Spare Parts"
+  },
+  "apiId": "l0og1",
+  "apiIdStatus": "inferred"
+}

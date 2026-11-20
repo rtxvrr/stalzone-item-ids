@@ -1,0 +1,11 @@
+{
+  "clientId": 10121,
+  "key": "item.quest.inside25_poet_echo",
+  "kind": "item",
+  "name": {
+    "ru": "Эхо Поэта",
+    "en": "Poets Echo"
+  },
+  "apiId": "35l5",
+  "apiIdStatus": "inferred"
+}

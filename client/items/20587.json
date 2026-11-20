@@ -1,0 +1,11 @@
+{
+  "clientId": 20587,
+  "key": "item.wpn.psg",
+  "kind": "item",
+  "name": {
+    "ru": "HK PSG1",
+    "en": "HK PSG1"
+  },
+  "apiId": "okm20",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24901,
+  "key": "item.charm.media_anime",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Засада»",
+    "en": "Ambush Charm"
+  },
+  "apiId": "1rk1q",
+  "apiIdStatus": "inferred"
+}

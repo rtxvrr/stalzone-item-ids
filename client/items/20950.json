@@ -1,0 +1,11 @@
+{
+  "clientId": 20950,
+  "key": "item.wpn.rg6",
+  "kind": "item",
+  "name": {
+    "ru": "РГ-6",
+    "en": "RG-6"
+  },
+  "apiId": "g4vj5",
+  "apiIdStatus": "inferred"
+}

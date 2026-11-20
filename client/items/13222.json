@@ -1,0 +1,11 @@
+{
+  "clientId": 13222,
+  "key": "item.camo.wpn.spring26_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Шрамы»",
+    "en": "Scars Paint"
+  },
+  "apiId": "7999",
+  "apiIdStatus": "inferred"
+}

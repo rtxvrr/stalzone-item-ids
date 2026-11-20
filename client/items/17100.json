@@ -1,0 +1,11 @@
+{
+  "clientId": 17100,
+  "key": "item.style.arm.expedition_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Отступник»",
+    "en": "Defector"
+  },
+  "apiId": "96klw",
+  "apiIdStatus": "inferred"
+}

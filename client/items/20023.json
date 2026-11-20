@@ -1,0 +1,11 @@
+{
+  "clientId": 20023,
+  "key": "item.wpn.k2_damaged",
+  "kind": "item",
+  "name": {
+    "ru": "Потертый K2",
+    "en": "Worn K2"
+  },
+  "apiId": "6wrqj",
+  "apiIdStatus": "inferred"
+}

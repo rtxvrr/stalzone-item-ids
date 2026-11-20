@@ -1,0 +1,11 @@
+{
+  "clientId": 25426,
+  "key": "item.arm.mule",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Мул»",
+    "en": "Mule Exoarmor"
+  },
+  "apiId": "g43k0",
+  "apiIdStatus": "inferred"
+}

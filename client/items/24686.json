@@ -1,0 +1,11 @@
+{
+  "clientId": 24686,
+  "key": "item.charm.winter25_pass_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Журавль»",
+    "en": "Crane Charm"
+  },
+  "apiId": "m073k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4914,
+  "key": "item.plc.sticker.vk",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер VK",
+    "en": "VK Sticker"
+  },
+  "apiId": "m9v7",
+  "apiIdStatus": "inferred"
+}

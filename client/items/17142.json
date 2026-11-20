@@ -1,0 +1,11 @@
+{
+  "clientId": 17142,
+  "key": "item.style.arm.courier_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Затерянный путник»",
+    "en": "Forgotten Traveler"
+  },
+  "apiId": "vj07g",
+  "apiIdStatus": "inferred"
+}

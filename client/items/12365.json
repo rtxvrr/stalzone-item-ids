@@ -1,0 +1,11 @@
+{
+  "clientId": 12365,
+  "key": "item.exp.hotjack",
+  "kind": "item",
+  "name": {
+    "ru": "«Горячий Джек»",
+    "en": "Hot Jack"
+  },
+  "apiId": "p235",
+  "apiIdStatus": "inferred"
+}

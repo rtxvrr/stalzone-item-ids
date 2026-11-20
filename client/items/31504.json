@@ -1,0 +1,11 @@
+{
+  "clientId": 31504,
+  "key": "item.ny_toys.setK.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-бантик",
+    "en": "Crafted Bow Decoration"
+  },
+  "apiId": "55344",
+  "apiIdStatus": "inferred"
+}

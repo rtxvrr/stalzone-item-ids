@@ -1,0 +1,11 @@
+{
+  "clientId": 24711,
+  "key": "item.charm.rebel_diary",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Дневник Бунтаря»",
+    "en": "Rebel's Diary Charm"
+  },
+  "apiId": "ly7n1",
+  "apiIdStatus": "inferred"
+}

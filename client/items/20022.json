@@ -1,0 +1,11 @@
+{
+  "clientId": 20022,
+  "key": "item.wpn.gornostay",
+  "kind": "item",
+  "name": {
+    "ru": "АКС-9 «Горностай»",
+    "en": "AKS-9 Stoat"
+  },
+  "apiId": "7lrj3",
+  "apiIdStatus": "inferred"
+}

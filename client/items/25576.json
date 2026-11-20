@@ -1,0 +1,11 @@
+{
+  "clientId": 25576,
+  "key": "item.arm.puppeteer_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Обличие Охотника»",
+    "en": "Hunter's Guise"
+  },
+  "apiId": "5l174",
+  "apiIdStatus": "inferred"
+}

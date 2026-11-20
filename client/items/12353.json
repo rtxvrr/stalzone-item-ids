@@ -1,0 +1,11 @@
+{
+  "clientId": 12353,
+  "key": "item.exp.of1",
+  "kind": "item",
+  "name": {
+    "ru": "ОФ-1 «Карнавал»",
+    "en": "OF-1 Carnival"
+  },
+  "apiId": "yk7w",
+  "apiIdStatus": "inferred"
+}

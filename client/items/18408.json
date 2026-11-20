@@ -1,0 +1,11 @@
+{
+  "clientId": 18408,
+  "key": "item.camo.wpn.bf_skin_11",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Изумрудный взрыв»",
+    "en": "Emerald blast Paint"
+  },
+  "apiId": "kn24y",
+  "apiIdStatus": "inferred"
+}

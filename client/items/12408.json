@@ -1,0 +1,11 @@
+{
+  "clientId": 12408,
+  "key": "item.exp.ops.support_ultimate",
+  "kind": "item",
+  "name": {
+    "ru": "Лечебный состав",
+    "en": "Therapeutic composition"
+  },
+  "apiId": "kogy",
+  "apiIdStatus": "inferred"
+}

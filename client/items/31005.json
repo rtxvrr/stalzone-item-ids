@@ -1,0 +1,11 @@
+{
+  "clientId": 31005,
+  "key": "item.brt.kordon.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Семечки",
+    "en": "Seeds"
+  },
+  "apiId": "y405k",
+  "apiIdStatus": "inferred"
+}

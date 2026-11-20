@@ -1,0 +1,11 @@
+{
+  "clientId": 25447,
+  "key": "item.arm.teller",
+  "kind": "item",
+  "name": {
+    "ru": "Плащ рассказчика",
+    "en": "Storyteller's Cloak"
+  },
+  "apiId": "6wg9j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24696,
+  "key": "item.charm.winter25_snowgirl_player",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Послание Sнегурочки»",
+    "en": "Charm Snow Maiden's Message"
+  },
+  "apiId": "96r4q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21605,
+  "key": "item.wpn_mod.adv.shooting_wear",
+  "kind": "item",
+  "name": {
+    "ru": "«Износ»",
+    "en": "Deterioration"
+  },
+  "apiId": "y3zj0",
+  "apiIdStatus": "inferred"
+}

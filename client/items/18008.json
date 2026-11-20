@@ -1,0 +1,11 @@
+{
+  "clientId": 18008,
+  "key": "item.camo.wpn.black",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Черная»",
+    "en": "Black Weapon Paint"
+  },
+  "apiId": "kn2zj",
+  "apiIdStatus": "inferred"
+}

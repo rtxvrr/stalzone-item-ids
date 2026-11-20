@@ -1,0 +1,11 @@
+{
+  "clientId": 12381,
+  "key": "item.exp.molotov_quest_enhanced",
+  "kind": "item",
+  "name": {
+    "ru": "Коктейль Молотова (усиленный)",
+    "en": "Molotov Cocktail (enhanced)"
+  },
+  "apiId": "q929",
+  "apiIdStatus": "inferred"
+}

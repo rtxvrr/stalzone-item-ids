@@ -1,0 +1,11 @@
+{
+  "clientId": 31847,
+  "key": "item.blueprint.wpn.ravent_ak203",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж АК-203",
+    "en": "AK-203 Blueprint"
+  },
+  "apiId": "6oj7n",
+  "apiIdStatus": "inferred"
+}

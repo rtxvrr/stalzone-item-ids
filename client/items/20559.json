@@ -1,0 +1,11 @@
+{
+  "clientId": 20559,
+  "key": "item.wpn.m1014",
+  "kind": "item",
+  "name": {
+    "ru": "M1014",
+    "en": "M1014"
+  },
+  "apiId": "ly2m1",
+  "apiIdStatus": "inferred"
+}

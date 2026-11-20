@@ -1,0 +1,11 @@
+{
+  "clientId": 31722,
+  "key": "item.part.viking_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть VIKING Tactics #3",
+    "en": "VIKING Tactics Part #3"
+  },
+  "apiId": "77dlj",
+  "apiIdStatus": "inferred"
+}

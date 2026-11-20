@@ -1,0 +1,11 @@
+{
+  "clientId": 14997,
+  "key": "item.tool.bell",
+  "kind": "item",
+  "name": {
+    "ru": "Звончик",
+    "en": "Chime"
+  },
+  "apiId": "1r902",
+  "apiIdStatus": "inferred"
+}

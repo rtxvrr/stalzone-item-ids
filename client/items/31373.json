@@ -1,0 +1,11 @@
+{
+  "clientId": 31373,
+  "key": "item.ny_toys.setG.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная мишура",
+    "en": "Gingerbread Tinsel"
+  },
+  "apiId": "19471",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8037,
+  "key": "item.quest.covenant.military_painkillers",
+  "kind": "item",
+  "name": {
+    "ru": "Обезболивающее для пленника",
+    "en": "Painkiller for the prisoner"
+  },
+  "apiId": "0kod",
+  "apiIdStatus": "inferred"
+}

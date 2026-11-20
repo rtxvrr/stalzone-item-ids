@@ -1,0 +1,11 @@
+{
+  "clientId": 20015,
+  "key": "item.wpn.gepard",
+  "kind": "item",
+  "name": {
+    "ru": "«Гепард»",
+    "en": "Gepard"
+  },
+  "apiId": "okv2o",
+  "apiIdStatus": "inferred"
+}

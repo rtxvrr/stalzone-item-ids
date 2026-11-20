@@ -1,0 +1,11 @@
+{
+  "clientId": 19375,
+  "key": "item.camo.arm.winter25_skin_11",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Выработка»",
+    "en": "Output Paint"
+  },
+  "apiId": "zz69n",
+  "apiIdStatus": "inferred"
+}

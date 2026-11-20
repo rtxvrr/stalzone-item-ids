@@ -1,0 +1,11 @@
+{
+  "clientId": 16995,
+  "key": "item.quest.summer24_mite3",
+  "kind": "item",
+  "name": {
+    "ru": "Клещ-мутант",
+    "en": "Mutant tick"
+  },
+  "apiId": "6wlzy",
+  "apiIdStatus": "inferred"
+}

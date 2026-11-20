@@ -1,0 +1,11 @@
+{
+  "clientId": 12021,
+  "key": "item.cont.bathyscaphe",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Батискаф»",
+    "en": "Bathyscaphe Container"
+  },
+  "apiId": "3dd1",
+  "apiIdStatus": "inferred"
+}

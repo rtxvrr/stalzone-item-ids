@@ -1,0 +1,11 @@
+{
+  "clientId": 22535,
+  "key": "item.att.barrel_akml",
+  "kind": "item",
+  "name": {
+    "ru": "АКМЛ",
+    "en": "AKML"
+  },
+  "apiId": "ly10q",
+  "apiIdStatus": "inferred"
+}

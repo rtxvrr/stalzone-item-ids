@@ -1,0 +1,11 @@
+{
+  "clientId": 25094,
+  "key": "item.arm.sokol_main",
+  "kind": "item",
+  "name": {
+    "ru": "«Сокол» Искателя",
+    "en": "Seeker's Falcon"
+  },
+  "apiId": "7lmg6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25173,
+  "key": "item.arm.armai",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Армай»",
+    "en": "Brigand Armored Suit"
+  },
+  "apiId": "1rkz2",
+  "apiIdStatus": "inferred"
+}

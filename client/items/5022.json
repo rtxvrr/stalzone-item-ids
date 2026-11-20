@@ -1,0 +1,11 @@
+{
+  "clientId": 5022,
+  "key": "item.plc.sticker.raven26_heart_6",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Прозрение»",
+    "en": "Epiphany League Sticker"
+  },
+  "apiId": "70k3",
+  "apiIdStatus": "inferred"
+}

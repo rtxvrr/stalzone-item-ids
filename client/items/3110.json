@@ -1,0 +1,11 @@
+{
+  "clientId": 3110,
+  "key": "tile.3110",
+  "kind": "tile",
+  "name": {
+    "ru": "Радиация (уровень 3)",
+    "en": "Radiation (Level 3)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

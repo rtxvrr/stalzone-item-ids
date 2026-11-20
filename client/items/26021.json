@@ -1,0 +1,11 @@
+{
+  "clientId": 26021,
+  "key": "item.med.vodka",
+  "kind": "item",
+  "name": {
+    "ru": "Водка",
+    "en": "Vodka"
+  },
+  "apiId": "3g1qz",
+  "apiIdStatus": "inferred"
+}

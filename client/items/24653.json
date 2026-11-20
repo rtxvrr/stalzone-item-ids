@@ -1,0 +1,11 @@
+{
+  "clientId": 24653,
+  "key": "item.charm.dayx_reaction",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Вот это да!»",
+    "en": "Wow! Charm"
+  },
+  "apiId": "y3d50",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17119,
+  "key": "item.style.arm.eger_newyear24",
+  "kind": "item",
+  "name": {
+    "ru": "«Хозяин Зимнего леса»",
+    "en": "Master of the Winter Forest"
+  },
+  "apiId": "dm6d9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25115,
+  "key": "item.arm.skat9b-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Скиф-4б»",
+    "en": "Worn Scythian-4b"
+  },
+  "apiId": "ok0jm",
+  "apiIdStatus": "inferred"
+}

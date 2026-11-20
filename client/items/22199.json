@@ -1,0 +1,11 @@
+{
+  "clientId": 22199,
+  "key": "item.att.handgrip_pipe",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоятка из трубы",
+    "en": "Pipe Grip"
+  },
+  "apiId": "zzplm",
+  "apiIdStatus": "inferred"
+}

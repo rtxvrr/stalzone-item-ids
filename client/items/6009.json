@@ -1,0 +1,11 @@
+{
+  "clientId": 6009,
+  "key": "item.misc.purple_minerals",
+  "kind": "item",
+  "name": {
+    "ru": "Пурпурные минералы",
+    "en": "Purple Minerals"
+  },
+  "apiId": "qvv4",
+  "apiIdStatus": "inferred"
+}

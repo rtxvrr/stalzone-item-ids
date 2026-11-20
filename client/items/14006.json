@@ -1,0 +1,11 @@
+{
+  "clientId": 14006,
+  "key": "item.exp.m397_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный выстрел M397",
+    "en": "Handmade M397 Round"
+  },
+  "apiId": "wjnyp",
+  "apiIdStatus": "inferred"
+}

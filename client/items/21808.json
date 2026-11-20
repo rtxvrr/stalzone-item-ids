@@ -1,0 +1,11 @@
+{
+  "clientId": 21808,
+  "key": "item.wpn_mod.adv.spray",
+  "kind": "item",
+  "name": {
+    "ru": "«Спрей»",
+    "en": "Spray"
+  },
+  "apiId": "kng30",
+  "apiIdStatus": "inferred"
+}

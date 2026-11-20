@@ -1,0 +1,11 @@
+{
+  "clientId": 24638,
+  "key": "item.charm.s10",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «S10»",
+    "en": "S10 Charm"
+  },
+  "apiId": "m077k",
+  "apiIdStatus": "inferred"
+}

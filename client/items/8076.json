@@ -1,0 +1,11 @@
+{
+  "clientId": 8076,
+  "key": "item.quest.polygon3_relay",
+  "kind": "item",
+  "name": {
+    "ru": "Электромагнитное реле",
+    "en": "Electromagnetic Relay"
+  },
+  "apiId": "5vqg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24747,
+  "key": "item.charm.ssop_token_break",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Простреленный жетон ССОП»",
+    "en": "Shot-Through SSPP Token Charm"
+  },
+  "apiId": "6wqny",
+  "apiIdStatus": "inferred"
+}

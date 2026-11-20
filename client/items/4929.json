@@ -1,0 +1,11 @@
+{
+  "clientId": 4929,
+  "key": "item.plc.sticker.inside_legend",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Легенды Изнанки",
+    "en": "Legend of the Inside Out Sticker"
+  },
+  "apiId": "yvzo",
+  "apiIdStatus": "inferred"
+}

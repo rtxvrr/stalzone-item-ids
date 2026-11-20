@@ -1,0 +1,11 @@
+{
+  "clientId": 25025,
+  "key": "item.arm.ao2-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный АО-2 «Странник»",
+    "en": "Damaged AH-2 Rover"
+  },
+  "apiId": "1rkdg",
+  "apiIdStatus": "inferred"
+}

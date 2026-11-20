@@ -1,0 +1,11 @@
+{
+  "clientId": 21612,
+  "key": "item.wpn_mod.adv.persistence",
+  "kind": "item",
+  "name": {
+    "ru": "«Настойчивость»",
+    "en": "Persistence"
+  },
+  "apiId": "rwqzz",
+  "apiIdStatus": "inferred"
+}

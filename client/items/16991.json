@@ -1,0 +1,11 @@
+{
+  "clientId": 16991,
+  "key": "item.quest.daily_scaner",
+  "kind": "item",
+  "name": {
+    "ru": "Сканер для севера",
+    "en": "Scanner for the North"
+  },
+  "apiId": "dm6jn",
+  "apiIdStatus": "inferred"
+}

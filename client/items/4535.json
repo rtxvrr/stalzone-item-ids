@@ -1,0 +1,11 @@
+{
+  "clientId": 4535,
+  "key": "item.plc.pattern.mt_maneuvers",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Маневры»",
+    "en": "Maneuvers Pattern"
+  },
+  "apiId": "lo3q",
+  "apiIdStatus": "inferred"
+}

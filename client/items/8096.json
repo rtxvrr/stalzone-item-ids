@@ -1,0 +1,11 @@
+{
+  "clientId": 8096,
+  "key": "item.quest.suspect_sweets",
+  "kind": "item",
+  "name": {
+    "ru": "«Конфетки» Резника",
+    "en": "Reznik 'Candies'"
+  },
+  "apiId": "9v60",
+  "apiIdStatus": "inferred"
+}

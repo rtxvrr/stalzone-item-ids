@@ -1,0 +1,11 @@
+{
+  "clientId": 8021,
+  "key": "item.quest.twins.soulshard2",
+  "kind": "item",
+  "name": {
+    "ru": "Осколок памяти",
+    "en": "Memory Shard"
+  },
+  "apiId": "3lvz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26514,
+  "key": "item.food.shproti",
+  "kind": "item",
+  "name": {
+    "ru": "Шпроты",
+    "en": "Sprats"
+  },
+  "apiId": "m0jw7",
+  "apiIdStatus": "inferred"
+}

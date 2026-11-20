@@ -1,0 +1,11 @@
+{
+  "clientId": 11403,
+  "key": "item.11403",
+  "kind": "item",
+  "name": {
+    "ru": "Пустоголовый",
+    "en": "Empty-Headed"
+  },
+  "apiId": "zyyk",
+  "apiIdStatus": "inferred"
+}

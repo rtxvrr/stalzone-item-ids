@@ -1,0 +1,11 @@
+{
+  "clientId": 12110,
+  "key": "item.bag.transformer",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка-трансформер",
+    "en": "Transformer Bag"
+  },
+  "apiId": "jmp6",
+  "apiIdStatus": "inferred"
+}

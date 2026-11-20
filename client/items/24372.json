@@ -1,0 +1,11 @@
+{
+  "clientId": 24372,
+  "key": "item.24372",
+  "kind": "item",
+  "name": {
+    "ru": "Медаль «Мертвое время» 3-й степени",
+    "en": "3rd Class Dead Time Medal"
+  },
+  "apiId": "96row",
+  "apiIdStatus": "inferred"
+}

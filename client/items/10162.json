@@ -1,0 +1,11 @@
+{
+  "clientId": 10162,
+  "key": "item.quest.smotrikov13",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Все",
+    "en": "Audio Recorder: All"
+  },
+  "apiId": "mdg2",
+  "apiIdStatus": "inferred"
+}

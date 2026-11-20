@@ -1,0 +1,11 @@
+{
+  "clientId": 8124,
+  "key": "item.quest.operation2025_song2",
+  "kind": "item",
+  "name": {
+    "ru": "Проклятый ветер",
+    "en": "Cursed Wind"
+  },
+  "apiId": "9vdw",
+  "apiIdStatus": "inferred"
+}

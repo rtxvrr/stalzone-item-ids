@@ -1,0 +1,11 @@
+{
+  "clientId": 8211,
+  "key": "item.quest.runa_encrypted_message",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованное сообщение",
+    "en": "Encrypted Message"
+  },
+  "apiId": "l45k",
+  "apiIdStatus": "inferred"
+}

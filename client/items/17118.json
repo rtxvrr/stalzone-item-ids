@@ -1,0 +1,11 @@
+{
+  "clientId": 17118,
+  "key": "item.style.arm.centurion_newyear24",
+  "kind": "item",
+  "name": {
+    "ru": "«Ледокол»",
+    "en": "Icebreaker"
+  },
+  "apiId": "vj0zg",
+  "apiIdStatus": "inferred"
+}

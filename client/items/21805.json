@@ -1,0 +1,11 @@
+{
+  "clientId": 21805,
+  "key": "item.wpn_mod.adv.tranquilizer",
+  "kind": "item",
+  "name": {
+    "ru": "«Транквилизатор»",
+    "en": "Tranquilizer"
+  },
+  "apiId": "y3zqz",
+  "apiIdStatus": "inferred"
+}

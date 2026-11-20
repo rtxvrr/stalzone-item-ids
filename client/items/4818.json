@@ -1,0 +1,11 @@
+{
+  "clientId": 4818,
+  "key": "item.plc.sticker.operations_sniper",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Фокусировка»",
+    "en": "Focus Sticker"
+  },
+  "apiId": "vvv7",
+  "apiIdStatus": "inferred"
+}

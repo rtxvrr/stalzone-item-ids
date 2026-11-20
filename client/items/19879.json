@@ -1,0 +1,11 @@
+{
+  "clientId": 19879,
+  "key": "item.motif.wpn.sr3m_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Посудина»",
+    "en": "Vessel"
+  },
+  "apiId": "4q01j",
+  "apiIdStatus": "inferred"
+}

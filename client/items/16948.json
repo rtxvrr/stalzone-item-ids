@@ -1,0 +1,11 @@
+{
+  "clientId": 16948,
+  "key": "item.quest.freedom.dossier_Vedun",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Ведун",
+    "en": "Dossier: Warlock"
+  },
+  "apiId": "96kmz",
+  "apiIdStatus": "inferred"
+}

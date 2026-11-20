@@ -1,0 +1,11 @@
+{
+  "clientId": 20067,
+  "key": "item.wpn.sig_monolita",
+  "kind": "item",
+  "name": {
+    "ru": "Сиг «Шепота»",
+    "en": "Murmur SIG"
+  },
+  "apiId": "dmq35",
+  "apiIdStatus": "inferred"
+}

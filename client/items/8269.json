@@ -1,0 +1,11 @@
+{
+  "clientId": 8269,
+  "key": "item.quest.field_trials_energy_parts",
+  "kind": "item",
+  "name": {
+    "ru": "Элемент питания",
+    "en": "Power Cell"
+  },
+  "apiId": "37ml",
+  "apiIdStatus": "inferred"
+}

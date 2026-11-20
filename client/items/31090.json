@@ -1,0 +1,11 @@
+{
+  "clientId": 31090,
+  "key": "item.brt.sever.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Вещество 07270",
+    "en": "Substance 07270"
+  },
+  "apiId": "vn0wr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13611,
+  "key": "item.camo.arm.stream_battle_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Траки»",
+    "en": "Tracks Paint"
+  },
+  "apiId": "lq1k",
+  "apiIdStatus": "inferred"
+}

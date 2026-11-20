@@ -1,0 +1,11 @@
+{
+  "clientId": 8306,
+  "key": "item.quest.the_shock_wave_heat_sink",
+  "kind": "item",
+  "name": {
+    "ru": "Знойник",
+    "en": "Scorcher"
+  },
+  "apiId": "wpo3",
+  "apiIdStatus": "inferred"
+}

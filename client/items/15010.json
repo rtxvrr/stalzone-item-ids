@@ -1,0 +1,11 @@
+{
+  "clientId": 15010,
+  "key": "item.case.spring25_exclusive_gear",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический кейс «Назад в Изнанку»",
+    "en": "Tactical Back to the Inside Out Case"
+  },
+  "apiId": "j505l",
+  "apiIdStatus": "inferred"
+}

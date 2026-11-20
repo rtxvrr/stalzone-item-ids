@@ -1,0 +1,11 @@
+{
+  "clientId": 20303,
+  "key": "item.wpn.obrezbm16frost2",
+  "kind": "item",
+  "name": {
+    "ru": "Морозный выстрел",
+    "en": "Frost Shot"
+  },
+  "apiId": "zz20m",
+  "apiIdStatus": "inferred"
+}

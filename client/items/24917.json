@@ -1,0 +1,11 @@
+{
+  "clientId": 24917,
+  "key": "item.charm.nea_nina",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Милая фигурка Нины»",
+    "en": "Cute Nina's Figurine Charm"
+  },
+  "apiId": "p6mn5",
+  "apiIdStatus": "inferred"
+}

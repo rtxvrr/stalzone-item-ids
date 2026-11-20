@@ -1,0 +1,11 @@
+{
+  "clientId": 25431,
+  "key": "item.arm.zveroboi-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Зверобой»",
+    "en": "Worn Beast Slayer"
+  },
+  "apiId": "4q9op",
+  "apiIdStatus": "inferred"
+}

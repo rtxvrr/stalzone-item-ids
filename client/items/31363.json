@@ -1,0 +1,11 @@
+{
+  "clientId": 31363,
+  "key": "item.ny_toys.setG.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-леденец",
+    "en": "Gingerbread Candy Decoration"
+  },
+  "apiId": "olnv0",
+  "apiIdStatus": "inferred"
+}

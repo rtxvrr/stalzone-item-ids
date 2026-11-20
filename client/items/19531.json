@@ -1,0 +1,11 @@
+{
+  "clientId": 19531,
+  "key": "item.camo.unique_arm.outlaw",
+  "kind": "item",
+  "name": {
+    "ru": "«Изгой»",
+    "en": "Outlaw"
+  },
+  "apiId": "4q2gl",
+  "apiIdStatus": "inferred"
+}

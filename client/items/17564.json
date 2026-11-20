@@ -1,0 +1,11 @@
+{
+  "clientId": 17564,
+  "key": "item.style.wpn.cheytac200_bureau",
+  "kind": "item",
+  "name": {
+    "ru": "«Спецзаказ»",
+    "en": "Special Order"
+  },
+  "apiId": "n4nm3",
+  "apiIdStatus": "inferred"
+}

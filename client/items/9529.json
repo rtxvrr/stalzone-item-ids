@@ -1,0 +1,11 @@
+{
+  "clientId": 9529,
+  "key": "item.abl.anm.prestige_guard",
+  "kind": "item",
+  "name": {
+    "ru": "АМ ЗВК-4",
+    "en": "AM SND-4"
+  },
+  "apiId": "ylz3",
+  "apiIdStatus": "inferred"
+}

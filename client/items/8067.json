@@ -1,0 +1,11 @@
+{
+  "clientId": 8067,
+  "key": "item.quest.shard_infared_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенные инфракрасным излучением осколки",
+    "en": "Infrared-cleaned fragments"
+  },
+  "apiId": "d0l5",
+  "apiIdStatus": "inferred"
+}

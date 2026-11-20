@@ -1,0 +1,11 @@
+{
+  "clientId": 19011,
+  "key": "item.camo.arm.oliva",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Оливковая»",
+    "en": "Olive Armor Paint"
+  },
+  "apiId": "lygwk",
+  "apiIdStatus": "inferred"
+}

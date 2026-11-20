@@ -1,0 +1,11 @@
+{
+  "clientId": 8221,
+  "key": "item.quest.puer_toplivo",
+  "kind": "item",
+  "name": {
+    "ru": "Герметичный контейнер",
+    "en": "Hermetic Container"
+  },
+  "apiId": "373l",
+  "apiIdStatus": "inferred"
+}

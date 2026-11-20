@@ -1,0 +1,11 @@
+{
+  "clientId": 16065,
+  "key": "item.16065",
+  "kind": "item",
+  "name": {
+    "ru": "Старинная монета 1599 года",
+    "en": "Old Coin from 1599"
+  },
+  "apiId": "p6v2w",
+  "apiIdStatus": "inferred"
+}

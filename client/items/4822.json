@@ -1,0 +1,11 @@
+{
+  "clientId": 4822,
+  "key": "item.plc.sticker.grinch",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Похититель подарков»",
+    "en": "Gift Snatcher Sticker"
+  },
+  "apiId": "7009",
+  "apiIdStatus": "inferred"
+}

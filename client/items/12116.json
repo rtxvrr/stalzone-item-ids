@@ -1,0 +1,11 @@
+{
+  "clientId": 12116,
+  "key": "item.bag.light1",
+  "kind": "item",
+  "name": {
+    "ru": "Поясная сумка PROTECT 3B",
+    "en": "PROTECT 3B Waist Bag"
+  },
+  "apiId": "nv63",
+  "apiIdStatus": "inferred"
+}

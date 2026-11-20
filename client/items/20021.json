@@ -1,0 +1,11 @@
+{
+  "clientId": 20021,
+  "key": "item.wpn.tact",
+  "kind": "item",
+  "name": {
+    "ru": "PSA PA 10 «Такт»",
+    "en": "PSA PA 10 Beat"
+  },
+  "apiId": "3grwz",
+  "apiIdStatus": "inferred"
+}

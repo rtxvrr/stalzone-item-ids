@@ -1,0 +1,11 @@
+{
+  "clientId": 29982,
+  "key": "item.filler.boss_limansk_3",
+  "kind": "item",
+  "name": {
+    "ru": "Царский клык",
+    "en": "Royal Fang"
+  },
+  "apiId": "j0q5g",
+  "apiIdStatus": "inferred"
+}

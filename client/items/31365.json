@@ -1,0 +1,11 @@
+{
+  "clientId": 31365,
+  "key": "item.ny_toys.setG.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-снеговичок",
+    "en": "Gingerbread Snowman Decoration"
+  },
+  "apiId": "pjnr2",
+  "apiIdStatus": "inferred"
+}

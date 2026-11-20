@@ -1,0 +1,11 @@
+{
+  "clientId": 16644,
+  "key": "item.16644",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ для исключительного контейнера",
+    "en": "Key to an Exclusive Container"
+  },
+  "apiId": "2o09l",
+  "apiIdStatus": "inferred"
+}

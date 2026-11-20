@@ -1,0 +1,11 @@
+{
+  "clientId": 16539,
+  "key": "item.bag.9bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка бронебойных 9 мм",
+    "en": "Pouch of 9 mm Armor-Piercing Rounds"
+  },
+  "apiId": "okp24",
+  "apiIdStatus": "inferred"
+}

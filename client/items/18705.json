@@ -1,0 +1,11 @@
+{
+  "clientId": 18705,
+  "key": "item.camo.wpn.barkhan",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Бархан»",
+    "en": "Barchan Paint"
+  },
+  "apiId": "y3v2o",
+  "apiIdStatus": "inferred"
+}

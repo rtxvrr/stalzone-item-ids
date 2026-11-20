@@ -1,0 +1,11 @@
+{
+  "clientId": 21802,
+  "key": "item.wpn_mod.adv.explosive_shots",
+  "kind": "item",
+  "name": {
+    "ru": "«Разрывные патроны»",
+    "en": "Explosive rounds"
+  },
+  "apiId": "g4o30",
+  "apiIdStatus": "inferred"
+}

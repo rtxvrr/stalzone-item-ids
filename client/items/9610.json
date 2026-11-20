@@ -1,0 +1,11 @@
+{
+  "clientId": 9610,
+  "key": "item.exp.prestige_fire",
+  "kind": "item",
+  "name": {
+    "ru": "Огненный заряд",
+    "en": "Fire Barrel"
+  },
+  "apiId": "jrrl",
+  "apiIdStatus": "inferred"
+}

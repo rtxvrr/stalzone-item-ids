@@ -1,0 +1,11 @@
+{
+  "clientId": 16943,
+  "key": "item.quest.valik_paints",
+  "kind": "item",
+  "name": {
+    "ru": "Краски Валика",
+    "en": "Roller's Paints"
+  },
+  "apiId": "dm6zn",
+  "apiIdStatus": "inferred"
+}

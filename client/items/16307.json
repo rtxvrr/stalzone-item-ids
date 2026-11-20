@@ -1,0 +1,11 @@
+{
+  "clientId": 16307,
+  "key": "item.16307",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон НИИ-7",
+    "en": "Research Institute 7 Token"
+  },
+  "apiId": "4q7jn",
+  "apiIdStatus": "inferred"
+}

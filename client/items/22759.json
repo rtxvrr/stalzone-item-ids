@@ -1,0 +1,11 @@
+{
+  "clientId": 22759,
+  "key": "item.att.mag_svu15",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин «Кобра»",
+    "en": "Kobra Extended Magazine"
+  },
+  "apiId": "ly1vo",
+  "apiIdStatus": "inferred"
+}

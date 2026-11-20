@@ -1,0 +1,11 @@
+{
+  "clientId": 15981,
+  "key": "item.crt.winter_25",
+  "kind": "item",
+  "name": {
+    "ru": "Мнемосхемы",
+    "en": "Mnemoschemes"
+  },
+  "apiId": "qjy69",
+  "apiIdStatus": "inferred"
+}

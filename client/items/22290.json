@@ -1,0 +1,11 @@
+{
+  "clientId": 22290,
+  "key": "item.att.scope_pso3_f",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический ПСО, зимний",
+    "en": "PSO Optical Sight, Winter"
+  },
+  "apiId": "vjpk7",
+  "apiIdStatus": "inferred"
+}

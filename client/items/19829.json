@@ -1,0 +1,11 @@
+{
+  "clientId": 19829,
+  "key": "item.camo.unique_wpn.hrenorezka_flamepistol",
+  "kind": "item",
+  "name": {
+    "ru": "«Хренорезка»",
+    "en": "Crapwelding"
+  },
+  "apiId": "y3770",
+  "apiIdStatus": "inferred"
+}

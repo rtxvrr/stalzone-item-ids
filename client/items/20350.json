@@ -1,0 +1,11 @@
+{
+  "clientId": 20350,
+  "key": "item.wpn.toz",
+  "kind": "item",
+  "name": {
+    "ru": "ТОЗ-34",
+    "en": "TOZ-34"
+  },
+  "apiId": "g4mz5",
+  "apiIdStatus": "inferred"
+}

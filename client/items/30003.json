@@ -1,0 +1,11 @@
+{
+  "clientId": 30003,
+  "key": "item.filler.valuable_4",
+  "kind": "item",
+  "name": {
+    "ru": "Столовые приборы",
+    "en": "Cutlery"
+  },
+  "apiId": "z3w3k",
+  "apiIdStatus": "inferred"
+}

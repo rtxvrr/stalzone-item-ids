@@ -1,0 +1,11 @@
+{
+  "clientId": 19612,
+  "key": "item.motif.arm.kz4_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Наводчик»",
+    "en": "Gunner"
+  },
+  "apiId": "rwrwv",
+  "apiIdStatus": "inferred"
+}

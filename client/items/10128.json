@@ -1,0 +1,11 @@
+{
+  "clientId": 10128,
+  "key": "item.quest.inside25_nina_echo_2_copy",
+  "kind": "item",
+  "name": {
+    "ru": "Эхо Нины 2 (копия)",
+    "en": "N.I.N.A.s 2 Echo (Copy)"
+  },
+  "apiId": "5wvq",
+  "apiIdStatus": "inferred"
+}

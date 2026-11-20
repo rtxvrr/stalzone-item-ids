@@ -1,0 +1,11 @@
+{
+  "clientId": 19752,
+  "key": "item.camo.arm.golden_dust",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Золотая пыль»",
+    "en": "Gold Dust Paint"
+  },
+  "apiId": "5ldjq",
+  "apiIdStatus": "inferred"
+}

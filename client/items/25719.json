@@ -1,0 +1,11 @@
+{
+  "clientId": 25719,
+  "key": "item.skin.ravent1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Гладиатор»",
+    "en": "Gladiator Skin"
+  },
+  "apiId": "dm322",
+  "apiIdStatus": "inferred"
+}

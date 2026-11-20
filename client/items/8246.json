@@ -1,0 +1,11 @@
+{
+  "clientId": 8246,
+  "key": "item.quest.quest_tutorial_bandit_path",
+  "kind": "item",
+  "name": {
+    "ru": "Нашивка Бандита",
+    "en": "Bandit Patch"
+  },
+  "apiId": "76d6",
+  "apiIdStatus": "inferred"
+}

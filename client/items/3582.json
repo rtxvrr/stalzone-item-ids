@@ -1,0 +1,11 @@
+{
+  "clientId": 3582,
+  "key": "tile.3582",
+  "kind": "tile",
+  "name": {
+    "ru": "Плитка мозаичная",
+    "en": "Mosaic tile"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

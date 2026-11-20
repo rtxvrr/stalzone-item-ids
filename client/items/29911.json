@@ -1,0 +1,11 @@
+{
+  "clientId": 29911,
+  "key": "item.filler.mob_3",
+  "kind": "item",
+  "name": {
+    "ru": "Зуб мутанта",
+    "en": "Mutant's Tooth"
+  },
+  "apiId": "l0k6o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16116,
+  "key": "item.16116",
+  "kind": "item",
+  "name": {
+    "ru": "Аппендикс мертвеца",
+    "en": "Dead Person's Appendix"
+  },
+  "apiId": "n4j02",
+  "apiIdStatus": "inferred"
+}

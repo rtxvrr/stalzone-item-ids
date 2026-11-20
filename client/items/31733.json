@@ -1,0 +1,11 @@
+{
+  "clientId": 31733,
+  "key": "item.part.lantac_dragon_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть Lantac Dragon #2",
+    "en": "Lantac Dragon Part #2"
+  },
+  "apiId": "q0p03",
+  "apiIdStatus": "inferred"
+}

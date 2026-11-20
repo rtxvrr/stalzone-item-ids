@@ -1,0 +1,11 @@
+{
+  "clientId": 25375,
+  "key": "item.arm.investigator",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Следак»",
+    "en": "Investigator Exoarmor"
+  },
+  "apiId": "zzjzn",
+  "apiIdStatus": "inferred"
+}

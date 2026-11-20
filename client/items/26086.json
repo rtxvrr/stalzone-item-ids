@@ -1,0 +1,11 @@
+{
+  "clientId": 26086,
+  "key": "item.food.ny23.champagne_anomal",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное шампанское",
+    "en": "Anomalous Champagne"
+  },
+  "apiId": "m0pyj",
+  "apiIdStatus": "inferred"
+}

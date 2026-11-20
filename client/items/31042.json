@@ -1,0 +1,11 @@
+{
+  "clientId": 31042,
+  "key": "item.brt.les.mining",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки радиопередатчика",
+    "en": "Remains of a Radio Transmitter"
+  },
+  "apiId": "vn0yr",
+  "apiIdStatus": "inferred"
+}

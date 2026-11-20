@@ -1,0 +1,11 @@
+{
+  "clientId": 15053,
+  "key": "item.case.winter26_cosmetic",
+  "kind": "item",
+  "name": {
+    "ru": "Визуальный кейс «Зоны ниже нуля»",
+    "en": "Sub-Zero Zone Visual Case"
+  },
+  "apiId": "y34g0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25163,
+  "key": "item.arm.dr_tank",
+  "kind": "item",
+  "name": {
+    "ru": "«Танк» группы «Хорс»",
+    "en": "Khors Group Tank"
+  },
+  "apiId": "ok01m",
+  "apiIdStatus": "inferred"
+}

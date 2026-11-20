@@ -1,0 +1,11 @@
+{
+  "clientId": 6225,
+  "key": "item.misc.spices",
+  "kind": "item",
+  "name": {
+    "ru": "Набор специй",
+    "en": "Set of Spices"
+  },
+  "apiId": "1dk6",
+  "apiIdStatus": "inferred"
+}

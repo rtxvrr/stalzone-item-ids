@@ -1,0 +1,11 @@
+{
+  "clientId": 5025,
+  "key": "item.plc.sticker.scstore_a26_merc_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Деньги не пахнут»",
+    "en": "Money Doesn’t Smell Sticker"
+  },
+  "apiId": "1mg6",
+  "apiIdStatus": "inferred"
+}

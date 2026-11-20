@@ -1,0 +1,11 @@
+{
+  "clientId": 31080,
+  "key": "item.brt.armsklad.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Рачки",
+    "en": "Shrimp"
+  },
+  "apiId": "kr54y",
+  "apiIdStatus": "inferred"
+}

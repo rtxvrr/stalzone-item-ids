@@ -1,0 +1,11 @@
+{
+  "clientId": 25104,
+  "key": "item.arm.eger-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный «Егерь»",
+    "en": "Damaged Jaeger"
+  },
+  "apiId": "5lrvq",
+  "apiIdStatus": "inferred"
+}

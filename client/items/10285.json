@@ -1,0 +1,11 @@
+{
+  "clientId": 10285,
+  "key": "item.phonograph.vinyl_gribnaya_bylina",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Сельская дискотека»",
+    "en": "Village Disco Vinyl Record"
+  },
+  "apiId": "01nk",
+  "apiIdStatus": "inferred"
+}

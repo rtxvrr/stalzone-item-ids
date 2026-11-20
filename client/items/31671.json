@@ -1,0 +1,11 @@
+{
+  "clientId": 31671,
+  "key": "item.blueprint.arm.seva",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Комбинезон «Уран»",
+    "en": "Uranus Jumpsuit Blueprint"
+  },
+  "apiId": "6o7np",
+  "apiIdStatus": "inferred"
+}

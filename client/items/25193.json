@@ -1,0 +1,11 @@
+{
+  "clientId": 25193,
+  "key": "item.arm.exo_mod_pp",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет «Гектор» Первопроходцев",
+    "en": "Trailblazers' Hector Exoskeleton"
+  },
+  "apiId": "3g655",
+  "apiIdStatus": "inferred"
+}

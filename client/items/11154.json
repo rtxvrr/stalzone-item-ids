@@ -1,0 +1,11 @@
+{
+  "clientId": 11154,
+  "key": "item.art.kisel_slyda",
+  "kind": "item",
+  "name": {
+    "ru": "Чернильница",
+    "en": "Inkwell"
+  },
+  "apiId": "wgvd",
+  "apiIdStatus": "inferred"
+}

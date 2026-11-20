@@ -1,0 +1,11 @@
+{
+  "clientId": 31672,
+  "key": "item.blueprint.arm.saturn",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Комбинезон «Сатурн»",
+    "en": "Saturn Jumpsuit Blueprint"
+  },
+  "apiId": "9d17l",
+  "apiIdStatus": "inferred"
+}

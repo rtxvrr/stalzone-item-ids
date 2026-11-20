@@ -1,0 +1,11 @@
+{
+  "clientId": 17999,
+  "key": "item.17999",
+  "kind": "item",
+  "name": {
+    "ru": "Вексель на сталбакс",
+    "en": "Stalbucks Promissory Note"
+  },
+  "apiId": "zzn0m",
+  "apiIdStatus": "inferred"
+}

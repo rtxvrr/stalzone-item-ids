@@ -1,0 +1,11 @@
+{
+  "clientId": 16427,
+  "key": "item.med.injector",
+  "kind": "item",
+  "name": {
+    "ru": "Инъектор",
+    "en": "Injector"
+  },
+  "apiId": "zzwl2",
+  "apiIdStatus": "inferred"
+}

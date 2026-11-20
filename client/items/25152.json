@@ -1,0 +1,11 @@
+{
+  "clientId": 25152,
+  "key": "item.arm.yorsh",
+  "kind": "item",
+  "name": {
+    "ru": "Защитный бронекостюм «Йорш»",
+    "en": "Yorsh Protective Armored Suit"
+  },
+  "apiId": "5lr4q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8201,
+  "key": "item.quest.whirlpool_medicine",
+  "kind": "item",
+  "name": {
+    "ru": "Ампула с лекарством",
+    "en": "Ampoule With Medication"
+  },
+  "apiId": "1v1g",
+  "apiIdStatus": "inferred"
+}

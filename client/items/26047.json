@@ -1,0 +1,11 @@
+{
+  "clientId": 26047,
+  "key": "item.med.schizoyorsh",
+  "kind": "item",
+  "name": {
+    "ru": "«Шизоерш»",
+    "en": "SchizoYorsh"
+  },
+  "apiId": "6w5lj",
+  "apiIdStatus": "inferred"
+}

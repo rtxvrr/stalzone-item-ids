@@ -1,0 +1,11 @@
+{
+  "clientId": 12355,
+  "key": "item.exp.c4",
+  "kind": "item",
+  "name": {
+    "ru": "C4 (не используется)",
+    "en": "C4 (not used)"
+  },
+  "apiId": "4g0l",
+  "apiIdStatus": "inferred"
+}

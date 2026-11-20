@@ -1,0 +1,11 @@
+{
+  "clientId": 18303,
+  "key": "item.camo.wpn.summer24_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Теневой маршрут»",
+    "en": "Shadow route Paint"
+  },
+  "apiId": "zznd9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24606,
+  "key": "item.charm.ny24_year",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «24-й год»",
+    "en": "2024 Charm"
+  },
+  "apiId": "wjd5z",
+  "apiIdStatus": "inferred"
+}

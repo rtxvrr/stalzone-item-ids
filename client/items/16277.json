@@ -1,0 +1,11 @@
+{
+  "clientId": 16277,
+  "key": "item.misc.pseudodog_tail_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост сильной дикой гончей",
+    "en": "Strong Wild Hound's Tail"
+  },
+  "apiId": "y3ny0",
+  "apiIdStatus": "inferred"
+}

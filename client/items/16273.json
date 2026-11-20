@@ -1,0 +1,11 @@
+{
+  "clientId": 16273,
+  "key": "item.misc.dog_tail_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост сильной шавки",
+    "en": "Strong Mutt's Tail"
+  },
+  "apiId": "1rl4r",
+  "apiIdStatus": "inferred"
+}

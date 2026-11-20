@@ -1,0 +1,11 @@
+{
+  "clientId": 27219,
+  "key": "item.27219",
+  "kind": "item",
+  "name": {
+    "ru": "Ключи",
+    "en": "Keys"
+  },
+  "apiId": "dmnp5",
+  "apiIdStatus": "inferred"
+}

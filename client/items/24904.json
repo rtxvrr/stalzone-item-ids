@@ -1,0 +1,11 @@
+{
+  "clientId": 24904,
+  "key": "item.charm.media_dom",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Хозяйство»",
+    "en": "Household Charm"
+  },
+  "apiId": "5lr64",
+  "apiIdStatus": "inferred"
+}

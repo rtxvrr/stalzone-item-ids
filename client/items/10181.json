@@ -1,0 +1,11 @@
+{
+  "clientId": 10181,
+  "key": "item.quest.audio_diary_operation_lesta_mine",
+  "kind": "item",
+  "name": {
+    "ru": "Шахта",
+    "en": "Mine"
+  },
+  "apiId": "q6z3",
+  "apiIdStatus": "inferred"
+}

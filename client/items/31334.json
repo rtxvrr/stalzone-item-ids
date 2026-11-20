@@ -1,0 +1,11 @@
+{
+  "clientId": 31334,
+  "key": "item.ny_toys.setE.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовый звездный шарик",
+    "en": "Purple Star Bauble"
+  },
+  "apiId": "j0g96",
+  "apiIdStatus": "inferred"
+}

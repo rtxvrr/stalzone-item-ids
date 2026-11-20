@@ -1,0 +1,11 @@
+{
+  "clientId": 31384,
+  "key": "item.ny_toys.setH.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичная простая гирлянда",
+    "en": "Simple Futuristic Tree Lights"
+  },
+  "apiId": "rjp25",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8266,
+  "key": "item.quest.provocation_note",
+  "kind": "item",
+  "name": {
+    "ru": "Провокационная записка",
+    "en": "Provocative Note"
+  },
+  "apiId": "vpvr",
+  "apiIdStatus": "inferred"
+}

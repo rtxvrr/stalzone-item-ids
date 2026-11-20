@@ -1,0 +1,11 @@
+{
+  "clientId": 22468,
+  "key": "item.att.lcu_truglo",
+  "kind": "item",
+  "name": {
+    "ru": "ЛЦУ Truglo-Ace",
+    "en": "Truglo-Ace LD"
+  },
+  "apiId": "2o760",
+  "apiIdStatus": "inferred"
+}

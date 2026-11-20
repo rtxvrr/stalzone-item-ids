@@ -1,0 +1,11 @@
+{
+  "clientId": 18828,
+  "key": "item.dmz2026.calldown_token.shielddecor",
+  "kind": "item",
+  "name": {
+    "ru": "«Генератор искажения»",
+    "en": "Distortion Generator"
+  },
+  "apiId": "5l04g",
+  "apiIdStatus": "inferred"
+}

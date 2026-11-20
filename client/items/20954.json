@@ -1,0 +1,11 @@
+{
+  "clientId": 20954,
+  "key": "item.wpn.flamepistol",
+  "kind": "item",
+  "name": {
+    "ru": "«Огниво»",
+    "en": "Tinderbox"
+  },
+  "apiId": "wj6m3",
+  "apiIdStatus": "inferred"
+}

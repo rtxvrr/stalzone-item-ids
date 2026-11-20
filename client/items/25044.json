@@ -1,0 +1,11 @@
+{
+  "clientId": 25044,
+  "key": "item.arm.ao1",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм АО-1 «Бродяга»",
+    "en": "AH-1 Drifter Suit"
+  },
+  "apiId": "2oqnl",
+  "apiIdStatus": "inferred"
+}

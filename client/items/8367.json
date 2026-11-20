@@ -1,0 +1,11 @@
+{
+  "clientId": 8367,
+  "key": "item.quest.zov_dnevnik_sanitar_1",
+  "kind": "item",
+  "name": {
+    "ru": "Страница из дневника Санитара 1",
+    "en": "Page from Orderly's Diary 1"
+  },
+  "apiId": "d0v2",
+  "apiIdStatus": "inferred"
+}

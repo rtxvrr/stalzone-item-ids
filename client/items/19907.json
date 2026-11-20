@@ -1,0 +1,11 @@
+{
+  "clientId": 19907,
+  "key": "item.mtl.wpn.durman",
+  "kind": "item",
+  "name": {
+    "ru": "«Дурман-камень»",
+    "en": "Dopestone"
+  },
+  "apiId": "4q06n",
+  "apiIdStatus": "inferred"
+}

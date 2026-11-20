@@ -1,0 +1,11 @@
+{
+  "clientId": 21500,
+  "key": "item.21500",
+  "kind": "item",
+  "name": {
+    "ru": "Крепление для приклада",
+    "en": "Stock Mount"
+  },
+  "apiId": "965oy",
+  "apiIdStatus": "inferred"
+}

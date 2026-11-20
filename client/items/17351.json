@@ -1,0 +1,11 @@
+{
+  "clientId": 17351,
+  "key": "item.style.cont.bear6_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Ларец Пандоры»",
+    "en": "Pandora's Casket"
+  },
+  "apiId": "zzo3m",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31817,
+  "key": "item.part.stg44",
+  "kind": "item",
+  "name": {
+    "ru": "Часть STG-44",
+    "en": "STG-44 Part"
+  },
+  "apiId": "pjo5d",
+  "apiIdStatus": "inferred"
+}

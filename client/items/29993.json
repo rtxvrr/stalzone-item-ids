@@ -1,0 +1,11 @@
+{
+  "clientId": 29993,
+  "key": "item.filler.outpost_9",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак с боеприпасами",
+    "en": "Backpack of Ammo"
+  },
+  "apiId": "34qg5",
+  "apiIdStatus": "inferred"
+}

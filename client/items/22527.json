@@ -1,0 +1,11 @@
+{
+  "clientId": 22527,
+  "key": "item.att.barrel_vihr",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК «Вихрь»",
+    "en": "Whirlwind MBC"
+  },
+  "apiId": "zz939",
+  "apiIdStatus": "inferred"
+}

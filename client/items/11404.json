@@ -1,0 +1,11 @@
+{
+  "clientId": 11404,
+  "key": "item.art.ravent_lifewater",
+  "kind": "item",
+  "name": {
+    "ru": "Живая вода",
+    "en": "Water Of Life"
+  },
+  "apiId": "5rro",
+  "apiIdStatus": "inferred"
+}

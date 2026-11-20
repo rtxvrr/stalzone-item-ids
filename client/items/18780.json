@@ -1,0 +1,11 @@
+{
+  "clientId": 18780,
+  "key": "item.camo.wpn.chainmail",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Кольчуга»",
+    "en": "Chain Mail Camouflage"
+  },
+  "apiId": "knjwv",
+  "apiIdStatus": "inferred"
+}

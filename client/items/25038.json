@@ -1,0 +1,11 @@
+{
+  "clientId": 25038,
+  "key": "item.arm.bover_gas",
+  "kind": "item",
+  "name": {
+    "ru": "Бандитский костюм с противогазом",
+    "en": "Bandit Suit with Gas Mask"
+  },
+  "apiId": "m06my",
+  "apiIdStatus": "inferred"
+}

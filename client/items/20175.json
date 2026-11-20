@@ -1,0 +1,11 @@
+{
+  "clientId": 20175,
+  "key": "item.wpn.pkp",
+  "kind": "item",
+  "name": {
+    "ru": "ПКП «Печенег»",
+    "en": "PKP Pecheneg"
+  },
+  "apiId": "zz2g9",
+  "apiIdStatus": "inferred"
+}

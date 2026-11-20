@@ -1,0 +1,11 @@
+{
+  "clientId": 21092,
+  "key": "item.melee.sledgehammer_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "Кувалда Шепота",
+    "en": "Murmur Sledgehammer"
+  },
+  "apiId": "2ol2v",
+  "apiIdStatus": "inferred"
+}

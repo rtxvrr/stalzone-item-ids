@@ -1,0 +1,11 @@
+{
+  "clientId": 25174,
+  "key": "item.arm.grenadier",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Гренадер»",
+    "en": "Grenadier Exoarmor"
+  },
+  "apiId": "g4yq5",
+  "apiIdStatus": "inferred"
+}

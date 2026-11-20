@@ -1,0 +1,11 @@
+{
+  "clientId": 22799,
+  "key": "item.att.mag_rumag762f",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 7.62 бакелитовый, обмотанный",
+    "en": "7.62 Bakelite Magazine, Taped"
+  },
+  "apiId": "zz95m",
+  "apiIdStatus": "inferred"
+}

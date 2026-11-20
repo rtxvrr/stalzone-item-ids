@@ -1,0 +1,11 @@
+{
+  "clientId": 17532,
+  "key": "item.style.wpn.kriss_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Теневой вектор»",
+    "en": "Shady vector"
+  },
+  "apiId": "knzlv",
+  "apiIdStatus": "inferred"
+}

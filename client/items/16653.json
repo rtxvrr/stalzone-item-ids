@@ -1,0 +1,11 @@
+{
+  "clientId": 16653,
+  "key": "item.16653",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ для праздничного контейнера",
+    "en": "Key to a Holiday Container"
+  },
+  "apiId": "y3nkk",
+  "apiIdStatus": "inferred"
+}

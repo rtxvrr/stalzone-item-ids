@@ -1,0 +1,11 @@
+{
+  "clientId": 4627,
+  "key": "item.plc.pattern.scstore_a26_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Крайний заказ»",
+    "en": "Last Order Pattern"
+  },
+  "apiId": "zvgy",
+  "apiIdStatus": "inferred"
+}

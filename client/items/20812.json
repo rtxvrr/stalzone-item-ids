@@ -1,0 +1,11 @@
+{
+  "clientId": 20812,
+  "key": "item.wpn.p99_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Пчела»",
+    "en": "Bee"
+  },
+  "apiId": "rwzmv",
+  "apiIdStatus": "inferred"
+}

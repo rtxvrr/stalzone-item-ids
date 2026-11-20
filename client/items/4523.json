@@ -1,0 +1,11 @@
+{
+  "clientId": 4523,
+  "key": "item.plc.pattern.snegurka",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Sнегурки",
+    "en": "Snow Maiden Pattern"
+  },
+  "apiId": "6jg6",
+  "apiIdStatus": "inferred"
+}

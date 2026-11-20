@@ -1,0 +1,11 @@
+{
+  "clientId": 12737,
+  "key": "item.amm.akumulatora",
+  "kind": "item",
+  "name": {
+    "ru": "Аккумулятор для винтовок",
+    "en": "Rifle Battery"
+  },
+  "apiId": "0o01",
+  "apiIdStatus": "inferred"
+}

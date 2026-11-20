@@ -1,0 +1,11 @@
+{
+  "clientId": 18254,
+  "key": "item.camo.wpn.atacs_wn",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «A-TACS WN»",
+    "en": "A-TACS WN Camouflage"
+  },
+  "apiId": "wjyqp",
+  "apiIdStatus": "inferred"
+}

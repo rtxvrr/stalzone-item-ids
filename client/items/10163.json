@@ -1,0 +1,11 @@
+{
+  "clientId": 10163,
+  "key": "item.quest.smotrikov14",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Сутки",
+    "en": "Audio Recorder: 24 hours"
+  },
+  "apiId": "o25m",
+  "apiIdStatus": "inferred"
+}

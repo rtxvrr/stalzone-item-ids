@@ -1,0 +1,11 @@
+{
+  "clientId": 25428,
+  "key": "item.arm.ao6",
+  "kind": "item",
+  "name": {
+    "ru": "УКАЗ АО-6 «Кочевник»",
+    "en": "RAPS AH-6 Nomad"
+  },
+  "apiId": "5l1yg",
+  "apiIdStatus": "inferred"
+}

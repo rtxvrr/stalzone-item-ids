@@ -1,0 +1,11 @@
+{
+  "clientId": 11106,
+  "key": "item.art.karousel_ostov",
+  "kind": "item",
+  "name": {
+    "ru": "Остов",
+    "en": "Frame"
+  },
+  "apiId": "wgzd",
+  "apiIdStatus": "inferred"
+}

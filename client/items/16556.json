@@ -1,0 +1,11 @@
+{
+  "clientId": 16556,
+  "key": "item.bag.545sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СБП 5.45 мм",
+    "en": "Pouch of 5.45 mm SBP Rounds"
+  },
+  "apiId": "knpd3",
+  "apiIdStatus": "inferred"
+}

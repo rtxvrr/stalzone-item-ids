@@ -1,0 +1,11 @@
+{
+  "clientId": 31765,
+  "key": "item.part.xm8_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть HK XM8S #3",
+    "en": "HK XM8S Part #3"
+  },
+  "apiId": "pjov4",
+  "apiIdStatus": "inferred"
+}

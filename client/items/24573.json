@@ -1,0 +1,11 @@
+{
+  "clientId": 24573,
+  "key": "item.charm.ravent23_crowhead",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Талисман»",
+    "en": "Talisman Charm"
+  },
+  "apiId": "1r532",
+  "apiIdStatus": "inferred"
+}

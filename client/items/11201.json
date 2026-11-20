@@ -1,0 +1,11 @@
+{
+  "clientId": 11201,
+  "key": "item.art.puh_kkoluchka",
+  "kind": "item",
+  "name": {
+    "ru": "Липкий репях",
+    "en": "Sticky Burr"
+  },
+  "apiId": "1kdg",
+  "apiIdStatus": "inferred"
+}

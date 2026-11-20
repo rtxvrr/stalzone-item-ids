@@ -1,0 +1,11 @@
+{
+  "clientId": 31326,
+  "key": "item.ny_toys.setD.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленый шарик с узором",
+    "en": "Green Patterned Bauble"
+  },
+  "apiId": "gnpwp",
+  "apiIdStatus": "inferred"
+}

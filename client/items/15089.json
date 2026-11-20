@@ -1,0 +1,11 @@
+{
+  "clientId": 15089,
+  "key": "item.lootbox.autumn26_pass_paint",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Смятение»",
+    "en": "Turmoil Container"
+  },
+  "apiId": "p6jqd",
+  "apiIdStatus": "inferred"
+}

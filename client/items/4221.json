@@ -1,0 +1,11 @@
+{
+  "clientId": 4221,
+  "key": "item.plc.background.winter26",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Зона ниже нуля»",
+    "en": "Sub-Zero Zone Season Background "
+  },
+  "apiId": "3221",
+  "apiIdStatus": "inferred"
+}

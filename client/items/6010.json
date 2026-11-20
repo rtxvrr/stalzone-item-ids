@@ -1,0 +1,11 @@
+{
+  "clientId": 6010,
+  "key": "item.misc.scarlet_minerals",
+  "kind": "item",
+  "name": {
+    "ru": "Алые минералы",
+    "en": "Scarlet Minerals"
+  },
+  "apiId": "jlll",
+  "apiIdStatus": "inferred"
+}

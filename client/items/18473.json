@@ -1,0 +1,11 @@
+{
+  "clientId": 18473,
+  "key": "item.camo.wpn.autumn25_twitch_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Щитки»",
+    "en": "Bucklers Paint"
+  },
+  "apiId": "1rmrg",
+  "apiIdStatus": "inferred"
+}

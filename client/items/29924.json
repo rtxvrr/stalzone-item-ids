@@ -1,0 +1,11 @@
+{
+  "clientId": 29924,
+  "key": "item.filler.mining_5",
+  "kind": "item",
+  "name": {
+    "ru": "Медная катушка",
+    "en": "Copper Coil"
+  },
+  "apiId": "9d3gy",
+  "apiIdStatus": "inferred"
+}

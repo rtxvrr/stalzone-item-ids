@@ -1,0 +1,11 @@
+{
+  "clientId": 19401,
+  "key": "item.camo.arm.bf_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Розовые осколки»",
+    "en": "Pink shards Paint"
+  },
+  "apiId": "1r6z6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24612,
+  "key": "item.charm.set_craft",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Внимательная Сова»",
+    "en": "Watchful Owl Charm"
+  },
+  "apiId": "rw7dz",
+  "apiIdStatus": "inferred"
+}

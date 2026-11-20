@@ -1,0 +1,11 @@
+{
+  "clientId": 4507,
+  "key": "item.plc.pattern.summer24",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Корпорация ZIVCAS»",
+    "en": "ZIVCAS Corporation Season Pattern"
+  },
+  "apiId": "4jll",
+  "apiIdStatus": "inferred"
+}

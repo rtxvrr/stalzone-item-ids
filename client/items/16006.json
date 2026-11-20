@@ -1,0 +1,11 @@
+{
+  "clientId": 16006,
+  "key": "item.16006",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон лояльности",
+    "en": "Loyalty Token"
+  },
+  "apiId": "wj9d2",
+  "apiIdStatus": "inferred"
+}

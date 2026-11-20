@@ -1,0 +1,11 @@
+{
+  "clientId": 16538,
+  "key": "item.bag.762exp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка экспансивных патронов 7.62 мм",
+    "en": "Pouch of 7.62 mm Expanding Rounds"
+  },
+  "apiId": "m0qdr",
+  "apiIdStatus": "inferred"
+}

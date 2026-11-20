@@ -1,0 +1,11 @@
+{
+  "clientId": 24662,
+  "key": "item.charm.welcome_onetwo",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «OneTwo»",
+    "en": "OneTwo Channel Fan Charm"
+  },
+  "apiId": "m076k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22722,
+  "key": "item.att.mag_scorpion",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин Scorpion",
+    "en": "Scorpion Drum Magazine"
+  },
+  "apiId": "7lprj",
+  "apiIdStatus": "inferred"
+}

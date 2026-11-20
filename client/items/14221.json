@@ -1,0 +1,11 @@
+{
+  "clientId": 14221,
+  "key": "item.bag.12txc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 12 калибра «Кислотный дракон»",
+    "en": "Pouch of 12 caliber Acid Dragon Rounds"
+  },
+  "apiId": "3g0yl",
+  "apiIdStatus": "inferred"
+}

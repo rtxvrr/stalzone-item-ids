@@ -1,0 +1,11 @@
+{
+  "clientId": 16139,
+  "key": "item.16139",
+  "kind": "item",
+  "name": {
+    "ru": "Странная книга",
+    "en": "Strange Book"
+  },
+  "apiId": "okpqm",
+  "apiIdStatus": "inferred"
+}

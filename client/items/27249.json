@@ -1,0 +1,11 @@
+{
+  "clientId": 27249,
+  "key": "item.crt.summer_26_electrostorm_episode_safezone",
+  "kind": "item",
+  "name": {
+    "ru": "Внутрянка",
+    "en": "Internals"
+  },
+  "apiId": "1rwy6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19708,
+  "key": "item.camo.arm.shsky",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Разбитое небо»",
+    "en": "Broken Sky Paint"
+  },
+  "apiId": "knl5p",
+  "apiIdStatus": "inferred"
+}

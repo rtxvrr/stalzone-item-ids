@@ -1,0 +1,11 @@
+{
+  "clientId": 22768,
+  "key": "item.att.mag_groza30",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин ОЦ-14",
+    "en": "OTs-14 Extended Magazine"
+  },
+  "apiId": "2o7l5",
+  "apiIdStatus": "inferred"
+}

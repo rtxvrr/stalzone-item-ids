@@ -1,0 +1,11 @@
+{
+  "clientId": 11706,
+  "key": "item.wpn_mod.cubitor",
+  "kind": "item",
+  "name": {
+    "ru": "Кубитор",
+    "en": "Cubitor"
+  },
+  "apiId": "w4yd",
+  "apiIdStatus": "inferred"
+}

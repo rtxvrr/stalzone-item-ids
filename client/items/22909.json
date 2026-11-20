@@ -1,0 +1,11 @@
+{
+  "clientId": 22909,
+  "key": "item.att.mount_skslast",
+  "kind": "item",
+  "name": {
+    "ru": "Кронштейн СКС - ласточкин хвост",
+    "en": "SKS Bracket—Dovetail Joint"
+  },
+  "apiId": "qjw7k",
+  "apiIdStatus": "inferred"
+}

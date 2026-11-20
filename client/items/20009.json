@@ -1,0 +1,11 @@
+{
+  "clientId": 20009,
+  "key": "item.wpn.aksu_tactical",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический АКС-74У",
+    "en": "Tactical AKS-74U"
+  },
+  "apiId": "qjv66",
+  "apiIdStatus": "inferred"
+}

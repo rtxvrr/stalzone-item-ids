@@ -1,0 +1,11 @@
+{
+  "clientId": 24652,
+  "key": "item.charm.twitch_neon",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Неон»",
+    "en": "Charm Neon"
+  },
+  "apiId": "5lkro",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31795,
+  "key": "item.part.ots14m_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть ОЦ-14М «Разряд» #1",
+    "en": "OTs-14M Surge Part #1"
+  },
+  "apiId": "6oj90",
+  "apiIdStatus": "inferred"
+}

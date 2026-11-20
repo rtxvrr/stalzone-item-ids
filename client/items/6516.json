@@ -1,0 +1,11 @@
+{
+  "clientId": 6516,
+  "key": "item.misc.durable_metal",
+  "kind": "item",
+  "name": {
+    "ru": "Прочный металл",
+    "en": "Solid Metal"
+  },
+  "apiId": "nmo2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8103,
+  "key": "item.quest.dog_liver_rubi",
+  "kind": "item",
+  "name": {
+    "ru": "Собачья печень",
+    "en": "Dog Liver"
+  },
+  "apiId": "zpz9",
+  "apiIdStatus": "inferred"
+}

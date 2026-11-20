@@ -1,0 +1,11 @@
+{
+  "clientId": 31294,
+  "key": "item.ny_toys.setB.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Синий полосатый шарик",
+    "en": "Blue Striped Bauble"
+  },
+  "apiId": "773d9",
+  "apiIdStatus": "inferred"
+}

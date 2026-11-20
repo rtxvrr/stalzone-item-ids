@@ -1,0 +1,11 @@
+{
+  "clientId": 31549,
+  "key": "item.ny_toys.setM.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Игрушка-подшипник диггеров",
+    "en": "Digger's Bearing Decoration"
+  },
+  "apiId": "1945q",
+  "apiIdStatus": "inferred"
+}

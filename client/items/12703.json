@@ -1,0 +1,11 @@
+{
+  "clientId": 12703,
+  "key": "item.amm.9inc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм зажигательный",
+    "en": "9 mm Incendiary Round"
+  },
+  "apiId": "z1zn",
+  "apiIdStatus": "inferred"
+}

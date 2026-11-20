@@ -1,0 +1,11 @@
+{
+  "clientId": 31428,
+  "key": "item.lootbox.faction_weapon",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейный кейс",
+    "en": "Weapons Case"
+  },
+  "apiId": "5539g",
+  "apiIdStatus": "inferred"
+}

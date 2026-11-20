@@ -1,0 +1,11 @@
+{
+  "clientId": 16189,
+  "key": "item.16189",
+  "kind": "item",
+  "name": {
+    "ru": "Посылка ученых с РЛС",
+    "en": "Scientists' Package from the Radar Station"
+  },
+  "apiId": "p6qj4",
+  "apiIdStatus": "inferred"
+}

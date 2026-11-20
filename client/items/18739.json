@@ -1,0 +1,11 @@
+{
+  "clientId": 18739,
+  "key": "item.camo.wpn.drylake",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пересохшее озеро»",
+    "en": "Dried-Up Lake Paint"
+  },
+  "apiId": "okg90",
+  "apiIdStatus": "inferred"
+}

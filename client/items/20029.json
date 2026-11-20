@@ -1,0 +1,11 @@
+{
+  "clientId": 20029,
+  "key": "item.wpn.vityaz",
+  "kind": "item",
+  "name": {
+    "ru": "ПП-19-01 «Витязь»",
+    "en": "PP-19-01 Vityaz"
+  },
+  "apiId": "y37dz",
+  "apiIdStatus": "inferred"
+}

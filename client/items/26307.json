@@ -1,0 +1,11 @@
+{
+  "clientId": 26307,
+  "key": "item.boost.50fd1d",
+  "kind": "item",
+  "name": {
+    "ru": "Усилитель +50% (1 день)",
+    "en": "+50% Booster (1 Day)"
+  },
+  "apiId": "4qgwo",
+  "apiIdStatus": "inferred"
+}

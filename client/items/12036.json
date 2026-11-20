@@ -1,0 +1,11 @@
+{
+  "clientId": 12036,
+  "key": "item.cont.faraday",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Фарадей»",
+    "en": "Faraday Container"
+  },
+  "apiId": "rg1z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20105,
+  "key": "item.wpn.pulse",
+  "kind": "item",
+  "name": {
+    "ru": "PSA 20 STR «Пульс»",
+    "en": "PSA 20 STR Pulse"
+  },
+  "apiId": "y37kw",
+  "apiIdStatus": "inferred"
+}

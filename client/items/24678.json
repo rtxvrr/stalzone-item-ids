@@ -1,0 +1,11 @@
+{
+  "clientId": 24678,
+  "key": "item.charm.autumn24_bm_skull",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Королевский оскал»",
+    "en": "\"Royal Grin\" Charm"
+  },
+  "apiId": "wjd4z",
+  "apiIdStatus": "inferred"
+}

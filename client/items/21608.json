@@ -1,0 +1,11 @@
+{
+  "clientId": 21608,
+  "key": "item.wpn_mod.adv.be_quiet",
+  "kind": "item",
+  "name": {
+    "ru": "«Тихоходка»",
+    "en": "Stealth"
+  },
+  "apiId": "kngvj",
+  "apiIdStatus": "inferred"
+}

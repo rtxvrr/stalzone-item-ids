@@ -1,0 +1,11 @@
+{
+  "clientId": 19599,
+  "key": "item.motif.arm.antares_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "«Тиаци»",
+    "en": "Thiazi"
+  },
+  "apiId": "zz7g9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24523,
+  "key": "item.charm.8ball_gold",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Счастливая восьмерка»",
+    "en": "Lucky 8 Charm"
+  },
+  "apiId": "6wq10",
+  "apiIdStatus": "inferred"
+}

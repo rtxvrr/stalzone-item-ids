@@ -1,0 +1,11 @@
+{
+  "clientId": 24721,
+  "key": "item.charm.summer25_pass_4",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Витрувианский упырь»",
+    "en": "Vitruvian Ghoul Charm"
+  },
+  "apiId": "3gwvg",
+  "apiIdStatus": "inferred"
+}

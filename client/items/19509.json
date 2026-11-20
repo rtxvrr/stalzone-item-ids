@@ -1,0 +1,11 @@
+{
+  "clientId": 19509,
+  "key": "item.camo.unique_arm.fullmetal",
+  "kind": "item",
+  "name": {
+    "ru": "«Цельнометаллический»",
+    "en": "Full Metal"
+  },
+  "apiId": "qj419",
+  "apiIdStatus": "inferred"
+}

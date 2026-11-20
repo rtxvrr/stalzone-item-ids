@@ -1,0 +1,11 @@
+{
+  "clientId": 6230,
+  "key": "item.misc.boards",
+  "kind": "item",
+  "name": {
+    "ru": "Доски",
+    "en": "Boards"
+  },
+  "apiId": "wogp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11159,
+  "key": "item.art.kisel_poly",
+  "kind": "item",
+  "name": {
+    "ru": "Многогранник",
+    "en": "Polyhedron"
+  },
+  "apiId": "ljpq",
+  "apiIdStatus": "inferred"
+}

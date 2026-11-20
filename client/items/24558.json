@@ -1,0 +1,11 @@
+{
+  "clientId": 24558,
+  "key": "item.charm.nosok",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Рождественский носок»",
+    "en": "Christmas Stocking Charm"
+  },
+  "apiId": "j572g",
+  "apiIdStatus": "inferred"
+}

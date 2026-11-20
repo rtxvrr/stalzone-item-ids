@@ -1,0 +1,11 @@
+{
+  "clientId": 25051,
+  "key": "item.arm.jnec",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Жнец»",
+    "en": "Reaper Jumpsuit"
+  },
+  "apiId": "zzy2y",
+  "apiIdStatus": "inferred"
+}

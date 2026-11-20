@@ -1,0 +1,11 @@
+{
+  "clientId": 5516,
+  "key": "item.plc.customisation_pack.summer26",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Антициклон»",
+    "en": "Anticyclone Customization Pack"
+  },
+  "apiId": "n5y3",
+  "apiIdStatus": "inferred"
+}

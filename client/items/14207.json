@@ -1,0 +1,11 @@
+{
+  "clientId": 14207,
+  "key": "item.bag.545sep",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СЭП 5.45 мм",
+    "en": "Pouch of 5.45 mm SEP Rounds"
+  },
+  "apiId": "4qzpr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4842,
+  "key": "item.plc.sticker.autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «тульпа!»",
+    "en": "tulpa! Season Sticker"
+  },
+  "apiId": "vvm7",
+  "apiIdStatus": "inferred"
+}

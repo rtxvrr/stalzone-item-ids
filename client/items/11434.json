@@ -1,0 +1,11 @@
+{
+  "clientId": 11434,
+  "key": "item.ravent_uruz",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Уруз»",
+    "en": "Ur Amulet"
+  },
+  "apiId": "jk3l",
+  "apiIdStatus": "inferred"
+}

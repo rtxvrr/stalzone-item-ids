@@ -1,0 +1,11 @@
+{
+  "clientId": 8162,
+  "key": "item.quest.apocalypse_not_today_notes",
+  "kind": "item",
+  "name": {
+    "ru": "Генетические расчеты",
+    "en": "Genetic Calculations"
+  },
+  "apiId": "mkqr",
+  "apiIdStatus": "inferred"
+}

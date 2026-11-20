@@ -1,0 +1,11 @@
+{
+  "clientId": 24627,
+  "key": "item.charm.summer24_kub",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Radium Felicis»",
+    "en": "Radium Felicis charm"
+  },
+  "apiId": "zzddk",
+  "apiIdStatus": "inferred"
+}

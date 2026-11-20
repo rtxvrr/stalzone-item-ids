@@ -1,0 +1,11 @@
+{
+  "clientId": 24893,
+  "key": "item.charm.summer26_promo_sheriff",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шериф Дикого Севера»",
+    "en": "Sheriff of the Wild North Charm"
+  },
+  "apiId": "3g6zz",
+  "apiIdStatus": "inferred"
+}

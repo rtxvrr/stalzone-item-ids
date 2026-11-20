@@ -1,0 +1,11 @@
+{
+  "clientId": 22764,
+  "key": "item.att.mag_pm",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин ПМ/ПБ",
+    "en": "PM/PB Extended Magazine"
+  },
+  "apiId": "n4z22",
+  "apiIdStatus": "inferred"
+}

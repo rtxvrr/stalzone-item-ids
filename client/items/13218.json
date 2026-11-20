@@ -1,0 +1,11 @@
+{
+  "clientId": 13218,
+  "key": "item.camo.wpn.spring26_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Лесная клетка»",
+    "en": "Forest Cage Paint"
+  },
+  "apiId": "vdd7",
+  "apiIdStatus": "inferred"
+}

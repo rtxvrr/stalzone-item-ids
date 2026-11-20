@@ -1,0 +1,11 @@
+{
+  "clientId": 11009,
+  "key": "item.art.electra_transformator",
+  "kind": "item",
+  "name": {
+    "ru": "Трансформатор",
+    "en": "Transformer"
+  },
+  "apiId": "qo06",
+  "apiIdStatus": "inferred"
+}

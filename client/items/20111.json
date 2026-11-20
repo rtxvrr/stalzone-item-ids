@@ -1,0 +1,11 @@
+{
+  "clientId": 20111,
+  "key": "item.wpn.mp7",
+  "kind": "item",
+  "name": {
+    "ru": "HK MP7A2",
+    "en": "HK MP7A2"
+  },
+  "apiId": "lylnq",
+  "apiIdStatus": "inferred"
+}

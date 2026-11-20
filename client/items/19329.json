@@ -1,0 +1,11 @@
+{
+  "clientId": 19329,
+  "key": "item.camo.arm.dayx_skin_x",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «X-Mark»",
+    "en": "X-Mark Paint"
+  },
+  "apiId": "y3ozo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16928,
+  "key": "item.quest.covenant.docs_stack",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка документов «Завета»",
+    "en": "Stack of Covenant Documents"
+  },
+  "apiId": "5l670",
+  "apiIdStatus": "inferred"
+}

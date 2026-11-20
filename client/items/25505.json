@@ -1,0 +1,11 @@
+{
+  "clientId": 25505,
+  "key": "item.device.nvdo",
+  "kind": "item",
+  "name": {
+    "ru": "ПНВ О1М",
+    "en": "NVG O1M"
+  },
+  "apiId": "y3qyw",
+  "apiIdStatus": "inferred"
+}

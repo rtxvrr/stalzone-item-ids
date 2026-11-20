@@ -1,0 +1,11 @@
+{
+  "clientId": 20285,
+  "key": "item.wpn.m1a_bich",
+  "kind": "item",
+  "name": {
+    "ru": "M1A «Бич Митрополита»",
+    "en": "Metropolite's Whip M1A"
+  },
+  "apiId": "0r299",
+  "apiIdStatus": "inferred"
+}

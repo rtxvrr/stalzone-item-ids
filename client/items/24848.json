@@ -1,0 +1,11 @@
+{
+  "clientId": 24848,
+  "key": "item.charm.key_operation_3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ревенант»",
+    "en": "Revenant Charm"
+  },
+  "apiId": "96n30",
+  "apiIdStatus": "inferred"
+}

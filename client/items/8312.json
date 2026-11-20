@@ -1,0 +1,11 @@
+{
+  "clientId": 8312,
+  "key": "item.quest.the_shock_wave_contract_for_the_protection_of_the_target",
+  "kind": "item",
+  "name": {
+    "ru": "Контракт на охрану цели",
+    "en": "Contract to Protect a Target"
+  },
+  "apiId": "r0ry",
+  "apiIdStatus": "inferred"
+}

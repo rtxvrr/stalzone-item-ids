@@ -1,0 +1,11 @@
+{
+  "clientId": 12115,
+  "key": "item.bag.sports",
+  "kind": "item",
+  "name": {
+    "ru": "Спортивная сумка",
+    "en": "Sports Bag"
+  },
+  "apiId": "odq0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16015,
+  "key": "item.16015",
+  "kind": "item",
+  "name": {
+    "ru": "Ноутбук",
+    "en": "Laptop"
+  },
+  "apiId": "ok406",
+  "apiIdStatus": "inferred"
+}

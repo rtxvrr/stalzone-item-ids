@@ -1,0 +1,11 @@
+{
+  "clientId": 25133,
+  "key": "item.arm.berill",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Комбат-5М»",
+    "en": "Combat-5M Armored Suit"
+  },
+  "apiId": "qjow3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6112,
+  "key": "item.misc.yeast",
+  "kind": "item",
+  "name": {
+    "ru": "Дрожжи",
+    "en": "Yeast"
+  },
+  "apiId": "rr05",
+  "apiIdStatus": "inferred"
+}

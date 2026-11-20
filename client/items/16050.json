@@ -1,0 +1,11 @@
+{
+  "clientId": 16050,
+  "key": "item.16050",
+  "kind": "item",
+  "name": {
+    "ru": "Платы",
+    "en": "Circuit Boards"
+  },
+  "apiId": "g4k36",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12712,
+  "key": "item.amm.12slug",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничья пуля 12 калибра",
+    "en": "12 Caliber Hunting Round"
+  },
+  "apiId": "row5",
+  "apiIdStatus": "inferred"
+}

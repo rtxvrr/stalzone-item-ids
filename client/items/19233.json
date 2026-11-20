@@ -1,0 +1,11 @@
+{
+  "clientId": 19233,
+  "key": "item.camo.arm.hexcam_jungle",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Hexcam Jungle»",
+    "en": "Hexcam Jungle Camouflage"
+  },
+  "apiId": "qj444",
+  "apiIdStatus": "inferred"
+}

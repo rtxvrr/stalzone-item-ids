@@ -1,0 +1,11 @@
+{
+  "clientId": 3597,
+  "key": "tile.3597",
+  "kind": "tile",
+  "name": {
+    "ru": "Бетонные плиты",
+    "en": "Concrete Slabs"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16876,
+  "key": "item.quest.otchet_1",
+  "kind": "item",
+  "name": {
+    "ru": "Отчет научной группы А24: часть 1",
+    "en": "Report of Research Group A24: Part 1"
+  },
+  "apiId": "5l6jo",
+  "apiIdStatus": "inferred"
+}

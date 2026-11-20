@@ -1,0 +1,11 @@
+{
+  "clientId": 6202,
+  "key": "item.misc.sewing_kit",
+  "kind": "item",
+  "name": {
+    "ru": "Набор для шитья",
+    "en": "Sewing Kit"
+  },
+  "apiId": "g060",
+  "apiIdStatus": "inferred"
+}

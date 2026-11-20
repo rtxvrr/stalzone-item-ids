@@ -1,0 +1,11 @@
+{
+  "clientId": 30034,
+  "key": "item.filler.wild_mining_5",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанная фазовая батарея",
+    "en": "Broken Phase Battery"
+  },
+  "apiId": "j0qnl",
+  "apiIdStatus": "inferred"
+}

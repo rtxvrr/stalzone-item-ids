@@ -1,0 +1,11 @@
+{
+  "clientId": 4031,
+  "key": "tile.4031",
+  "kind": "tile",
+  "name": {
+    "ru": "Листва с рад. заражением (хвоя, уровень 3)",
+    "en": "Leaves with Rad. Infection (Pine Needle, Level 3)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

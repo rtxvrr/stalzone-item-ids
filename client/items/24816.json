@@ -1,0 +1,11 @@
+{
+  "clientId": 24816,
+  "key": "item.charm.media_niksp",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Вирус»",
+    "en": "Virus Charm"
+  },
+  "apiId": "n4rk6",
+  "apiIdStatus": "inferred"
+}

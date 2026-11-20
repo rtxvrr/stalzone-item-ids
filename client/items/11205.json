@@ -1,0 +1,11 @@
+{
+  "clientId": 11205,
+  "key": "item.art.puh_mochalka",
+  "kind": "item",
+  "name": {
+    "ru": "Мочалка",
+    "en": "Sponge"
+  },
+  "apiId": "y57k",
+  "apiIdStatus": "inferred"
+}

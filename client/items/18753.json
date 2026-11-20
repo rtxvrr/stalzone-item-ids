@@ -1,0 +1,11 @@
+{
+  "clientId": 18753,
+  "key": "item.camo.wpn.thaw",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Нагрев»",
+    "en": "Heat Paint"
+  },
+  "apiId": "y3vzo",
+  "apiIdStatus": "inferred"
+}

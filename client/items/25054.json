@@ -1,0 +1,11 @@
+{
+  "clientId": 25054,
+  "key": "item.arm.yantar",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-99 «Янтарь»",
+    "en": "MIS-99 Amber"
+  },
+  "apiId": "wjg72",
+  "apiIdStatus": "inferred"
+}

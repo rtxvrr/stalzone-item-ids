@@ -1,0 +1,11 @@
+{
+  "clientId": 25432,
+  "key": "item.arm.mule-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Мул»",
+    "en": "Worn Mule"
+  },
+  "apiId": "kn360",
+  "apiIdStatus": "inferred"
+}

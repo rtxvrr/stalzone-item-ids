@@ -1,0 +1,11 @@
+{
+  "clientId": 8362,
+  "key": "item.quest.zov_utkevich_1",
+  "kind": "item",
+  "name": {
+    "ru": "Запись Уткевича 1",
+    "en": "Utkevich’s Note 1"
+  },
+  "apiId": "mkv2",
+  "apiIdStatus": "inferred"
+}

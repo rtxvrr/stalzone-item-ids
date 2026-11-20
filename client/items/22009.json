@@ -1,0 +1,11 @@
+{
+  "clientId": 22009,
+  "key": "item.att.forend_m1ris1",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье M1A с планкой Пикатинни",
+    "en": "M1A Handguard with Picatinny Rail"
+  },
+  "apiId": "qjr3j",
+  "apiIdStatus": "inferred"
+}

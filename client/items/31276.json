@@ -1,0 +1,11 @@
+{
+  "clientId": 31276,
+  "key": "item.ny_toys.setQ.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Советская редкая мишура",
+    "en": "Rare Soviet Tinsel"
+  },
+  "apiId": "553jo",
+  "apiIdStatus": "inferred"
+}

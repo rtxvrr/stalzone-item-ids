@@ -1,0 +1,11 @@
+{
+  "clientId": 29964,
+  "key": "item.filler.mob_limansk_5",
+  "kind": "item",
+  "name": {
+    "ru": "Кость мутанта из Любеча",
+    "en": "Lyubech Mutant's Bone"
+  },
+  "apiId": "nkw62",
+  "apiIdStatus": "inferred"
+}

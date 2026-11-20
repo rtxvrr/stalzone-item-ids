@@ -1,0 +1,11 @@
+{
+  "clientId": 14255,
+  "key": "item.bag.armorpack_composite5",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка композитных пластин V",
+    "en": "Bag of Composite Plates V"
+  },
+  "apiId": "4qzyr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16673,
+  "key": "item.lootbox.gift",
+  "kind": "item",
+  "name": {
+    "ru": "Подарочный набор",
+    "en": "Gift Pack"
+  },
+  "apiId": "1rlng",
+  "apiIdStatus": "inferred"
+}

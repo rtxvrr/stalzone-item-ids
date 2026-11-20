@@ -1,0 +1,11 @@
+{
+  "clientId": 22577,
+  "key": "item.att.silencer_atg",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель АТГ",
+    "en": "ATG Silencer"
+  },
+  "apiId": "y3mnw",
+  "apiIdStatus": "inferred"
+}

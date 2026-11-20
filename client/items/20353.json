@@ -1,0 +1,11 @@
+{
+  "clientId": 20353,
+  "key": "item.wpn.mr133",
+  "kind": "item",
+  "name": {
+    "ru": "MP-133",
+    "en": "MP-133"
+  },
+  "apiId": "y32v3",
+  "apiIdStatus": "inferred"
+}

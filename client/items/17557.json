@@ -1,0 +1,11 @@
+{
+  "clientId": 17557,
+  "key": "item.motif.wpn.tec9_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Сколопендра»",
+    "en": "Centipede"
+  },
+  "apiId": "qjn2k",
+  "apiIdStatus": "inferred"
+}

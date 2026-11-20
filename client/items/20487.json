@@ -1,0 +1,11 @@
+{
+  "clientId": 20487,
+  "key": "item.wpn.deagle_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Twitch Eagle",
+    "en": "Twitch Eagle"
+  },
+  "apiId": "okmw5",
+  "apiIdStatus": "inferred"
+}

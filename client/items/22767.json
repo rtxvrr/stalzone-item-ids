@@ -1,0 +1,11 @@
+{
+  "clientId": 22767,
+  "key": "item.att.mag_val30",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин для ВСС/Вал",
+    "en": "Extended Magazine for VSS/Val"
+  },
+  "apiId": "dm2v2",
+  "apiIdStatus": "inferred"
+}

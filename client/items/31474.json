@@ -1,0 +1,11 @@
+{
+  "clientId": 31474,
+  "key": "item.lootbox.autumn24_tickets_big",
+  "kind": "item",
+  "name": {
+    "ru": "Супер-презент от Черного Рынка",
+    "en": "Super-present from Black Market"
+  },
+  "apiId": "gnp20",
+  "apiIdStatus": "inferred"
+}

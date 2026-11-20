@@ -1,0 +1,11 @@
+{
+  "clientId": 6108,
+  "key": "item.misc.oil",
+  "kind": "item",
+  "name": {
+    "ru": "Нефть",
+    "en": "Oil"
+  },
+  "apiId": "klwv",
+  "apiIdStatus": "inferred"
+}

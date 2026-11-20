@@ -1,0 +1,11 @@
+{
+  "clientId": 8025,
+  "key": "item.quest.duty_med_instruments",
+  "kind": "item",
+  "name": {
+    "ru": "Хирургические инструменты",
+    "en": "Surgical Instruments"
+  },
+  "apiId": "1qn6",
+  "apiIdStatus": "inferred"
+}

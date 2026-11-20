@@ -1,0 +1,11 @@
+{
+  "clientId": 16896,
+  "key": "item.quest.covenant_commandment2",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 2",
+    "en": "2nd Covenant Commandment"
+  },
+  "apiId": "96k0q",
+  "apiIdStatus": "inferred"
+}

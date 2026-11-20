@@ -1,0 +1,11 @@
+{
+  "clientId": 20581,
+  "key": "item.wpn.scarssr",
+  "kind": "item",
+  "name": {
+    "ru": "FN SCAR SSR",
+    "en": "FN SCAR SSR"
+  },
+  "apiId": "qj26k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4538,
+  "key": "item.plc.pattern.cosplay_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Чертежи»",
+    "en": "Drawings Pattern"
+  },
+  "apiId": "mnpr",
+  "apiIdStatus": "inferred"
+}

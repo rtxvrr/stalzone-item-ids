@@ -1,0 +1,11 @@
+{
+  "clientId": 24676,
+  "key": "item.charm.special_stopgame",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок истинного фаната «StopGame»",
+    "en": "Charm of a true StopGame fan"
+  },
+  "apiId": "5lk1o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27235,
+  "key": "item.crt.snowflake",
+  "kind": "item",
+  "name": {
+    "ru": "Снежинка",
+    "en": "Snowflake"
+  },
+  "apiId": "lyq5j",
+  "apiIdStatus": "inferred"
+}

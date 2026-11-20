@@ -1,0 +1,11 @@
+{
+  "clientId": 29921,
+  "key": "item.filler.mining_2",
+  "kind": "item",
+  "name": {
+    "ru": "Симистор",
+    "en": "TRIAC"
+  },
+  "apiId": "34ov5",
+  "apiIdStatus": "inferred"
+}

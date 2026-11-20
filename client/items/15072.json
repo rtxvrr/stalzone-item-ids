@@ -1,0 +1,11 @@
+{
+  "clientId": 15072,
+  "key": "item.pack.camo.blitz_skin_10",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Развертывание»",
+    "en": "Deployment Paint Set"
+  },
+  "apiId": "96dzq",
+  "apiIdStatus": "inferred"
+}

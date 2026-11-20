@@ -1,0 +1,11 @@
+{
+  "clientId": 8031,
+  "key": "item.quest.covenant.dossier_tairon",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Тайрон",
+    "en": "Dossier: Tyrone"
+  },
+  "apiId": "46dp",
+  "apiIdStatus": "inferred"
+}

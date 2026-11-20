@@ -1,0 +1,11 @@
+{
+  "clientId": 16067,
+  "key": "item.16067",
+  "kind": "item",
+  "name": {
+    "ru": "Желтая ключ-карта",
+    "en": "Yellow Key Card"
+  },
+  "apiId": "dm5kj",
+  "apiIdStatus": "inferred"
+}

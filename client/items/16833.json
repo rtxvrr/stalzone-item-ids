@@ -1,0 +1,11 @@
+{
+  "clientId": 16833,
+  "key": "item.16833",
+  "kind": "item",
+  "name": {
+    "ru": "Кишки зомби",
+    "en": "Zombie Intestines"
+  },
+  "apiId": "qj334",
+  "apiIdStatus": "inferred"
+}

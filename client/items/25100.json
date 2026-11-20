@@ -1,0 +1,11 @@
+{
+  "clientId": 25100,
+  "key": "item.arm.exo_bandit-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенная «Масть»",
+    "en": "Worn Trump"
+  },
+  "apiId": "96n5y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22760,
+  "key": "item.att.mag_pp200040",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин ПП-2000",
+    "en": "PP-2000 Magazine"
+  },
+  "apiId": "rw4zy",
+  "apiIdStatus": "inferred"
+}

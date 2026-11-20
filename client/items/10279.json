@@ -1,0 +1,11 @@
+{
+  "clientId": 10279,
+  "key": "item.phonograph.vinyl_operations_focus",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Фокусировка»",
+    "en": "Focus Vinyl Record"
+  },
+  "apiId": "4y9j",
+  "apiIdStatus": "inferred"
+}

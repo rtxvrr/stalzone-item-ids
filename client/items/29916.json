@@ -1,0 +1,11 @@
+{
+  "clientId": 29916,
+  "key": "item.filler.mob_8",
+  "kind": "item",
+  "name": {
+    "ru": "Селезенка мутанта",
+    "en": "Mutant's Spleen"
+  },
+  "apiId": "nkjl2",
+  "apiIdStatus": "inferred"
+}

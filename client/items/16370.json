@@ -1,0 +1,11 @@
+{
+  "clientId": 16370,
+  "key": "item.16370",
+  "kind": "item",
+  "name": {
+    "ru": "Измененное копыто кабана",
+    "en": "Altered Boar's Hoof"
+  },
+  "apiId": "7l1r7",
+  "apiIdStatus": "inferred"
+}

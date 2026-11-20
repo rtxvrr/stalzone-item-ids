@@ -1,0 +1,11 @@
+{
+  "clientId": 15966,
+  "key": "item.crt.prestige",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерны",
+    "en": "Patterns"
+  },
+  "apiId": "vjozg",
+  "apiIdStatus": "inferred"
+}

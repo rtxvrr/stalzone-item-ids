@@ -1,0 +1,11 @@
+{
+  "clientId": 8197,
+  "key": "item.quest.point_of_no_return_documents",
+  "kind": "item",
+  "name": {
+    "ru": "Старые документы",
+    "en": "Old Documents"
+  },
+  "apiId": "1v1q",
+  "apiIdStatus": "inferred"
+}

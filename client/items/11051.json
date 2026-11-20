@@ -1,0 +1,11 @@
+{
+  "clientId": 11051,
+  "key": "item.art.jarka_fireball",
+  "kind": "item",
+  "name": {
+    "ru": "Огонек",
+    "en": "Candlelight"
+  },
+  "apiId": "zyw2",
+  "apiIdStatus": "inferred"
+}

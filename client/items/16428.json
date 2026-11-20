@@ -1,0 +1,11 @@
+{
+  "clientId": 16428,
+  "key": "item.misc.strange_artefact",
+  "kind": "item",
+  "name": {
+    "ru": "Странный артефакт",
+    "en": "Strange Artifact"
+  },
+  "apiId": "5logg",
+  "apiIdStatus": "inferred"
+}

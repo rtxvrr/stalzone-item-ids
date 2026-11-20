@@ -1,0 +1,11 @@
+{
+  "clientId": 24907,
+  "key": "item.charm.media_help",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Зов о помощи»",
+    "en": "Distress Call Charm"
+  },
+  "apiId": "4ql5l",
+  "apiIdStatus": "inferred"
+}

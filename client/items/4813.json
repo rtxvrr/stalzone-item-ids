@@ -1,0 +1,11 @@
+{
+  "clientId": 4813,
+  "key": "item.plc.sticker.encaged_hunter",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Охотник»",
+    "en": "Hunter Sticker"
+  },
+  "apiId": "0mmk",
+  "apiIdStatus": "inferred"
+}

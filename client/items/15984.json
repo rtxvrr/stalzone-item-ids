@@ -1,0 +1,11 @@
+{
+  "clientId": 15984,
+  "key": "item.crt.spring_24",
+  "kind": "item",
+  "name": {
+    "ru": "Грамота",
+    "en": "Birch-bark"
+  },
+  "apiId": "rwm7l",
+  "apiIdStatus": "inferred"
+}

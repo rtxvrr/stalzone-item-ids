@@ -1,0 +1,11 @@
+{
+  "clientId": 17005,
+  "key": "item.att.launcher_m203_famas",
+  "kind": "item",
+  "name": {
+    "ru": "M203",
+    "en": "M203"
+  },
+  "apiId": "y30jz",
+  "apiIdStatus": "inferred"
+}

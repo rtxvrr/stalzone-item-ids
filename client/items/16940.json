@@ -1,0 +1,11 @@
+{
+  "clientId": 16940,
+  "key": "item.quest.duty_suppliers",
+  "kind": "item",
+  "name": {
+    "ru": "Припасы «рубежников»",
+    "en": "Frontier Supplies"
+  },
+  "apiId": "n4g53",
+  "apiIdStatus": "inferred"
+}

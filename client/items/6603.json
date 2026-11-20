@@ -1,0 +1,11 @@
+{
+  "clientId": 6603,
+  "key": "item.misc.bullet",
+  "kind": "item",
+  "name": {
+    "ru": "Пуля",
+    "en": "Bullet"
+  },
+  "apiId": "z22k",
+  "apiIdStatus": "inferred"
+}

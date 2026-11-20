@@ -1,0 +1,11 @@
+{
+  "clientId": 8276,
+  "key": "item.quest.prestige_resonator_full",
+  "kind": "item",
+  "name": {
+    "ru": "Резонатор КР-1 «Инсула» (полный)",
+    "en": "CR-1 Insula Resonator (Full)"
+  },
+  "apiId": "5v01",
+  "apiIdStatus": "inferred"
+}

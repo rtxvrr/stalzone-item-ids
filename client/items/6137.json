@@ -1,0 +1,11 @@
+{
+  "clientId": 6137,
+  "key": "item.misc.gas_cylinder",
+  "kind": "item",
+  "name": {
+    "ru": "Газовый баллон",
+    "en": "Gas Cylinder"
+  },
+  "apiId": "03p1",
+  "apiIdStatus": "inferred"
+}

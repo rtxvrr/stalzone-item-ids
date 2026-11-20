@@ -1,0 +1,11 @@
+{
+  "clientId": 25703,
+  "key": "item.skin.newyear5",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Похититель подарков»",
+    "en": "Gift Snatcher Skin"
+  },
+  "apiId": "zzjpm",
+  "apiIdStatus": "inferred"
+}

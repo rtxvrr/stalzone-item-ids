@@ -1,0 +1,11 @@
+{
+  "clientId": 16262,
+  "key": "item.misc.dog_tail_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост шавки",
+    "en": "Mutt's Tail"
+  },
+  "apiId": "m0q1k",
+  "apiIdStatus": "inferred"
+}

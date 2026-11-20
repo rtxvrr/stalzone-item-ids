@@ -1,0 +1,11 @@
+{
+  "clientId": 18782,
+  "key": "item.camo.wpn.slaughter",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Сеча»",
+    "en": "Clash Camouflage"
+  },
+  "apiId": "j5j66",
+  "apiIdStatus": "inferred"
+}

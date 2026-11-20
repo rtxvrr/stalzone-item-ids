@@ -1,0 +1,11 @@
+{
+  "clientId": 28301,
+  "key": "item.28301",
+  "kind": "item",
+  "name": {
+    "ru": "Нашивка сталкеров",
+    "en": "Stalker Patch"
+  },
+  "apiId": "19ro1",
+  "apiIdStatus": "inferred"
+}

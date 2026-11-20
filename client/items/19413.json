@@ -1,0 +1,11 @@
+{
+  "clientId": 19413,
+  "key": "item.camo.arm.bf_skin_16",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Мутировавшие наросты»",
+    "en": "Mutated growths Paint"
+  },
+  "apiId": "0rygd",
+  "apiIdStatus": "inferred"
+}

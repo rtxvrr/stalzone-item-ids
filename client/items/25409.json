@@ -1,0 +1,11 @@
+{
+  "clientId": 25409,
+  "key": "item.arm.murmur_3",
+  "kind": "item",
+  "name": {
+    "ru": "«Атропос»",
+    "en": "Atropos"
+  },
+  "apiId": "qj106",
+  "apiIdStatus": "inferred"
+}

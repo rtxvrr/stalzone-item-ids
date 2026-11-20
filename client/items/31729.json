@@ -1,0 +1,11 @@
+{
+  "clientId": 31729,
+  "key": "item.part.dotsat_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть DOTSAT #1",
+    "en": "DOTSAT Part #1"
+  },
+  "apiId": "y4643",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19904,
+  "key": "item.motif.wpn.fmg9_bureau",
+  "kind": "item",
+  "name": {
+    "ru": "«Ближний круг»",
+    "en": "Inner Circle"
+  },
+  "apiId": "5ld90",
+  "apiIdStatus": "inferred"
+}

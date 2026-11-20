@@ -1,0 +1,11 @@
+{
+  "clientId": 16498,
+  "key": "item.16498",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон охотника (cтарый)",
+    "en": "Hunter Token (old)"
+  },
+  "apiId": "g4120",
+  "apiIdStatus": "inferred"
+}

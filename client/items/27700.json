@@ -1,0 +1,11 @@
+{
+  "clientId": 27700,
+  "key": "item.stash_placer.small_1",
+  "kind": "item",
+  "name": {
+    "ru": "Малый схрон",
+    "en": "Small Stash"
+  },
+  "apiId": "9dqdz",
+  "apiIdStatus": "inferred"
+}

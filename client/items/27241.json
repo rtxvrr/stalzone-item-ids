@@ -1,0 +1,11 @@
+{
+  "clientId": 27241,
+  "key": "item.crt.season_pass_ticket_3",
+  "kind": "item",
+  "name": {
+    "ru": "Талон III-го акта",
+    "en": "Act III Ticket"
+  },
+  "apiId": "p6po6",
+  "apiIdStatus": "inferred"
+}

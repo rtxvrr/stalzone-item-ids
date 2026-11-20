@@ -1,0 +1,11 @@
+{
+  "clientId": 15011,
+  "key": "item.case.spring25_usual",
+  "kind": "item",
+  "name": {
+    "ru": "Базовый кейс «Назад в Изнанку»",
+    "en": "Basic Back to the Inside Out Case"
+  },
+  "apiId": "ly0y2",
+  "apiIdStatus": "inferred"
+}

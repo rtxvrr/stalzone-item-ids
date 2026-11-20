@@ -1,0 +1,11 @@
+{
+  "clientId": 21044,
+  "key": "item.21044",
+  "kind": "item",
+  "name": {
+    "ru": "Классический M9",
+    "en": "Classic M9"
+  },
+  "apiId": "2ollv",
+  "apiIdStatus": "inferred"
+}

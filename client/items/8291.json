@@ -1,0 +1,11 @@
+{
+  "clientId": 8291,
+  "key": "item.quest.crash_key_first",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ #1",
+    "en": "Key #1"
+  },
+  "apiId": "d0zj",
+  "apiIdStatus": "inferred"
+}

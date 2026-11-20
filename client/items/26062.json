@@ -1,0 +1,11 @@
+{
+  "clientId": 26062,
+  "key": "item.med.inside_pilul",
+  "kind": "item",
+  "name": {
+    "ru": "Пилюли Поэта",
+    "en": "Poet's Pills"
+  },
+  "apiId": "m0p1j",
+  "apiIdStatus": "inferred"
+}

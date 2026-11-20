@@ -1,0 +1,11 @@
+{
+  "clientId": 16415,
+  "key": "item.16415",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта",
+    "en": "Key Card"
+  },
+  "apiId": "okpmo",
+  "apiIdStatus": "inferred"
+}

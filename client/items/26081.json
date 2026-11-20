@@ -1,0 +1,11 @@
+{
+  "clientId": 26081,
+  "key": "item.food.ny23.icecream",
+  "kind": "item",
+  "name": {
+    "ru": "Пломбир",
+    "en": "Ice Cream"
+  },
+  "apiId": "qj9n6",
+  "apiIdStatus": "inferred"
+}

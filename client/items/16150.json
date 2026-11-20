@@ -1,0 +1,11 @@
+{
+  "clientId": 16150,
+  "key": "item.16150",
+  "kind": "item",
+  "name": {
+    "ru": "Мятая записка",
+    "en": "Crumpled Note"
+  },
+  "apiId": "g41r5",
+  "apiIdStatus": "inferred"
+}

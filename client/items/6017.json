@@ -1,0 +1,11 @@
+{
+  "clientId": 6017,
+  "key": "item.misc.amber_wormwood",
+  "kind": "item",
+  "name": {
+    "ru": "Янтарная полынь",
+    "en": "Amber Wormwood"
+  },
+  "apiId": "prrd",
+  "apiIdStatus": "inferred"
+}

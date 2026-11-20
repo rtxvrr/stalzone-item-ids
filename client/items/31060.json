@@ -1,0 +1,11 @@
+{
+  "clientId": 31060,
+  "key": "item.brt.mg.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Хлорник",
+    "en": "Chlorinex"
+  },
+  "apiId": "rj6ov",
+  "apiIdStatus": "inferred"
+}

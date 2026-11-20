@@ -1,0 +1,11 @@
+{
+  "clientId": 26043,
+  "key": "item.med.birthday_punch",
+  "kind": "item",
+  "name": {
+    "ru": "Праздничный пунш",
+    "en": "Holiday Punch"
+  },
+  "apiId": "dmk65",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31527,
+  "key": "item.ny_toys.setJ.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская редкая мишура",
+    "en": "Rare Stalker Tinsel"
+  },
+  "apiId": "z3o49",
+  "apiIdStatus": "inferred"
+}

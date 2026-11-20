@@ -1,0 +1,11 @@
+{
+  "clientId": 20574,
+  "key": "item.wpn.ak12",
+  "kind": "item",
+  "name": {
+    "ru": "АК-12",
+    "en": "AK-12"
+  },
+  "apiId": "g4mdp",
+  "apiIdStatus": "inferred"
+}

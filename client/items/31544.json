@@ -1,0 +1,11 @@
+{
+  "clientId": 31544,
+  "key": "item.ny_toys.setM.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Игрушка-крышки диггеров",
+    "en": "Digger's Caps Decoration"
+  },
+  "apiId": "213ym",
+  "apiIdStatus": "inferred"
+}

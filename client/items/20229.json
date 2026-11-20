@@ -1,0 +1,11 @@
+{
+  "clientId": 20229,
+  "key": "item.wpn.mosin_main",
+  "kind": "item",
+  "name": {
+    "ru": "«Гром-палка» Шамана",
+    "en": "Shaman's Boomstick"
+  },
+  "apiId": "y324k",
+  "apiIdStatus": "inferred"
+}

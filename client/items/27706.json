@@ -1,0 +1,11 @@
+{
+  "clientId": 27706,
+  "key": "item.stash_placer.spring24",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон Руса",
+    "en": "Slav Stash"
+  },
+  "apiId": "w3n3o",
+  "apiIdStatus": "inferred"
+}

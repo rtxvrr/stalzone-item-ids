@@ -1,0 +1,11 @@
+{
+  "clientId": 16879,
+  "key": "item.quest.zametki_Kolodina",
+  "kind": "item",
+  "name": {
+    "ru": "Заметки профессора Колодина",
+    "en": "Professor Kolodin's Notes"
+  },
+  "apiId": "4q5jj",
+  "apiIdStatus": "inferred"
+}

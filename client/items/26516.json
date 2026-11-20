@@ -1,0 +1,11 @@
+{
+  "clientId": 26516,
+  "key": "item.food.tunec",
+  "kind": "item",
+  "name": {
+    "ru": "Вареный тунец",
+    "en": "Boiled Tuna"
+  },
+  "apiId": "n4l63",
+  "apiIdStatus": "inferred"
+}

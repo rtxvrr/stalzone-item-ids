@@ -1,0 +1,11 @@
+{
+  "clientId": 6229,
+  "key": "item.misc.juice",
+  "kind": "item",
+  "name": {
+    "ru": "Сок",
+    "en": "Juice"
+  },
+  "apiId": "y75z",
+  "apiIdStatus": "inferred"
+}

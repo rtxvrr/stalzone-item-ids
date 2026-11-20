@@ -1,0 +1,11 @@
+{
+  "clientId": 8134,
+  "key": "item.quest.steel",
+  "kind": "item",
+  "name": {
+    "ru": "Сталь Отца Симона",
+    "en": "Father Simon's Steel"
+  },
+  "apiId": "j604",
+  "apiIdStatus": "inferred"
+}

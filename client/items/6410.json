@@ -1,0 +1,11 @@
+{
+  "clientId": 6410,
+  "key": "item.misc.ammonium_chloride",
+  "kind": "item",
+  "name": {
+    "ru": "Нашатырь",
+    "en": "Ammonium Chloride"
+  },
+  "apiId": "jon0",
+  "apiIdStatus": "inferred"
+}

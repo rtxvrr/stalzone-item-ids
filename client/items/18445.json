@@ -1,0 +1,11 @@
+{
+  "clientId": 18445,
+  "key": "item.camo.wpn.summer25_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Биотехника»",
+    "en": "Biotech Paint"
+  },
+  "apiId": "3gm0l",
+  "apiIdStatus": "inferred"
+}

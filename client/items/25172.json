@@ -1,0 +1,11 @@
+{
+  "clientId": 25172,
+  "key": "item.arm.exosan",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет Морга",
+    "en": "Morgue's Exoskeleton"
+  },
+  "apiId": "96nly",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8059,
+  "key": "item.quest.dmz2_tims_device",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство Тима",
+    "en": "Tim's Device"
+  },
+  "apiId": "lzqj",
+  "apiIdStatus": "inferred"
+}

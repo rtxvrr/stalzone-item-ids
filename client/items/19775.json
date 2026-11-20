@@ -1,0 +1,11 @@
+{
+  "clientId": 19775,
+  "key": "item.camo.arm.lightning_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Lightning»",
+    "en": "Twitch Lightning Camouflage"
+  },
+  "apiId": "zz7nm",
+  "apiIdStatus": "inferred"
+}

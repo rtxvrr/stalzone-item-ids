@@ -1,0 +1,11 @@
+{
+  "clientId": 10274,
+  "key": "item.phonograph.vinyl_event_rus_arena",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Арена Русов»",
+    "en": "Arena of Slavs Vinyl Record"
+  },
+  "apiId": "gd3n",
+  "apiIdStatus": "inferred"
+}

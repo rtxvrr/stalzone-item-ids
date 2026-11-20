@@ -1,0 +1,11 @@
+{
+  "clientId": 31713,
+  "key": "item.part.scorpion_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть Scorpion EVO III #2",
+    "en": "Scorpion EVO III Part #2"
+  },
+  "apiId": "006ry",
+  "apiIdStatus": "inferred"
+}

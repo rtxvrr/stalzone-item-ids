@@ -1,0 +1,11 @@
+{
+  "clientId": 24615,
+  "key": "item.charm.ny24_sniff",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Аромат Нового Года»",
+    "en": "Keychain \"New Year's Scent\""
+  },
+  "apiId": "ok725",
+  "apiIdStatus": "inferred"
+}

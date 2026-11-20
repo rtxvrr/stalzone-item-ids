@@ -1,0 +1,11 @@
+{
+  "clientId": 26098,
+  "key": "item.med.sas",
+  "kind": "item",
+  "name": {
+    "ru": "«Биозаплатка»",
+    "en": "Biopatch"
+  },
+  "apiId": "g4lz0",
+  "apiIdStatus": "inferred"
+}

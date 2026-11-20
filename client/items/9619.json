@@ -1,0 +1,11 @@
+{
+  "clientId": 9619,
+  "key": "item.exp.prestige_explosive",
+  "kind": "item",
+  "name": {
+    "ru": "Взрывной заряд",
+    "en": "Blast Barrel"
+  },
+  "apiId": "dwwg",
+  "apiIdStatus": "inferred"
+}

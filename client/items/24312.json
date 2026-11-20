@@ -1,0 +1,11 @@
+{
+  "clientId": 24312,
+  "key": "item.charm.klever",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Клевер»",
+    "en": "Klever Charm"
+  },
+  "apiId": "rw76l",
+  "apiIdStatus": "inferred"
+}

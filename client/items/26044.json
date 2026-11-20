@@ -1,0 +1,11 @@
+{
+  "clientId": 26044,
+  "key": "item.med.ozverin",
+  "kind": "item",
+  "name": {
+    "ru": "«Озверин»",
+    "en": "Ozverin"
+  },
+  "apiId": "2o9g0",
+  "apiIdStatus": "inferred"
+}

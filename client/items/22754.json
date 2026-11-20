@@ -1,0 +1,11 @@
+{
+  "clientId": 22754,
+  "key": "item.att.mag_rumag54560",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.45",
+    "en": "5.45 Magazine"
+  },
+  "apiId": "wjr63",
+  "apiIdStatus": "inferred"
+}

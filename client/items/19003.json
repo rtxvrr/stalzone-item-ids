@@ -1,0 +1,11 @@
+{
+  "clientId": 19003,
+  "key": "item.camo.arm.yellow",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Желтая»",
+    "en": "Yellow Armor Paint"
+  },
+  "apiId": "zzvmy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22303,
+  "key": "item.att.sight_rmr",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Trijicon",
+    "en": "Trijicon Collimator Sight"
+  },
+  "apiId": "zzp4n",
+  "apiIdStatus": "inferred"
+}

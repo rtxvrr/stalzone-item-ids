@@ -1,0 +1,11 @@
+{
+  "clientId": 24776,
+  "key": "item.charm.autumn25_encaged_engineer",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Выживший инженер»",
+    "en": "Survivor Engineer Charm"
+  },
+  "apiId": "5lrq0",
+  "apiIdStatus": "inferred"
+}

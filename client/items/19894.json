@@ -1,0 +1,11 @@
+{
+  "clientId": 19894,
+  "key": "item.motif.wpn.ash12_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Люди Зоны»",
+    "en": "Children of the Zone"
+  },
+  "apiId": "7lr59",
+  "apiIdStatus": "inferred"
+}

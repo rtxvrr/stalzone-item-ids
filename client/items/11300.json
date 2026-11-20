@@ -1,0 +1,11 @@
+{
+  "clientId": 11300,
+  "key": "item.art.voronka_vivert",
+  "kind": "item",
+  "name": {
+    "ru": "Вехотка",
+    "en": "Sponge"
+  },
+  "apiId": "9nvy",
+  "apiIdStatus": "inferred"
+}

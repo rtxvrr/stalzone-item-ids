@@ -1,0 +1,11 @@
+{
+  "clientId": 16667,
+  "key": "item.lootbox.incident_weekly",
+  "kind": "item",
+  "name": {
+    "ru": "Набор победителя «Мертвого времени»",
+    "en": "Dead Time Victor's Set"
+  },
+  "apiId": "dmy1j",
+  "apiIdStatus": "inferred"
+}

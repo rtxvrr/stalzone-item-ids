@@ -1,0 +1,11 @@
+{
+  "clientId": 24556,
+  "key": "item.charm.set_ginger_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пряничный упырь»",
+    "en": "Gingerbread Ghoul Charm"
+  },
+  "apiId": "kn79p",
+  "apiIdStatus": "inferred"
+}

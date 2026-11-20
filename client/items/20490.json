@@ -1,0 +1,11 @@
+{
+  "clientId": 20490,
+  "key": "item.wpn.glock18x",
+  "kind": "item",
+  "name": {
+    "ru": "Glock 18X",
+    "en": "Glock 18X"
+  },
+  "apiId": "vj297",
+  "apiIdStatus": "inferred"
+}

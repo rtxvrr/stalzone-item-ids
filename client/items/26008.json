@@ -1,0 +1,11 @@
+{
+  "clientId": 26008,
+  "key": "item.med.psiblock_2",
+  "kind": "item",
+  "name": {
+    "ru": "Пси-блок «Нейрон-22»",
+    "en": "Neuron-22 PsyBlock"
+  },
+  "apiId": "kno60",
+  "apiIdStatus": "inferred"
+}

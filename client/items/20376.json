@@ -1,0 +1,11 @@
+{
+  "clientId": 20376,
+  "key": "item.wpn.saiga",
+  "kind": "item",
+  "name": {
+    "ru": "Сайга-12К",
+    "en": "Saiga-12K"
+  },
+  "apiId": "5ln7q",
+  "apiIdStatus": "inferred"
+}

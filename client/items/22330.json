@@ -1,0 +1,11 @@
+{
+  "clientId": 22330,
+  "key": "item.att.sight_arsenal_barska",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Баркас»",
+    "en": "Barkas Reflex Sight"
+  },
+  "apiId": "wjpdo",
+  "apiIdStatus": "inferred"
+}

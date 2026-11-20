@@ -1,0 +1,11 @@
+{
+  "clientId": 8101,
+  "key": "item.quest.note_buntar_3",
+  "kind": "item",
+  "name": {
+    "ru": "Отрывок из сталкерского дневника #3",
+    "en": "Excerpt from Stalker Journal #3"
+  },
+  "apiId": "1vrq",
+  "apiIdStatus": "inferred"
+}

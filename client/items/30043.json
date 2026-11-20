@@ -1,0 +1,11 @@
+{
+  "clientId": 30043,
+  "key": "item.filler.npc_shopot_4",
+  "kind": "item",
+  "name": {
+    "ru": "Микросхема «Шепота»",
+    "en": "Murmur Microcircuit"
+  },
+  "apiId": "dry5g",
+  "apiIdStatus": "inferred"
+}

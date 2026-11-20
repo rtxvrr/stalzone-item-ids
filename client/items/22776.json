@@ -1,0 +1,11 @@
+{
+  "clientId": 22776,
+  "key": "item.att.mag_cmag100_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин 5.56 NATO в свитере",
+    "en": "5.56 NATO Drum Magazine in a Sweater"
+  },
+  "apiId": "5lp9q",
+  "apiIdStatus": "inferred"
+}

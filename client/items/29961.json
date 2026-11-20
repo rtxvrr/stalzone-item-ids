@@ -1,0 +1,11 @@
+{
+  "clientId": 29961,
+  "key": "item.filler.mob_limansk_2",
+  "kind": "item",
+  "name": {
+    "ru": "Коготь мутанта из Любеча",
+    "en": "Lyubech Mutant's Claw"
+  },
+  "apiId": "00lwy",
+  "apiIdStatus": "inferred"
+}

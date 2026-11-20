@@ -1,0 +1,11 @@
+{
+  "clientId": 6217,
+  "key": "item.misc.lead",
+  "kind": "item",
+  "name": {
+    "ru": "Свинец",
+    "en": "Lead"
+  },
+  "apiId": "prm6",
+  "apiIdStatus": "inferred"
+}

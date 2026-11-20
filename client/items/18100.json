@@ -1,0 +1,11 @@
+{
+  "clientId": 18100,
+  "key": "item.camo.wpn.butan",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Бутан»",
+    "en": "Bhutan Camouflage"
+  },
+  "apiId": "96omz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25365,
+  "key": "item.arm.ganymede",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Ганимед»",
+    "en": "Ganymede Jumpsuit"
+  },
+  "apiId": "p69k2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6205,
+  "key": "item.misc.frosty_mixture",
+  "kind": "item",
+  "name": {
+    "ru": "Морозная смесь",
+    "en": "Frosty Mixture"
+  },
+  "apiId": "y7dz",
+  "apiIdStatus": "inferred"
+}

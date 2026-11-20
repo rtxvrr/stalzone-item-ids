@@ -1,0 +1,11 @@
+{
+  "clientId": 4200,
+  "key": "item.plc.background.bandits",
+  "kind": "item",
+  "name": {
+    "ru": "Фон бандитов",
+    "en": "Bandit Background"
+  },
+  "apiId": "9ooq",
+  "apiIdStatus": "inferred"
+}

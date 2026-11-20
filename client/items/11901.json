@@ -1,0 +1,11 @@
+{
+  "clientId": 11901,
+  "key": "item.plate.steel2",
+  "kind": "item",
+  "name": {
+    "ru": "Стальная пластина II",
+    "en": "Steel Plate II"
+  },
+  "apiId": "1p32",
+  "apiIdStatus": "inferred"
+}

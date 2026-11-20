@@ -1,0 +1,11 @@
+{
+  "clientId": 25036,
+  "key": "item.arm.turist",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Грибник»",
+    "en": "Forager Jumpsuit"
+  },
+  "apiId": "rwn2v",
+  "apiIdStatus": "inferred"
+}

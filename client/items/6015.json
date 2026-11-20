@@ -1,0 +1,11 @@
+{
+  "clientId": 6015,
+  "key": "item.misc.gnosis",
+  "kind": "item",
+  "name": {
+    "ru": "Гнозис",
+    "en": "Gnosis"
+  },
+  "apiId": "ovv5",
+  "apiIdStatus": "inferred"
+}

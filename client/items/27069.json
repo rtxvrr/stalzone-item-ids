@@ -1,0 +1,11 @@
+{
+  "clientId": 27069,
+  "key": "item.27069",
+  "kind": "item",
+  "name": {
+    "ru": "Зажигалка",
+    "en": "Lighter"
+  },
+  "apiId": "3gvj1",
+  "apiIdStatus": "inferred"
+}

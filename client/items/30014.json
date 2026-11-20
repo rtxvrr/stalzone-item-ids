@@ -1,0 +1,11 @@
+{
+  "clientId": 30014,
+  "key": "item.filler.valuable_15",
+  "kind": "item",
+  "name": {
+    "ru": "Медицинская аппаратура",
+    "en": "Medical Equipment"
+  },
+  "apiId": "mrqrk",
+  "apiIdStatus": "inferred"
+}

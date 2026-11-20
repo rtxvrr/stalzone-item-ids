@@ -1,0 +1,11 @@
+{
+  "clientId": 16509,
+  "key": "item.upg.tools_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стандартные инструменты",
+    "en": "Standard Tools"
+  },
+  "apiId": "qjqw9",
+  "apiIdStatus": "inferred"
+}

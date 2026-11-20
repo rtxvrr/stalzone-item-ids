@@ -1,0 +1,11 @@
+{
+  "clientId": 25465,
+  "key": "item.arm.trader_longcoat",
+  "kind": "item",
+  "name": {
+    "ru": "Плащ торговца",
+    "en": "Merchant's Cloak"
+  },
+  "apiId": "p6956",
+  "apiIdStatus": "inferred"
+}

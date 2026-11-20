@@ -1,0 +1,11 @@
+{
+  "clientId": 31510,
+  "key": "item.ny_toys.setK.garland2",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая хорошая гирлянда",
+    "en": "Nice Crafted Tree Lights"
+  },
+  "apiId": "j0gr4",
+  "apiIdStatus": "inferred"
+}

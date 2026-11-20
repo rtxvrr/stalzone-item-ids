@@ -1,0 +1,11 @@
+{
+  "clientId": 4938,
+  "key": "item.plc.sticker.newyeartree_bronze",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Бронзовой лиги",
+    "en": "Bronze League Sticker"
+  },
+  "apiId": "m957",
+  "apiIdStatus": "inferred"
+}

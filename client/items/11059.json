@@ -1,0 +1,11 @@
+{
+  "clientId": 11059,
+  "key": "item.art.jarka_radiator",
+  "kind": "item",
+  "name": {
+    "ru": "Радиатор",
+    "en": "Radiator"
+  },
+  "apiId": "ljrj",
+  "apiIdStatus": "inferred"
+}

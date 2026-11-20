@@ -1,0 +1,11 @@
+{
+  "clientId": 22455,
+  "key": "item.att.lcu_skull",
+  "kind": "item",
+  "name": {
+    "ru": "Ненавидящий череп",
+    "en": "Hateful Skull"
+  },
+  "apiId": "4qvrp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22723,
+  "key": "item.att.mag_glock33",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин Glock",
+    "en": "Glock Extended Magazine"
+  },
+  "apiId": "6wpr0",
+  "apiIdStatus": "inferred"
+}

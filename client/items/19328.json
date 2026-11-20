@@ -1,0 +1,11 @@
+{
+  "clientId": 19328,
+  "key": "item.camo.arm.dayx_twitch_skin_8",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Облученные осколки Twitch»",
+    "en": "Irradiated Twitch Shards Paint"
+  },
+  "apiId": "5l790",
+  "apiIdStatus": "inferred"
+}

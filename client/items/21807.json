@@ -1,0 +1,11 @@
+{
+  "clientId": 21807,
+  "key": "item.wpn_mod.adv.splitter",
+  "kind": "item",
+  "name": {
+    "ru": "«Расщепитель»",
+    "en": "Splitter"
+  },
+  "apiId": "4q69p",
+  "apiIdStatus": "inferred"
+}

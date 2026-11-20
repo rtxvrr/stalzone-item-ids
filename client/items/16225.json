@@ -1,0 +1,11 @@
+{
+  "clientId": 16225,
+  "key": "item.16225",
+  "kind": "item",
+  "name": {
+    "ru": "Чернобыльская петрушка",
+    "en": "Chernobyl Parsley"
+  },
+  "apiId": "1rllr",
+  "apiIdStatus": "inferred"
+}

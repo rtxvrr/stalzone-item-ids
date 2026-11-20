@@ -1,0 +1,11 @@
+{
+  "clientId": 26751,
+  "key": "item.misc.lucky_ticket",
+  "kind": "item",
+  "name": {
+    "ru": "Билет участника",
+    "en": "Participation Ticket"
+  },
+  "apiId": "zz179",
+  "apiIdStatus": "inferred"
+}

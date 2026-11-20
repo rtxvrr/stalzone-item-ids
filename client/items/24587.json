@@ -1,0 +1,11 @@
+{
+  "clientId": 24587,
+  "key": "item.charm.hw23_mm_long",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Марафон мертвецов»",
+    "en": "Dead Man's Marathon Charm"
+  },
+  "apiId": "ok71m",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29976,
+  "key": "item.filler.npc_limansk_7",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки приборов «Шепота»",
+    "en": "Remains of Murmur Devices"
+  },
+  "apiId": "55olq",
+  "apiIdStatus": "inferred"
+}

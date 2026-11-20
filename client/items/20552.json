@@ -1,0 +1,11 @@
+{
+  "clientId": 20552,
+  "key": "item.wpn.lr300",
+  "kind": "item",
+  "name": {
+    "ru": "LR-300",
+    "en": "LR-300"
+  },
+  "apiId": "5ln40",
+  "apiIdStatus": "inferred"
+}

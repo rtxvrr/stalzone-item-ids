@@ -1,0 +1,11 @@
+{
+  "clientId": 22112,
+  "key": "item.att.handgrip_tapco",
+  "kind": "item",
+  "name": {
+    "ru": "Вертикальная рукоятка Tapco",
+    "en": "Tapco Vertical Grip"
+  },
+  "apiId": "rw0ky",
+  "apiIdStatus": "inferred"
+}

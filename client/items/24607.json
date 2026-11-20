@@ -1,0 +1,11 @@
+{
+  "clientId": 24607,
+  "key": "item.charm.ny24_thermopaw",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Снежная лапа»",
+    "en": "Snow Paw Charm"
+  },
+  "apiId": "4q4yj",
+  "apiIdStatus": "inferred"
+}

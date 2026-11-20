@@ -1,0 +1,11 @@
+{
+  "clientId": 25039,
+  "key": "item.arm.bover_balon",
+  "kind": "item",
+  "name": {
+    "ru": "Бандитский костюм с баллонами",
+    "en": "Bandit Suit with Gas Tanks"
+  },
+  "apiId": "ok0m6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6306,
+  "key": "item.misc.chlorine",
+  "kind": "item",
+  "name": {
+    "ru": "Хлор",
+    "en": "Chlorine"
+  },
+  "apiId": "wo2d",
+  "apiIdStatus": "inferred"
+}

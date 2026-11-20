@@ -1,0 +1,11 @@
+{
+  "clientId": 16658,
+  "key": "item.16658",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой набор",
+    "en": "Combat Set"
+  },
+  "apiId": "j5q40",
+  "apiIdStatus": "inferred"
+}

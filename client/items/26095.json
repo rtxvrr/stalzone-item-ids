@@ -1,0 +1,11 @@
+{
+  "clientId": 26095,
+  "key": "item.food.blizzard.vodka",
+  "kind": "item",
+  "name": {
+    "ru": "Брусничная водка",
+    "en": "Lingonberry Vodka"
+  },
+  "apiId": "6w5jj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25422,
+  "key": "item.arm.saturn-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный комбинезон «Сатурн»",
+    "en": "Damaged Saturn Jumpsuit"
+  },
+  "apiId": "7lzw3",
+  "apiIdStatus": "inferred"
+}

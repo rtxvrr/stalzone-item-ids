@@ -1,0 +1,11 @@
+{
+  "clientId": 4972,
+  "key": "item.plc.sticker.reichstag_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Интернационал»",
+    "en": "The International Sticker"
+  },
+  "apiId": "90pz",
+  "apiIdStatus": "inferred"
+}

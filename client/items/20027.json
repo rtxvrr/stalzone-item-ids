@@ -1,0 +1,11 @@
+{
+  "clientId": 20027,
+  "key": "item.wpn.bizon",
+  "kind": "item",
+  "name": {
+    "ru": "ПП-19 «Бизон-2-01»",
+    "en": "PP-19 Bizon-2-01"
+  },
+  "apiId": "zz7d2",
+  "apiIdStatus": "inferred"
+}

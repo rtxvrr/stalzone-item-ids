@@ -1,0 +1,11 @@
+{
+  "clientId": 4501,
+  "key": "item.plc.pattern.stalkers",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сталкеров",
+    "en": "Stalker Pattern"
+  },
+  "apiId": "1ykq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25009,
+  "key": "item.arm.ghillie_old",
+  "kind": "item",
+  "name": {
+    "ru": "Маскировочный костюм (старый)",
+    "en": "Ghillie Suit (Old)"
+  },
+  "apiId": "qjovj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6703,
+  "key": "item.misc.dynamite",
+  "kind": "item",
+  "name": {
+    "ru": "Динамит",
+    "en": "Dynamite"
+  },
+  "apiId": "z29n",
+  "apiIdStatus": "inferred"
+}

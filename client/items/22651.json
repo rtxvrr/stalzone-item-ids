@@ -1,0 +1,11 @@
+{
+  "clientId": 22651,
+  "key": "item.att.butt_ak_p",
+  "kind": "item",
+  "name": {
+    "ru": "Приклад Ижмаш полимерный",
+    "en": "Izhmash Plastic Stock"
+  },
+  "apiId": "zz9ny",
+  "apiIdStatus": "inferred"
+}

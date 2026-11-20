@@ -1,0 +1,11 @@
+{
+  "clientId": 26027,
+  "key": "item.med.apt_sp",
+  "kind": "item",
+  "name": {
+    "ru": "Аптечка для экстремальных условий",
+    "en": "Emergency First-Aid Kit"
+  },
+  "apiId": "zzqw2",
+  "apiIdStatus": "inferred"
+}

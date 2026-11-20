@@ -1,0 +1,11 @@
+{
+  "clientId": 15088,
+  "key": "item.lootbox.autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик «Рыб»",
+    "en": "Fishie Crate"
+  },
+  "apiId": "n4kw9",
+  "apiIdStatus": "inferred"
+}

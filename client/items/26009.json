@@ -1,0 +1,11 @@
+{
+  "clientId": 26009,
+  "key": "item.med.antidot_2",
+  "kind": "item",
+  "name": {
+    "ru": "Антидот второго класса",
+    "en": "2nd Class Antidote"
+  },
+  "apiId": "qj9y6",
+  "apiIdStatus": "inferred"
+}

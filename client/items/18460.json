@@ -1,0 +1,11 @@
+{
+  "clientId": 18460,
+  "key": "item.camo.wpn.stalcraft_store_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «SCSTORE-3»",
+    "en": "«SCSTORE-3» Paint"
+  },
+  "apiId": "rwywv",
+  "apiIdStatus": "inferred"
+}

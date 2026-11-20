@@ -1,0 +1,11 @@
+{
+  "clientId": 22312,
+  "key": "item.att.sight_bering2",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Bering OPTICS»",
+    "en": "Bering OPTICS Collimator Sight"
+  },
+  "apiId": "rw0d5",
+  "apiIdStatus": "inferred"
+}

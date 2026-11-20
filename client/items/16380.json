@@ -1,0 +1,11 @@
+{
+  "clientId": 16380,
+  "key": "item.16380",
+  "kind": "item",
+  "name": {
+    "ru": "Измененная рука шныря",
+    "en": "Altered Skitter's Hand"
+  },
+  "apiId": "knplv",
+  "apiIdStatus": "inferred"
+}

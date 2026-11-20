@@ -1,0 +1,11 @@
+{
+  "clientId": 16874,
+  "key": "item.quest.merc.sup",
+  "kind": "item",
+  "name": {
+    "ru": "Припасы наемников",
+    "en": "Mercenary Supplies"
+  },
+  "apiId": "g49zn",
+  "apiIdStatus": "inferred"
+}

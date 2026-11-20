@@ -1,0 +1,11 @@
+{
+  "clientId": 31203,
+  "key": "item.scheme.mp5_mod_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #4: «Лягуха»",
+    "en": "Schematic #4: Frog"
+  },
+  "apiId": "z3owk",
+  "apiIdStatus": "inferred"
+}

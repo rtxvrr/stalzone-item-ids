@@ -1,0 +1,11 @@
+{
+  "clientId": 28614,
+  "key": "item.28614",
+  "kind": "item",
+  "name": {
+    "ru": "Планы лаборатории",
+    "en": "Laboratory Plans"
+  },
+  "apiId": "mr0oy",
+  "apiIdStatus": "inferred"
+}

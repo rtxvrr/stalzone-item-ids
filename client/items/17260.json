@@ -1,0 +1,11 @@
+{
+  "clientId": 17260,
+  "key": "item.style.melee.antiterror_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Стальной оберег»",
+    "en": "Steel Talisman"
+  },
+  "apiId": "rw63v",
+  "apiIdStatus": "inferred"
+}

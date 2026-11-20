@@ -1,0 +1,11 @@
+{
+  "clientId": 25411,
+  "key": "item.arm.seva_dayx",
+  "kind": "item",
+  "name": {
+    "ru": "«Долгожитель»",
+    "en": "Longevity"
+  },
+  "apiId": "ly30j",
+  "apiIdStatus": "inferred"
+}

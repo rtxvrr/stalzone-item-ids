@@ -1,0 +1,11 @@
+{
+  "clientId": 9370,
+  "key": "item.wpn.ptrd_fools",
+  "kind": "item",
+  "name": {
+    "ru": "«Эль-Петардо»",
+    "en": "El Petardo"
+  },
+  "apiId": "7q3r",
+  "apiIdStatus": "inferred"
+}

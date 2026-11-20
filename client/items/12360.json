@@ -1,0 +1,11 @@
+{
+  "clientId": 12360,
+  "key": "item.12360",
+  "kind": "item",
+  "name": {
+    "ru": "Артиллерийный снаряд",
+    "en": "Artillery Shell"
+  },
+  "apiId": "r12l",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16751,
+  "key": "item.16751",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик сталкера",
+    "en": "Stalker Crate"
+  },
+  "apiId": "zz0zm",
+  "apiIdStatus": "inferred"
+}

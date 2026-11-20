@@ -1,0 +1,11 @@
+{
+  "clientId": 16812,
+  "key": "item.quest.keychain",
+  "kind": "item",
+  "name": {
+    "ru": "Связка ключей",
+    "en": "Set of Keys"
+  },
+  "apiId": "rw6vz",
+  "apiIdStatus": "inferred"
+}

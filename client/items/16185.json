@@ -1,0 +1,11 @@
+{
+  "clientId": 16185,
+  "key": "item.16185",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование с Пути Дураков",
+    "en": "Anomalous Formation from the Path of Fools"
+  },
+  "apiId": "0rl0y",
+  "apiIdStatus": "inferred"
+}

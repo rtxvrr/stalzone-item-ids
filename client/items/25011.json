@@ -1,0 +1,11 @@
+{
+  "clientId": 25011,
+  "key": "item.arm.kyrtka_anomal",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная кожанка",
+    "en": "Anomalous Leather Jacket"
+  },
+  "apiId": "lyjlk",
+  "apiIdStatus": "inferred"
+}

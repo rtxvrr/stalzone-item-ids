@@ -1,0 +1,11 @@
+{
+  "clientId": 11501,
+  "key": "item.art.inside_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Кристалл Изнанки",
+    "en": "Crystal of Inside Out"
+  },
+  "apiId": "1kw1",
+  "apiIdStatus": "inferred"
+}

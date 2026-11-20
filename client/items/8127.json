@@ -1,0 +1,11 @@
+{
+  "clientId": 8127,
+  "key": "item.quest.operation2025_skaner",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор триангуляции",
+    "en": "Triangulation Detector"
+  },
+  "apiId": "zp39",
+  "apiIdStatus": "inferred"
+}

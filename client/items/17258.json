@@ -1,0 +1,11 @@
+{
+  "clientId": 17258,
+  "key": "item.style.melee.kukri_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Честная конкуренция»",
+    "en": "Fair Competition"
+  },
+  "apiId": "j5zy0",
+  "apiIdStatus": "inferred"
+}

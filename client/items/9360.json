@@ -1,0 +1,11 @@
+{
+  "clientId": 9360,
+  "key": "item.melee.uvsr_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "УВСР Выжившего",
+    "en": "Survivor's UVSR"
+  },
+  "apiId": "r5pl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22773,
+  "key": "item.att.mag_rumag76275",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин 7.62x39",
+    "en": "7.62x39 Drum Magazine"
+  },
+  "apiId": "1r3j2",
+  "apiIdStatus": "inferred"
+}

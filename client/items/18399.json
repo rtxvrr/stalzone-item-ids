@@ -1,0 +1,11 @@
+{
+  "clientId": 18399,
+  "key": "item.camo.wpn.bf_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ярость»",
+    "en": "Rage Paint"
+  },
+  "apiId": "zzn19",
+  "apiIdStatus": "inferred"
+}

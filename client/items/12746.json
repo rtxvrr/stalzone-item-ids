@@ -1,0 +1,11 @@
+{
+  "clientId": 12746,
+  "key": "item.amm.127bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12.7 мм ПП",
+    "en": "12.7 mm SMG Round"
+  },
+  "apiId": "79w7",
+  "apiIdStatus": "inferred"
+}

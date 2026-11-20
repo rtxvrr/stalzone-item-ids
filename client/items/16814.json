@@ -1,0 +1,11 @@
+{
+  "clientId": 16814,
+  "key": "item.quest.fuse",
+  "kind": "item",
+  "name": {
+    "ru": "Предохранитель",
+    "en": "Failsafe"
+  },
+  "apiId": "m01qk",
+  "apiIdStatus": "inferred"
+}

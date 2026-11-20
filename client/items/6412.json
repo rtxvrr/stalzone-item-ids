@@ -1,0 +1,11 @@
+{
+  "clientId": 6412,
+  "key": "item.misc.wine_with_sediment",
+  "kind": "item",
+  "name": {
+    "ru": "Вино с осадком",
+    "en": "Wine with Sediment"
+  },
+  "apiId": "r2mv",
+  "apiIdStatus": "inferred"
+}

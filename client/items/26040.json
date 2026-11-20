@@ -1,0 +1,11 @@
+{
+  "clientId": 26040,
+  "key": "item.med.brine",
+  "kind": "item",
+  "name": {
+    "ru": "«Рассол»",
+    "en": "Brine"
+  },
+  "apiId": "n4vg6",
+  "apiIdStatus": "inferred"
+}

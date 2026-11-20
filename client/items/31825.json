@@ -1,0 +1,11 @@
+{
+  "clientId": 31825,
+  "key": "item.part.otl",
+  "kind": "item",
+  "name": {
+    "ru": "Часть ОТЛ-03 «Карбач»",
+    "en": "OTL-03 Karbach Part"
+  },
+  "apiId": "19y4r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16239,
+  "key": "item.16239",
+  "kind": "item",
+  "name": {
+    "ru": "Бутылочка темного нефильтрованного",
+    "en": "Bottle of Stout Beer"
+  },
+  "apiId": "okpp5",
+  "apiIdStatus": "inferred"
+}

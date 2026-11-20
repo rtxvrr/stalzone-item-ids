@@ -1,0 +1,11 @@
+{
+  "clientId": 25197,
+  "key": "item.arm.mule_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Мул» Санитаров",
+    "en": "Orderlies' Mule"
+  },
+  "apiId": "1rkg2",
+  "apiIdStatus": "inferred"
+}

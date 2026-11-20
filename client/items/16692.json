@@ -1,0 +1,11 @@
+{
+  "clientId": 16692,
+  "key": "item.lootbox.restorers",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с компонентами",
+    "en": "Components Case"
+  },
+  "apiId": "2o0kl",
+  "apiIdStatus": "inferred"
+}

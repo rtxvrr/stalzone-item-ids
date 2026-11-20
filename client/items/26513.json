@@ -1,0 +1,11 @@
+{
+  "clientId": 26513,
+  "key": "item.food.fish",
+  "kind": "item",
+  "name": {
+    "ru": "Рыбные консервы",
+    "en": "Fish Preserves"
+  },
+  "apiId": "0row1",
+  "apiIdStatus": "inferred"
+}

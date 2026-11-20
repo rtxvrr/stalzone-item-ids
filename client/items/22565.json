@@ -1,0 +1,11 @@
+{
+  "clientId": 22565,
+  "key": "item.att.silencer_knight_nord",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель Knight Nord",
+    "en": "Knight Nord Silencer"
+  },
+  "apiId": "p6yq5",
+  "apiIdStatus": "inferred"
+}

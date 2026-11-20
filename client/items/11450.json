@@ -1,0 +1,11 @@
+{
+  "clientId": 11450,
+  "key": "item.art.blizzard_frost",
+  "kind": "item",
+  "name": {
+    "ru": "Иней",
+    "en": "Frost"
+  },
+  "apiId": "gyln",
+  "apiIdStatus": "inferred"
+}

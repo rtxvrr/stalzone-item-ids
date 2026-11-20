@@ -1,0 +1,11 @@
+{
+  "clientId": 14230,
+  "key": "item.crate.frag_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик кустарных осколочных гранат",
+    "en": "Crate of Jury-Rigged Fragmentation Grenades"
+  },
+  "apiId": "wjnq2",
+  "apiIdStatus": "inferred"
+}

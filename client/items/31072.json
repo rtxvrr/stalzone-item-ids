@@ -1,0 +1,11 @@
+{
+  "clientId": 31072,
+  "key": "item.brt.pd.mining",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки аккумуляторов",
+    "en": "Remains of Batteries"
+  },
+  "apiId": "9dkgl",
+  "apiIdStatus": "inferred"
+}

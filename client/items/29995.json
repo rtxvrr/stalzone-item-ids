@@ -1,0 +1,11 @@
+{
+  "clientId": 29995,
+  "key": "item.filler.outpost_11",
+  "kind": "item",
+  "name": {
+    "ru": "Взрывпакет",
+    "en": "Explosive Parcel"
+  },
+  "apiId": "6o9w0",
+  "apiIdStatus": "inferred"
+}

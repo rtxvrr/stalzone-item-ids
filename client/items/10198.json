@@ -1,0 +1,11 @@
+{
+  "clientId": 10198,
+  "key": "item.quest.breadcrumbs_audiocassette_reabilitaciya_6",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Реабилитация»",
+    "en": "Rehabilitation Cassette"
+  },
+  "apiId": "gdq5",
+  "apiIdStatus": "inferred"
+}

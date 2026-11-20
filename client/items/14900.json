@@ -1,0 +1,11 @@
+{
+  "clientId": 14900,
+  "key": "item.exp.rgd5_sessions",
+  "kind": "item",
+  "name": {
+    "ru": "РГД-5",
+    "en": "RGD-5"
+  },
+  "apiId": "966yy",
+  "apiIdStatus": "inferred"
+}

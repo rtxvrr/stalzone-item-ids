@@ -1,0 +1,11 @@
+{
+  "clientId": 24760,
+  "key": "item.charm.p320",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мини SIG Sauer P320»",
+    "en": "Mini SIG Sauer P320 Charm"
+  },
+  "apiId": "rw735",
+  "apiIdStatus": "inferred"
+}

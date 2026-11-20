@@ -1,0 +1,11 @@
+{
+  "clientId": 8297,
+  "key": "item.quest.crash_grey_case",
+  "kind": "item",
+  "name": {
+    "ru": "Серый кейс",
+    "en": "Grey Case"
+  },
+  "apiId": "1v6g",
+  "apiIdStatus": "inferred"
+}

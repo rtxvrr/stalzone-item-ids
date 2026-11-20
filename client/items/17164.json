@@ -1,0 +1,11 @@
+{
+  "clientId": 17164,
+  "key": "item.style.arm.saturn_na",
+  "kind": "item",
+  "name": {
+    "ru": "«Охотник за головами»",
+    "en": "Bounty Hunter"
+  },
+  "apiId": "n4grw",
+  "apiIdStatus": "inferred"
+}

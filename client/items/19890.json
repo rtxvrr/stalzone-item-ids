@@ -1,0 +1,11 @@
+{
+  "clientId": 19890,
+  "key": "item.motif.wpn.f2000_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Der schwarze Tod»",
+    "en": "Der schwarze Tod"
+  },
+  "apiId": "vjr47",
+  "apiIdStatus": "inferred"
+}

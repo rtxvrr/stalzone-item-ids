@@ -1,0 +1,11 @@
+{
+  "clientId": 14249,
+  "key": "item.bag.armorpack_ceramic4",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка керамических пластин IV",
+    "en": "Bag of Ceramic Plates IV"
+  },
+  "apiId": "1r0gg",
+  "apiIdStatus": "inferred"
+}

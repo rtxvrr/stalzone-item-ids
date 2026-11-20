@@ -1,0 +1,11 @@
+{
+  "clientId": 31237,
+  "key": "item.scheme.l85_mod_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #3: «Уравнитель»",
+    "en": "Schematic #3: Equalizer"
+  },
+  "apiId": "00j9k",
+  "apiIdStatus": "inferred"
+}

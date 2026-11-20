@@ -1,0 +1,11 @@
+{
+  "clientId": 31052,
+  "key": "item.brt.bar.node",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент данных «Альфа»",
+    "en": "Alpha Data Fragment"
+  },
+  "apiId": "556z1",
+  "apiIdStatus": "inferred"
+}

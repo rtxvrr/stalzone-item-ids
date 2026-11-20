@@ -1,0 +1,11 @@
+{
+  "clientId": 22320,
+  "key": "item.att.sight_rusak",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный РУСАК",
+    "en": "Rusak Collimator Sight"
+  },
+  "apiId": "2o2y6",
+  "apiIdStatus": "inferred"
+}

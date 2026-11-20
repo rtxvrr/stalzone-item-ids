@@ -1,0 +1,11 @@
+{
+  "clientId": 17107,
+  "key": "item.style.arm.frostwalker_nord22",
+  "kind": "item",
+  "name": {
+    "ru": "«Идущий» группы «Норд-22»",
+    "en": "Marching Nord-22 Group"
+  },
+  "apiId": "4q5wl",
+  "apiIdStatus": "inferred"
+}

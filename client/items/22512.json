@@ -1,0 +1,11 @@
+{
+  "clientId": 22512,
+  "key": "item.att.barrel_bulletecst6012",
+  "kind": "item",
+  "name": {
+    "ru": "Bulletec ST-6012",
+    "en": "Bulletec ST-6012"
+  },
+  "apiId": "rw4jl",
+  "apiIdStatus": "inferred"
+}

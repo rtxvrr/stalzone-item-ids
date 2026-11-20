@@ -1,0 +1,11 @@
+{
+  "clientId": 24918,
+  "key": "item.charm.prestige_picklock",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мрак»",
+    "en": "Gloom Charm"
+  },
+  "apiId": "vj1gg",
+  "apiIdStatus": "inferred"
+}

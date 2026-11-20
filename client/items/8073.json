@@ -1,0 +1,11 @@
+{
+  "clientId": 8073,
+  "key": "item.quest.abnormal_connection_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка с аномальным соединением",
+    "en": "Test tube with an anomalous solution"
+  },
+  "apiId": "1v06",
+  "apiIdStatus": "inferred"
+}

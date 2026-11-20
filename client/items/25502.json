@@ -1,0 +1,11 @@
+{
+  "clientId": 25502,
+  "key": "item.device.nvd2",
+  "kind": "item",
+  "name": {
+    "ru": "ПНВ 2-го поколения",
+    "en": "2nd Generation NVG"
+  },
+  "apiId": "g43pg",
+  "apiIdStatus": "inferred"
+}

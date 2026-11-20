@@ -1,0 +1,11 @@
+{
+  "clientId": 29914,
+  "key": "item.filler.mob_6",
+  "kind": "item",
+  "name": {
+    "ru": "Кишка мутанта",
+    "en": "Mutant's Intestines"
+  },
+  "apiId": "mr4j2",
+  "apiIdStatus": "inferred"
+}

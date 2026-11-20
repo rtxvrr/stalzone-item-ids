@@ -1,0 +1,11 @@
+{
+  "clientId": 25149,
+  "key": "item.arm.quartz",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Кварц»",
+    "en": "Quartz Armored Suit"
+  },
+  "apiId": "1rk32",
+  "apiIdStatus": "inferred"
+}

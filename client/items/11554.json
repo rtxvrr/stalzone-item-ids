@@ -1,0 +1,11 @@
+{
+  "clientId": 11554,
+  "key": "item.art.scaries_blackhole",
+  "kind": "item",
+  "name": {
+    "ru": "Черная дыра",
+    "en": "Black Hole"
+  },
+  "apiId": "w4jo",
+  "apiIdStatus": "inferred"
+}

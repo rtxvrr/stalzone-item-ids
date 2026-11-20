@@ -1,0 +1,11 @@
+{
+  "clientId": 6221,
+  "key": "item.misc.flesh_meat_fried",
+  "kind": "item",
+  "name": {
+    "ru": "Жареное мясо хрюши",
+    "en": "Fried Piggy Meat"
+  },
+  "apiId": "3r6z",
+  "apiIdStatus": "inferred"
+}

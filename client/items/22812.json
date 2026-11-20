@@ -1,0 +1,11 @@
+{
+  "clientId": 22812,
+  "key": "item.att.forend_svd_bint",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье СВД, обмотанное",
+    "en": "SVD Handguard, Taped"
+  },
+  "apiId": "rw40z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4835,
+  "key": "item.plc.sticker.mt_arrow",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Прорыв»",
+    "en": "Breach Sticker"
+  },
+  "apiId": "lpg2",
+  "apiIdStatus": "inferred"
+}

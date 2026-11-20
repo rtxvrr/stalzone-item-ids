@@ -1,0 +1,11 @@
+{
+  "clientId": 26662,
+  "key": "item.premium.token_1d",
+  "kind": "item",
+  "name": {
+    "ru": "Премиум на 1 день",
+    "en": "Premium for 1 day"
+  },
+  "apiId": "m0jyj",
+  "apiIdStatus": "inferred"
+}

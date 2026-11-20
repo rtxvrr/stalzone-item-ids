@@ -1,0 +1,11 @@
+{
+  "clientId": 12742,
+  "key": "item.amm.gas",
+  "kind": "item",
+  "name": {
+    "ru": "Баллон с горючей смесью",
+    "en": "Tank of Combustible Mixture"
+  },
+  "apiId": "vdnd",
+  "apiIdStatus": "inferred"
+}

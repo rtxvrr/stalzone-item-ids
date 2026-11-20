@@ -1,0 +1,11 @@
+{
+  "clientId": 11351,
+  "key": "item.art.puzir_zerkalo",
+  "kind": "item",
+  "name": {
+    "ru": "Зеркало",
+    "en": "Mirror"
+  },
+  "apiId": "zyrm",
+  "apiIdStatus": "inferred"
+}

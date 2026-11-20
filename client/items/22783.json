@@ -1,0 +1,11 @@
+{
+  "clientId": 22783,
+  "key": "item.att.mag_trooper762",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин АКМ десантный",
+    "en": "AKM Airborne Magazine"
+  },
+  "apiId": "ly1zo",
+  "apiIdStatus": "inferred"
+}

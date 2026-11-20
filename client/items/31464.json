@@ -1,0 +1,11 @@
+{
+  "clientId": 31464,
+  "key": "item.lootbox.charm_head",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер Хозяина",
+    "en": "Master's Container"
+  },
+  "apiId": "nknz6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12814,
+  "key": "item.amm.762silver",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм серебряный",
+    "en": "7.62 mm Silver Round"
+  },
+  "apiId": "mj1j",
+  "apiIdStatus": "inferred"
+}

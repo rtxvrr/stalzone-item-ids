@@ -1,0 +1,11 @@
+{
+  "clientId": 20000,
+  "key": "item.wpn.kedr",
+  "kind": "item",
+  "name": {
+    "ru": "ПП-91 «Кедр»",
+    "en": "PP-91 KEDR"
+  },
+  "apiId": "96mj0",
+  "apiIdStatus": "inferred"
+}

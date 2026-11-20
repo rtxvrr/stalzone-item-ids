@@ -1,0 +1,11 @@
+{
+  "clientId": 24784,
+  "key": "item.charm.scstore_remove_stalkers",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удалить перед артхантом»",
+    "en": "Remove Before Arthunting Charm"
+  },
+  "apiId": "rwnl5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22122,
+  "key": "item.att.handgrip_arsenal_feather",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка «Перо»",
+    "en": "Feather Tactical Grip"
+  },
+  "apiId": "7l62j",
+  "apiIdStatus": "inferred"
+}

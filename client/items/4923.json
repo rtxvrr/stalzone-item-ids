@@ -1,0 +1,11 @@
+{
+  "clientId": 4923,
+  "key": "item.plc.sticker.premium",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер STALZONE Premium",
+    "en": "STALZONE Premium Sticker"
+  },
+  "apiId": "6d1y",
+  "apiIdStatus": "inferred"
+}

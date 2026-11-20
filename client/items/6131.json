@@ -1,0 +1,11 @@
+{
+  "clientId": 6131,
+  "key": "item.misc.anomal_yeast",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальные дрожжи",
+    "en": "Anomalous Yeast"
+  },
+  "apiId": "40pn",
+  "apiIdStatus": "inferred"
+}

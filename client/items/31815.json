@@ -1,0 +1,11 @@
+{
+  "clientId": 31815,
+  "key": "item.scheme.invertor",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы: «Инвертор»",
+    "en": "Schematic: Inverter"
+  },
+  "apiId": "ol6z5",
+  "apiIdStatus": "inferred"
+}

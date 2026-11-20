@@ -1,0 +1,11 @@
+{
+  "clientId": 22105,
+  "key": "item.att.handgrip_groza",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоятка для ОЦ-14 «Гроза»",
+    "en": "Grip for OTs-14 Groza"
+  },
+  "apiId": "y3po3",
+  "apiIdStatus": "inferred"
+}

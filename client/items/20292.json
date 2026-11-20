@@ -1,0 +1,11 @@
+{
+  "clientId": 20292,
+  "key": "item.wpn.cheytac300",
+  "kind": "item",
+  "name": {
+    "ru": "Cheytac M300",
+    "en": "Cheytac M300"
+  },
+  "apiId": "2ongl",
+  "apiIdStatus": "inferred"
+}

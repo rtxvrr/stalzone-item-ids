@@ -1,0 +1,11 @@
+{
+  "clientId": 22785,
+  "key": "item.att.mag_ergo76254",
+  "kind": "item",
+  "name": {
+    "ru": "Эргономичный магазин 7.62",
+    "en": "Ergonomic Magazine 7.62"
+  },
+  "apiId": "0rpky",
+  "apiIdStatus": "inferred"
+}

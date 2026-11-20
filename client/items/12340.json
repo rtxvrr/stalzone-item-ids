@@ -1,0 +1,11 @@
+{
+  "clientId": 12340,
+  "key": "item.exp.vspishka",
+  "kind": "item",
+  "name": {
+    "ru": "СЗГ «Вспышка»",
+    "en": "Flare Grenade"
+  },
+  "apiId": "nvpw",
+  "apiIdStatus": "inferred"
+}

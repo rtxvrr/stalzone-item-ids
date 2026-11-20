@@ -1,0 +1,11 @@
+{
+  "clientId": 6610,
+  "key": "item.misc.aniline",
+  "kind": "item",
+  "name": {
+    "ru": "Анилин",
+    "en": "Aniline"
+  },
+  "apiId": "jool",
+  "apiIdStatus": "inferred"
+}

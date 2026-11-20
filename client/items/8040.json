@@ -1,0 +1,11 @@
+{
+  "clientId": 8040,
+  "key": "item.quest.covenant.military_coffee",
+  "kind": "item",
+  "name": {
+    "ru": "Кофеин",
+    "en": "Caffeine"
+  },
+  "apiId": "ny06",
+  "apiIdStatus": "inferred"
+}

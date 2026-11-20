@@ -1,0 +1,11 @@
+{
+  "clientId": 20424,
+  "key": "item.wpn.signal",
+  "kind": "item",
+  "name": {
+    "ru": "Сигнальный пистолет",
+    "en": "Signal Pistol"
+  },
+  "apiId": "9699q",
+  "apiIdStatus": "inferred"
+}

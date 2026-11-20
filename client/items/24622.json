@@ -1,0 +1,11 @@
+{
+  "clientId": 24622,
+  "key": "item.charm.spring24_egg",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Одно яйцо ящера»",
+    "en": "One Lizard Egg Charm"
+  },
+  "apiId": "7ljk9",
+  "apiIdStatus": "inferred"
+}

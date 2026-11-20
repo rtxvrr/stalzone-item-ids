@@ -1,0 +1,11 @@
+{
+  "clientId": 10136,
+  "key": "item.quest.operatsii_audiodnevnik5",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета с пометкой \"К звездам!\"",
+    "en": "Cassette marked \"Ad astra!\""
+  },
+  "apiId": "rd0y",
+  "apiIdStatus": "inferred"
+}

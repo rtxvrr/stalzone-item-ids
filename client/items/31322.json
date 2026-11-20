@@ -1,0 +1,11 @@
+{
+  "clientId": 31322,
+  "key": "item.ny_toys.setD.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленый полосатый шарик",
+    "en": "Green Striped Bauble"
+  },
+  "apiId": "77327",
+  "apiIdStatus": "inferred"
+}

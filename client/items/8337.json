@@ -1,0 +1,11 @@
+{
+  "clientId": 8337,
+  "key": "item.quest.chips_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Хворост",
+    "en": "Brushwood"
+  },
+  "apiId": "0v2y",
+  "apiIdStatus": "inferred"
+}

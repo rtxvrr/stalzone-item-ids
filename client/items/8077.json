@@ -1,0 +1,11 @@
+{
+  "clientId": 8077,
+  "key": "item.quest.exorcism_water",
+  "kind": "item",
+  "name": {
+    "ru": "Святая вода",
+    "en": "Holy Water"
+  },
+  "apiId": "yp1z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6004,
+  "key": "item.misc.cubemelon",
+  "kind": "item",
+  "name": {
+    "ru": "Мякоть куборбуза",
+    "en": "Cubemelon Pulp"
+  },
+  "apiId": "5ddo",
+  "apiIdStatus": "inferred"
+}

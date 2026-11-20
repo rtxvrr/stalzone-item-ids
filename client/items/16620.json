@@ -1,0 +1,11 @@
+{
+  "clientId": 16620,
+  "key": "item.bag.23dart",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка боевых пуль 23х75 мм",
+    "en": "Pouch of 23x75 mm Caliber Slug"
+  },
+  "apiId": "2o0vl",
+  "apiIdStatus": "inferred"
+}

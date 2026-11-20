@@ -1,0 +1,11 @@
+{
+  "clientId": 16123,
+  "key": "item.16123",
+  "kind": "item",
+  "name": {
+    "ru": "Кусок пластиковой карты",
+    "en": "Piece of a Plastic Card"
+  },
+  "apiId": "6wyn0",
+  "apiIdStatus": "inferred"
+}

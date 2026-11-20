@@ -1,0 +1,11 @@
+{
+  "clientId": 16020,
+  "key": "item.16020",
+  "kind": "item",
+  "name": {
+    "ru": "Исписанный лист",
+    "en": "Page of Writing"
+  },
+  "apiId": "2orql",
+  "apiIdStatus": "inferred"
+}

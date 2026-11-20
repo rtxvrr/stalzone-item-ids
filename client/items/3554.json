@@ -1,0 +1,11 @@
+{
+  "clientId": 3554,
+  "key": "tile.3554",
+  "kind": "tile",
+  "name": {
+    "ru": "Зеленый ящик",
+    "en": "Green Crate"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

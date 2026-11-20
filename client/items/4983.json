@@ -1,0 +1,11 @@
+{
+  "clientId": 4983,
+  "key": "item.plc.sticker.nea_aist",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Аист»",
+    "en": "Stork Sticker"
+  },
+  "apiId": "lp11",
+  "apiIdStatus": "inferred"
+}

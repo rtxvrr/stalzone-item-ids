@@ -1,0 +1,11 @@
+{
+  "clientId": 28710,
+  "key": "item.misc.marathon_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон снаряжения марафонца",
+    "en": "Marathonner's Gear Token"
+  },
+  "apiId": "j053g",
+  "apiIdStatus": "inferred"
+}

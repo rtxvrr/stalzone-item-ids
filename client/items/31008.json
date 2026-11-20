@@ -1,0 +1,11 @@
+{
+  "clientId": 31008,
+  "key": "item.brt.kordon.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Корень-липучка",
+    "en": "Sticky Root"
+  },
+  "apiId": "kr53y",
+  "apiIdStatus": "inferred"
+}

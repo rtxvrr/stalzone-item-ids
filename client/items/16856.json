@@ -1,0 +1,11 @@
+{
+  "clientId": 16856,
+  "key": "item.quest.kladenets_sword_1_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Меч-кладенец»",
+    "en": "Self-Swinging Sword"
+  },
+  "apiId": "kn5zj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4944,
+  "key": "item.plc.sticker.murzya_3",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Мурзя»",
+    "en": "Purrzy Sticker "
+  },
+  "apiId": "2m26",
+  "apiIdStatus": "inferred"
+}

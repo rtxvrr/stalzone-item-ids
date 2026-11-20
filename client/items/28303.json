@@ -1,0 +1,11 @@
+{
+  "clientId": 28303,
+  "key": "item.28303",
+  "kind": "item",
+  "name": {
+    "ru": "Нашивка бандитов",
+    "en": "Bandit Patch"
+  },
+  "apiId": "z3zkn",
+  "apiIdStatus": "inferred"
+}

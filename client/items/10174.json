@@ -1,0 +1,11 @@
+{
+  "clientId": 10174,
+  "key": "item.quest.smotrikov25",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: День",
+    "en": "Audio recorder: Day"
+  },
+  "apiId": "gd25",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26522,
+  "key": "item.food.holodec",
+  "kind": "item",
+  "name": {
+    "ru": "Холодец «Копытом по лицу»",
+    "en": "Hoof to the Face Meat Jelly"
+  },
+  "apiId": "7l9l7",
+  "apiIdStatus": "inferred"
+}

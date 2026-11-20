@@ -1,0 +1,11 @@
+{
+  "clientId": 16851,
+  "key": "item.quest.strange_horseshoe_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "Странная подкова",
+    "en": "Strange horseshoe"
+  },
+  "apiId": "zz0ok",
+  "apiIdStatus": "inferred"
+}

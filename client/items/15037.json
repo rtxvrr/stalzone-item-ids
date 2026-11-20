@@ -1,0 +1,11 @@
+{
+  "clientId": 15037,
+  "key": "item.case.autumn25_functional",
+  "kind": "item",
+  "name": {
+    "ru": "Особый кейс «Ужасов Зоны»",
+    "en": "Horrors of the Zone Special Case"
+  },
+  "apiId": "0r00k",
+  "apiIdStatus": "inferred"
+}

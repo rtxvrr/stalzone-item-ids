@@ -1,0 +1,11 @@
+{
+  "clientId": 25499,
+  "key": "item.25499",
+  "kind": "item",
+  "name": {
+    "ru": "Запрос арт.удара",
+    "en": "Art. Strike Request"
+  },
+  "apiId": "zzjo2",
+  "apiIdStatus": "inferred"
+}

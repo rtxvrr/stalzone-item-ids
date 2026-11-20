@@ -1,0 +1,11 @@
+{
+  "clientId": 16410,
+  "key": "item.16410",
+  "kind": "item",
+  "name": {
+    "ru": "Особый катализатор",
+    "en": "Special Catalyst"
+  },
+  "apiId": "j5qo7",
+  "apiIdStatus": "inferred"
+}

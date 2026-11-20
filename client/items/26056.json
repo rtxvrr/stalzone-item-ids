@@ -1,0 +1,11 @@
+{
+  "clientId": 26056,
+  "key": "item.med.inside_nootrop_1",
+  "kind": "item",
+  "name": {
+    "ru": "Концентратор Искажения",
+    "en": "Distortion Concentrator"
+  },
+  "apiId": "kno50",
+  "apiIdStatus": "inferred"
+}

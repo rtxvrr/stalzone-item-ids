@@ -1,0 +1,11 @@
+{
+  "clientId": 6308,
+  "key": "item.misc.pure_ethylene",
+  "kind": "item",
+  "name": {
+    "ru": "Этилен",
+    "en": "Ethylene"
+  },
+  "apiId": "klk3",
+  "apiIdStatus": "inferred"
+}

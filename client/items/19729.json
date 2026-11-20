@@ -1,0 +1,11 @@
+{
+  "clientId": 19729,
+  "key": "item.camo.arm.heater",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Обогрев»",
+    "en": "Heater Paint"
+  },
+  "apiId": "y37y3",
+  "apiIdStatus": "inferred"
+}

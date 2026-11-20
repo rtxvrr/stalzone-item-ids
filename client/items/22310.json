@@ -1,0 +1,11 @@
+{
+  "clientId": 22310,
+  "key": "item.att.sight_barska_closed",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Barska",
+    "en": "Barska Collimator Sight"
+  },
+  "apiId": "j56d6",
+  "apiIdStatus": "inferred"
+}

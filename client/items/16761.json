@@ -1,0 +1,11 @@
+{
+  "clientId": 16761,
+  "key": "item.gachapon.autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Черного Рынка»",
+    "en": "Black Market Style Case"
+  },
+  "apiId": "0r90y",
+  "apiIdStatus": "inferred"
+}

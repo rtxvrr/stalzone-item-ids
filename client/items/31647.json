@@ -1,0 +1,11 @@
+{
+  "clientId": 31647,
+  "key": "item.blueprint.arm.legion",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Тяжелый бронекостюм «Легионер»",
+    "en": "Legionnaire Heavy Armored Suit Blueprint"
+  },
+  "apiId": "6o73p",
+  "apiIdStatus": "inferred"
+}

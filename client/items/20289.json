@@ -1,0 +1,11 @@
+{
+  "clientId": 20289,
+  "key": "item.wpn.mk14ebr",
+  "kind": "item",
+  "name": {
+    "ru": "Mk 14 EBR",
+    "en": "Mk 14 EBR"
+  },
+  "apiId": "p635w",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31067,
+  "key": "item.brt.mg.node_add",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Бета»",
+    "en": "Beta Data Block"
+  },
+  "apiId": "dr61j",
+  "apiIdStatus": "inferred"
+}

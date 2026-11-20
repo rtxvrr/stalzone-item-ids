@@ -1,0 +1,11 @@
+{
+  "clientId": 13619,
+  "key": "item.camo.arm.spring26_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «На радаре»",
+    "en": "On the Radar Paint"
+  },
+  "apiId": "dn2j",
+  "apiIdStatus": "inferred"
+}

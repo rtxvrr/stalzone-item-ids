@@ -1,0 +1,11 @@
+{
+  "clientId": 16861,
+  "key": "item.quest.vitaminki_kuragi",
+  "kind": "item",
+  "name": {
+    "ru": "«Витаминки» Кураги",
+    "en": "Apricot's \"Vitamins\""
+  },
+  "apiId": "0r9jk",
+  "apiIdStatus": "inferred"
+}

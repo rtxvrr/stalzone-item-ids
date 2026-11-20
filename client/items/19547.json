@@ -1,0 +1,11 @@
+{
+  "clientId": 19547,
+  "key": "item.camo.unique_arm.raider_armai",
+  "kind": "item",
+  "name": {
+    "ru": "«Рейдер»",
+    "en": "Raider"
+  },
+  "apiId": "6w236",
+  "apiIdStatus": "inferred"
+}

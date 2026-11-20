@@ -1,0 +1,11 @@
+{
+  "clientId": 18823,
+  "key": "item.dmz2026.calldown_token.pfm1",
+  "kind": "item",
+  "name": {
+    "ru": "«Мины ПФМ-1»",
+    "en": "PFM-1 Mines"
+  },
+  "apiId": "6wdkj",
+  "apiIdStatus": "inferred"
+}

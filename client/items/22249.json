@@ -1,0 +1,11 @@
+{
+  "clientId": 22249,
+  "key": "item.22249",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел ночной PulsarNV",
+    "en": "Night Sight PulsarNV"
+  },
+  "apiId": "1rv3r",
+  "apiIdStatus": "inferred"
+}

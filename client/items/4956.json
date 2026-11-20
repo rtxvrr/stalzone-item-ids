@@ -1,0 +1,11 @@
+{
+  "clientId": 4956,
+  "key": "item.plc.sticker.bureau_jiden_ultra",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «ULTRA JIDEN»",
+    "en": "ULTRA JIDEN Sticker"
+  },
+  "apiId": "kjwv",
+  "apiIdStatus": "inferred"
+}

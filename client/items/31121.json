@@ -1,0 +1,11 @@
+{
+  "clientId": 31121,
+  "key": "item.brt.limansk.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Горьколистник",
+    "en": "Bitterleaf"
+  },
+  "apiId": "34305",
+  "apiIdStatus": "inferred"
+}

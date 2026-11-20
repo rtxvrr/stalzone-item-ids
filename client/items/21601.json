@@ -1,0 +1,11 @@
+{
+  "clientId": 21601,
+  "key": "item.wpn_mod.adv.killer_killer",
+  "kind": "item",
+  "name": {
+    "ru": "«Душегуб»",
+    "en": "Murderer"
+  },
+  "apiId": "1rqjr",
+  "apiIdStatus": "inferred"
+}

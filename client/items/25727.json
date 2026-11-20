@@ -1,0 +1,11 @@
+{
+  "clientId": 25727,
+  "key": "item.skin.autumn24_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Клиент»",
+    "en": "Customer Skin"
+  },
+  "apiId": "zzj9m",
+  "apiIdStatus": "inferred"
+}

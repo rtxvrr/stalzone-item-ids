@@ -1,0 +1,11 @@
+{
+  "clientId": 18122,
+  "key": "item.camo.wpn.geleteika_winter",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Хуртовина»",
+    "en": "Snowdrift Camouflage"
+  },
+  "apiId": "7ldn7",
+  "apiIdStatus": "inferred"
+}

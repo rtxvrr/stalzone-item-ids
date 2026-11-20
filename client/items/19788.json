@@ -1,0 +1,11 @@
+{
+  "clientId": 19788,
+  "key": "item.camo.arm.lizard_menace",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Угроза Ящеров»",
+    "en": "Lizard Menace Camouflage"
+  },
+  "apiId": "n4p12",
+  "apiIdStatus": "inferred"
+}

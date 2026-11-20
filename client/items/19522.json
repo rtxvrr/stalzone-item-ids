@@ -1,0 +1,11 @@
+{
+  "clientId": 19522,
+  "key": "item.camo.unique_arm.archangel",
+  "kind": "item",
+  "name": {
+    "ru": "«Архангел»",
+    "en": "Archangel"
+  },
+  "apiId": "7l2yr",
+  "apiIdStatus": "inferred"
+}

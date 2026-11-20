@@ -1,0 +1,11 @@
+{
+  "clientId": 9900,
+  "key": "item.exp.gas_npc",
+  "kind": "item",
+  "name": {
+    "ru": "Газовая граната",
+    "en": "Gas Grenade"
+  },
+  "apiId": "9jzw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20041,
+  "key": "item.wpn.ppsh41",
+  "kind": "item",
+  "name": {
+    "ru": "ППШ",
+    "en": "PPSh"
+  },
+  "apiId": "p6rm6",
+  "apiIdStatus": "inferred"
+}

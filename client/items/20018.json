@@ -1,0 +1,11 @@
+{
+  "clientId": 20018,
+  "key": "item.wpn.mx4",
+  "kind": "item",
+  "name": {
+    "ru": "Beretta Mx4 Storm",
+    "en": "Beretta Mx4 Storm"
+  },
+  "apiId": "vjr7n",
+  "apiIdStatus": "inferred"
+}

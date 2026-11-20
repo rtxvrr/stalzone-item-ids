@@ -1,0 +1,11 @@
+{
+  "clientId": 31065,
+  "key": "item.brt.mg.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Черный подозоновик",
+    "en": "Black Zoneshroom"
+  },
+  "apiId": "pj50w",
+  "apiIdStatus": "inferred"
+}

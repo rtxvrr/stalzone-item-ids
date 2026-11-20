@@ -1,0 +1,11 @@
+{
+  "clientId": 16025,
+  "key": "item.16025",
+  "kind": "item",
+  "name": {
+    "ru": "Колба с раствором",
+    "en": "Flask Containing a Solution"
+  },
+  "apiId": "1rokg",
+  "apiIdStatus": "inferred"
+}

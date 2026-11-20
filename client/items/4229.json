@@ -1,0 +1,11 @@
+{
+  "clientId": 4229,
+  "key": "item.plc.background.spring26",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Закаленная сталь»",
+    "en": "Tempered Steel Season Background"
+  },
+  "apiId": "y6v0",
+  "apiIdStatus": "inferred"
+}

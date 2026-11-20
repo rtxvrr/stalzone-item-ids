@@ -1,0 +1,11 @@
+{
+  "clientId": 29940,
+  "key": "item.filler.screwbox",
+  "kind": "item",
+  "name": {
+    "ru": "Коробка саморезов",
+    "en": "Box of Self-Tapping Screws"
+  },
+  "apiId": "nkj02",
+  "apiIdStatus": "inferred"
+}

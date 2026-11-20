@@ -1,0 +1,11 @@
+{
+  "clientId": 12052,
+  "key": "item.cont.zivcas",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS ArcticSafe-6",
+    "en": "ZIVCAS ArcticSafe-6"
+  },
+  "apiId": "512o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20859,
+  "key": "item.wpn.x95_a",
+  "kind": "item",
+  "name": {
+    "ru": "X95 (А)",
+    "en": "X95 (A) "
+  },
+  "apiId": "lyv9k",
+  "apiIdStatus": "inferred"
+}

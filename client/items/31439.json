@@ -1,0 +1,11 @@
+{
+  "clientId": 31439,
+  "key": "item.lootbox.gunsmith_case",
+  "kind": "item",
+  "name": {
+    "ru": "Gunsmith's Case",
+    "en": "Gunsmith's Case"
+  },
+  "apiId": "olnwo",
+  "apiIdStatus": "inferred"
+}

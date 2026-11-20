@@ -1,0 +1,11 @@
+{
+  "clientId": 10254,
+  "key": "item.phonograph.vinyl_location_agroprom",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Колос»",
+    "en": "Kolos Agrocomplex Vinyl Record"
+  },
+  "apiId": "w5gz",
+  "apiIdStatus": "inferred"
+}

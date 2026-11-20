@@ -1,0 +1,11 @@
+{
+  "clientId": 17536,
+  "key": "item.style.wpn.ak15_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Шустрый АК-15",
+    "en": "Nimble AK-15"
+  },
+  "apiId": "rwpr5",
+  "apiIdStatus": "inferred"
+}

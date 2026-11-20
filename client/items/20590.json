@@ -1,0 +1,11 @@
+{
+  "clientId": 20590,
+  "key": "item.wpn.dsa58",
+  "kind": "item",
+  "name": {
+    "ru": "DSA-58",
+    "en": "DSA-58"
+  },
+  "apiId": "vj2zd",
+  "apiIdStatus": "inferred"
+}

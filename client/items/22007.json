@@ -1,0 +1,11 @@
+{
+  "clientId": 22007,
+  "key": "item.att.forend_uziris",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье с направляющей RIS для Uzi",
+    "en": "Handguard with Guiding RIS for Uzi"
+  },
+  "apiId": "4qv7r",
+  "apiIdStatus": "inferred"
+}

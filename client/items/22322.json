@@ -1,0 +1,11 @@
+{
+  "clientId": 22322,
+  "key": "item.att.sight_cobra_pik",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Кобра»",
+    "en": "Kobra Collimator Sight"
+  },
+  "apiId": "7l6j7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13603,
+  "key": "item.camo.arm.winter26_skin_20",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Green Tiger»",
+    "en": "«Green Tiger» Paint"
+  },
+  "apiId": "zmpy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27511,
+  "key": "item.clan.tournament_halt",
+  "kind": "item",
+  "name": {
+    "ru": "Аванпост",
+    "en": "Outpost"
+  },
+  "apiId": "lyq7o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15790,
+  "key": "item.15790",
+  "kind": "item",
+  "name": {
+    "ru": "Репутация",
+    "en": "Reputation"
+  },
+  "apiId": "vjomd",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6319,
+  "key": "item.misc.anomalous_materials",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальные материалы",
+    "en": "Anomalous Materials"
+  },
+  "apiId": "dqn9",
+  "apiIdStatus": "inferred"
+}

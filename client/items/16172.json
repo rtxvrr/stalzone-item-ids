@@ -1,0 +1,11 @@
+{
+  "clientId": 16172,
+  "key": "item.16172",
+  "kind": "item",
+  "name": {
+    "ru": "Трупный металл",
+    "en": "Corpse Steel"
+  },
+  "apiId": "96z6y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 5519,
+  "key": "item.plc.customisation_pack.autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «тульпа!»",
+    "en": "tulpa! Customization Pack"
+  },
+  "apiId": "dzon",
+  "apiIdStatus": "inferred"
+}

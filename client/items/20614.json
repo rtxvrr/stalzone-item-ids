@@ -1,0 +1,11 @@
+{
+  "clientId": 20614,
+  "key": "item.wpn.oreh",
+  "kind": "item",
+  "name": {
+    "ru": "ПП «Орех»",
+    "en": "SMG Nut"
+  },
+  "apiId": "m0m7j",
+  "apiIdStatus": "inferred"
+}

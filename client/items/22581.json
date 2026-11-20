@@ -1,0 +1,11 @@
+{
+  "clientId": 22581,
+  "key": "item.att.silencer_ash12_mc558",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель АШ-12/МЦ-558",
+    "en": "ASh-12/MTs-558 Silencer"
+  },
+  "apiId": "qjwq9",
+  "apiIdStatus": "inferred"
+}

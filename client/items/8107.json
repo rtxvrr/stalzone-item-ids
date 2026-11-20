@@ -1,0 +1,11 @@
+{
+  "clientId": 8107,
+  "key": "item.quest.documentation_case_red",
+  "kind": "item",
+  "name": {
+    "ru": "Красный кейс",
+    "en": "Red Case"
+  },
+  "apiId": "4vql",
+  "apiIdStatus": "inferred"
+}

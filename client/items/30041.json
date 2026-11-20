@@ -1,0 +1,11 @@
+{
+  "clientId": 30041,
+  "key": "item.filler.npc_shopot_2",
+  "kind": "item",
+  "name": {
+    "ru": "Композит «Шепота»",
+    "en": "Murmur Composite"
+  },
+  "apiId": "pjqvd",
+  "apiIdStatus": "inferred"
+}

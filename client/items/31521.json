@@ -1,0 +1,11 @@
+{
+  "clientId": 31521,
+  "key": "item.ny_toys.setJ.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская игрушка-противогаз",
+    "en": "Stalker Gas Mask Decoration"
+  },
+  "apiId": "3435k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15021,
+  "key": "item.case.summer25_functional",
+  "kind": "item",
+  "name": {
+    "ru": "Особый кейс «Шепота над Зоной»",
+    "en": "Murmur of the Zone Special Case"
+  },
+  "apiId": "3g4g1",
+  "apiIdStatus": "inferred"
+}

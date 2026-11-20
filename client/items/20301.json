@@ -1,0 +1,11 @@
+{
+  "clientId": 20301,
+  "key": "item.wpn.obrezbm16_main",
+  "kind": "item",
+  "name": {
+    "ru": "Обрез Калгана",
+    "en": "Kalgan's Sawed-Off"
+  },
+  "apiId": "1r712",
+  "apiIdStatus": "inferred"
+}

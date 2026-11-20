@@ -1,0 +1,11 @@
+{
+  "clientId": 12125,
+  "key": "item.bag.errand",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак Errand Junior",
+    "en": "Errand Junior Backpack"
+  },
+  "apiId": "12r1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4532,
+  "key": "item.plc.pattern.mk_torpeda",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Торпеда»",
+    "en": "Torpedo Pattern"
+  },
+  "apiId": "k233",
+  "apiIdStatus": "inferred"
+}

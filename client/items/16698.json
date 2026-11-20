@@ -1,0 +1,11 @@
+{
+  "clientId": 16698,
+  "key": "item.lootbox.collector_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Сундук Коллекционера",
+    "en": "Collector's Chest"
+  },
+  "apiId": "g4176",
+  "apiIdStatus": "inferred"
+}

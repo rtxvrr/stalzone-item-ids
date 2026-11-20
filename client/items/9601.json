@@ -1,0 +1,11 @@
+{
+  "clientId": 9601,
+  "key": "item.prestige.ability.teleport",
+  "kind": "item",
+  "name": {
+    "ru": "КС-1 «Мост»",
+    "en": "KS-1 Bridge"
+  },
+  "apiId": "1zzr",
+  "apiIdStatus": "inferred"
+}

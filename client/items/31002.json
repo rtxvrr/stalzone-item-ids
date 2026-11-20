@@ -1,0 +1,11 @@
+{
+  "clientId": 31002,
+  "key": "item.brt.bolota.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Камень Водяного",
+    "en": "Vodyanoy's Stone"
+  },
+  "apiId": "gn9y6",
+  "apiIdStatus": "inferred"
+}

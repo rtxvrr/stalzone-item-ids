@@ -1,0 +1,11 @@
+{
+  "clientId": 14992,
+  "key": "item.tool.icicle",
+  "kind": "item",
+  "name": {
+    "ru": "Сосулька",
+    "en": "Icicle"
+  },
+  "apiId": "2o165",
+  "apiIdStatus": "inferred"
+}

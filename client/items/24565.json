@@ -1,0 +1,11 @@
+{
+  "clientId": 24565,
+  "key": "item.charm.navm_dog",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «NAV Шавка»",
+    "en": "NAV Mutt Charm"
+  },
+  "apiId": "p67y4",
+  "apiIdStatus": "inferred"
+}

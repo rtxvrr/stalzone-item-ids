@@ -1,0 +1,11 @@
+{
+  "clientId": 6501,
+  "key": "item.misc.primary_bullet",
+  "kind": "item",
+  "name": {
+    "ru": "Пулевая болванка",
+    "en": "Bullet Casing"
+  },
+  "apiId": "1742",
+  "apiIdStatus": "inferred"
+}

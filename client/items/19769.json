@@ -1,0 +1,11 @@
+{
+  "clientId": 19769,
+  "key": "item.camo.arm.kryptek_typhoon",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Kryptek Typhoon»",
+    "en": "Kryptek Typhoon Camouflage"
+  },
+  "apiId": "3gr25",
+  "apiIdStatus": "inferred"
+}

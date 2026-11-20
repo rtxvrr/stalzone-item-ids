@@ -1,0 +1,11 @@
+{
+  "clientId": 12362,
+  "key": "item.exp.t13",
+  "kind": "item",
+  "name": {
+    "ru": "T13 Beano",
+    "en": "T13 Beano"
+  },
+  "apiId": "mpmr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16693,
+  "key": "item.lootbox.rare_resource",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с редким ресурсом",
+    "en": "Rare Resources Case"
+  },
+  "apiId": "3gqjl",
+  "apiIdStatus": "inferred"
+}

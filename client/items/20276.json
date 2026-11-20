@@ -1,0 +1,11 @@
+{
+  "clientId": 20276,
+  "key": "item.wpn.svu",
+  "kind": "item",
+  "name": {
+    "ru": "СВУ",
+    "en": "SVU"
+  },
+  "apiId": "5lno1",
+  "apiIdStatus": "inferred"
+}

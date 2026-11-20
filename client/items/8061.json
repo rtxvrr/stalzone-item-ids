@@ -1,0 +1,11 @@
+{
+  "clientId": 8061,
+  "key": "item.quest.prisma_shard_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Осколки «Призмы»",
+    "en": "Prism shards"
+  },
+  "apiId": "0k5d",
+  "apiIdStatus": "inferred"
+}

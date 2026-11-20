@@ -1,0 +1,11 @@
+{
+  "clientId": 25156,
+  "key": "item.arm.ris",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Рысь»",
+    "en": "Lynx Armored Suit"
+  },
+  "apiId": "knq0p",
+  "apiIdStatus": "inferred"
+}

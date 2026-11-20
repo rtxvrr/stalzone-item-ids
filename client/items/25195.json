@@ -1,0 +1,11 @@
+{
+  "clientId": 25195,
+  "key": "item.arm.seva_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Уран» Санитаров",
+    "en": "Orderlies' Uranus"
+  },
+  "apiId": "6w040",
+  "apiIdStatus": "inferred"
+}

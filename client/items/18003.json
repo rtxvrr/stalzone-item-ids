@@ -1,0 +1,11 @@
+{
+  "clientId": 18003,
+  "key": "item.camo.wpn.yellow",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Желтая»",
+    "en": "Yellow Weapon Paint"
+  },
+  "apiId": "zznok",
+  "apiIdStatus": "inferred"
+}

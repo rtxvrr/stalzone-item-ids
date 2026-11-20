@@ -1,0 +1,11 @@
+{
+  "clientId": 21023,
+  "key": "item.melee.ontario",
+  "kind": "item",
+  "name": {
+    "ru": "Мачете Survival SP8 Ontario",
+    "en": "Survival SP8 Ontario Machete"
+  },
+  "apiId": "6wz6n",
+  "apiIdStatus": "inferred"
+}

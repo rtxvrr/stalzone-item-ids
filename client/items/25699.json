@@ -1,0 +1,11 @@
+{
+  "clientId": 25699,
+  "key": "item.skin.blizzard1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Сварщик»",
+    "en": "Welder Skin"
+  },
+  "apiId": "zzjpy",
+  "apiIdStatus": "inferred"
+}

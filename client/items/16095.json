@@ -1,0 +1,11 @@
+{
+  "clientId": 16095,
+  "key": "item.16095",
+  "kind": "item",
+  "name": {
+    "ru": "Кварцевый резонатор",
+    "en": "Quartz Resonator"
+  },
+  "apiId": "6wy3p",
+  "apiIdStatus": "inferred"
+}

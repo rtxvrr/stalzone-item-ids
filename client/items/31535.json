@@ -1,0 +1,11 @@
+{
+  "clientId": 31535,
+  "key": "item.ny_toys.setL.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Креветка",
+    "en": "Shrimp Artifact Decoration"
+  },
+  "apiId": "l05dq",
+  "apiIdStatus": "inferred"
+}

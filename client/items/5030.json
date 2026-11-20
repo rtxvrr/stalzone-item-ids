@@ -1,0 +1,11 @@
+{
+  "clientId": 5030,
+  "key": "item.plc.sticker.scstore_a26_covenant_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Приближающийся набат»",
+    "en": "Approaching Tocsin Sticker"
+  },
+  "apiId": "wv5p",
+  "apiIdStatus": "inferred"
+}

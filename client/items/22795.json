@@ -1,0 +1,11 @@
+{
+  "clientId": 22795,
+  "key": "item.att.mag_samodel76245",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный магазин 7.62x39",
+    "en": "Handmade 7.62x39 Magazine"
+  },
+  "apiId": "6wp10",
+  "apiIdStatus": "inferred"
+}

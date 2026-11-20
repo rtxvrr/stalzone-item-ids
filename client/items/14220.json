@@ -1,0 +1,11 @@
+{
+  "clientId": 14220,
+  "key": "item.bag.556thr",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка 5.56 мм «Прогрев»",
+    "en": "Pouch of 5.56 mm Heating Rounds"
+  },
+  "apiId": "2o65l",
+  "apiIdStatus": "inferred"
+}

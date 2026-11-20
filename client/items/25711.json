@@ -1,0 +1,11 @@
+{
+  "clientId": 25711,
+  "key": "item.skin.blizzard7",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Выживший»",
+    "en": "Survivor Skin"
+  },
+  "apiId": "ly31o",
+  "apiIdStatus": "inferred"
+}

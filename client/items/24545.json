@@ -1,0 +1,11 @@
+{
+  "clientId": 24545,
+  "key": "item.charm.acc_steam_pp",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Первопроходец»",
+    "en": "Trailblazer Charm"
+  },
+  "apiId": "3gw75",
+  "apiIdStatus": "inferred"
+}

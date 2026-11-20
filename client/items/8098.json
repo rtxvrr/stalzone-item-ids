@@ -1,0 +1,11 @@
+{
+  "clientId": 8098,
+  "key": "item.quest.pda_from_corpse",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА мертвеца",
+    "en": "Dead Man's PDA"
+  },
+  "apiId": "gg40",
+  "apiIdStatus": "inferred"
+}

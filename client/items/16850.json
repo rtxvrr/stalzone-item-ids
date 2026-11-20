@@ -1,0 +1,11 @@
+{
+  "clientId": 16850,
+  "key": "item.quest.svyatopolks_shield_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Щит Святополка»",
+    "en": "Svyatopolk's Shield"
+  },
+  "apiId": "g49pn",
+  "apiIdStatus": "inferred"
+}

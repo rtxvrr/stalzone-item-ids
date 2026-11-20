@@ -1,0 +1,11 @@
+{
+  "clientId": 12035,
+  "key": "item.cont.bear4u",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Берлога-4У»",
+    "en": "Berloga-4U Container"
+  },
+  "apiId": "l3n2",
+  "apiIdStatus": "inferred"
+}

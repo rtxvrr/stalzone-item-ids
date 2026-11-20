@@ -1,0 +1,11 @@
+{
+  "clientId": 11011,
+  "key": "item.art.electra_katushka",
+  "kind": "item",
+  "name": {
+    "ru": "Катушка",
+    "en": "Coil"
+  },
+  "apiId": "lj0j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15014,
+  "key": "item.lootbox.phantomscream",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Фантомный крик»",
+    "en": "Phantom Scream Container"
+  },
+  "apiId": "m0r0k",
+  "apiIdStatus": "inferred"
+}

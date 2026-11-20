@@ -1,0 +1,11 @@
+{
+  "clientId": 24716,
+  "key": "item.charm.april_fools_25",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Клоун»",
+    "en": "Clown Charm"
+  },
+  "apiId": "n47v3",
+  "apiIdStatus": "inferred"
+}

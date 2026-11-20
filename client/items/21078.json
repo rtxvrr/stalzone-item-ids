@@ -1,0 +1,11 @@
+{
+  "clientId": 21078,
+  "key": "item.melee.glock_black",
+  "kind": "item",
+  "name": {
+    "ru": "Glock Feldmesser 78 Schwarz",
+    "en": "Glock Feldmesser 78 Schwarz"
+  },
+  "apiId": "wj6pz",
+  "apiIdStatus": "inferred"
+}

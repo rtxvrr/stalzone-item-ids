@@ -1,0 +1,11 @@
+{
+  "clientId": 11582,
+  "key": "item.art.lesta_spheretank",
+  "kind": "item",
+  "name": {
+    "ru": "Всполох",
+    "en": "Flicker"
+  },
+  "apiId": "j306",
+  "apiIdStatus": "inferred"
+}

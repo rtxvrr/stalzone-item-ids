@@ -1,0 +1,11 @@
+{
+  "clientId": 4030,
+  "key": "tile.4030",
+  "kind": "tile",
+  "name": {
+    "ru": "Листва с рад. заражением (дуб, уровень 1)",
+    "en": "Leaves with Rad. Infection (Oak, Level 1)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

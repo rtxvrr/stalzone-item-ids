@@ -1,0 +1,11 @@
+{
+  "clientId": 24914,
+  "key": "item.charm.media_zexter",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Хайп»",
+    "en": "Hype Charm"
+  },
+  "apiId": "m06yr",
+  "apiIdStatus": "inferred"
+}

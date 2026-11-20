@@ -1,0 +1,11 @@
+{
+  "clientId": 27701,
+  "key": "item.stash_placer.medium_1",
+  "kind": "item",
+  "name": {
+    "ru": "Средний схрон",
+    "en": "Medium Stash"
+  },
+  "apiId": "19091",
+  "apiIdStatus": "inferred"
+}

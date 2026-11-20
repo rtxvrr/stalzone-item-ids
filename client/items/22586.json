@@ -1,0 +1,11 @@
+{
+  "clientId": 22586,
+  "key": "item.att.silencer_sr3m",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель СР-3",
+    "en": "SR-3 Silencer"
+  },
+  "apiId": "m0g1r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10502,
+  "key": "item.device.dshd_sak3",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор широкого диапазона «PIONEER-3»",
+    "en": "Wide range detector \"PIONEER-3\""
+  },
+  "apiId": "g69g",
+  "apiIdStatus": "inferred"
+}

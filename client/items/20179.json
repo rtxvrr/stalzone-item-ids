@@ -1,0 +1,11 @@
+{
+  "clientId": 20179,
+  "key": "item.wpn.6p62",
+  "kind": "item",
+  "name": {
+    "ru": "6П62 «Малыш»",
+    "en": "6P62 Little Boy"
+  },
+  "apiId": "4qnzl",
+  "apiIdStatus": "inferred"
+}

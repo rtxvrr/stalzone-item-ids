@@ -1,0 +1,11 @@
+{
+  "clientId": 8093,
+  "key": "item.quest.unknown_blueprint",
+  "kind": "item",
+  "name": {
+    "ru": "Набросок неизвестного проекта",
+    "en": "A sketch of an unknown project."
+  },
+  "apiId": "37gz",
+  "apiIdStatus": "inferred"
+}

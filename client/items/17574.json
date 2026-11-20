@@ -1,0 +1,11 @@
+{
+  "clientId": 17574,
+  "key": "item.motif.wpn.dud_buryat_avra",
+  "kind": "item",
+  "name": {
+    "ru": "«Авра»",
+    "en": "Aura"
+  },
+  "apiId": "g4pvp",
+  "apiIdStatus": "inferred"
+}

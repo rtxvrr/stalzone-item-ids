@@ -1,0 +1,11 @@
+{
+  "clientId": 20101,
+  "key": "item.wpn.scarl_dayx",
+  "kind": "item",
+  "name": {
+    "ru": "SCAR-L «Наследие»",
+    "en": "Legacy SCAR-L"
+  },
+  "apiId": "1rd2q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13211,
+  "key": "item.camo.wpn.stream_battle_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Траки»",
+    "en": "Tracks Paint"
+  },
+  "apiId": "l662",
+  "apiIdStatus": "inferred"
+}

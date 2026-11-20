@@ -1,0 +1,11 @@
+{
+  "clientId": 22918,
+  "key": "item.att.mount_m16ris",
+  "kind": "item",
+  "name": {
+    "ru": "Крепление прицела для M16A2",
+    "en": "Sight Mount for M16A2"
+  },
+  "apiId": "vjl7d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6200,
+  "key": "item.misc.tourniquet",
+  "kind": "item",
+  "name": {
+    "ru": "Жгут",
+    "en": "Tourniquet"
+  },
+  "apiId": "9mr0",
+  "apiIdStatus": "inferred"
+}

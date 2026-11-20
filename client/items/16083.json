@@ -1,0 +1,11 @@
+{
+  "clientId": 16083,
+  "key": "item.16083",
+  "kind": "item",
+  "name": {
+    "ru": "Транзистор",
+    "en": "Transistor"
+  },
+  "apiId": "lyk6k",
+  "apiIdStatus": "inferred"
+}

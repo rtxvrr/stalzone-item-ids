@@ -1,0 +1,11 @@
+{
+  "clientId": 8234,
+  "key": "item.quest.unnamed_deep_rehabilitation_order",
+  "kind": "item",
+  "name": {
+    "ru": "Распоряжение о реабилитации пострадавших в ходе инцидента на Полигоне-9",
+    "en": "Order on the rehabilitation of those affected during the incident at Area-9"
+  },
+  "apiId": "j6w0",
+  "apiIdStatus": "inferred"
+}

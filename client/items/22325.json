@@ -1,0 +1,11 @@
+{
+  "clientId": 22325,
+  "key": "item.att.sight_dotsat",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный DOTSAT",
+    "en": "DOTSAT Collimator Sight"
+  },
+  "apiId": "1rv51",
+  "apiIdStatus": "inferred"
+}

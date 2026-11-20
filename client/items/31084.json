@@ -1,0 +1,11 @@
+{
+  "clientId": 31084,
+  "key": "item.brt.armsklad.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Барбариска",
+    "en": "Barberry"
+  },
+  "apiId": "rj63v",
+  "apiIdStatus": "inferred"
+}

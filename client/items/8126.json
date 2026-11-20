@@ -1,0 +1,11 @@
+{
+  "clientId": 8126,
+  "key": "item.quest.operation2025_song4",
+  "kind": "item",
+  "name": {
+    "ru": "Забытый поселок",
+    "en": "Forgotten Village"
+  },
+  "apiId": "ggng",
+  "apiIdStatus": "inferred"
+}

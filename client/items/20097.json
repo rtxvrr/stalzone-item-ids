@@ -1,0 +1,11 @@
+{
+  "clientId": 20097,
+  "key": "item.wpn.ak105_airsoft",
+  "kind": "item",
+  "name": {
+    "ru": "Тренировочный АК",
+    "en": "Training AK"
+  },
+  "apiId": "1rd26",
+  "apiIdStatus": "inferred"
+}

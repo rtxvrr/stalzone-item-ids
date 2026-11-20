@@ -1,0 +1,11 @@
+{
+  "clientId": 16477,
+  "key": "item.quest.module_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Модуль передатчика",
+    "en": "Transmitter Module"
+  },
+  "apiId": "y3npz",
+  "apiIdStatus": "inferred"
+}

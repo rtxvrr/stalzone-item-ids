@@ -1,0 +1,11 @@
+{
+  "clientId": 8086,
+  "key": "item.quest.hookah_jam",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с вареньем Крынки",
+    "en": "Jar of Jug's jam"
+  },
+  "apiId": "mkwj",
+  "apiIdStatus": "inferred"
+}

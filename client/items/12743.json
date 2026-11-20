@@ -1,0 +1,11 @@
+{
+  "clientId": 12743,
+  "key": "item.amm.762spec",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм специальный",
+    "en": "7.62 mm Special Round"
+  },
+  "apiId": "d1rn",
+  "apiIdStatus": "inferred"
+}

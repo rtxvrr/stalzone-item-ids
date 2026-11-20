@@ -1,0 +1,11 @@
+{
+  "clientId": 30013,
+  "key": "item.filler.valuable_14",
+  "kind": "item",
+  "name": {
+    "ru": "Данные «Шепота»",
+    "en": "Murmur Data"
+  },
+  "apiId": "00l0k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15991,
+  "key": "item.crt.inside_shards",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагменты отражения",
+    "en": "Reflection Fragments"
+  },
+  "apiId": "dm579",
+  "apiIdStatus": "inferred"
+}

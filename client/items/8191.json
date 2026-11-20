@@ -1,0 +1,11 @@
+{
+  "clientId": 8191,
+  "key": "item.quest.wild_north_cov_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка «заветовца»",
+    "en": "Covenant Member Note"
+  },
+  "apiId": "d069",
+  "apiIdStatus": "inferred"
+}

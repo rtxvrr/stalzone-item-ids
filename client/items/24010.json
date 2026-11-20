@@ -1,0 +1,11 @@
+{
+  "clientId": 24010,
+  "key": "item.24010",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон бандита",
+    "en": "Bandit Token"
+  },
+  "apiId": "j5drl",
+  "apiIdStatus": "inferred"
+}

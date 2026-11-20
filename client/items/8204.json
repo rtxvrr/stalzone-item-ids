@@ -1,0 +1,11 @@
+{
+  "clientId": 8204,
+  "key": "item.quest.whirlpool_polyn",
+  "kind": "item",
+  "name": {
+    "ru": "Огненная полынь",
+    "en": "Fire Wormwood"
+  },
+  "apiId": "5v61",
+  "apiIdStatus": "inferred"
+}

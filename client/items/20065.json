@@ -1,0 +1,11 @@
+{
+  "clientId": 20065,
+  "key": "item.wpn.abakan_zryachego",
+  "kind": "item",
+  "name": {
+    "ru": "«Абакан» Зрячего",
+    "en": "Seer's Abakan"
+  },
+  "apiId": "p6r96",
+  "apiIdStatus": "inferred"
+}

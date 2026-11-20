@@ -1,0 +1,11 @@
+{
+  "clientId": 4912,
+  "key": "item.plc.sticker.line",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер-линия",
+    "en": "Line Sticker"
+  },
+  "apiId": "ryz5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31073,
+  "key": "item.brt.pd.node",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент данных «Гамма»",
+    "en": "Gamma Data Fragment"
+  },
+  "apiId": "191ng",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8376,
+  "key": "item.quest.zov_sledopit_3",
+  "kind": "item",
+  "name": {
+    "ru": "Записка неизвестного 3",
+    "en": "Unknown Person’s Note 3"
+  },
+  "apiId": "5v9q",
+  "apiIdStatus": "inferred"
+}

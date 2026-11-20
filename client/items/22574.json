@@ -1,0 +1,11 @@
+{
+  "clientId": 22574,
+  "key": "item.att.silencer_fa556_f",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель FA556 Mini, зимний",
+    "en": "FA556 Mini Silencer, Winter"
+  },
+  "apiId": "g421g",
+  "apiIdStatus": "inferred"
+}

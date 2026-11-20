@@ -1,0 +1,11 @@
+{
+  "clientId": 25476,
+  "key": "item.arm.turist_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "«Грибник» ящеров",
+    "en": "Lizard's Forager"
+  },
+  "apiId": "5l16g",
+  "apiIdStatus": "inferred"
+}

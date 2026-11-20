@@ -1,0 +1,11 @@
+{
+  "clientId": 25059,
+  "key": "item.arm.ao3",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм АО-3 «Искатель»",
+    "en": "AH-3 Seeker Suit"
+  },
+  "apiId": "lyjvk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31507,
+  "key": "item.ny_toys.setK.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-шишечка",
+    "en": "Crafted Mini-Pine Cone Decoration"
+  },
+  "apiId": "4k3wl",
+  "apiIdStatus": "inferred"
+}

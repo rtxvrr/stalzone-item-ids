@@ -1,0 +1,11 @@
+{
+  "clientId": 25200,
+  "key": "item.arm.kyrtka_modnaya",
+  "kind": "item",
+  "name": {
+    "ru": "Модная куртка",
+    "en": "Stylish Jacket"
+  },
+  "apiId": "96nrq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20255,
+  "key": "item.wpn.svd-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенная СВД",
+    "en": "Worn SVD"
+  },
+  "apiId": "4qnor",
+  "apiIdStatus": "inferred"
+}

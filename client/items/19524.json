@@ -1,0 +1,11 @@
+{
+  "clientId": 19524,
+  "key": "item.camo.unique_arm.carry",
+  "kind": "item",
+  "name": {
+    "ru": "«Кэрри»",
+    "en": "Carrie"
+  },
+  "apiId": "9624w",
+  "apiIdStatus": "inferred"
+}

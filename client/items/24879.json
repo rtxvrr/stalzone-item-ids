@@ -1,0 +1,11 @@
+{
+  "clientId": 24879,
+  "key": "item.charm.scstore_gauss",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Модель Винтовки Гаусса»",
+    "en": "Gauss Rifle Miniature Charm"
+  },
+  "apiId": "4ql7p",
+  "apiIdStatus": "inferred"
+}

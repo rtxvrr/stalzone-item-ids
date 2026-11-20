@@ -1,0 +1,11 @@
+{
+  "clientId": 4918,
+  "key": "item.plc.sticker.blackraid_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Черных налетчиков",
+    "en": "Black Raiders Sticker"
+  },
+  "apiId": "vv4d",
+  "apiIdStatus": "inferred"
+}

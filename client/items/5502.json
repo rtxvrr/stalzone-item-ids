@@ -1,0 +1,11 @@
+{
+  "clientId": 5502,
+  "key": "item.plc.customisation_pack.murzya",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Мурзя»",
+    "en": "Purrzy Customization Pack"
+  },
+  "apiId": "gwop",
+  "apiIdStatus": "inferred"
+}

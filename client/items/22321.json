@@ -1,0 +1,11 @@
+{
+  "clientId": 22321,
+  "key": "item.att.sight_dm51",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный DM",
+    "en": "DM Collimator Sight"
+  },
+  "apiId": "3g7wg",
+  "apiIdStatus": "inferred"
+}

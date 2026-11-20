@@ -1,0 +1,11 @@
+{
+  "clientId": 14208,
+  "key": "item.bag.556sep",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СЭП 5.56 мм",
+    "en": "Pouch of 5.56 mm SEP Rounds"
+  },
+  "apiId": "kny0y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14995,
+  "key": "item.tool.lighter",
+  "kind": "item",
+  "name": {
+    "ru": "Жига",
+    "en": "Lighter"
+  },
+  "apiId": "6wom0",
+  "apiIdStatus": "inferred"
+}

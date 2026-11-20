@@ -1,0 +1,11 @@
+{
+  "clientId": 31107,
+  "key": "item.brt.ffa_token",
+  "kind": "item",
+  "name": {
+    "ru": "Багровый жетон",
+    "en": "Crimson Token"
+  },
+  "apiId": "4k3zo",
+  "apiIdStatus": "inferred"
+}

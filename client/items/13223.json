@@ -1,0 +1,11 @@
+{
+  "clientId": 13223,
+  "key": "item.camo.wpn.spring26_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Тяжелое вооружение»",
+    "en": "Heavy Armament Paint"
+  },
+  "apiId": "633n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31813,
+  "key": "item.part.mk47_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть MK47 Mutant #3",
+    "en": "MK47 Mutant #3"
+  },
+  "apiId": "0069k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31678,
+  "key": "item.blueprint.arm.seva_dayx",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж «Долгожитель»",
+    "en": "Longevity Blueprint"
+  },
+  "apiId": "w3zk2",
+  "apiIdStatus": "inferred"
+}

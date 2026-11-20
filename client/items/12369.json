@@ -1,0 +1,11 @@
+{
+  "clientId": 12369,
+  "key": "item.exp.eg1",
+  "kind": "item",
+  "name": {
+    "ru": "ЭГ-1 «Барьер»",
+    "en": "EG-1 Barrier"
+  },
+  "apiId": "31nk",
+  "apiIdStatus": "inferred"
+}

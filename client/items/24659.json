@@ -1,0 +1,11 @@
+{
+  "clientId": 24659,
+  "key": "item.charm.welcome_duchess",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Дюшес»",
+    "en": "Duchess Channel Fan Charm"
+  },
+  "apiId": "ly7j2",
+  "apiIdStatus": "inferred"
+}

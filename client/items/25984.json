@@ -1,0 +1,11 @@
+{
+  "clientId": 25984,
+  "key": "item.arm.peresvet_raguil",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон Рагуила",
+    "en": "Jumpsuit Raguel"
+  },
+  "apiId": "rw1j5",
+  "apiIdStatus": "inferred"
+}

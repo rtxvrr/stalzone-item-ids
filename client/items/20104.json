@@ -1,0 +1,11 @@
+{
+  "clientId": 20104,
+  "key": "item.wpn.a762",
+  "kind": "item",
+  "name": {
+    "ru": "А-762 «Арес»",
+    "en": "A-762 Ares"
+  },
+  "apiId": "5ldz4",
+  "apiIdStatus": "inferred"
+}

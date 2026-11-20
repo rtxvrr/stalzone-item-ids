@@ -1,0 +1,11 @@
+{
+  "clientId": 25058,
+  "key": "item.arm.ao2",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм АО-2 «Странник»",
+    "en": "AH-2 Rover Suit"
+  },
+  "apiId": "j5kv0",
+  "apiIdStatus": "inferred"
+}

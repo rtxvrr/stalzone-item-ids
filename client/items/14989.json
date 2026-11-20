@@ -1,0 +1,11 @@
+{
+  "clientId": 14989,
+  "key": "item.tool.battery",
+  "kind": "item",
+  "name": {
+    "ru": "Батарейка",
+    "en": "Battery"
+  },
+  "apiId": "p6jk4",
+  "apiIdStatus": "inferred"
+}

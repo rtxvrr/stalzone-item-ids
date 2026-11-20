@@ -1,0 +1,11 @@
+{
+  "clientId": 10123,
+  "key": "item.quest.inside25_priest_echo",
+  "kind": "item",
+  "name": {
+    "ru": "Эхо Священника",
+    "en": "Priests Echo"
+  },
+  "apiId": "6410",
+  "apiIdStatus": "inferred"
+}

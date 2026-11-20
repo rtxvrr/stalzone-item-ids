@@ -1,0 +1,11 @@
+{
+  "clientId": 25199,
+  "key": "item.arm.kz3b_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«КЗ-3б» Санитаров",
+    "en": "Orderlies' CD-3b"
+  },
+  "apiId": "zzy4m",
+  "apiIdStatus": "inferred"
+}

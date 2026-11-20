@@ -1,0 +1,11 @@
+{
+  "clientId": 22766,
+  "key": "item.att.mag_mr133",
+  "kind": "item",
+  "name": {
+    "ru": "Удлинитель магазина MP-133/MP-153",
+    "en": "MP-133/MP-153 Magazine Extender"
+  },
+  "apiId": "vjl4p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31299,
+  "key": "item.ny_toys.setB.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя сосулька",
+    "en": "Blue Icicle"
+  },
+  "apiId": "z3ovk",
+  "apiIdStatus": "inferred"
+}

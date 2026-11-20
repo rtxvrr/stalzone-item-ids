@@ -1,0 +1,11 @@
+{
+  "clientId": 11253,
+  "key": "item.art.trampoline_jilnik",
+  "kind": "item",
+  "name": {
+    "ru": "Жильник",
+    "en": "Veiner"
+  },
+  "apiId": "y5jk",
+  "apiIdStatus": "inferred"
+}

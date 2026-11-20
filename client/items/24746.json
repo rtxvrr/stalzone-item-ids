@@ -1,0 +1,11 @@
+{
+  "clientId": 24746,
+  "key": "item.charm.ssop_token",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Жетон ССОП»",
+    "en": "SSPP Token Charm"
+  },
+  "apiId": "7ljv7",
+  "apiIdStatus": "inferred"
+}

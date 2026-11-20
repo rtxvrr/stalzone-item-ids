@@ -1,0 +1,11 @@
+{
+  "clientId": 20232,
+  "key": "item.wpn.mauser98",
+  "kind": "item",
+  "name": {
+    "ru": "Mauser 98k",
+    "en": "Mauser 98k"
+  },
+  "apiId": "knm6y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15801,
+  "key": "item.shop.stalcoins_500",
+  "kind": "item",
+  "name": {
+    "ru": "500 сталкоинов",
+    "en": "500 Stalcoins"
+  },
+  "apiId": "1rod6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25450,
+  "key": "item.arm.chieftain",
+  "kind": "item",
+  "name": {
+    "ru": "Сверхтяжелый бронекостюм «Вождь»",
+    "en": "Chieftain Super-Heavy Armored Suit"
+  },
+  "apiId": "g4310",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17256,
+  "key": "item.style.melee.katana_summer24",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS «Razor»",
+    "en": "ZIVCAS «Razor»"
+  },
+  "apiId": "kn54y",
+  "apiIdStatus": "inferred"
+}

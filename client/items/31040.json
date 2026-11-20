@@ -1,0 +1,11 @@
+{
+  "clientId": 31040,
+  "key": "item.brt.les.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Кусок адского угля",
+    "en": "Piece of Infernal Coal"
+  },
+  "apiId": "nkgv1",
+  "apiIdStatus": "inferred"
+}

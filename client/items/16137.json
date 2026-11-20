@@ -1,0 +1,11 @@
+{
+  "clientId": 16137,
+  "key": "item.quest.limansk.12276",
+  "kind": "item",
+  "name": {
+    "ru": "Сгусток",
+    "en": "Clot"
+  },
+  "apiId": "0rlwy",
+  "apiIdStatus": "inferred"
+}

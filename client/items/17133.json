@@ -1,0 +1,11 @@
+{
+  "clientId": 17133,
+  "key": "item.style.arm.skat10_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "С.К.И.Ф.",
+    "en": "S.C.Y.T.H.I.A.N."
+  },
+  "apiId": "qj369",
+  "apiIdStatus": "inferred"
+}

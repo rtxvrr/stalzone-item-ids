@@ -1,0 +1,11 @@
+{
+  "clientId": 22599,
+  "key": "item.att.silencer_groza_f",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель для ОЦ-14 «Гроза», обмотанный",
+    "en": "Silencer for OTs-14 Groza, Taped"
+  },
+  "apiId": "zz909",
+  "apiIdStatus": "inferred"
+}

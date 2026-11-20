@@ -1,0 +1,11 @@
+{
+  "clientId": 24783,
+  "key": "item.charm.scstore_remove_bandits",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удалить перед гоп-стопом»",
+    "en": "Remove Before Mugging Charm"
+  },
+  "apiId": "lyjw1",
+  "apiIdStatus": "inferred"
+}

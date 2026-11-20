@@ -1,0 +1,11 @@
+{
+  "clientId": 18484,
+  "key": "item.camo.wpn.winter26_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Кровь на льду»",
+    "en": "Blood on the Ice Paint"
+  },
+  "apiId": "rwyjv",
+  "apiIdStatus": "inferred"
+}

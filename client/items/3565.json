@@ -1,0 +1,11 @@
+{
+  "clientId": 3565,
+  "key": "tile.3565",
+  "kind": "tile",
+  "name": {
+    "ru": "бетон",
+    "en": "concrete"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

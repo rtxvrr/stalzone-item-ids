@@ -1,0 +1,11 @@
+{
+  "clientId": 26075,
+  "key": "item.med.inside_salt",
+  "kind": "item",
+  "name": {
+    "ru": "Анаболик «SALT»",
+    "en": "SALT Anabolic Steroid"
+  },
+  "apiId": "zzqo2",
+  "apiIdStatus": "inferred"
+}

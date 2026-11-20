@@ -1,0 +1,11 @@
+{
+  "clientId": 16917,
+  "key": "item.quest.covenant.notebook",
+  "kind": "item",
+  "name": {
+    "ru": "Ноутбук Орфея",
+    "en": "Orpheus' Laptop"
+  },
+  "apiId": "p65z2",
+  "apiIdStatus": "inferred"
+}

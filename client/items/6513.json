@@ -1,0 +1,11 @@
+{
+  "clientId": 6513,
+  "key": "item.misc.prothrombin",
+  "kind": "item",
+  "name": {
+    "ru": "Протромбин",
+    "en": "Prothrombin"
+  },
+  "apiId": "026y",
+  "apiIdStatus": "inferred"
+}

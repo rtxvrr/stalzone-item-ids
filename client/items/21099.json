@@ -1,0 +1,11 @@
+{
+  "clientId": 21099,
+  "key": "item.melee.iceaxe_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "Вершина",
+    "en": "Summit"
+  },
+  "apiId": "zzl9k",
+  "apiIdStatus": "inferred"
+}

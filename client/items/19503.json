@@ -1,0 +1,11 @@
+{
+  "clientId": 19503,
+  "key": "item.camo.unique_arm.mehatronika",
+  "kind": "item",
+  "name": {
+    "ru": "«Мехатроника»",
+    "en": "Mechatronics"
+  },
+  "apiId": "zz6j9",
+  "apiIdStatus": "inferred"
+}

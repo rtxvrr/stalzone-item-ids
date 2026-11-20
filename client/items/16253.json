@@ -1,0 +1,11 @@
+{
+  "clientId": 16253,
+  "key": "item.misc.flesh_eye_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Глаз слабой хрюши",
+    "en": "Weak Piggy's Eye"
+  },
+  "apiId": "y3n00",
+  "apiIdStatus": "inferred"
+}

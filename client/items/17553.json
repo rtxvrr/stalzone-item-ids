@@ -1,0 +1,11 @@
+{
+  "clientId": 17553,
+  "key": "item.style.wpn.arx160_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Душегуб»",
+    "en": "Soulreaper"
+  },
+  "apiId": "y3y2o",
+  "apiIdStatus": "inferred"
+}

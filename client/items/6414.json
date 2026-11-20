@@ -1,0 +1,11 @@
+{
+  "clientId": 6414,
+  "key": "item.misc.advanced_electrode",
+  "kind": "item",
+  "name": {
+    "ru": "Продвинутый электрод",
+    "en": "Advanced Electrode"
+  },
+  "apiId": "mm4y",
+  "apiIdStatus": "inferred"
+}

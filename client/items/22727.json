@@ -1,0 +1,11 @@
+{
+  "clientId": 22727,
+  "key": "item.att.mag_mpx50",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин MPX",
+    "en": "MPX Drum Magazine"
+  },
+  "apiId": "zz97m",
+  "apiIdStatus": "inferred"
+}

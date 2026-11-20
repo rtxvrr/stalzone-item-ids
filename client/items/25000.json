@@ -1,0 +1,11 @@
+{
+  "clientId": 25000,
+  "key": "item.arm.kyrtka",
+  "kind": "item",
+  "name": {
+    "ru": "Куртка",
+    "en": "Jacket"
+  },
+  "apiId": "96n2l",
+  "apiIdStatus": "inferred"
+}

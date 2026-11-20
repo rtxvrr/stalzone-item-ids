@@ -1,0 +1,11 @@
+{
+  "clientId": 8176,
+  "key": "item.quest.apocalypse_not_today_encryption_key",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ для расшифровки сообщений",
+    "en": "Key for decrypting messages"
+  },
+  "apiId": "5vo4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12060,
+  "key": "item.cont.barrel",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Бочонок»",
+    "en": "Barrel Container"
+  },
+  "apiId": "rgoz",
+  "apiIdStatus": "inferred"
+}

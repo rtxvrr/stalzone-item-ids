@@ -1,0 +1,11 @@
+{
+  "clientId": 16700,
+  "key": "item.art.mod_catalyst",
+  "kind": "item",
+  "name": {
+    "ru": "Катализатор",
+    "en": "Catalyst"
+  },
+  "apiId": "96z7y",
+  "apiIdStatus": "inferred"
+}

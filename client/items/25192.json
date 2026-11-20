@@ -1,0 +1,11 @@
+{
+  "clientId": 25192,
+  "key": "item.arm.exo_pp",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет Первопроходцев",
+    "en": "Trailblazers' Exoskeleton"
+  },
+  "apiId": "2oqz5",
+  "apiIdStatus": "inferred"
+}

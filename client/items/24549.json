@@ -1,0 +1,11 @@
+{
+  "clientId": 24549,
+  "key": "item.charm.m381_f",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Заледенелый снаряд M381»",
+    "en": "Icy M381 Ammo Charm"
+  },
+  "apiId": "1r5v2",
+  "apiIdStatus": "inferred"
+}

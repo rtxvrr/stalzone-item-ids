@@ -1,0 +1,11 @@
+{
+  "clientId": 18476,
+  "key": "item.camo.wpn.autumn25_skin_10",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Распад»",
+    "en": "Decay Paint"
+  },
+  "apiId": "5l0l1",
+  "apiIdStatus": "inferred"
+}

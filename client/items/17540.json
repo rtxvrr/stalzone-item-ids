@@ -1,0 +1,11 @@
+{
+  "clientId": 17540,
+  "key": "item.style.wpn.ppk20_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Антициклон»",
+    "en": "Anticyclone"
+  },
+  "apiId": "n4np3",
+  "apiIdStatus": "inferred"
+}

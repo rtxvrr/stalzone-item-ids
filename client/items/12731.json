@@ -1,0 +1,11 @@
+{
+  "clientId": 12731,
+  "key": "item.amm.939bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9x39 мм СП-6",
+    "en": "9x39 mm SP-6 Round"
+  },
+  "apiId": "4dkn",
+  "apiIdStatus": "inferred"
+}

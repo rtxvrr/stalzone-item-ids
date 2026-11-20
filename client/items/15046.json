@@ -1,0 +1,11 @@
+{
+  "clientId": 15046,
+  "key": "item.case.autumn25_cosmetic",
+  "kind": "item",
+  "name": {
+    "ru": "Визуальный кейс «Ужасов Зоны»",
+    "en": "Horrors of the Zone Visual Case"
+  },
+  "apiId": "7l779",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19500,
+  "key": "item.camo.unique_arm.buldozer",
+  "kind": "item",
+  "name": {
+    "ru": "«БУЛЬДОЗЕР»",
+    "en": "BULLDOZER"
+  },
+  "apiId": "962yw",
+  "apiIdStatus": "inferred"
+}

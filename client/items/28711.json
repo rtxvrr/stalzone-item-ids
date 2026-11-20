@@ -1,0 +1,11 @@
+{
+  "clientId": 28711,
+  "key": "item.misc.subtype_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Технический жетон «Зивкаса»",
+    "en": "Operations Token"
+  },
+  "apiId": "l0y3o",
+  "apiIdStatus": "inferred"
+}

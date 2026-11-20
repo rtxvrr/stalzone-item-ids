@@ -1,0 +1,11 @@
+{
+  "clientId": 22005,
+  "key": "item.att.forend_falris",
+  "kind": "item",
+  "name": {
+    "ru": "Fal Quad Rail",
+    "en": "Fal Quad Rail"
+  },
+  "apiId": "y3pnk",
+  "apiIdStatus": "inferred"
+}

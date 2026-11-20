@@ -1,0 +1,11 @@
+{
+  "clientId": 15976,
+  "key": "item.crt.autumn_25",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег",
+    "en": "Talisman"
+  },
+  "apiId": "5lyw4",
+  "apiIdStatus": "inferred"
+}

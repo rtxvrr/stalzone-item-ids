@@ -1,0 +1,11 @@
+{
+  "clientId": 21086,
+  "key": "item.melee.lopata_digger",
+  "kind": "item",
+  "name": {
+    "ru": "«Черный копатель»",
+    "en": "Black digger"
+  },
+  "apiId": "m0vkk",
+  "apiIdStatus": "inferred"
+}

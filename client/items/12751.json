@@ -1,0 +1,11 @@
+{
+  "clientId": 12751,
+  "key": "item.amm.23dart",
+  "kind": "item",
+  "name": {
+    "ru": "Боевая пуля 23x75",
+    "en": "23x75 Caliber Slug"
+  },
+  "apiId": "z1kn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4959,
+  "key": "item.plc.sticker.mk_anchor",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Якорь»",
+    "en": "Anchor Sticker"
+  },
+  "apiId": "lp41",
+  "apiIdStatus": "inferred"
+}

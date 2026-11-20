@@ -1,0 +1,11 @@
+{
+  "clientId": 31515,
+  "key": "item.ny_toys.setJ.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская игрушка-арматуринка",
+    "en": "Stalker Steel Bar Decoration"
+  },
+  "apiId": "oln24",
+  "apiIdStatus": "inferred"
+}

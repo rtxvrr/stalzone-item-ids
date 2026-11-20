@@ -1,0 +1,11 @@
+{
+  "clientId": 3560,
+  "key": "tile.3560",
+  "kind": "tile",
+  "name": {
+    "ru": "побелка",
+    "en": "whitewash"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

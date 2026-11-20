@@ -1,0 +1,11 @@
+{
+  "clientId": 19536,
+  "key": "item.camo.unique_arm.goblin",
+  "kind": "item",
+  "name": {
+    "ru": "«Леший»",
+    "en": "Leshy"
+  },
+  "apiId": "rwkol",
+  "apiIdStatus": "inferred"
+}

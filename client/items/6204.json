@@ -1,0 +1,11 @@
+{
+  "clientId": 6204,
+  "key": "item.misc.iodine_solution",
+  "kind": "item",
+  "name": {
+    "ru": "Раствор йода",
+    "en": "Iodine Solution"
+  },
+  "apiId": "5dkg",
+  "apiIdStatus": "inferred"
+}

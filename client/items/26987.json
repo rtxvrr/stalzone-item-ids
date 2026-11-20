@@ -1,0 +1,11 @@
+{
+  "clientId": 26987,
+  "key": "item.26987",
+  "kind": "item",
+  "name": {
+    "ru": "Гитара",
+    "en": "Guitar"
+  },
+  "apiId": "okr3m",
+  "apiIdStatus": "inferred"
+}

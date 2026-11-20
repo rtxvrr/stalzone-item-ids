@@ -1,0 +1,11 @@
+{
+  "clientId": 12078,
+  "key": "item.bag.corpse_medium",
+  "kind": "item",
+  "name": {
+    "ru": "Подозрительный мешок",
+    "en": "Suspicious Bag"
+  },
+  "apiId": "w4kz",
+  "apiIdStatus": "inferred"
+}

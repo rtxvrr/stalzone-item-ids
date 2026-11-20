@@ -1,0 +1,11 @@
+{
+  "clientId": 27713,
+  "key": "item.stash_placer.base_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон ветерана",
+    "en": "Veteran stash"
+  },
+  "apiId": "00w01",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29927,
+  "key": "item.filler.node_1",
+  "kind": "item",
+  "name": {
+    "ru": "Малый артефактный фрагмент",
+    "en": "Small Artifact Fragment"
+  },
+  "apiId": "z3k1m",
+  "apiIdStatus": "inferred"
+}

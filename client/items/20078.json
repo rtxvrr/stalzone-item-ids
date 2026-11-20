@@ -1,0 +1,11 @@
+{
+  "clientId": 20078,
+  "key": "item.wpn.a545",
+  "kind": "item",
+  "name": {
+    "ru": "А-545",
+    "en": "A-545"
+  },
+  "apiId": "wjo4p",
+  "apiIdStatus": "inferred"
+}

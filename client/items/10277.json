@@ -1,0 +1,11 @@
+{
+  "clientId": 10277,
+  "key": "item.phonograph.vinyl_other_grind",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Грин Данилов»",
+    "en": "Grin Danilov Vinyl Record"
+  },
+  "apiId": "ywq0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26013,
+  "key": "item.med.protector_1",
+  "kind": "item",
+  "name": {
+    "ru": "Радиопротектор первого класса",
+    "en": "1st Class Radioprotectant"
+  },
+  "apiId": "0rd7d",
+  "apiIdStatus": "inferred"
+}

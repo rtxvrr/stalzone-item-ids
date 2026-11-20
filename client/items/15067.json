@@ -1,0 +1,11 @@
+{
+  "clientId": 15067,
+  "key": "item.pack.camo.blitz_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Йотунхейм»",
+    "en": "Jotunheim Paint Set"
+  },
+  "apiId": "dmr5g",
+  "apiIdStatus": "inferred"
+}

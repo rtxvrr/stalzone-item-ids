@@ -1,0 +1,11 @@
+{
+  "clientId": 24939,
+  "key": "item.charm.autumn26_scarecrowhead",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кукла-оберег»",
+    "en": "Doll-Amulet Charm "
+  },
+  "apiId": "ok064",
+  "apiIdStatus": "inferred"
+}

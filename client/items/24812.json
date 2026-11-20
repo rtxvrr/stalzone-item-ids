@@ -1,0 +1,11 @@
+{
+  "clientId": 24812,
+  "key": "item.charm.media_zixwoman",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шляпник»",
+    "en": "Hatter Charm"
+  },
+  "apiId": "rwnwg",
+  "apiIdStatus": "inferred"
+}

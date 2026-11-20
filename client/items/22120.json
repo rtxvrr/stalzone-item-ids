@@ -1,0 +1,11 @@
+{
+  "clientId": 22120,
+  "key": "item.att.handgrip_rk1_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "«Хвататель дропсов»",
+    "en": "Drops Catcher"
+  },
+  "apiId": "2o245",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22525,
+  "key": "item.att.barrel_akademia",
+  "kind": "item",
+  "name": {
+    "ru": "Пламегаситель AKademia Тьма",
+    "en": "AKademia T'ma Flash Hider"
+  },
+  "apiId": "1r39q",
+  "apiIdStatus": "inferred"
+}

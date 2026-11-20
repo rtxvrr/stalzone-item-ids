@@ -1,0 +1,11 @@
+{
+  "clientId": 20562,
+  "key": "item.wpn.vsk94",
+  "kind": "item",
+  "name": {
+    "ru": "ВСК-94",
+    "en": "VSK-94"
+  },
+  "apiId": "m0mo7",
+  "apiIdStatus": "inferred"
+}

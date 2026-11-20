@@ -1,0 +1,11 @@
+{
+  "clientId": 28051,
+  "key": "item.28051",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Магнит»",
+    "en": "Magnet Artifact"
+  },
+  "apiId": "z3gry",
+  "apiIdStatus": "inferred"
+}

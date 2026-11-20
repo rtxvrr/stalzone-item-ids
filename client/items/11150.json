@@ -1,0 +1,11 @@
+{
+  "clientId": 11150,
+  "key": "item.art.kisel_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Кислотный кристалл",
+    "en": "Acid Crystal"
+  },
+  "apiId": "gyjg",
+  "apiIdStatus": "inferred"
+}

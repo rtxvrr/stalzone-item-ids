@@ -1,0 +1,11 @@
+{
+  "clientId": 19706,
+  "key": "item.camo.arm.digital3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «VK Play»",
+    "en": "VK Play Paint"
+  },
+  "apiId": "wjo03",
+  "apiIdStatus": "inferred"
+}

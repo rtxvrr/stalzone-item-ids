@@ -1,0 +1,11 @@
+{
+  "clientId": 12729,
+  "key": "item.amm.762sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм СБП",
+    "en": "7.62 mm SBP Round"
+  },
+  "apiId": "y94o",
+  "apiIdStatus": "inferred"
+}

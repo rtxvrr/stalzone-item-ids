@@ -1,0 +1,11 @@
+{
+  "clientId": 10265,
+  "key": "item.phonograph.vinyl_location_institute",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Институт»",
+    "en": "Institute Vinyl Record"
+  },
+  "apiId": "pdmd",
+  "apiIdStatus": "inferred"
+}

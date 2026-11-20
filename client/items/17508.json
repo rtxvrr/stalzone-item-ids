@@ -1,0 +1,11 @@
+{
+  "clientId": 17508,
+  "key": "item.style.wpn.vss_newyear24",
+  "kind": "item",
+  "name": {
+    "ru": "«Морозный перевал»",
+    "en": "Frosty Pass"
+  },
+  "apiId": "knz1v",
+  "apiIdStatus": "inferred"
+}

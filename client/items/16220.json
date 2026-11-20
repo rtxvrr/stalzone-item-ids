@@ -1,0 +1,11 @@
+{
+  "clientId": 16220,
+  "key": "item.16220",
+  "kind": "item",
+  "name": {
+    "ru": "Могильный мухомор",
+    "en": "Graveyard Fly Agaric"
+  },
+  "apiId": "2o0rv",
+  "apiIdStatus": "inferred"
+}

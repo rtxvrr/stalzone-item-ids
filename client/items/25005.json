@@ -1,0 +1,11 @@
+{
+  "clientId": 25005,
+  "key": "item.arm.krot",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Крот»",
+    "en": "Mole Suit"
+  },
+  "apiId": "y35ok",
+  "apiIdStatus": "inferred"
+}

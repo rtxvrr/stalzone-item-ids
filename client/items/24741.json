@@ -1,0 +1,11 @@
+{
+  "clientId": 24741,
+  "key": "item.charm.summer25_crock",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Бомбардировщик Крок»",
+    "en": "Croc Bomber Charm"
+  },
+  "apiId": "p6702",
+  "apiIdStatus": "inferred"
+}

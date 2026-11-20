@@ -1,0 +1,11 @@
+{
+  "clientId": 24365,
+  "key": "item.charm.incident_wrench",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ключ»",
+    "en": "Key Charm"
+  },
+  "apiId": "p67o5",
+  "apiIdStatus": "inferred"
+}

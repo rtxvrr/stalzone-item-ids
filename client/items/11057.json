@@ -1,0 +1,11 @@
+{
+  "clientId": 11057,
+  "key": "item.art.jarka_solnce",
+  "kind": "item",
+  "name": {
+    "ru": "Солнце",
+    "en": "Sun"
+  },
+  "apiId": "qoq6",
+  "apiIdStatus": "inferred"
+}

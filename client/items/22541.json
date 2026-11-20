@@ -1,0 +1,11 @@
+{
+  "clientId": 22541,
+  "key": "item.att.barrel_sprv762",
+  "kind": "item",
+  "name": {
+    "ru": "SPVV 7.62",
+    "en": "SPVV 7.62"
+  },
+  "apiId": "p6yv5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18795,
+  "key": "item.camo.wpn.nasty_marks",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Гадкие метки»",
+    "en": "Nasty Marks Camouflage"
+  },
+  "apiId": "6wdpy",
+  "apiIdStatus": "inferred"
+}

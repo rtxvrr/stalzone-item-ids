@@ -1,0 +1,11 @@
+{
+  "clientId": 16905,
+  "key": "item.quest.covenant.note",
+  "kind": "item",
+  "name": {
+    "ru": "Записная книжка Лазаря",
+    "en": "Lazarus's Notebook"
+  },
+  "apiId": "y30vo",
+  "apiIdStatus": "inferred"
+}

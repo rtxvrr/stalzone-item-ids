@@ -1,0 +1,11 @@
+{
+  "clientId": 22763,
+  "key": "item.att.mag_pmag545b",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.45 PMAG, черный",
+    "en": "5.45 PMAG Magazine, Black"
+  },
+  "apiId": "ok59m",
+  "apiIdStatus": "inferred"
+}

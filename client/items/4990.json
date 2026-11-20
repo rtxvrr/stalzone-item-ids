@@ -1,0 +1,11 @@
+{
+  "clientId": 4990,
+  "key": "item.plc.sticker.nea_military",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Чхунсон!»",
+    "en": "Chungseon Sticker"
+  },
+  "apiId": "vvld",
+  "apiIdStatus": "inferred"
+}

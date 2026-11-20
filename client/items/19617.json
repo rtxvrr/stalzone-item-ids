@@ -1,0 +1,11 @@
+{
+  "clientId": 19617,
+  "key": "item.motif.arm.armor_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "«Гладиатор»",
+    "en": "Gladiator"
+  },
+  "apiId": "p6r6w",
+  "apiIdStatus": "inferred"
+}

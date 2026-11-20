@@ -1,0 +1,11 @@
+{
+  "clientId": 31506,
+  "key": "item.ny_toys.setK.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-снежинка",
+    "en": "Crafted Snowflake Decoration"
+  },
+  "apiId": "w3zqd",
+  "apiIdStatus": "inferred"
+}

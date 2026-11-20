@@ -1,0 +1,11 @@
+{
+  "clientId": 20090,
+  "key": "item.wpn.sr3m",
+  "kind": "item",
+  "name": {
+    "ru": "СР-3М",
+    "en": "SR-3M"
+  },
+  "apiId": "vjryn",
+  "apiIdStatus": "inferred"
+}

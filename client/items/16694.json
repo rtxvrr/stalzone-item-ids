@@ -1,0 +1,11 @@
+{
+  "clientId": 16694,
+  "key": "item.lootbox.twitch_drop",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Twitch Drop»",
+    "en": "Twitch Drop Container"
+  },
+  "apiId": "7l1v6",
+  "apiIdStatus": "inferred"
+}

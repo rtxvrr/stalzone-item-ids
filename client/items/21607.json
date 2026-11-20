@@ -1,0 +1,11 @@
+{
+  "clientId": 21607,
+  "key": "item.wpn_mod.adv.compensator",
+  "kind": "item",
+  "name": {
+    "ru": "«Концентратор»",
+    "en": "Concentrator"
+  },
+  "apiId": "4q61j",
+  "apiIdStatus": "inferred"
+}

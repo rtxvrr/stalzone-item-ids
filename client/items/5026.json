@@ -1,0 +1,11 @@
+{
+  "clientId": 5026,
+  "key": "item.plc.sticker.scstore_a26_duty_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Последний воин»",
+    "en": "Last Warrior Sticker"
+  },
+  "apiId": "gjd0",
+  "apiIdStatus": "inferred"
+}

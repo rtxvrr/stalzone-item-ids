@@ -1,0 +1,11 @@
+{
+  "clientId": 25740,
+  "key": "item.skin.mt_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Танкист»",
+    "en": "Tanker Skin"
+  },
+  "apiId": "n4392",
+  "apiIdStatus": "inferred"
+}

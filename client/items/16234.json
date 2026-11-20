@@ -1,0 +1,11 @@
+{
+  "clientId": 16234,
+  "key": "item.16234",
+  "kind": "item",
+  "name": {
+    "ru": "Осколок голубого стекла",
+    "en": "Shard of Blue Glass"
+  },
+  "apiId": "j5qql",
+  "apiIdStatus": "inferred"
+}

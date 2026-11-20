@@ -1,0 +1,11 @@
+{
+  "clientId": 18755,
+  "key": "item.camo.wpn.draft",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Наброски»",
+    "en": "Sketches Paint"
+  },
+  "apiId": "4qm6n",
+  "apiIdStatus": "inferred"
+}

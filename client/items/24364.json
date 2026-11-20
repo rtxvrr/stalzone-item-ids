@@ -1,0 +1,11 @@
+{
+  "clientId": 24364,
+  "key": "item.charm.incident_noga",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Механическая лапка»",
+    "en": "Mechanical Paw Charm"
+  },
+  "apiId": "n47ow",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11705,
+  "key": "item.wpn_mod.variometr",
+  "kind": "item",
+  "name": {
+    "ru": "Вариометр",
+    "en": "Variometer"
+  },
+  "apiId": "yq6w",
+  "apiIdStatus": "inferred"
+}

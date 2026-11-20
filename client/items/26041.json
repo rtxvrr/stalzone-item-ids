@@ -1,0 +1,11 @@
+{
+  "clientId": 26041,
+  "key": "item.med.detox",
+  "kind": "item",
+  "name": {
+    "ru": "«Панацея»",
+    "en": "Panacea"
+  },
+  "apiId": "p6256",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24852,
+  "key": "item.charm.blitz_extinguisher",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Огнетушитель»",
+    "en": "Extinguisher Charm"
+  },
+  "apiId": "5lryg",
+  "apiIdStatus": "inferred"
+}

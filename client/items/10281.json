@@ -1,0 +1,11 @@
+{
+  "clientId": 10281,
+  "key": "item.phonograph.vinyl_event_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Морозный Десант»",
+    "en": "Frost Troopers Vinyl Record"
+  },
+  "apiId": "q614",
+  "apiIdStatus": "inferred"
+}

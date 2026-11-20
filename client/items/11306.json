@@ -1,0 +1,11 @@
+{
+  "clientId": 11306,
+  "key": "item.art.voronka_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Темный кристалл",
+    "en": "Dark Crystal"
+  },
+  "apiId": "wgr3",
+  "apiIdStatus": "inferred"
+}

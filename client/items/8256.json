@@ -1,0 +1,11 @@
+{
+  "clientId": 8256,
+  "key": "item.quest.doklad_typoon_62",
+  "kind": "item",
+  "name": {
+    "ru": "Доклад «Тайфуна» #62",
+    "en": "Typhoon Report #62"
+  },
+  "apiId": "kwjy",
+  "apiIdStatus": "inferred"
+}

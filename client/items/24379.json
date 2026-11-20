@@ -1,0 +1,11 @@
+{
+  "clientId": 24379,
+  "key": "item.charm.head_hunter",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Охотник»",
+    "en": "Hunter Charm"
+  },
+  "apiId": "4q4jl",
+  "apiIdStatus": "inferred"
+}

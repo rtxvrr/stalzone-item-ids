@@ -1,0 +1,11 @@
+{
+  "clientId": 19903,
+  "key": "item.motif.wpn.arx160_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Предупреждение»",
+    "en": "Caution"
+  },
+  "apiId": "zz75n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 5023,
+  "key": "item.plc.sticker.raven26_heart_animated",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Избавление»",
+    "en": "Deliverance League Sticker"
+  },
+  "apiId": "6d4j",
+  "apiIdStatus": "inferred"
+}

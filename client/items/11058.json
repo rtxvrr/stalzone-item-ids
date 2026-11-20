@@ -1,0 +1,11 @@
+{
+  "clientId": 11058,
+  "key": "item.art.jarka_magma",
+  "kind": "item",
+  "name": {
+    "ru": "Магма",
+    "en": "Magma"
+  },
+  "apiId": "jkq7",
+  "apiIdStatus": "inferred"
+}

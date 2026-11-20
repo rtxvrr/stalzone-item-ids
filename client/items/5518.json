@@ -1,0 +1,11 @@
+{
+  "clientId": 5518,
+  "key": "item.plc.customisation_pack.prestige_horror",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Мертвый Арбитр»",
+    "en": "Dead Referee Customization Pack"
+  },
+  "apiId": "vm9d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16685,
+  "key": "item.lootbox.birthday2022_redkiy",
+  "kind": "item",
+  "name": {
+    "ru": "Праздничный редкий контейнер",
+    "en": "Rare Holiday Container"
+  },
+  "apiId": "0rl59",
+  "apiIdStatus": "inferred"
+}

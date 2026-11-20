@@ -1,0 +1,11 @@
+{
+  "clientId": 22059,
+  "key": "item.att.forend_saiga",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье для Сайга-12К",
+    "en": "Handguard for Saiga-12K"
+  },
+  "apiId": "ly4ok",
+  "apiIdStatus": "inferred"
+}

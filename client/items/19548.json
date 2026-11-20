@@ -1,0 +1,11 @@
+{
+  "clientId": 19548,
+  "key": "item.camo.unique_arm.frostfighter",
+  "kind": "item",
+  "name": {
+    "ru": "«Морозоборец»",
+    "en": "Frost Fighter"
+  },
+  "apiId": "962gw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22524,
+  "key": "item.att.barrel_natosamodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный компенсатор NATO",
+    "en": "NATO Handmade Compensator"
+  },
+  "apiId": "96pdw",
+  "apiIdStatus": "inferred"
+}

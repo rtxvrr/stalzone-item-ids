@@ -1,0 +1,11 @@
+{
+  "clientId": 20043,
+  "key": "item.wpn.akmb",
+  "kind": "item",
+  "name": {
+    "ru": "АКМ «Тишина»",
+    "en": "AKM Tishina"
+  },
+  "apiId": "dmqg5",
+  "apiIdStatus": "inferred"
+}

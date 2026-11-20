@@ -1,0 +1,11 @@
+{
+  "clientId": 9171,
+  "key": "item.exp.stielhandgranate_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Stielhandgranate",
+    "en": "Stielhandgranate"
+  },
+  "apiId": "6p3y",
+  "apiIdStatus": "inferred"
+}

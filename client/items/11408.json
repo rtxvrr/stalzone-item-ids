@@ -1,0 +1,11 @@
+{
+  "clientId": 11408,
+  "key": "item.art.ravent_shield",
+  "kind": "item",
+  "name": {
+    "ru": "Щит Святополка",
+    "en": "Sviatopolk's shield"
+  },
+  "apiId": "kqqj",
+  "apiIdStatus": "inferred"
+}

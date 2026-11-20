@@ -1,0 +1,11 @@
+{
+  "clientId": 16835,
+  "key": "item.16835",
+  "kind": "item",
+  "name": {
+    "ru": "Трясущаяся конечность",
+    "en": "Shaky Limb"
+  },
+  "apiId": "ly992",
+  "apiIdStatus": "inferred"
+}

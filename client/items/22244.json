@@ -1,0 +1,11 @@
+{
+  "clientId": 22244,
+  "key": "item.att.scope_f2000",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел F2000",
+    "en": "F2000 Scope"
+  },
+  "apiId": "2o22v",
+  "apiIdStatus": "inferred"
+}

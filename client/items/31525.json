@@ -1,0 +1,11 @@
+{
+  "clientId": 31525,
+  "key": "item.ny_toys.setJ.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская простецкая мишура",
+    "en": "Simple Stalker Tinsel"
+  },
+  "apiId": "194gq",
+  "apiIdStatus": "inferred"
+}

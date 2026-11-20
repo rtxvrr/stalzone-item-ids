@@ -1,0 +1,11 @@
+{
+  "clientId": 31928,
+  "key": "item.med.mutant_mushroom1",
+  "kind": "item",
+  "name": {
+    "ru": "Гриб",
+    "en": "Mushroom"
+  },
+  "apiId": "55jd0",
+  "apiIdStatus": "inferred"
+}

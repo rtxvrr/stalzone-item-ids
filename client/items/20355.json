@@ -1,0 +1,11 @@
+{
+  "clientId": 20355,
+  "key": "item.wpn.toz_deda",
+  "kind": "item",
+  "name": {
+    "ru": "ТОЗ Деда",
+    "en": "Gramps' TOZ"
+  },
+  "apiId": "4qnmo",
+  "apiIdStatus": "inferred"
+}

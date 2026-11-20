@@ -1,0 +1,11 @@
+{
+  "clientId": 16712,
+  "key": "item.16712",
+  "kind": "item",
+  "name": {
+    "ru": "Протоартефакт «Волчка»",
+    "en": "Blender Protoartifact"
+  },
+  "apiId": "rw6ly",
+  "apiIdStatus": "inferred"
+}

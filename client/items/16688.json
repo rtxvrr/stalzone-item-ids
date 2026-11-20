@@ -1,0 +1,11 @@
+{
+  "clientId": 16688,
+  "key": "item.lootbox.ffa_sleeves_2_tier",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик багровых гильз (средний)",
+    "en": "Crimson Casing Crate (Medium)"
+  },
+  "apiId": "n4w01",
+  "apiIdStatus": "inferred"
+}

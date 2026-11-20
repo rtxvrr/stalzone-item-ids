@@ -1,0 +1,11 @@
+{
+  "clientId": 22518,
+  "key": "item.att.barrel_cmmgsvbrake762",
+  "kind": "item",
+  "name": {
+    "ru": "CMMG SV Brake 7.62x51",
+    "en": "CMMG SV Brake 7.62x51"
+  },
+  "apiId": "vjlng",
+  "apiIdStatus": "inferred"
+}

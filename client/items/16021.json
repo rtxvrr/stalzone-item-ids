@@ -1,0 +1,11 @@
+{
+  "clientId": 16021,
+  "key": "item.16021",
+  "kind": "item",
+  "name": {
+    "ru": "Неизвестная книга",
+    "en": "Unknown Book"
+  },
+  "apiId": "3go6l",
+  "apiIdStatus": "inferred"
+}

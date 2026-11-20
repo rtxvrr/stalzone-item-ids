@@ -1,0 +1,11 @@
+{
+  "clientId": 4222,
+  "key": "item.plc.background.grinch",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Ковер»",
+    "en": "Carpet Background"
+  },
+  "apiId": "7dd9",
+  "apiIdStatus": "inferred"
+}

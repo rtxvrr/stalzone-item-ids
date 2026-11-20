@@ -1,0 +1,11 @@
+{
+  "clientId": 27337,
+  "key": "item.misc.blizzard_rowan",
+  "kind": "item",
+  "name": {
+    "ru": "Ветка рябины",
+    "en": "Rowan Branch"
+  },
+  "apiId": "0r52r",
+  "apiIdStatus": "inferred"
+}

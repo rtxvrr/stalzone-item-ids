@@ -1,0 +1,11 @@
+{
+  "clientId": 31536,
+  "key": "item.ny_toys.setL.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная звезда",
+    "en": "Anomalous Star"
+  },
+  "apiId": "rjp7l",
+  "apiIdStatus": "inferred"
+}

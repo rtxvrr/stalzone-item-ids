@@ -1,0 +1,11 @@
+{
+  "clientId": 15045,
+  "key": "item.lootbox.encaged_4",
+  "kind": "item",
+  "name": {
+    "ru": "Реликварий Охотника",
+    "en": "Hunter's Reliquary"
+  },
+  "apiId": "3g441",
+  "apiIdStatus": "inferred"
+}

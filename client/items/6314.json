@@ -1,0 +1,11 @@
+{
+  "clientId": 6314,
+  "key": "item.misc.boron_carbide",
+  "kind": "item",
+  "name": {
+    "ru": "Карбоноволокно",
+    "en": "Carbon Fiber"
+  },
+  "apiId": "m2lr",
+  "apiIdStatus": "inferred"
+}

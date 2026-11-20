@@ -1,0 +1,11 @@
+{
+  "clientId": 26025,
+  "key": "item.med.astrikcin",
+  "kind": "item",
+  "name": {
+    "ru": "«Астрикцин»",
+    "en": "Astrixin"
+  },
+  "apiId": "1r2l6",
+  "apiIdStatus": "inferred"
+}

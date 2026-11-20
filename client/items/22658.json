@@ -1,0 +1,11 @@
+{
+  "clientId": 22658,
+  "key": "item.att.butt_vsst",
+  "kind": "item",
+  "name": {
+    "ru": "Приклад тактический ВСС",
+    "en": "VSS Tactical Stock"
+  },
+  "apiId": "j52j0",
+  "apiIdStatus": "inferred"
+}

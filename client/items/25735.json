@@ -1,0 +1,11 @@
+{
+  "clientId": 25735,
+  "key": "item.skin.winter26_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Морозостойкий»",
+    "en": "Frostproof Skin"
+  },
+  "apiId": "ly3mo",
+  "apiIdStatus": "inferred"
+}

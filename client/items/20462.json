@@ -1,0 +1,11 @@
+{
+  "clientId": 20462,
+  "key": "item.wpn.smesson",
+  "kind": "item",
+  "name": {
+    "ru": "«Смессон»",
+    "en": "Smesson"
+  },
+  "apiId": "m0mvk",
+  "apiIdStatus": "inferred"
+}

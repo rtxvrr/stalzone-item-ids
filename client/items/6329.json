@@ -1,0 +1,11 @@
+{
+  "clientId": 6329,
+  "key": "item.misc.motor_parts",
+  "kind": "item",
+  "name": {
+    "ru": "Детали электромотора",
+    "en": "Electric Motor Parts"
+  },
+  "apiId": "y7rw",
+  "apiIdStatus": "inferred"
+}

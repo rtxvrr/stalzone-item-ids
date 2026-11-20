@@ -1,0 +1,11 @@
+{
+  "clientId": 24802,
+  "key": "item.charm.exorcism_chrism",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Хризма»",
+    "en": "Christogram Charm"
+  },
+  "apiId": "g4y40",
+  "apiIdStatus": "inferred"
+}

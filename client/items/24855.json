@@ -1,0 +1,11 @@
+{
+  "clientId": 24855,
+  "key": "item.charm.personal_shop_iq",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «IQ-тест»",
+    "en": "IQ Test Charm"
+  },
+  "apiId": "4qlop",
+  "apiIdStatus": "inferred"
+}

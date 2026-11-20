@@ -1,0 +1,11 @@
+{
+  "clientId": 16143,
+  "key": "item.16143",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка агитлистовок",
+    "en": "Stack of Leaflets"
+  },
+  "apiId": "dmyl2",
+  "apiIdStatus": "inferred"
+}

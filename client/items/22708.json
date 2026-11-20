@@ -1,0 +1,11 @@
+{
+  "clientId": 22708,
+  "key": "item.att.mag_x550",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин X-5",
+    "en": "X-5 Drum Magazine"
+  },
+  "apiId": "kn9lp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24697,
+  "key": "item.charm.winter25_diggers_tree",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Амулет диггера»",
+    "en": "Charm Digger's Amulet"
+  },
+  "apiId": "1r52r",
+  "apiIdStatus": "inferred"
+}

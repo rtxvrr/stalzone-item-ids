@@ -1,0 +1,11 @@
+{
+  "clientId": 8319,
+  "key": "item.quest.shock_wave_isotop",
+  "kind": "item",
+  "name": {
+    "ru": "Обработанная изотопным обстрелом вытяжка",
+    "en": "Isotope-Bombarded Extract"
+  },
+  "apiId": "d0q2",
+  "apiIdStatus": "inferred"
+}

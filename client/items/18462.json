@@ -1,0 +1,11 @@
+{
+  "clientId": 18462,
+  "key": "item.camo.wpn.autumn25_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Орнамент охотника»",
+    "en": "Hunter's Ornament Paint"
+  },
+  "apiId": "m090y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24538,
+  "key": "item.charm.rubik_inside",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Рубик»",
+    "en": "Rubik Charm"
+  },
+  "apiId": "m07k2",
+  "apiIdStatus": "inferred"
+}

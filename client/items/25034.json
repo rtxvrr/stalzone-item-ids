@@ -1,0 +1,11 @@
+{
+  "clientId": 25034,
+  "key": "item.arm.zarya_gas",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Аврора» с противогазом",
+    "en": "Aurora Jumpsuit with Gas Mask"
+  },
+  "apiId": "j5ko0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10140,
+  "key": "item.quest.wild_north_audio_voenstal",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета военстала",
+    "en": "Military Stalker Cassette"
+  },
+  "apiId": "ndq2",
+  "apiIdStatus": "inferred"
+}

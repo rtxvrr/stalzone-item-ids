@@ -1,0 +1,11 @@
+{
+  "clientId": 11424,
+  "key": "item.art.ravent_shield_quest",
+  "kind": "item",
+  "name": {
+    "ru": "Щит Святополка",
+    "en": "Sviatopolk's shield"
+  },
+  "apiId": "9nyq",
+  "apiIdStatus": "inferred"
+}

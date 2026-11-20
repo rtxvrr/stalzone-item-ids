@@ -1,0 +1,11 @@
+{
+  "clientId": 20033,
+  "key": "item.wpn.akm_nye",
+  "kind": "item",
+  "name": {
+    "ru": "АКМ Старьевщика",
+    "en": "Junkman's AKM"
+  },
+  "apiId": "qjv76",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25171,
+  "key": "item.arm.exoblaj",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет Искателя",
+    "en": "Seeker's Exoskeleton"
+  },
+  "apiId": "6w0k0",
+  "apiIdStatus": "inferred"
+}

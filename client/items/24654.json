@@ -1,0 +1,11 @@
+{
+  "clientId": 24654,
+  "key": "item.charm.welcome_stopgame",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «StopGame»",
+    "en": "StopGame Channel Fan Charm"
+  },
+  "apiId": "wjdgz",
+  "apiIdStatus": "inferred"
+}

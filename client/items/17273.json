@@ -1,0 +1,11 @@
+{
+  "clientId": 17273,
+  "key": "item.style.melee.downrange_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Костровой»",
+    "en": "Firekeeper"
+  },
+  "apiId": "1r1wg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24658,
+  "key": "item.charm.welcome_happywolf",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Happy Wolf»",
+    "en": "Happy Wolf Channel Fan Charm"
+  },
+  "apiId": "j57kl",
+  "apiIdStatus": "inferred"
+}

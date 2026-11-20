@@ -1,0 +1,11 @@
+{
+  "clientId": 19840,
+  "key": "item.motif.wpn.flamethrower_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Саламандра»",
+    "en": "Salamander"
+  },
+  "apiId": "n4pp9",
+  "apiIdStatus": "inferred"
+}

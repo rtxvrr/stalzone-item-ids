@@ -1,0 +1,11 @@
+{
+  "clientId": 4630,
+  "key": "item.plc.pattern.scstore_a26_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Приближающийся набат»",
+    "en": "Approaching Tocsin Pattern"
+  },
+  "apiId": "wvn2",
+  "apiIdStatus": "inferred"
+}

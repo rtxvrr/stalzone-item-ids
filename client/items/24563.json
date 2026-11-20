@@ -1,0 +1,11 @@
+{
+  "clientId": 24563,
+  "key": "item.charm.rowan",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ветка рябины»",
+    "en": "Rowan Branch Charm"
+  },
+  "apiId": "ok75m",
+  "apiIdStatus": "inferred"
+}

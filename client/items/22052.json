@@ -1,0 +1,11 @@
+{
+  "clientId": 22052,
+  "key": "item.att.forend_akmblack",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье деревянное АКМ, черное",
+    "en": "AKM Wooden Handguard, Black"
+  },
+  "apiId": "5lv31",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8316,
+  "key": "item.quest.shock_wave_steam",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенная паром вытяжка",
+    "en": "Steam-Purified Extract"
+  },
+  "apiId": "nqp2",
+  "apiIdStatus": "inferred"
+}

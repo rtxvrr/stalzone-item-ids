@@ -1,0 +1,11 @@
+{
+  "clientId": 24774,
+  "key": "item.charm.autumn25_encaged_soldier",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Выживший военный»",
+    "en": "Survivor Soldier Charm"
+  },
+  "apiId": "g4yrp",
+  "apiIdStatus": "inferred"
+}

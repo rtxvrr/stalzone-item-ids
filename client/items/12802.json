@@ -1,0 +1,11 @@
+{
+  "clientId": 12802,
+  "key": "item.amm.545fire",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм жгучий",
+    "en": "5.45 mm Fluff Round"
+  },
+  "apiId": "g590",
+  "apiIdStatus": "inferred"
+}

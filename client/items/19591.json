@@ -1,0 +1,11 @@
+{
+  "clientId": 19591,
+  "key": "item.motif.arm.skat10_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Матрос»",
+    "en": "Seaman"
+  },
+  "apiId": "dmql9",
+  "apiIdStatus": "inferred"
+}

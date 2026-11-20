@@ -1,0 +1,11 @@
+{
+  "clientId": 16302,
+  "key": "item.16302",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон группировки «Ренегаты»",
+    "en": "Renegades Faction Token"
+  },
+  "apiId": "g41zp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18493,
+  "key": "item.camo.wpn.ny26_tree_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска Деревянной лиги",
+    "en": "Paint of the Wooden League"
+  },
+  "apiId": "3gm4l",
+  "apiIdStatus": "inferred"
+}

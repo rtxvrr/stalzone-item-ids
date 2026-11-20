@@ -1,0 +1,11 @@
+{
+  "clientId": 31335,
+  "key": "item.ny_toys.setE.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая игрушка-шишка",
+    "en": "Purple Pine Cone Ornament"
+  },
+  "apiId": "l05g1",
+  "apiIdStatus": "inferred"
+}

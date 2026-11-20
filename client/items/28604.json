@@ -1,0 +1,11 @@
+{
+  "clientId": 28604,
+  "key": "item.28604",
+  "kind": "item",
+  "name": {
+    "ru": "Красная плата",
+    "en": "Red Circuit Board"
+  },
+  "apiId": "55lp1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19566,
+  "key": "item.motif.arm.fighter_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "Серия «Наследие Империи»",
+    "en": "Empire Legacy Series"
+  },
+  "apiId": "vjmwg",
+  "apiIdStatus": "inferred"
+}

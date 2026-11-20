@@ -1,0 +1,11 @@
+{
+  "clientId": 22924,
+  "key": "item.att.mount_fmg9_ris",
+  "kind": "item",
+  "name": {
+    "ru": "Крепление на рукоятке переноски",
+    "en": "Carry Handle Mount"
+  },
+  "apiId": "96pnz",
+  "apiIdStatus": "inferred"
+}

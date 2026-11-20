@@ -1,0 +1,11 @@
+{
+  "clientId": 31653,
+  "key": "item.blueprint.arm.eger",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Экзоброня «Егерь»",
+    "en": "Jaeger Exoarmor Blueprint"
+  },
+  "apiId": "y4y9k",
+  "apiIdStatus": "inferred"
+}

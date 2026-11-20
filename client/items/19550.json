@@ -1,0 +1,11 @@
+{
+  "clientId": 19550,
+  "key": "item.camo.unique_arm.duty",
+  "kind": "item",
+  "name": {
+    "ru": "«Рубеж»",
+    "en": "Frontier"
+  },
+  "apiId": "g4w5g",
+  "apiIdStatus": "inferred"
+}

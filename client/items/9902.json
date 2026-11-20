@@ -1,0 +1,11 @@
+{
+  "clientId": 9902,
+  "key": "item.exp.sermistor_mine",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный XM1110",
+    "en": "Grenade Launcher Round XM1110"
+  },
+  "apiId": "gd1g",
+  "apiIdStatus": "inferred"
+}

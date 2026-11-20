@@ -1,0 +1,11 @@
+{
+  "clientId": 18809,
+  "key": "item.dmz2026.calldown_token.respawn",
+  "kind": "item",
+  "name": {
+    "ru": "Поддержка",
+    "en": "Support"
+  },
+  "apiId": "qj5w6",
+  "apiIdStatus": "inferred"
+}

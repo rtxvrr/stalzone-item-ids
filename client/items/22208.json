@@ -1,0 +1,11 @@
+{
+  "clientId": 22208,
+  "key": "item.att.scope_samodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный оптический прицел",
+    "en": "Handmade Optical Sight"
+  },
+  "apiId": "knwgj",
+  "apiIdStatus": "inferred"
+}

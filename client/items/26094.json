@@ -1,0 +1,11 @@
+{
+  "clientId": 26094,
+  "key": "item.food.blizzard.stark",
+  "kind": "item",
+  "name": {
+    "ru": "Анаболик «STARK»",
+    "en": "STARK Anabolic Steroid"
+  },
+  "apiId": "7lyd3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11156,
+  "key": "item.art.kisel_ulitka",
+  "kind": "item",
+  "name": {
+    "ru": "Улитка",
+    "en": "Snail"
+  },
+  "apiId": "kqj3",
+  "apiIdStatus": "inferred"
+}

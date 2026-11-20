@@ -1,0 +1,11 @@
+{
+  "clientId": 15070,
+  "key": "item.pack.camo.blitz_skin_8",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Расплав»",
+    "en": "Melt Paint Set"
+  },
+  "apiId": "7l7w9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16124,
+  "key": "item.16124",
+  "kind": "item",
+  "name": {
+    "ru": "Неизвестная деталь",
+    "en": "Unfamiliar Part"
+  },
+  "apiId": "9637y",
+  "apiIdStatus": "inferred"
+}

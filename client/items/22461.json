@@ -1,0 +1,11 @@
+{
+  "clientId": 22461,
+  "key": "item.att.lcu_perst3",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический блок Зенит «Перст-3»",
+    "en": "Zenit Perst-3 Tactical Device"
+  },
+  "apiId": "0rv5d",
+  "apiIdStatus": "inferred"
+}

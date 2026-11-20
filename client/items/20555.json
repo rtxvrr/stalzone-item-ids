@@ -1,0 +1,11 @@
+{
+  "clientId": 20555,
+  "key": "item.wpn.storm",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-14М «Ураган»",
+    "en": "OTs-14M Hurricane"
+  },
+  "apiId": "4qnwn",
+  "apiIdStatus": "inferred"
+}

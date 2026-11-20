@@ -1,0 +1,11 @@
+{
+  "clientId": 17104,
+  "key": "item.style.arm.exomod_nord22",
+  "kind": "item",
+  "name": {
+    "ru": "«Страж» группы «Норд-22»",
+    "en": "Nord-22 Group Guard"
+  },
+  "apiId": "5l644",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26026,
+  "key": "item.med.atlas",
+  "kind": "item",
+  "name": {
+    "ru": "Анаболик «ATLAS»",
+    "en": "ATLAS Anabolic Steroid"
+  },
+  "apiId": "g4l10",
+  "apiIdStatus": "inferred"
+}

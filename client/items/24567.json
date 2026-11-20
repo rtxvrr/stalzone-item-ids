@@ -1,0 +1,11 @@
+{
+  "clientId": 24567,
+  "key": "item.charm.navm_snork",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «NAV Шнырь»",
+    "en": "NAV Skitter Charm"
+  },
+  "apiId": "dm722",
+  "apiIdStatus": "inferred"
+}

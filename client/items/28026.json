@@ -1,0 +1,11 @@
+{
+  "clientId": 28026,
+  "key": "item.28026",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Искра»",
+    "en": "Spark Artifact"
+  },
+  "apiId": "gnr26",
+  "apiIdStatus": "inferred"
+}

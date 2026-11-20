@@ -1,0 +1,11 @@
+{
+  "clientId": 31069,
+  "key": "item.brt.mg.signal_add",
+  "kind": "item",
+  "name": {
+    "ru": "Ретранслятор «Бета»",
+    "en": "Beta Relay Station"
+  },
+  "apiId": "34zvl",
+  "apiIdStatus": "inferred"
+}

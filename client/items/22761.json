@@ -1,0 +1,11 @@
+{
+  "clientId": 22761,
+  "key": "item.att.mag_rumag762p",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 7.62 пластиковый",
+    "en": "7.62 Plastic Magazine"
+  },
+  "apiId": "0rpqy",
+  "apiIdStatus": "inferred"
+}

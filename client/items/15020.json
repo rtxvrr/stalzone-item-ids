@@ -1,0 +1,11 @@
+{
+  "clientId": 15020,
+  "key": "item.lootbox.summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Дар «Шепота»",
+    "en": "Gift of Murmur"
+  },
+  "apiId": "2o1ov",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28050,
+  "key": "item.28050",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Антиграв»",
+    "en": "Anti-Grav Artifact"
+  },
+  "apiId": "gnrq6",
+  "apiIdStatus": "inferred"
+}

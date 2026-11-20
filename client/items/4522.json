@@ -1,0 +1,11 @@
+{
+  "clientId": 4522,
+  "key": "item.plc.pattern.grinch",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний паттерн",
+    "en": "New Year Pattern"
+  },
+  "apiId": "7dzr",
+  "apiIdStatus": "inferred"
+}

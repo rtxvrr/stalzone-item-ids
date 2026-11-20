@@ -1,0 +1,11 @@
+{
+  "clientId": 4616,
+  "key": "item.plc.pattern.triumph26_cross",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Потрогай траву»",
+    "en": "Touch grass Pattern"
+  },
+  "apiId": "n161",
+  "apiIdStatus": "inferred"
+}

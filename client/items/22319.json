@@ -1,0 +1,11 @@
+{
+  "clientId": 22319,
+  "key": "item.att.sight_pk01tz",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный ПК-01(Т/З)",
+    "en": "PK-01(T/Z) Collimator Sight"
+  },
+  "apiId": "dm0dn",
+  "apiIdStatus": "inferred"
+}

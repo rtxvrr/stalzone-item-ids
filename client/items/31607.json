@@ -1,0 +1,11 @@
+{
+  "clientId": 31607,
+  "key": "item.blueprint.wpn.ravent_rpk",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж РПК",
+    "en": "RPK Blueprint"
+  },
+  "apiId": "4k39r",
+  "apiIdStatus": "inferred"
+}

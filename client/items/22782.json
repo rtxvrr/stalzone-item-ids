@@ -1,0 +1,11 @@
+{
+  "clientId": 22782,
+  "key": "item.att.mag_sg545",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин MAG SG545",
+    "en": "AKM Airforce Magazine"
+  },
+  "apiId": "j521g",
+  "apiIdStatus": "inferred"
+}

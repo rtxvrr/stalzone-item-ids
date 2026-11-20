@@ -1,0 +1,11 @@
+{
+  "clientId": 24713,
+  "key": "item.charm.spring25_marketing_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Меч мертвых»",
+    "en": "Sword of the Dead Charm"
+  },
+  "apiId": "0rzd1",
+  "apiIdStatus": "inferred"
+}

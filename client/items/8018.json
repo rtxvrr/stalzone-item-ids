@@ -1,0 +1,11 @@
+{
+  "clientId": 8018,
+  "key": "item.quest.duty_claymore",
+  "kind": "item",
+  "name": {
+    "ru": "Мина «рубежников»",
+    "en": "Frontier Mine"
+  },
+  "apiId": "v9dn",
+  "apiIdStatus": "inferred"
+}

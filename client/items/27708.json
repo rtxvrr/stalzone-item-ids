@@ -1,0 +1,11 @@
+{
+  "clientId": 27708,
+  "key": "item.stash_placer.autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Нычка Черного Рынка",
+    "en": "Black Market Stash"
+  },
+  "apiId": "kryrv",
+  "apiIdStatus": "inferred"
+}

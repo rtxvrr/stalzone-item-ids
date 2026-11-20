@@ -1,0 +1,11 @@
+{
+  "clientId": 16005,
+  "key": "item.16005",
+  "kind": "item",
+  "name": {
+    "ru": "Монета события",
+    "en": "Event Coin"
+  },
+  "apiId": "y3gdk",
+  "apiIdStatus": "inferred"
+}

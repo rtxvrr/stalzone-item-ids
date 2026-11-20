@@ -1,0 +1,11 @@
+{
+  "clientId": 24532,
+  "key": "item.charm.s7",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «S7»",
+    "en": "S7 Charm"
+  },
+  "apiId": "kn7wp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4830,
+  "key": "item.plc.sticker.operations_drone",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Море отчуждения»",
+    "en": "Sea of Exclusion Sticker"
+  },
+  "apiId": "wvmz",
+  "apiIdStatus": "inferred"
+}

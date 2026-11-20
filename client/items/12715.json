@@ -1,0 +1,11 @@
+{
+  "clientId": 12715,
+  "key": "item.amm.545bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм бронебойный",
+    "en": "5.45 mm Armor-Piercing Round"
+  },
+  "apiId": "ork0",
+  "apiIdStatus": "inferred"
+}

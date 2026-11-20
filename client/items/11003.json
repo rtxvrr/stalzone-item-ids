@@ -1,0 +1,11 @@
+{
+  "clientId": 11003,
+  "key": "item.art.electra_batareyka",
+  "kind": "item",
+  "name": {
+    "ru": "Батарейка",
+    "en": "Battery"
+  },
+  "apiId": "zy32",
+  "apiIdStatus": "inferred"
+}

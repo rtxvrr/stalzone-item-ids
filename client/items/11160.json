@@ -1,0 +1,11 @@
+{
+  "clientId": 11160,
+  "key": "item.art.scaries_silki",
+  "kind": "item",
+  "name": {
+    "ru": "Силки",
+    "en": "Snares"
+  },
+  "apiId": "rnkl",
+  "apiIdStatus": "inferred"
+}

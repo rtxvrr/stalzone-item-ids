@@ -1,0 +1,11 @@
+{
+  "clientId": 8300,
+  "key": "item.quest.the_shock_wave_transmission_mechanism",
+  "kind": "item",
+  "name": {
+    "ru": "Передаточный механизм",
+    "en": "Transmission Assembly"
+  },
+  "apiId": "9v2y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 30032,
+  "key": "item.filler.wild_mining_3",
+  "kind": "item",
+  "name": {
+    "ru": "Носители информации",
+    "en": "Data Carriers"
+  },
+  "apiId": "krp6j",
+  "apiIdStatus": "inferred"
+}

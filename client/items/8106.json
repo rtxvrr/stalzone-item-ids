@@ -1,0 +1,11 @@
+{
+  "clientId": 8106,
+  "key": "item.quest.documentation_case_blue",
+  "kind": "item",
+  "name": {
+    "ru": "Синий кейс",
+    "en": "Blue Case"
+  },
+  "apiId": "wpjd",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16897,
+  "key": "item.quest.covenant_commandment3",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 3",
+    "en": "3rd Covenant Commandment"
+  },
+  "apiId": "1r1mr",
+  "apiIdStatus": "inferred"
+}

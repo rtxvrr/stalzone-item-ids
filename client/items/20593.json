@@ -1,0 +1,11 @@
+{
+  "clientId": 20593,
+  "key": "item.wpn.famas_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний FAMAS G2",
+    "en": "New Year FAMAS G2"
+  },
+  "apiId": "3gnwg",
+  "apiIdStatus": "inferred"
+}

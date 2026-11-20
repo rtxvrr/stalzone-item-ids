@@ -1,0 +1,11 @@
+{
+  "clientId": 11257,
+  "key": "item.art.trampoline_pumpkin",
+  "kind": "item",
+  "name": {
+    "ru": "Тыква",
+    "en": "Pumpkin "
+  },
+  "apiId": "qokj",
+  "apiIdStatus": "inferred"
+}

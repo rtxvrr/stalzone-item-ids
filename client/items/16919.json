@@ -1,0 +1,11 @@
+{
+  "clientId": 16919,
+  "key": "item.quest.covenant.covenant_explosive",
+  "kind": "item",
+  "name": {
+    "ru": "Запасы взрывчатки «Завета»",
+    "en": "Covenant Explosive Reserves"
+  },
+  "apiId": "dm64n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24826,
+  "key": "item.charm.media_ilmater",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ну ты глянь!»",
+    "en": "Look at That! Charm"
+  },
+  "apiId": "g4yn0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4233,
+  "key": "item.plc.background.blitz_trucks",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Траки»",
+    "en": "Tracks Background"
+  },
+  "apiId": "qp54",
+  "apiIdStatus": "inferred"
+}

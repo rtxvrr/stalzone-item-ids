@@ -1,0 +1,11 @@
+{
+  "clientId": 21603,
+  "key": "item.wpn_mod.adv.start_boost",
+  "kind": "item",
+  "name": {
+    "ru": "«Дебют»",
+    "en": "Debut"
+  },
+  "apiId": "zz5lk",
+  "apiIdStatus": "inferred"
+}

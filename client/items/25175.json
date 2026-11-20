@@ -1,0 +1,11 @@
+{
+  "clientId": 25175,
+  "key": "item.arm.zarya_orakul",
+  "kind": "item",
+  "name": {
+    "ru": "«Аврора» Оракула",
+    "en": "Oracle's Aurora"
+  },
+  "apiId": "zzyrm",
+  "apiIdStatus": "inferred"
+}

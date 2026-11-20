@@ -1,0 +1,11 @@
+{
+  "clientId": 25166,
+  "key": "item.arm.tstranger",
+  "kind": "item",
+  "name": {
+    "ru": "Таинственный незнакомец",
+    "en": "Mysterious Stranger"
+  },
+  "apiId": "vj1kp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31793,
+  "key": "item.part.chitin",
+  "kind": "item",
+  "name": {
+    "ru": "Часть рюкзака «Хитин»",
+    "en": "Chitin Backpack Part"
+  },
+  "apiId": "342q5",
+  "apiIdStatus": "inferred"
+}

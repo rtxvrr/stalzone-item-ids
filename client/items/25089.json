@@ -1,0 +1,11 @@
+{
+  "clientId": 25089,
+  "key": "item.arm.ao4-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АО-4 «Рейдер»",
+    "en": "Worn AH-4 Raider"
+  },
+  "apiId": "p6m4w",
+  "apiIdStatus": "inferred"
+}

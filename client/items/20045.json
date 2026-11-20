@@ -1,0 +1,11 @@
+{
+  "clientId": 20045,
+  "key": "item.wpn.lwrc",
+  "kind": "item",
+  "name": {
+    "ru": "LWRC M6",
+    "en": "LWRC M6"
+  },
+  "apiId": "3gr6z",
+  "apiIdStatus": "inferred"
+}

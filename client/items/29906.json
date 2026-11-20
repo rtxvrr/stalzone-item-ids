@@ -1,0 +1,11 @@
+{
+  "clientId": 29906,
+  "key": "item.filler.npc_7",
+  "kind": "item",
+  "name": {
+    "ru": "Сменный аккумулятор",
+    "en": "Replacement Battery"
+  },
+  "apiId": "w3923",
+  "apiIdStatus": "inferred"
+}

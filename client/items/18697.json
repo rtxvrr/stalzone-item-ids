@@ -1,0 +1,11 @@
+{
+  "clientId": 18697,
+  "key": "item.camo.wpn.pompeii",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Помпеи»",
+    "en": "Pompeii Paint"
+  },
+  "apiId": "1rm7r",
+  "apiIdStatus": "inferred"
+}

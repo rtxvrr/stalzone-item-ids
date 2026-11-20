@@ -1,0 +1,11 @@
+{
+  "clientId": 11530,
+  "key": "item.art.murmur_rosin",
+  "kind": "item",
+  "name": {
+    "ru": "Канифоль",
+    "en": "Colophony"
+  },
+  "apiId": "w4no",
+  "apiIdStatus": "inferred"
+}

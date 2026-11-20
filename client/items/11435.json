@@ -1,0 +1,11 @@
+{
+  "clientId": 11435,
+  "key": "item.ravent_zemlya",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Земля»",
+    "en": "Zemlja Amulet"
+  },
+  "apiId": "lj32",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18235,
+  "key": "item.camo.wpn.hexcam_mist",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Hexcam Mist»",
+    "en": "Hexcam Mist Camouflage"
+  },
+  "apiId": "lyo1j",
+  "apiIdStatus": "inferred"
+}

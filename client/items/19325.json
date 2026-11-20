@@ -1,0 +1,11 @@
+{
+  "clientId": 19325,
+  "key": "item.camo.arm.dayx_twitch_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Туманность Twitch»",
+    "en": "Twitch Nebula Paint"
+  },
+  "apiId": "1r6q1",
+  "apiIdStatus": "inferred"
+}

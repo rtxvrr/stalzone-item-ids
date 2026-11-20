@@ -1,0 +1,11 @@
+{
+  "clientId": 21046,
+  "key": "item.21046",
+  "kind": "item",
+  "name": {
+    "ru": "Нож с обратным хватом",
+    "en": "Reverse-Grip Knife"
+  },
+  "apiId": "7l559",
+  "apiIdStatus": "inferred"
+}

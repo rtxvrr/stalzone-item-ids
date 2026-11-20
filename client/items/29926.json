@@ -1,0 +1,11 @@
+{
+  "clientId": 29926,
+  "key": "item.filler.mining_7",
+  "kind": "item",
+  "name": {
+    "ru": "Соленоид",
+    "en": "Solenoid"
+  },
+  "apiId": "gnk55",
+  "apiIdStatus": "inferred"
+}

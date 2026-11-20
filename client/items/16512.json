@@ -1,0 +1,11 @@
+{
+  "clientId": 16512,
+  "key": "item.16512",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик зажигательных патронов 10 мм",
+    "en": "Crate of 10 mm Incendiary Rounds"
+  },
+  "apiId": "rwv5l",
+  "apiIdStatus": "inferred"
+}

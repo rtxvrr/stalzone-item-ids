@@ -1,0 +1,11 @@
+{
+  "clientId": 19561,
+  "key": "item.camo.unique_arm.skat_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Холодная голова»",
+    "en": "Frost Head"
+  },
+  "apiId": "0ry5r",
+  "apiIdStatus": "inferred"
+}

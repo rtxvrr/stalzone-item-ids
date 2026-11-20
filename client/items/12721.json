@@ -1,0 +1,11 @@
+{
+  "clientId": 12721,
+  "key": "item.amm.556exp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм экспансивный",
+    "en": "5.56 mm Expanding Round"
+  },
+  "apiId": "3v4g",
+  "apiIdStatus": "inferred"
+}

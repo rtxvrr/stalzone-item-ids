@@ -1,0 +1,11 @@
+{
+  "clientId": 8010,
+  "key": "item.exp.vog25_ffa_m84qd",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный «Искра»",
+    "en": "Spark Grenade Round"
+  },
+  "apiId": "j1m7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22514,
+  "key": "item.att.barrel_surefirepro762",
+  "kind": "item",
+  "name": {
+    "ru": "SureFire Pro Comp 7.62x51",
+    "en": "SureFire Pro Comp 7.62x51"
+  },
+  "apiId": "m0grr",
+  "apiIdStatus": "inferred"
+}

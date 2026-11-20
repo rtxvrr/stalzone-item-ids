@@ -1,0 +1,11 @@
+{
+  "clientId": 16135,
+  "key": "item.16135",
+  "kind": "item",
+  "name": {
+    "ru": "Красная папка",
+    "en": "Red Folder"
+  },
+  "apiId": "lyrwo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31275,
+  "key": "item.ny_toys.setQ.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Советская мишура",
+    "en": "Soviet Tinsel"
+  },
+  "apiId": "z3onk",
+  "apiIdStatus": "inferred"
+}

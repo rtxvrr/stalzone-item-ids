@@ -1,0 +1,11 @@
+{
+  "clientId": 12723,
+  "key": "item.amm.556sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм СБП",
+    "en": "5.56 SBP Round"
+  },
+  "apiId": "63oy",
+  "apiIdStatus": "inferred"
+}

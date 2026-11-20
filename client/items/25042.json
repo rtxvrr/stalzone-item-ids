@@ -1,0 +1,11 @@
+{
+  "clientId": 25042,
+  "key": "item.arm.worm",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Червь»",
+    "en": "Worm Armored Suit"
+  },
+  "apiId": "vj12r",
+  "apiIdStatus": "inferred"
+}

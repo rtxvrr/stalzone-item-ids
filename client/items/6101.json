@@ -1,0 +1,11 @@
+{
+  "clientId": 6101,
+  "key": "item.misc.threads",
+  "kind": "item",
+  "name": {
+    "ru": "Моток ниток",
+    "en": "Spool of Thread"
+  },
+  "apiId": "1dv1",
+  "apiIdStatus": "inferred"
+}

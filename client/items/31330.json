@@ -1,0 +1,11 @@
+{
+  "clientId": 31330,
+  "key": "item.ny_toys.setD.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая простецкая мишура",
+    "en": "Simple Green Tinsel"
+  },
+  "apiId": "w3zmo",
+  "apiIdStatus": "inferred"
+}

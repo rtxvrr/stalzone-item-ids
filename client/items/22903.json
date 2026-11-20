@@ -1,0 +1,11 @@
+{
+  "clientId": 22903,
+  "key": "item.att.mount_lastris",
+  "kind": "item",
+  "name": {
+    "ru": "Боковой кронштейн с планкой Пикатинни",
+    "en": "Side Bracket with Picatinny Rail"
+  },
+  "apiId": "zz9dn",
+  "apiIdStatus": "inferred"
+}

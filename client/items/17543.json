@@ -1,0 +1,11 @@
+{
+  "clientId": 17543,
+  "key": "item.style.wpn.ots62_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Подснежник»",
+    "en": "Snowdrop"
+  },
+  "apiId": "dmpqn",
+  "apiIdStatus": "inferred"
+}

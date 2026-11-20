@@ -1,0 +1,11 @@
+{
+  "clientId": 10504,
+  "key": "item.device.walkietalkie",
+  "kind": "item",
+  "name": {
+    "ru": "Рация",
+    "en": "Walkie-talkie"
+  },
+  "apiId": "5k64",
+  "apiIdStatus": "inferred"
+}

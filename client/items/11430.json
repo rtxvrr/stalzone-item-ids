@@ -1,0 +1,11 @@
+{
+  "clientId": 11430,
+  "key": "item.ravent_zhivete",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Живете»",
+    "en": "Zivete Amulet"
+  },
+  "apiId": "wg4z",
+  "apiIdStatus": "inferred"
+}

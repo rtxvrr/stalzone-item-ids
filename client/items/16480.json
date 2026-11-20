@@ -1,0 +1,11 @@
+{
+  "clientId": 16480,
+  "key": "item.quest.dollar_envelope",
+  "kind": "item",
+  "name": {
+    "ru": "Конверт с баксами",
+    "en": "Envelope Full of Bucks"
+  },
+  "apiId": "knpw0",
+  "apiIdStatus": "inferred"
+}

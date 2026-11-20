@@ -1,0 +1,11 @@
+{
+  "clientId": 31352,
+  "key": "item.ny_toys.setF.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-противогаз",
+    "en": "Plush Gas Mask Decoration"
+  },
+  "apiId": "553d0",
+  "apiIdStatus": "inferred"
+}

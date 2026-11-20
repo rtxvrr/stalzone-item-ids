@@ -1,0 +1,11 @@
+{
+  "clientId": 19525,
+  "key": "item.camo.unique_arm.dead",
+  "kind": "item",
+  "name": {
+    "ru": "«Мертвый анархист»",
+    "en": "Dead Anarchist"
+  },
+  "apiId": "1r62q",
+  "apiIdStatus": "inferred"
+}

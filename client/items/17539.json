@@ -1,0 +1,11 @@
+{
+  "clientId": 17539,
+  "key": "item.style.wpn.famas_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Castor F2N»",
+    "en": "Castor F2N"
+  },
+  "apiId": "oknv0",
+  "apiIdStatus": "inferred"
+}

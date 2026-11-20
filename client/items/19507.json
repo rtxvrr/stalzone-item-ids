@@ -1,0 +1,11 @@
+{
+  "clientId": 19507,
+  "key": "item.camo.unique_arm.world",
+  "kind": "item",
+  "name": {
+    "ru": "«МИР»",
+    "en": "PEACE"
+  },
+  "apiId": "4q29l",
+  "apiIdStatus": "inferred"
+}

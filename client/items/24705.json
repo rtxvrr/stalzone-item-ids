@@ -1,0 +1,11 @@
+{
+  "clientId": 24705,
+  "key": "item.charm.spring25_pass_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Фантомное солнце»",
+    "en": "Phantom Sun Charm"
+  },
+  "apiId": "y3dko",
+  "apiIdStatus": "inferred"
+}

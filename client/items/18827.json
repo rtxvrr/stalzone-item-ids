@@ -1,0 +1,11 @@
+{
+  "clientId": 18827,
+  "key": "item.dmz2026.calldown_token.healdecor",
+  "kind": "item",
+  "name": {
+    "ru": "«Станция лечения»",
+    "en": "Healing station"
+  },
+  "apiId": "zzvr2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15987,
+  "key": "item.crt.respect",
+  "kind": "item",
+  "name": {
+    "ru": "Респект",
+    "en": "Respect"
+  },
+  "apiId": "ok474",
+  "apiIdStatus": "inferred"
+}

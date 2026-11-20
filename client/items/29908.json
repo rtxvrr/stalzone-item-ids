@@ -1,0 +1,11 @@
+{
+  "clientId": 29908,
+  "key": "item.filler.npc_9",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА с данными",
+    "en": "PDA with Data"
+  },
+  "apiId": "kr6kp",
+  "apiIdStatus": "inferred"
+}

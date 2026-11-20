@@ -1,0 +1,11 @@
+{
+  "clientId": 18009,
+  "key": "item.camo.wpn.white",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Белая»",
+    "en": "White Weapon Paint"
+  },
+  "apiId": "qjpn4",
+  "apiIdStatus": "inferred"
+}

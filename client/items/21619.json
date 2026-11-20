@@ -1,0 +1,11 @@
+{
+  "clientId": 21619,
+  "key": "item.wpn_mod.adv.further_better",
+  "kind": "item",
+  "name": {
+    "ru": "«Профессионал»",
+    "en": "Professional"
+  },
+  "apiId": "dmovg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19714,
+  "key": "item.camo.arm.handmade",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Хэндмейд»",
+    "en": "Handmade Paint"
+  },
+  "apiId": "m0212",
+  "apiIdStatus": "inferred"
+}

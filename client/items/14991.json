@@ -1,0 +1,11 @@
+{
+  "clientId": 14991,
+  "key": "item.tool.snowball",
+  "kind": "item",
+  "name": {
+    "ru": "Снежок",
+    "en": "Snowball "
+  },
+  "apiId": "dmrl2",
+  "apiIdStatus": "inferred"
+}

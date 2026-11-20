@@ -1,0 +1,11 @@
+{
+  "clientId": 19564,
+  "key": "item.camo.unique_arm.halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "«Марафонец»",
+    "en": "Marathoner"
+  },
+  "apiId": "n450w",
+  "apiIdStatus": "inferred"
+}

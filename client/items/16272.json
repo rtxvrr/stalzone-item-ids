@@ -1,0 +1,11 @@
+{
+  "clientId": 16272,
+  "key": "item.misc.tushkan_head_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Голова сильной крысы",
+    "en": "Strong Rat's Head"
+  },
+  "apiId": "96z1q",
+  "apiIdStatus": "inferred"
+}

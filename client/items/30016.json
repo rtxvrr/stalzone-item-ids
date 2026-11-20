@@ -1,0 +1,11 @@
+{
+  "clientId": 30016,
+  "key": "item.filler.valuable_17",
+  "kind": "item",
+  "name": {
+    "ru": "Архивные данные",
+    "en": "Archival Data"
+  },
+  "apiId": "nkwk9",
+  "apiIdStatus": "inferred"
+}

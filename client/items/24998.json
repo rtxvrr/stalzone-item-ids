@@ -1,0 +1,11 @@
+{
+  "clientId": 24998,
+  "key": "item.24998",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Винтовка Гаусса»",
+    "en": "Gauss Rifle Charm"
+  },
+  "apiId": "g4ywg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12043,
+  "key": "item.cont.bear5",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Берлога-5»",
+    "en": "Berloga-5 Container"
+  },
+  "apiId": "d3kg",
+  "apiIdStatus": "inferred"
+}

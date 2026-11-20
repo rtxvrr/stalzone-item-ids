@@ -1,0 +1,11 @@
+{
+  "clientId": 13010,
+  "key": "item.coupon.master_armor_50",
+  "kind": "item",
+  "name": {
+    "ru": "Бартерный купон (Мастер)",
+    "en": "Barter Coupon (Master)"
+  },
+  "apiId": "j460",
+  "apiIdStatus": "inferred"
+}

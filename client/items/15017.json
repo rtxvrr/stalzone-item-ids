@@ -1,0 +1,11 @@
+{
+  "clientId": 15017,
+  "key": "item.lootbox.spring25_furniture",
+  "kind": "item",
+  "name": {
+    "ru": "Набор тематического декора для Убежища",
+    "en": "Set of thematic decor for the Hideout"
+  },
+  "apiId": "p6j6d",
+  "apiIdStatus": "inferred"
+}

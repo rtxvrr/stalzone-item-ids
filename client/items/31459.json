@@ -1,0 +1,11 @@
+{
+  "clientId": 31459,
+  "key": "item.lootbox.reichstag",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик Эха Войны",
+    "en": "Echoes of War Case"
+  },
+  "apiId": "l054j",
+  "apiIdStatus": "inferred"
+}

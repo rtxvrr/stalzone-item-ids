@@ -1,0 +1,11 @@
+{
+  "clientId": 6325,
+  "key": "item.misc.base_wine",
+  "kind": "item",
+  "name": {
+    "ru": "Базовое вино",
+    "en": "Base Wine"
+  },
+  "apiId": "1dwq",
+  "apiIdStatus": "inferred"
+}

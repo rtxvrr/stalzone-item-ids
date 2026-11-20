@@ -1,0 +1,11 @@
+{
+  "clientId": 19673,
+  "key": "item.camo.arm.red_threat",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Красная угроза»",
+    "en": "Red Threat Camouflage"
+  },
+  "apiId": "1rdog",
+  "apiIdStatus": "inferred"
+}

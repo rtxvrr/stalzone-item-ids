@@ -1,0 +1,11 @@
+{
+  "clientId": 31487,
+  "key": "item.lootbox.autumn24_top_furniture",
+  "kind": "item",
+  "name": {
+    "ru": "Декоративный набор Гвардии Барона",
+    "en": "Baron's Guard Decoration Set"
+  },
+  "apiId": "oln5o",
+  "apiIdStatus": "inferred"
+}

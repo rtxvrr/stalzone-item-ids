@@ -1,0 +1,11 @@
+{
+  "clientId": 22758,
+  "key": "item.att.mag_kedr40",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин ПП-91",
+    "en": "SMG-91 Magazine"
+  },
+  "apiId": "j52vg",
+  "apiIdStatus": "inferred"
+}

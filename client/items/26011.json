@@ -1,0 +1,11 @@
+{
+  "clientId": 26011,
+  "key": "item.med.jiden",
+  "kind": "item",
+  "name": {
+    "ru": "Энергетик «Жидень EXTRA»",
+    "en": "Jiden EXTRA Energy Drink"
+  },
+  "apiId": "lynkj",
+  "apiIdStatus": "inferred"
+}

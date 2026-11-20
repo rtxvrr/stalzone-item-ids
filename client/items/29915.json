@@ -1,0 +1,11 @@
+{
+  "clientId": 29915,
+  "key": "item.filler.mob_7",
+  "kind": "item",
+  "name": {
+    "ru": "Странный гребень",
+    "en": "Strange Crest"
+  },
+  "apiId": "ol4rm",
+  "apiIdStatus": "inferred"
+}

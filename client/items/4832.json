@@ -1,0 +1,11 @@
+{
+  "clientId": 4832,
+  "key": "item.plc.sticker.mk_torpeda",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Торпеда»",
+    "en": "Torpedo Sticker"
+  },
+  "apiId": "kj1j",
+  "apiIdStatus": "inferred"
+}

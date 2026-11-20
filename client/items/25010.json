@@ -1,0 +1,11 @@
+{
+  "clientId": 25010,
+  "key": "item.arm.kyrtka_mod",
+  "kind": "item",
+  "name": {
+    "ru": "Укрепленная куртка",
+    "en": "Reinforced Jacket"
+  },
+  "apiId": "j5kl0",
+  "apiIdStatus": "inferred"
+}

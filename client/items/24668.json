@@ -1,0 +1,11 @@
+{
+  "clientId": 24668,
+  "key": "item.charm.welcome_gabar",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Габар»",
+    "en": "Gabar Channel Fan Charm"
+  },
+  "apiId": "2oyqv",
+  "apiIdStatus": "inferred"
+}

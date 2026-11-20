@@ -1,0 +1,11 @@
+{
+  "clientId": 31840,
+  "key": "item.part.arx160",
+  "kind": "item",
+  "name": {
+    "ru": "Часть ARX-160",
+    "en": "ARX-160 Part"
+  },
+  "apiId": "nkon9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24813,
+  "key": "item.charm.media_zovutlis",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Стальной лис»",
+    "en": "Steel Fox Charm"
+  },
+  "apiId": "0r4rd",
+  "apiIdStatus": "inferred"
+}

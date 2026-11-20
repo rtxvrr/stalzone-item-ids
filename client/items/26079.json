@@ -1,0 +1,11 @@
+{
+  "clientId": 26079,
+  "key": "item.food.ny23.beans",
+  "kind": "item",
+  "name": {
+    "ru": "Бобы «С новым счастьем!»",
+    "en": "\"Happy New Year!\" Beans"
+  },
+  "apiId": "4qg3p",
+  "apiIdStatus": "inferred"
+}

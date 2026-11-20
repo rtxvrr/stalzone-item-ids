@@ -1,0 +1,11 @@
+{
+  "clientId": 9364,
+  "key": "item.wpn.invertor_whirlpool",
+  "kind": "item",
+  "name": {
+    "ru": "Транквилизатор «Морфей»",
+    "en": "Morpheus Tranquilizer"
+  },
+  "apiId": "n9nw",
+  "apiIdStatus": "inferred"
+}

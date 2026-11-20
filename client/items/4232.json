@@ -1,0 +1,11 @@
+{
+  "clientId": 4232,
+  "key": "item.plc.background.mk_torpeda",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Торпеда»",
+    "en": "Torpedo Background"
+  },
+  "apiId": "k2jj",
+  "apiIdStatus": "inferred"
+}

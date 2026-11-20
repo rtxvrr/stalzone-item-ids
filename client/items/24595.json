@@ -1,0 +1,11 @@
+{
+  "clientId": 24595,
+  "key": "item.charm.hw23_spotlight",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мертвый прожектор»",
+    "en": "Dead spotlight Charm"
+  },
+  "apiId": "6wqk0",
+  "apiIdStatus": "inferred"
+}

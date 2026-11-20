@@ -1,0 +1,11 @@
+{
+  "clientId": 22302,
+  "key": "item.att.sight_eotech_black",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный EoTech",
+    "en": "EoTech Collimator Sight, Black"
+  },
+  "apiId": "g4gdp",
+  "apiIdStatus": "inferred"
+}

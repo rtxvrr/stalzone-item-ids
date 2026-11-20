@@ -1,0 +1,11 @@
+{
+  "clientId": 31802,
+  "key": "item.part.ks23_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть КС-23 #4",
+    "en": "KS-23 Part #4"
+  },
+  "apiId": "gnz9n",
+  "apiIdStatus": "inferred"
+}

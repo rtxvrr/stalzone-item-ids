@@ -1,0 +1,11 @@
+{
+  "clientId": 3570,
+  "key": "tile.3570",
+  "kind": "tile",
+  "name": {
+    "ru": "сгоревшие доски",
+    "en": "burned boards"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19598,
+  "key": "item.motif.arm.hound_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "«Нерпа»",
+    "en": "Seal"
+  },
+  "apiId": "g40rg",
+  "apiIdStatus": "inferred"
+}

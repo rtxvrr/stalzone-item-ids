@@ -1,0 +1,11 @@
+{
+  "clientId": 12403,
+  "key": "item.exp.ops.tank",
+  "kind": "item",
+  "name": {
+    "ru": "Оглушающая граната",
+    "en": "Stun Grenade"
+  },
+  "apiId": "zqly",
+  "apiIdStatus": "inferred"
+}

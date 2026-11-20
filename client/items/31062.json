@@ -1,0 +1,11 @@
+{
+  "clientId": 31062,
+  "key": "item.brt.mg.mining",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки научного оборудования",
+    "en": "Remains of Scientific Equipment"
+  },
+  "apiId": "mr1jy",
+  "apiIdStatus": "inferred"
+}

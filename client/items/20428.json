@@ -1,0 +1,11 @@
+{
+  "clientId": 20428,
+  "key": "item.wpn.p99_jude",
+  "kind": "item",
+  "name": {
+    "ru": "Walther Иудей",
+    "en": "The Hebrew's Walther"
+  },
+  "apiId": "5lnno",
+  "apiIdStatus": "inferred"
+}

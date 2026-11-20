@@ -1,0 +1,11 @@
+{
+  "clientId": 31925,
+  "key": "item.med.api_mushroom2",
+  "kind": "item",
+  "name": {
+    "ru": "Гриб сил",
+    "en": "Strength Shroom"
+  },
+  "apiId": "19yd1",
+  "apiIdStatus": "inferred"
+}

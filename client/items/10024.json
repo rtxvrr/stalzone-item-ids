@@ -1,0 +1,11 @@
+{
+  "clientId": 10024,
+  "key": "item.quest.audio_diary_duty_9",
+  "kind": "item",
+  "name": {
+    "ru": "Отчет военсталов 9",
+    "en": "Military Stalkers' Report 9"
+  },
+  "apiId": "9j2l",
+  "apiIdStatus": "inferred"
+}

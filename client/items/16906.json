@@ -1,0 +1,11 @@
+{
+  "clientId": 16906,
+  "key": "item.quest.covenant.smallcache",
+  "kind": "item",
+  "name": {
+    "ru": "Хабар «заветовца»-должника",
+    "en": "Covenant Debtor's Loot"
+  },
+  "apiId": "wj0vo",
+  "apiIdStatus": "inferred"
+}

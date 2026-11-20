@@ -1,0 +1,11 @@
+{
+  "clientId": 22046,
+  "key": "item.att.forend_f2000ris",
+  "kind": "item",
+  "name": {
+    "ru": "Накладка с RIS-планками",
+    "en": "Grip with RIS Rails"
+  },
+  "apiId": "7l636",
+  "apiIdStatus": "inferred"
+}

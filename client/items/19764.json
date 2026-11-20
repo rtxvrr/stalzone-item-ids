@@ -1,0 +1,11 @@
+{
+  "clientId": 19764,
+  "key": "item.camo.arm.kryptek_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Kryptek Red»",
+    "en": "Kryptek Red Camouflage"
+  },
+  "apiId": "n4po2",
+  "apiIdStatus": "inferred"
+}

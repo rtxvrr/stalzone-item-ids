@@ -1,0 +1,11 @@
+{
+  "clientId": 25352,
+  "key": "item.arm.exo_mod",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Гектор»",
+    "en": "Hector Exoarmor"
+  },
+  "apiId": "5l1q0",
+  "apiIdStatus": "inferred"
+}

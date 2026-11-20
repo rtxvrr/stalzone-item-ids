@@ -1,0 +1,11 @@
+{
+  "clientId": 17111,
+  "key": "item.style.arm.saturn_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Любимчик толпы»",
+    "en": "Audience Favorite"
+  },
+  "apiId": "ly9mq",
+  "apiIdStatus": "inferred"
+}

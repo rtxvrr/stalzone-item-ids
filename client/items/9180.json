@@ -1,0 +1,11 @@
+{
+  "clientId": 9180,
+  "key": "item.wpn.panzerfaust",
+  "kind": "item",
+  "name": {
+    "ru": "Panzerfaust",
+    "en": "Panzerfaust"
+  },
+  "apiId": "k9kv",
+  "apiIdStatus": "inferred"
+}

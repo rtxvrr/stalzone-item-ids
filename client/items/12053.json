@@ -1,0 +1,11 @@
+{
+  "clientId": 12053,
+  "key": "item.bag.murmur",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак «Хитин»",
+    "en": "Chitin Backpack"
+  },
+  "apiId": "yq90",
+  "apiIdStatus": "inferred"
+}

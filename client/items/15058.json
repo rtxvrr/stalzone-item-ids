@@ -1,0 +1,11 @@
+{
+  "clientId": 15058,
+  "key": "item.lootbox.bureau_styles",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик Рынка с обликами",
+    "en": "Market Crate with Styles"
+  },
+  "apiId": "j50nl",
+  "apiIdStatus": "inferred"
+}

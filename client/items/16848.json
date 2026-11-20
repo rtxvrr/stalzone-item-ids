@@ -1,0 +1,11 @@
+{
+  "clientId": 16848,
+  "key": "item.quest.giftcard_ny24",
+  "kind": "item",
+  "name": {
+    "ru": "Открытка",
+    "en": "Postcard"
+  },
+  "apiId": "96k1q",
+  "apiIdStatus": "inferred"
+}

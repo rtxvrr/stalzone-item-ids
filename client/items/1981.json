@@ -1,0 +1,11 @@
+{
+  "clientId": 1981,
+  "key": "item.motif.wpn.hk417_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Вспышка»",
+    "en": "Flare"
+  },
+  "apiId": "qyvk",
+  "apiIdStatus": "inferred"
+}

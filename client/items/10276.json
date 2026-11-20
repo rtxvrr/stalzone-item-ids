@@ -1,0 +1,11 @@
+{
+  "clientId": 10276,
+  "key": "item.phonograph.vinyl_event_frontline",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Атака Периметра»",
+    "en": "Attack on Perimeter Vinyl Record"
+  },
+  "apiId": "5w1o",
+  "apiIdStatus": "inferred"
+}

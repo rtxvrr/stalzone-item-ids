@@ -1,0 +1,11 @@
+{
+  "clientId": 6614,
+  "key": "item.misc.reactor_vessel",
+  "kind": "item",
+  "name": {
+    "ru": "Сосуд реактора",
+    "en": "Reactor Vessel"
+  },
+  "apiId": "mmmk",
+  "apiIdStatus": "inferred"
+}

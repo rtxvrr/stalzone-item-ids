@@ -1,0 +1,11 @@
+{
+  "clientId": 14000,
+  "key": "item.exp.homemade",
+  "kind": "item",
+  "name": {
+    "ru": "Кустарная граната",
+    "en": "Jury-Rigged Grenade"
+  },
+  "apiId": "96qo0",
+  "apiIdStatus": "inferred"
+}

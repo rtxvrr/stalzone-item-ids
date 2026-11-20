@@ -1,0 +1,11 @@
+{
+  "clientId": 4948,
+  "key": "item.plc.sticker.dmz26_boral",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Опытный ходок»",
+    "en": "Experienced Walker Sticker"
+  },
+  "apiId": "90vz",
+  "apiIdStatus": "inferred"
+}

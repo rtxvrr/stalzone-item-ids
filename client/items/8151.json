@@ -1,0 +1,11 @@
+{
+  "clientId": 8151,
+  "key": "item.quest.equipment_box_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик снаряжения",
+    "en": "Equipment Crate"
+  },
+  "apiId": "zpk9",
+  "apiIdStatus": "inferred"
+}

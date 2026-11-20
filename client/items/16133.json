@@ -1,0 +1,11 @@
+{
+  "clientId": 16133,
+  "key": "item.quest.limansk.12077",
+  "kind": "item",
+  "name": {
+    "ru": "Флешка НАТО",
+    "en": "NATO Flash Drive"
+  },
+  "apiId": "qjql3",
+  "apiIdStatus": "inferred"
+}

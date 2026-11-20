@@ -1,0 +1,11 @@
+{
+  "clientId": 20826,
+  "key": "item.wpn.hp_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Мечта»",
+    "en": "Dream"
+  },
+  "apiId": "g4vk6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16279,
+  "key": "item.misc.krovosos_tentacles_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Щупальца сильного упыря",
+    "en": "Strong Ghoul's Tentacle"
+  },
+  "apiId": "4q73j",
+  "apiIdStatus": "inferred"
+}

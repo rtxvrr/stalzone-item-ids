@@ -1,0 +1,11 @@
+{
+  "clientId": 19865,
+  "key": "item.motif.wpn.glock_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Излишки»",
+    "en": "Surpluses"
+  },
+  "apiId": "p6r3d",
+  "apiIdStatus": "inferred"
+}

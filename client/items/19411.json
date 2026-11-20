@@ -1,0 +1,11 @@
+{
+  "clientId": 19411,
+  "key": "item.camo.arm.bf_skin_14",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Бордовые наросты»",
+    "en": "Burgundy growths Paint"
+  },
+  "apiId": "lygmj",
+  "apiIdStatus": "inferred"
+}

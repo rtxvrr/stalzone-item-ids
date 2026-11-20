@@ -1,0 +1,11 @@
+{
+  "clientId": 22205,
+  "key": "item.att.scope_tr20",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Trijicon AccuPoint",
+    "en": "Trijicon AccuPoint Optical Sight"
+  },
+  "apiId": "y3pz0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8223,
+  "key": "item.quest.puer_storage",
+  "kind": "item",
+  "name": {
+    "ru": "Мультиполярный агрегат",
+    "en": "Multipolar Unit"
+  },
+  "apiId": "6v7p",
+  "apiIdStatus": "inferred"
+}

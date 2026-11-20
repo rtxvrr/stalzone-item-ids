@@ -1,0 +1,11 @@
+{
+  "clientId": 28628,
+  "key": "item.tmp.item.science_tag",
+  "kind": "item",
+  "name": {
+    "ru": "Компенсация научных жетонов",
+    "en": "Science Token Compensation"
+  },
+  "apiId": "55l41",
+  "apiIdStatus": "inferred"
+}

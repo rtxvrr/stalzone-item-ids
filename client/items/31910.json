@@ -1,0 +1,11 @@
+{
+  "clientId": 31910,
+  "key": "item.upg.protector_1",
+  "kind": "item",
+  "name": {
+    "ru": "Дешевые запчасти",
+    "en": "Cheap Spare Parts"
+  },
+  "apiId": "j0w96",
+  "apiIdStatus": "inferred"
+}

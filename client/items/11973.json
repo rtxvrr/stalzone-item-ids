@@ -1,0 +1,11 @@
+{
+  "clientId": 11973,
+  "key": "item.plate.ops.combined",
+  "kind": "item",
+  "name": {
+    "ru": "Укрепленная разгрузка",
+    "en": "Reinforced Utility Vest"
+  },
+  "apiId": "1p52",
+  "apiIdStatus": "inferred"
+}

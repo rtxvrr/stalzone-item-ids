@@ -1,0 +1,11 @@
+{
+  "clientId": 5515,
+  "key": "item.plc.customisation_pack.spring26",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Закаленная сталь»",
+    "en": "Tempered Steel Customization Pack"
+  },
+  "apiId": "oyw0",
+  "apiIdStatus": "inferred"
+}

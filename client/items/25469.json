@@ -1,0 +1,11 @@
+{
+  "clientId": 25469,
+  "key": "item.arm.trader_kyrtka",
+  "kind": "item",
+  "name": {
+    "ru": "Куртка скупщика",
+    "en": "Fence's Jacket"
+  },
+  "apiId": "3gdzz",
+  "apiIdStatus": "inferred"
+}

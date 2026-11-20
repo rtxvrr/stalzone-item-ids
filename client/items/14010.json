@@ -1,0 +1,11 @@
+{
+  "clientId": 14010,
+  "key": "item.exp.craft_smoke",
+  "kind": "item",
+  "name": {
+    "ru": "«Завеса»",
+    "en": "Haze"
+  },
+  "apiId": "j5pw7",
+  "apiIdStatus": "inferred"
+}

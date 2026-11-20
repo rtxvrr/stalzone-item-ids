@@ -1,0 +1,11 @@
+{
+  "clientId": 16228,
+  "key": "item.papka_limansk",
+  "kind": "item",
+  "name": {
+    "ru": "Документы из Любеча",
+    "en": "Documents from Lyubech"
+  },
+  "apiId": "5looo",
+  "apiIdStatus": "inferred"
+}

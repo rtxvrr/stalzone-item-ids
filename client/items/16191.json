@@ -1,0 +1,11 @@
+{
+  "clientId": 16191,
+  "key": "item.16191",
+  "kind": "item",
+  "name": {
+    "ru": "Посылка с научным оборудованием",
+    "en": "Package of Scientific Equipment"
+  },
+  "apiId": "dmyr2",
+  "apiIdStatus": "inferred"
+}

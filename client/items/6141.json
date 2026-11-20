@@ -1,0 +1,11 @@
+{
+  "clientId": 6141,
+  "key": "item.misc.bottle",
+  "kind": "item",
+  "name": {
+    "ru": "Пластиковая бутылка",
+    "en": "Plastic Bottle"
+  },
+  "apiId": "pry2",
+  "apiIdStatus": "inferred"
+}

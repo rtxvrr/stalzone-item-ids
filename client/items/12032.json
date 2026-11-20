@@ -1,0 +1,11 @@
+{
+  "clientId": 12032,
+  "key": "item.cont.honeycomb",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Сота»",
+    "en": "Cell Container"
+  },
+  "apiId": "k3oj",
+  "apiIdStatus": "inferred"
+}

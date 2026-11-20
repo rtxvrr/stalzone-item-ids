@@ -1,0 +1,11 @@
+{
+  "clientId": 12058,
+  "key": "item.cont.dubak",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Дубак»",
+    "en": "Freezer Container"
+  },
+  "apiId": "j34l",
+  "apiIdStatus": "inferred"
+}

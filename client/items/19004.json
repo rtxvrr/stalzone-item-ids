@@ -1,0 +1,11 @@
+{
+  "clientId": 19004,
+  "key": "item.camo.arm.green",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Зеленая»",
+    "en": "Green Armor Paint"
+  },
+  "apiId": "5l0m1",
+  "apiIdStatus": "inferred"
+}

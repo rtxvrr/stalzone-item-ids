@@ -1,0 +1,11 @@
+{
+  "clientId": 16505,
+  "key": "item.upg.protector",
+  "kind": "item",
+  "name": {
+    "ru": "Продвинутые запчасти",
+    "en": "Advanced Spare Parts"
+  },
+  "apiId": "y3nmw",
+  "apiIdStatus": "inferred"
+}

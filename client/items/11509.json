@@ -1,0 +1,11 @@
+{
+  "clientId": 11509,
+  "key": "item.art.inside_bubblegum",
+  "kind": "item",
+  "name": {
+    "ru": "Бубльгум",
+    "en": "Bubblegum"
+  },
+  "apiId": "qodk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18251,
+  "key": "item.camo.wpn.erdl_winter",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «ERDL Winter»",
+    "en": "ERDL Winter Camouflage"
+  },
+  "apiId": "zznr2",
+  "apiIdStatus": "inferred"
+}

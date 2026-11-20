@@ -1,0 +1,11 @@
+{
+  "clientId": 31718,
+  "key": "item.part.p320_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть SIG Sauer P320 #3",
+    "en": "Sig Sauer P320 Part #3"
+  },
+  "apiId": "vn5jp",
+  "apiIdStatus": "inferred"
+}

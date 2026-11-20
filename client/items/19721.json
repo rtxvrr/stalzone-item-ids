@@ -1,0 +1,11 @@
+{
+  "clientId": 19721,
+  "key": "item.camo.arm.grid",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Холодная сетка»",
+    "en": "Cold Grid Paint"
+  },
+  "apiId": "3grz5",
+  "apiIdStatus": "inferred"
+}

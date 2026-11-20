@@ -1,0 +1,11 @@
+{
+  "clientId": 12821,
+  "key": "item.amm.939inc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9x39 мм зажигательный",
+    "en": "9x39 mm Incendiary Round"
+  },
+  "apiId": "3v3z",
+  "apiIdStatus": "inferred"
+}

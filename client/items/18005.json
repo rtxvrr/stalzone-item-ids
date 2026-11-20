@@ -1,0 +1,11 @@
+{
+  "clientId": 18005,
+  "key": "item.camo.wpn.blue",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Голубая»",
+    "en": "Light Blue Weapon Paint"
+  },
+  "apiId": "y36y0",
+  "apiIdStatus": "inferred"
+}

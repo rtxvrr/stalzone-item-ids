@@ -1,0 +1,11 @@
+{
+  "clientId": 25061,
+  "key": "item.arm.iolit",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-113 «Иолит»",
+    "en": "MIS-113 Iolite"
+  },
+  "apiId": "0r4q9",
+  "apiIdStatus": "inferred"
+}

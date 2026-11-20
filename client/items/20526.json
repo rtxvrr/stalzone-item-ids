@@ -1,0 +1,11 @@
+{
+  "clientId": 20526,
+  "key": "item.wpn.mosin",
+  "kind": "item",
+  "name": {
+    "ru": "Винтовка Мосина",
+    "en": "Mosin's Rifle"
+  },
+  "apiId": "g4m2p",
+  "apiIdStatus": "inferred"
+}

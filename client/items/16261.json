@@ -1,0 +1,11 @@
+{
+  "clientId": 16261,
+  "key": "item.misc.tushkan_head_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Голова крысы",
+    "en": "Rat's Head"
+  },
+  "apiId": "0rl9k",
+  "apiIdStatus": "inferred"
+}

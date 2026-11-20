@@ -1,0 +1,11 @@
+{
+  "clientId": 31526,
+  "key": "item.ny_toys.setJ.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская мишура",
+    "en": "Stalker Tinsel"
+  },
+  "apiId": "gnpdg",
+  "apiIdStatus": "inferred"
+}

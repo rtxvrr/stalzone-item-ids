@@ -1,0 +1,11 @@
+{
+  "clientId": 25381,
+  "key": "item.arm.zivcas_commander",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня ZIVCAS M2-C",
+    "en": "ZIVCAS M2-C Exoarmor"
+  },
+  "apiId": "qj1jk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31425,
+  "key": "item.lootbox.meme_wooden",
+  "kind": "item",
+  "name": {
+    "ru": "Деревянный ящик",
+    "en": "Wooden Crate"
+  },
+  "apiId": "194q6",
+  "apiIdStatus": "inferred"
+}

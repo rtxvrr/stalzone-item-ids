@@ -1,0 +1,11 @@
+{
+  "clientId": 6416,
+  "key": "item.misc.welded_metal",
+  "kind": "item",
+  "name": {
+    "ru": "Листы сваренного металла",
+    "en": "Welded Metal Sheets"
+  },
+  "apiId": "nmj1",
+  "apiIdStatus": "inferred"
+}

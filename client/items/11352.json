@@ -1,0 +1,11 @@
+{
+  "clientId": 11352,
+  "key": "item.art.puzir_oskolok",
+  "kind": "item",
+  "name": {
+    "ru": "Осколок",
+    "en": "Shard"
+  },
+  "apiId": "5rwq",
+  "apiIdStatus": "inferred"
+}

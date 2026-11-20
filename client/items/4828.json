@@ -1,0 +1,11 @@
+{
+  "clientId": 4828,
+  "key": "item.plc.sticker.dmz26_4",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Окопный»",
+    "en": "Trench Sticker"
+  },
+  "apiId": "507o",
+  "apiIdStatus": "inferred"
+}

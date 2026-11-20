@@ -1,0 +1,11 @@
+{
+  "clientId": 8143,
+  "key": "item.quest.duty_repair_tools",
+  "kind": "item",
+  "name": {
+    "ru": "Ремонтный набор",
+    "en": "Repair set"
+  },
+  "apiId": "d059",
+  "apiIdStatus": "inferred"
+}

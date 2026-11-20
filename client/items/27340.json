@@ -1,0 +1,11 @@
+{
+  "clientId": 27340,
+  "key": "item.misc.blizzard_quest_transformator",
+  "kind": "item",
+  "name": {
+    "ru": "Морозостойкий трансформатор",
+    "en": "Frostproof Transformer"
+  },
+  "apiId": "n40mw",
+  "apiIdStatus": "inferred"
+}

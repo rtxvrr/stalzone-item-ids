@@ -1,0 +1,11 @@
+{
+  "clientId": 26616,
+  "key": "item.food.millet_with_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Пшенка с мясом",
+    "en": "Millet Porridge with Meat"
+  },
+  "apiId": "n4lg6",
+  "apiIdStatus": "inferred"
+}

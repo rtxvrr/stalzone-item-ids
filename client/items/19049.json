@@ -1,0 +1,11 @@
+{
+  "clientId": 19049,
+  "key": "item.misc.aceton",
+  "kind": "item",
+  "name": {
+    "ru": "Растворитель",
+    "en": "Paint Stripper"
+  },
+  "apiId": "1r6rg",
+  "apiIdStatus": "inferred"
+}

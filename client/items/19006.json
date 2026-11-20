@@ -1,0 +1,11 @@
+{
+  "clientId": 19006,
+  "key": "item.camo.arm.indigo",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Синяя»",
+    "en": "Blue Armor Paint"
+  },
+  "apiId": "wjvk2",
+  "apiIdStatus": "inferred"
+}

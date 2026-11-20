@@ -1,0 +1,11 @@
+{
+  "clientId": 16822,
+  "key": "item.quest.bluetruffle",
+  "kind": "item",
+  "name": {
+    "ru": "Синий трюфель",
+    "en": "Blue Truffle"
+  },
+  "apiId": "7lo19",
+  "apiIdStatus": "inferred"
+}

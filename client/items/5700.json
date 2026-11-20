@@ -1,0 +1,11 @@
+{
+  "clientId": 5700,
+  "key": "item.quest.daily_measurer_premium",
+  "kind": "item",
+  "name": {
+    "ru": "Особое устройство для замеров",
+    "en": "Special Measuring Device"
+  },
+  "apiId": "924w",
+  "apiIdStatus": "inferred"
+}

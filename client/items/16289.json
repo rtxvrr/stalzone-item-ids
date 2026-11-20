@@ -1,0 +1,11 @@
+{
+  "clientId": 16289,
+  "key": "item.misc.ssop_help_tip_6",
+  "kind": "item",
+  "name": {
+    "ru": "Агентурная наводка на Комбинат \"Уран\"",
+    "en": "Intelligence Lead for the Uranus Mill"
+  },
+  "apiId": "p6qnd",
+  "apiIdStatus": "inferred"
+}

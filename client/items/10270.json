@@ -1,0 +1,11 @@
+{
+  "clientId": 10270,
+  "key": "item.phonograph.vinyl_location_limansk",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Любеч-3»",
+    "en": "Lyubech-3 Vinyl Record"
+  },
+  "apiId": "7km9",
+  "apiIdStatus": "inferred"
+}

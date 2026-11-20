@@ -1,0 +1,11 @@
+{
+  "clientId": 31338,
+  "key": "item.ny_toys.setE.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая звездочка",
+    "en": "Purple Star"
+  },
+  "apiId": "mryz7",
+  "apiIdStatus": "inferred"
+}

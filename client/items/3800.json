@@ -1,0 +1,11 @@
+{
+  "clientId": 3800,
+  "key": "tile.3800",
+  "kind": "tile",
+  "name": {
+    "ru": "лопух",
+    "en": "burdock"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

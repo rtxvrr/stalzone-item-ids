@@ -1,0 +1,11 @@
+{
+  "clientId": 17502,
+  "key": "item.style.wpn.famas_newyear23",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний FAMAS",
+    "en": "New Year FAMAS"
+  },
+  "apiId": "g4pwp",
+  "apiIdStatus": "inferred"
+}

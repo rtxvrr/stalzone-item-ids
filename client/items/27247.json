@@ -1,0 +1,11 @@
+{
+  "clientId": 27247,
+  "key": "item.case_token.innovative",
+  "kind": "item",
+  "name": {
+    "ru": "Знак передовой",
+    "en": "Frontline Badge"
+  },
+  "apiId": "6wnjj",
+  "apiIdStatus": "inferred"
+}

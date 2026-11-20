@@ -1,0 +1,11 @@
+{
+  "clientId": 31462,
+  "key": "item.lootbox.summer24_tickets_big",
+  "kind": "item",
+  "name": {
+    "ru": "Офицерская шкатулка",
+    "en": "Officer's lockbox"
+  },
+  "apiId": "mrykj",
+  "apiIdStatus": "inferred"
+}

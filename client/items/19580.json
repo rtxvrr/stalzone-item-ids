@@ -1,0 +1,11 @@
+{
+  "clientId": 19580,
+  "key": "item.motif.arm.zivcas_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Колебание»",
+    "en": "Oscillation"
+  },
+  "apiId": "kn143",
+  "apiIdStatus": "inferred"
+}

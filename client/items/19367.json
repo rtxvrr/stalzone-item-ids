@@ -1,0 +1,11 @@
+{
+  "clientId": 19367,
+  "key": "item.camo.arm.winter25_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Небула»",
+    "en": "Nebula Paint"
+  },
+  "apiId": "dmz0n",
+  "apiIdStatus": "inferred"
+}

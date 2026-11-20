@@ -1,0 +1,11 @@
+{
+  "clientId": 6213,
+  "key": "item.misc.shock_absorbing_coating",
+  "kind": "item",
+  "name": {
+    "ru": "Амортизирующее покрытие",
+    "en": "Shock-Absorbing Coating"
+  },
+  "apiId": "03zd",
+  "apiIdStatus": "inferred"
+}

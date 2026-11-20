@@ -1,0 +1,11 @@
+{
+  "clientId": 31369,
+  "key": "item.ny_toys.setG.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Карамельный Петушок",
+    "en": "Caramel Cockerel"
+  },
+  "apiId": "343ng",
+  "apiIdStatus": "inferred"
+}

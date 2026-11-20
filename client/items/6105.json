@@ -1,0 +1,11 @@
+{
+  "clientId": 6105,
+  "key": "item.misc.reagents",
+  "kind": "item",
+  "name": {
+    "ru": "Реагенты",
+    "en": "Reagents"
+  },
+  "apiId": "y7po",
+  "apiIdStatus": "inferred"
+}

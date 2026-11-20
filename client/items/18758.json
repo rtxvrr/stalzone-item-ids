@@ -1,0 +1,11 @@
+{
+  "clientId": 18758,
+  "key": "item.camo.wpn.downfall",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Осадки»",
+    "en": "Precipitation Paint"
+  },
+  "apiId": "j5j16",
+  "apiIdStatus": "inferred"
+}

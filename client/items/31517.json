@@ -1,0 +1,11 @@
+{
+  "clientId": 31517,
+  "key": "item.ny_toys.setJ.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская игрушка-баночка",
+    "en": "Stalker Jar Decoration"
+  },
+  "apiId": "pjnd5",
+  "apiIdStatus": "inferred"
+}

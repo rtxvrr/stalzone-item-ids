@@ -1,0 +1,11 @@
+{
+  "clientId": 16111,
+  "key": "item.16111",
+  "kind": "item",
+  "name": {
+    "ru": "Падаль",
+    "en": "Carrion"
+  },
+  "apiId": "lykqo",
+  "apiIdStatus": "inferred"
+}

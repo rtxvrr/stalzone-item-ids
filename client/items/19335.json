@@ -1,0 +1,11 @@
+{
+  "clientId": 19335,
+  "key": "item.camo.arm.autumn24_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Черно-белый шик»",
+    "en": "Black and White flex Paint"
+  },
+  "apiId": "lygz1",
+  "apiIdStatus": "inferred"
+}

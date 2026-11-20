@@ -1,0 +1,11 @@
+{
+  "clientId": 16254,
+  "key": "item.misc.boar_hoof_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Копыто слабого кабана",
+    "en": "Weak Boar's Hoof"
+  },
+  "apiId": "wjl0z",
+  "apiIdStatus": "inferred"
+}

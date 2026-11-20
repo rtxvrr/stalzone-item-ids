@@ -1,0 +1,11 @@
+{
+  "clientId": 31388,
+  "key": "item.ny_toys.setH.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичная редкая мишура",
+    "en": "Rare Futuristic Tinsel"
+  },
+  "apiId": "nknm3",
+  "apiIdStatus": "inferred"
+}

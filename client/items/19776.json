@@ -1,0 +1,11 @@
+{
+  "clientId": 19776,
+  "key": "item.camo.arm.razor_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Razor»",
+    "en": "Twitch Razor Camouflage"
+  },
+  "apiId": "5ld0q",
+  "apiIdStatus": "inferred"
+}

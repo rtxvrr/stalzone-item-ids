@@ -1,0 +1,11 @@
+{
+  "clientId": 4982,
+  "key": "item.plc.sticker.triumph26_faction_race",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Гонка фракций»",
+    "en": "Faction Race Sticker"
+  },
+  "apiId": "jj26",
+  "apiIdStatus": "inferred"
+}

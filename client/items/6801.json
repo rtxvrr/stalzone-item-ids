@@ -1,0 +1,11 @@
+{
+  "clientId": 6801,
+  "key": "item.misc.mutation_essence",
+  "kind": "item",
+  "name": {
+    "ru": "Фермент мутации",
+    "en": "Mutation Enzyme"
+  },
+  "apiId": "17k6",
+  "apiIdStatus": "inferred"
+}

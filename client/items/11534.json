@@ -1,0 +1,11 @@
+{
+  "clientId": 11534,
+  "key": "item.art.murmur_smolnik",
+  "kind": "item",
+  "name": {
+    "ru": "Смольник",
+    "en": "Fossil"
+  },
+  "apiId": "j3p6",
+  "apiIdStatus": "inferred"
+}

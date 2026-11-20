@@ -1,0 +1,11 @@
+{
+  "clientId": 26741,
+  "key": "item.26741",
+  "kind": "item",
+  "name": {
+    "ru": "Сгусток аномальной плазмы",
+    "en": "Clot of Anomalous Plasma"
+  },
+  "apiId": "p60r5",
+  "apiIdStatus": "inferred"
+}

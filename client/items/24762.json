@@ -1,0 +1,11 @@
+{
+  "clientId": 24762,
+  "key": "item.charm.heat_of_battle",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пыл сражения»",
+    "en": "Heat of Battle Charm"
+  },
+  "apiId": "m07l7",
+  "apiIdStatus": "inferred"
+}

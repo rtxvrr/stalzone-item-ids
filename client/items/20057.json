@@ -1,0 +1,11 @@
+{
+  "clientId": 20057,
+  "key": "item.wpn.spectre",
+  "kind": "item",
+  "name": {
+    "ru": "Spectre M4",
+    "en": "Spectre M4"
+  },
+  "apiId": "qjvo6",
+  "apiIdStatus": "inferred"
+}

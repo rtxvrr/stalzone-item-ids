@@ -1,0 +1,11 @@
+{
+  "clientId": 10197,
+  "key": "item.quest.breadcrumbs_audiocassette_prestizhno_5",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Престижно»",
+    "en": "Prestige Cassette"
+  },
+  "apiId": "1gz2",
+  "apiIdStatus": "inferred"
+}

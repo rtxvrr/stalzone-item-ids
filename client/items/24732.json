@@ -1,0 +1,11 @@
+{
+  "clientId": 24732,
+  "key": "item.charm.summer25_twitch_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Консервированный упырь»",
+    "en": "Canned Ghoul Charm"
+  },
+  "apiId": "kn7kv",
+  "apiIdStatus": "inferred"
+}

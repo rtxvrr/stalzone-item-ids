@@ -1,0 +1,11 @@
+{
+  "clientId": 17268,
+  "key": "item.style.melee.katana_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Волнорез»",
+    "en": "Breakwater"
+  },
+  "apiId": "2ogkl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20570,
+  "key": "item.wpn.mc116",
+  "kind": "item",
+  "name": {
+    "ru": "МЦ-116М",
+    "en": "MTs-116M"
+  },
+  "apiId": "7lnk7",
+  "apiIdStatus": "inferred"
+}

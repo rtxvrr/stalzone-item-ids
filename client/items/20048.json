@@ -1,0 +1,11 @@
+{
+  "clientId": 20048,
+  "key": "item.wpn.rhythm",
+  "kind": "item",
+  "name": {
+    "ru": "PSA PA 10 «Ритм»",
+    "en": "PSA PA 10 Rhythm"
+  },
+  "apiId": "96mn0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6206,
+  "key": "item.misc.electric_mixture",
+  "kind": "item",
+  "name": {
+    "ru": "Электросмесь",
+    "en": "Electric Mixture"
+  },
+  "apiId": "wodp",
+  "apiIdStatus": "inferred"
+}

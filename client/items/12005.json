@@ -1,0 +1,11 @@
+{
+  "clientId": 12005,
+  "key": "item.cont.kzs1u",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «КЗС-1У»",
+    "en": "KZS-1U Container"
+  },
+  "apiId": "yqq0",
+  "apiIdStatus": "inferred"
+}

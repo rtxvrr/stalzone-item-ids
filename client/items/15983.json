@@ -1,0 +1,11 @@
+{
+  "clientId": 15983,
+  "key": "item.crt.summer_24",
+  "kind": "item",
+  "name": {
+    "ru": "Кредиты",
+    "en": "Credits"
+  },
+  "apiId": "lykdq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11304,
+  "key": "item.art.voronka_yantar",
+  "kind": "item",
+  "name": {
+    "ru": "Янтарник",
+    "en": "Amberite"
+  },
+  "apiId": "5rpq",
+  "apiIdStatus": "inferred"
+}

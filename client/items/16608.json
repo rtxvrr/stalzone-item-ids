@@ -1,0 +1,11 @@
+{
+  "clientId": 16608,
+  "key": "item.16608",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с неизвестным содержимым",
+    "en": "Crate with Unknown Contents"
+  },
+  "apiId": "knp3y",
+  "apiIdStatus": "inferred"
+}

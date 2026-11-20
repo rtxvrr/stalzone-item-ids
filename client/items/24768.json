@@ -1,0 +1,11 @@
+{
+  "clientId": 24768,
+  "key": "item.charm.barricade",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Баррикада»",
+    "en": "Barricade Charm"
+  },
+  "apiId": "2oq66",
+  "apiIdStatus": "inferred"
+}

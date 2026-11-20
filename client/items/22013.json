@@ -1,0 +1,11 @@
+{
+  "clientId": 22013,
+  "key": "item.att.forend_m1pacs",
+  "kind": "item",
+  "name": {
+    "ru": "Ложе Springfield M1A PACS",
+    "en": "Springfield M1A PACS Stock"
+  },
+  "apiId": "0rv99",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10160,
+  "key": "item.quest.smotrikov11",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Доступ",
+    "en": "Audio Recorder: Access"
+  },
+  "apiId": "rd4y",
+  "apiIdStatus": "inferred"
+}

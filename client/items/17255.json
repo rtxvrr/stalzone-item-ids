@@ -1,0 +1,11 @@
+{
+  "clientId": 17255,
+  "key": "item.style.melee.kukri_summer24",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS «Gurkhas»",
+    "en": "ZIVCAS «Gurkhas»"
+  },
+  "apiId": "4q5dr",
+  "apiIdStatus": "inferred"
+}

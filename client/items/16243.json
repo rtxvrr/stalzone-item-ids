@@ -1,0 +1,11 @@
+{
+  "clientId": 16243,
+  "key": "item.16243",
+  "kind": "item",
+  "name": {
+    "ru": "Набор инструментов для модификации ретранслятора",
+    "en": "Set of Tools for Relay Station Modification"
+  },
+  "apiId": "dmyyg",
+  "apiIdStatus": "inferred"
+}

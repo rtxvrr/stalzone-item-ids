@@ -1,0 +1,11 @@
+{
+  "clientId": 15986,
+  "key": "item.crt.cone_24",
+  "kind": "item",
+  "name": {
+    "ru": "«Хвоя»",
+    "en": "Pine Cones"
+  },
+  "apiId": "m047r",
+  "apiIdStatus": "inferred"
+}

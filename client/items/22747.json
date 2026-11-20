@@ -1,0 +1,11 @@
+{
+  "clientId": 22747,
+  "key": "item.att.mag_stanag30_f",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.56 NATO STANAG, обмотанный",
+    "en": "5.56 NATO STANAG Magazine, Taped"
+  },
+  "apiId": "6wp60",
+  "apiIdStatus": "inferred"
+}

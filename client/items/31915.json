@@ -1,0 +1,11 @@
+{
+  "clientId": 31915,
+  "key": "item.lootbox.extremal_delivery_low",
+  "kind": "item",
+  "name": {
+    "ru": "Маленький ящик с подарками",
+    "en": "Small Gift Box"
+  },
+  "apiId": "ol6y0",
+  "apiIdStatus": "inferred"
+}

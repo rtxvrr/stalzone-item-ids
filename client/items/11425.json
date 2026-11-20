@@ -1,0 +1,11 @@
+{
+  "clientId": 11425,
+  "key": "item.art.ravent_horseshoe_quest",
+  "kind": "item",
+  "name": {
+    "ru": "Подкова Конька-Горбунка",
+    "en": "Horseshoe of the Little Humpbacked Horse"
+  },
+  "apiId": "1kpr",
+  "apiIdStatus": "inferred"
+}

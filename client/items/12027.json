@@ -1,0 +1,11 @@
+{
+  "clientId": 12027,
+  "key": "item.cont.pouch",
+  "kind": "item",
+  "name": {
+    "ru": "Марафонская сумка",
+    "en": "Marathon Bag"
+  },
+  "apiId": "zjqk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16413,
+  "key": "item.16413",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ расширения хранилища",
+    "en": "Storage Extension Key"
+  },
+  "apiId": "0rl2d",
+  "apiIdStatus": "inferred"
+}

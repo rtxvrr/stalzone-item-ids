@@ -1,0 +1,11 @@
+{
+  "clientId": 25013,
+  "key": "item.arm.tentcloak",
+  "kind": "item",
+  "name": {
+    "ru": "Старый ОЗК",
+    "en": "Old Hazmat Suit"
+  },
+  "apiId": "0r439",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20091,
+  "key": "item.wpn.am17",
+  "kind": "item",
+  "name": {
+    "ru": "АМ-17",
+    "en": "AM-17"
+  },
+  "apiId": "dmqk5",
+  "apiIdStatus": "inferred"
+}

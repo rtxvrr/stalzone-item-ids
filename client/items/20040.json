@@ -1,0 +1,11 @@
+{
+  "clientId": 20040,
+  "key": "item.wpn.pp2000_anchor",
+  "kind": "item",
+  "name": {
+    "ru": "ПП-2000 «Якорь»",
+    "en": "PP-2000 Anchor"
+  },
+  "apiId": "n4pr6",
+  "apiIdStatus": "inferred"
+}

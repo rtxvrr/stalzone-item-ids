@@ -1,0 +1,11 @@
+{
+  "clientId": 26090,
+  "key": "item.food.ny23.champagne_soviet",
+  "kind": "item",
+  "name": {
+    "ru": "Советское шампанское",
+    "en": "Soviet Champagne"
+  },
+  "apiId": "vjy5n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25095,
+  "key": "item.arm.mocking_main",
+  "kind": "item",
+  "name": {
+    "ru": "«Пересмешник» Искателя",
+    "en": "Seeker's Mockingbird"
+  },
+  "apiId": "6w01p",
+  "apiIdStatus": "inferred"
+}

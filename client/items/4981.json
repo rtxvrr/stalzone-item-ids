@@ -1,0 +1,11 @@
+{
+  "clientId": 4981,
+  "key": "item.plc.sticker.triumph26_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Раздумья»",
+    "en": "Reflections Sticker"
+  },
+  "apiId": "q5wk",
+  "apiIdStatus": "inferred"
+}

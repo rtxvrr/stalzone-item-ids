@@ -1,0 +1,11 @@
+{
+  "clientId": 17004,
+  "key": "item.att.launcher_eglm",
+  "kind": "item",
+  "name": {
+    "ru": "Гранатомет FN EGLM",
+    "en": "FN EGLM Grenade Launcher"
+  },
+  "apiId": "5l6gg",
+  "apiIdStatus": "inferred"
+}

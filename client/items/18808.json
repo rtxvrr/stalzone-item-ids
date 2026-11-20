@@ -1,0 +1,11 @@
+{
+  "clientId": 18808,
+  "key": "item.mtl.arm.squama",
+  "kind": "item",
+  "name": {
+    "ru": "«Чешуя варана»",
+    "en": "Varanus Scale"
+  },
+  "apiId": "knj90",
+  "apiIdStatus": "inferred"
+}

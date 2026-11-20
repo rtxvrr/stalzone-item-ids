@@ -1,0 +1,11 @@
+{
+  "clientId": 10278,
+  "key": "item.phonograph.vinyl_operations_cleanup",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Большая Уборка»",
+    "en": "The Big Clean Up Vinyl Record"
+  },
+  "apiId": "w54z",
+  "apiIdStatus": "inferred"
+}

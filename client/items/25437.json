@@ -1,0 +1,11 @@
+{
+  "clientId": 25437,
+  "key": "item.arm.vanguard",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Авангард»",
+    "en": "Vanguard Armored Suit"
+  },
+  "apiId": "0rn7d",
+  "apiIdStatus": "inferred"
+}

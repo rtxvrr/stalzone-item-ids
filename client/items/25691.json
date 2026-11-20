@@ -1,0 +1,11 @@
+{
+  "clientId": 25691,
+  "key": "item.skin.mist5",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Хищник»",
+    "en": "Predator Skin"
+  },
+  "apiId": "dm30j",
+  "apiIdStatus": "inferred"
+}

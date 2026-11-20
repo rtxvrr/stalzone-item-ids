@@ -1,0 +1,11 @@
+{
+  "clientId": 18794,
+  "key": "item.camo.wpn.lizard",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Изумрудная чешуя»",
+    "en": "Emerald Scales Camouflage"
+  },
+  "apiId": "7l0p7",
+  "apiIdStatus": "inferred"
+}

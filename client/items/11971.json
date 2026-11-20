@@ -1,0 +1,11 @@
+{
+  "clientId": 11971,
+  "key": "item.plate.ops.fighter",
+  "kind": "item",
+  "name": {
+    "ru": "Сверхпрочная пластина",
+    "en": "Ultra-Durable Plate"
+  },
+  "apiId": "6gq0",
+  "apiIdStatus": "inferred"
+}

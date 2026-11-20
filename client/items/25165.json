@@ -1,0 +1,11 @@
+{
+  "clientId": 25165,
+  "key": "item.arm.ratcatcher",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Крысолов»",
+    "en": "Ratcatcher Exoarmor"
+  },
+  "apiId": "p6mg4",
+  "apiIdStatus": "inferred"
+}

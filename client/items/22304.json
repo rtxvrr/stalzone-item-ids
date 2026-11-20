@@ -1,0 +1,11 @@
+{
+  "clientId": 22304,
+  "key": "item.att.sight_irondot",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный LaRue",
+    "en": "LaRue Collimator Sight"
+  },
+  "apiId": "5lvw0",
+  "apiIdStatus": "inferred"
+}

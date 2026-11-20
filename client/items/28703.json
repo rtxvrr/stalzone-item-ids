@@ -1,0 +1,11 @@
+{
+  "clientId": 28703,
+  "key": "item.28703",
+  "kind": "item",
+  "name": {
+    "ru": "Обменный жетон",
+    "en": "Exchange Token"
+  },
+  "apiId": "z3zym",
+  "apiIdStatus": "inferred"
+}

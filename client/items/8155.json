@@ -1,0 +1,11 @@
+{
+  "clientId": 8155,
+  "key": "item.quest.black_box_2_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Черный ящик с Отражения",
+    "en": "A black box from the Reflection"
+  },
+  "apiId": "4vol",
+  "apiIdStatus": "inferred"
+}

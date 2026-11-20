@@ -1,0 +1,11 @@
+{
+  "clientId": 22301,
+  "key": "item.att.sight_eotech_sand",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный EoTech",
+    "en": "EoTech Collimator Sight, Khaki"
+  },
+  "apiId": "1rvg1",
+  "apiIdStatus": "inferred"
+}

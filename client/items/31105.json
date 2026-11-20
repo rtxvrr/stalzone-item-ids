@@ -1,0 +1,11 @@
+{
+  "clientId": 31105,
+  "key": "item.brt.sever.signal",
+  "kind": "item",
+  "name": {
+    "ru": "Маячок группы «Дигамма»",
+    "en": "Digamma Group Tracker"
+  },
+  "apiId": "y4y13",
+  "apiIdStatus": "inferred"
+}

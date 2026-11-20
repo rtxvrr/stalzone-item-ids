@@ -1,0 +1,11 @@
+{
+  "clientId": 31477,
+  "key": "item.case.autumn24_exclusive_gear",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический кейс «Черного Рынка»",
+    "en": "Tactical Black Market Case"
+  },
+  "apiId": "y4ymz",
+  "apiIdStatus": "inferred"
+}

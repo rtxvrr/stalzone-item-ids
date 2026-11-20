@@ -1,0 +1,11 @@
+{
+  "clientId": 20056,
+  "key": "item.wpn.sr2",
+  "kind": "item",
+  "name": {
+    "ru": "СР-2М «Вереск»",
+    "en": "SR-2M Veresk"
+  },
+  "apiId": "knlq0",
+  "apiIdStatus": "inferred"
+}

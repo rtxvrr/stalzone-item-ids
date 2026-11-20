@@ -1,0 +1,11 @@
+{
+  "clientId": 22300,
+  "key": "item.att.sight_microt1",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Micro",
+    "en": "Micro Collimator Sight"
+  },
+  "apiId": "96vjz",
+  "apiIdStatus": "inferred"
+}

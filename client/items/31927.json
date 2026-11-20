@@ -1,0 +1,11 @@
+{
+  "clientId": 31927,
+  "key": "item.food.champagne_mushroom4",
+  "kind": "item",
+  "name": {
+    "ru": "Гриб фонтан",
+    "en": "Fountain Shroom"
+  },
+  "apiId": "z3n7n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14248,
+  "key": "item.bag.armorpack_ceramic3",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка керамических пластин III",
+    "en": "Bag of Ceramic Plates III"
+  },
+  "apiId": "96qjl",
+  "apiIdStatus": "inferred"
+}

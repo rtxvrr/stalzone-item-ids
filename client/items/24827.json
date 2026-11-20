@@ -1,0 +1,11 @@
+{
+  "clientId": 24827,
+  "key": "item.charm.media_butylkin",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Новобранец»",
+    "en": "Recruit Charm"
+  },
+  "apiId": "zzy32",
+  "apiIdStatus": "inferred"
+}

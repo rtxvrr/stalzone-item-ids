@@ -1,0 +1,11 @@
+{
+  "clientId": 11053,
+  "key": "item.art.jarka_vslezy",
+  "kind": "item",
+  "name": {
+    "ru": "Волчьи слезы",
+    "en": "Wolf Tears"
+  },
+  "apiId": "y5nz",
+  "apiIdStatus": "inferred"
+}

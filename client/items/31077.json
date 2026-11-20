@@ -1,0 +1,11 @@
+{
+  "clientId": 31077,
+  "key": "item.brt.pd.node_add",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Гамма»",
+    "en": "Gamma Data Block"
+  },
+  "apiId": "y409k",
+  "apiIdStatus": "inferred"
+}

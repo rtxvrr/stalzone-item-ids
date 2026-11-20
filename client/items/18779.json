@@ -1,0 +1,11 @@
+{
+  "clientId": 18779,
+  "key": "item.camo.wpn.ornament_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Ornament»",
+    "en": "Twitch Ornament Camouflage"
+  },
+  "apiId": "4qmvn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8215,
+  "key": "item.quest.armor_sky_block_sigaret",
+  "kind": "item",
+  "name": {
+    "ru": "Блок сигарет",
+    "en": "Carton of Cigarettes"
+  },
+  "apiId": "ojn6",
+  "apiIdStatus": "inferred"
+}

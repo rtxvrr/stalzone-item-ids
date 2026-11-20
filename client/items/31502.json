@@ -1,0 +1,11 @@
+{
+  "clientId": 31502,
+  "key": "item.ny_toys.setK.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-сова",
+    "en": "Crafted Owl Decoration"
+  },
+  "apiId": "gnpqg",
+  "apiIdStatus": "inferred"
+}

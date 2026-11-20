@@ -1,0 +1,11 @@
+{
+  "clientId": 26073,
+  "key": "item.med.inside_goroh",
+  "kind": "item",
+  "name": {
+    "ru": "Хорог",
+    "en": "Saep"
+  },
+  "apiId": "1r246",
+  "apiIdStatus": "inferred"
+}

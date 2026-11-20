@@ -1,0 +1,11 @@
+{
+  "clientId": 22111,
+  "key": "item.att.handgrip_fmatd",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка FMA TD Grip",
+    "en": "FMA TD Grip Tactical Grip"
+  },
+  "apiId": "ly4go",
+  "apiIdStatus": "inferred"
+}

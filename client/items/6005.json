@@ -1,0 +1,11 @@
+{
+  "clientId": 6005,
+  "key": "item.misc.lemonfruit",
+  "kind": "item",
+  "name": {
+    "ru": "Мякоть лимонника",
+    "en": "Lemongrass Pulp"
+  },
+  "apiId": "y770",
+  "apiIdStatus": "inferred"
+}

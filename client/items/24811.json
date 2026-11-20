@@ -1,0 +1,11 @@
+{
+  "clientId": 24811,
+  "key": "item.charm.media_v13",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Антибот»",
+    "en": "Antibot Charm"
+  },
+  "apiId": "lyjyj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17139,
+  "key": "item.style.arm.scientist_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Фрактал",
+    "en": "Fractal"
+  },
+  "apiId": "okz74",
+  "apiIdStatus": "inferred"
+}

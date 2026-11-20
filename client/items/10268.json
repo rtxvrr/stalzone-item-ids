@@ -1,0 +1,11 @@
+{
+  "clientId": 10268,
+  "key": "item.phonograph.vinyl_location_forge11",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Кузня-11»",
+    "en": "Forge-11 Vinyl Record"
+  },
+  "apiId": "2zqv",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8136,
+  "key": "item.quest.black_box_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Черный ящик с Черного объезда",
+    "en": "A black box from the Black Detour "
+  },
+  "apiId": "r0ml",
+  "apiIdStatus": "inferred"
+}

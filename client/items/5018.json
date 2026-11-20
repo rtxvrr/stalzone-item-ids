@@ -1,0 +1,11 @@
+{
+  "clientId": 5018,
+  "key": "item.plc.sticker.raven26_heart_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Принятие»",
+    "en": "Acceptance League Sticker"
+  },
+  "apiId": "vvzn",
+  "apiIdStatus": "inferred"
+}

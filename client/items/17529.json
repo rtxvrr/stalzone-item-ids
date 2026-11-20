@@ -1,0 +1,11 @@
+{
+  "clientId": 17529,
+  "key": "item.style.wpn.svu_merc",
+  "kind": "item",
+  "name": {
+    "ru": "«Железная Леди»",
+    "en": "Iron Lady"
+  },
+  "apiId": "y3y7o",
+  "apiIdStatus": "inferred"
+}

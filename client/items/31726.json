@@ -1,0 +1,11 @@
+{
+  "clientId": 31726,
+  "key": "item.part.acog2_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть ACOG 2x40 #1",
+    "en": "ACOG 2x40 Part #1"
+  },
+  "apiId": "gnz45",
+  "apiIdStatus": "inferred"
+}

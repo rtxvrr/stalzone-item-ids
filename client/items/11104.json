@@ -1,0 +1,11 @@
+{
+  "clientId": 11104,
+  "key": "item.art.karousel_dusha",
+  "kind": "item",
+  "name": {
+    "ru": "Сердце",
+    "en": "Heart"
+  },
+  "apiId": "5r34",
+  "apiIdStatus": "inferred"
+}

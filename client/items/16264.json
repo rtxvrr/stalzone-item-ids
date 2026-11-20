@@ -1,0 +1,11 @@
+{
+  "clientId": 16264,
+  "key": "item.misc.flesh_eye_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Глаз хрюши",
+    "en": "Piggy's Eye"
+  },
+  "apiId": "n4wg9",
+  "apiIdStatus": "inferred"
+}

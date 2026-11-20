@@ -1,0 +1,11 @@
+{
+  "clientId": 19725,
+  "key": "item.camo.arm.pattern",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Узоры»",
+    "en": "Patterns Paint"
+  },
+  "apiId": "1rd12",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16233,
+  "key": "item.16233",
+  "kind": "item",
+  "name": {
+    "ru": "Стекло-сырец",
+    "en": "Raw Glass"
+  },
+  "apiId": "qjqq4",
+  "apiIdStatus": "inferred"
+}

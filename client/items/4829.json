@@ -1,0 +1,11 @@
+{
+  "clientId": 4829,
+  "key": "item.plc.sticker.spring26",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «Закаленная сталь»",
+    "en": "Tempered Steel Season Sticker"
+  },
+  "apiId": "yvo0",
+  "apiIdStatus": "inferred"
+}

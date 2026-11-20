@@ -1,0 +1,11 @@
+{
+  "clientId": 6309,
+  "key": "item.misc.nitric_acid",
+  "kind": "item",
+  "name": {
+    "ru": "Азотная кислота",
+    "en": "Nitric Acid"
+  },
+  "apiId": "qvm9",
+  "apiIdStatus": "inferred"
+}

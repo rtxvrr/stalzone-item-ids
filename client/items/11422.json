@@ -1,0 +1,11 @@
+{
+  "clientId": 11422,
+  "key": "item.art.ravent_sword_quest",
+  "kind": "item",
+  "name": {
+    "ru": "Меч-кладенец",
+    "en": "Self-swinging sword"
+  },
+  "apiId": "7mm9",
+  "apiIdStatus": "inferred"
+}

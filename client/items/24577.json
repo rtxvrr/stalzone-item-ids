@@ -1,0 +1,11 @@
+{
+  "clientId": 24577,
+  "key": "item.charm.meme_baguette",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Отвратительно длинный хлеб»",
+    "en": "Repulsively Long Bread Charm"
+  },
+  "apiId": "y3dl3",
+  "apiIdStatus": "inferred"
+}

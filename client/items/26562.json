@@ -1,0 +1,11 @@
+{
+  "clientId": 26562,
+  "key": "item.26562",
+  "kind": "item",
+  "name": {
+    "ru": "Целебная вода",
+    "en": "Healing Water"
+  },
+  "apiId": "m0jr7",
+  "apiIdStatus": "inferred"
+}

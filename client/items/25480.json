@@ -1,0 +1,11 @@
+{
+  "clientId": 25480,
+  "key": "item.arm.exo_bandit_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "«Масть» ящеров",
+    "en": "Lizard's Trump"
+  },
+  "apiId": "kn350",
+  "apiIdStatus": "inferred"
+}

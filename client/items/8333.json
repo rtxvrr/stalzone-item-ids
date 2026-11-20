@@ -1,0 +1,11 @@
+{
+  "clientId": 8333,
+  "key": "item.quest.settings_panel",
+  "kind": "item",
+  "name": {
+    "ru": "Панель настройки",
+    "en": "Settings Panel"
+  },
+  "apiId": "qr23",
+  "apiIdStatus": "inferred"
+}

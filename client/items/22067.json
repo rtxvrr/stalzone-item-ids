@@ -1,0 +1,11 @@
+{
+  "clientId": 22067,
+  "key": "item.att.forend_groza",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая накладка ОЦ-14",
+    "en": "OTs-14 Tactical Grip"
+  },
+  "apiId": "dm09j",
+  "apiIdStatus": "inferred"
+}

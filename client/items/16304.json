@@ -1,0 +1,11 @@
+{
+  "clientId": 16304,
+  "key": "item.16304",
+  "kind": "item",
+  "name": {
+    "ru": "Удостоверение военного сталкера",
+    "en": "Military Stalker Certificate"
+  },
+  "apiId": "5loj0",
+  "apiIdStatus": "inferred"
+}

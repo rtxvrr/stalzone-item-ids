@@ -1,0 +1,11 @@
+{
+  "clientId": 9526,
+  "key": "item.abl.anm.prestige_explosion",
+  "kind": "item",
+  "name": {
+    "ru": "Инициатор «Импульс»",
+    "en": "Impulse Initiator"
+  },
+  "apiId": "gqv5",
+  "apiIdStatus": "inferred"
+}

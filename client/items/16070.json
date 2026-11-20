@@ -1,0 +1,11 @@
+{
+  "clientId": 16070,
+  "key": "item.16070",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая магнитная ключ-карта",
+    "en": "Green Magnetic Key Card"
+  },
+  "apiId": "7lwy6",
+  "apiIdStatus": "inferred"
+}

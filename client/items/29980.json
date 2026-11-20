@@ -1,0 +1,11 @@
+{
+  "clientId": 29980,
+  "key": "item.filler.boss_limansk_1",
+  "kind": "item",
+  "name": {
+    "ru": "Лоскут светящейся кожи",
+    "en": "Graft of Glowing Skin"
+  },
+  "apiId": "krpnp",
+  "apiIdStatus": "inferred"
+}

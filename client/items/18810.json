@@ -1,0 +1,11 @@
+{
+  "clientId": 18810,
+  "key": "item.dmz2026.calldown_token.ags",
+  "kind": "item",
+  "name": {
+    "ru": "«АГС»",
+    "en": "AGS"
+  },
+  "apiId": "j5j27",
+  "apiIdStatus": "inferred"
+}

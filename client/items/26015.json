@@ -1,0 +1,11 @@
+{
+  "clientId": 26015,
+  "key": "item.med.protector_3",
+  "kind": "item",
+  "name": {
+    "ru": "Радиопротектор третьего класса",
+    "en": "3rd Class Radioprotectant"
+  },
+  "apiId": "okd4o",
+  "apiIdStatus": "inferred"
+}

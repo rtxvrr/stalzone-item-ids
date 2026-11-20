@@ -1,0 +1,11 @@
+{
+  "clientId": 22305,
+  "key": "item.att.sight_okp",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный ОКП-7",
+    "en": "OKP-7 Collimator Sight"
+  },
+  "apiId": "y3pwo",
+  "apiIdStatus": "inferred"
+}

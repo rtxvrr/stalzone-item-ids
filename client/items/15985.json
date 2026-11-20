@@ -1,0 +1,11 @@
+{
+  "clientId": 15985,
+  "key": "item.crt.kotleta",
+  "kind": "item",
+  "name": {
+    "ru": "Пятьдесят миллионов рублей",
+    "en": "50 Million Rubles"
+  },
+  "apiId": "0r7zr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28149,
+  "key": "item.28149",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованный PDA легенды",
+    "en": "Encrypted Legend's PDA"
+  },
+  "apiId": "190p2",
+  "apiIdStatus": "inferred"
+}

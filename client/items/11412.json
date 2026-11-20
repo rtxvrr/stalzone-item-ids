@@ -1,0 +1,11 @@
+{
+  "clientId": 11412,
+  "key": "item.art.ravent_gusli",
+  "kind": "item",
+  "name": {
+    "ru": "Гусли Садко",
+    "en": "Sadko's Gusli"
+  },
+  "apiId": "rnnz",
+  "apiIdStatus": "inferred"
+}

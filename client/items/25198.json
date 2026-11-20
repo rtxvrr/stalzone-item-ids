@@ -1,0 +1,11 @@
+{
+  "clientId": 25198,
+  "key": "item.arm.skat10_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Скиф-5» Санитаров",
+    "en": "Orderlies' Scythian-5"
+  },
+  "apiId": "g4yd5",
+  "apiIdStatus": "inferred"
+}

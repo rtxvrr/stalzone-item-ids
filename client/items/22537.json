@@ -1,0 +1,11 @@
+{
+  "clientId": 22537,
+  "key": "item.att.barrel_fortisrb",
+  "kind": "item",
+  "name": {
+    "ru": "Fortis RED Brake",
+    "en": "Fortis RED Brake"
+  },
+  "apiId": "0rp7r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17531,
+  "key": "item.style.wpn.oreh_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Крепкий орешек»",
+    "en": "Tough Nut"
+  },
+  "apiId": "4q30n",
+  "apiIdStatus": "inferred"
+}

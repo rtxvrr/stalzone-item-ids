@@ -1,0 +1,11 @@
+{
+  "clientId": 22721,
+  "key": "item.att.mag_p320",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин SIG Sauer P320",
+    "en": "Sig Sauer P320 Extended Magazine"
+  },
+  "apiId": "3gpr5",
+  "apiIdStatus": "inferred"
+}

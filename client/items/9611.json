@@ -1,0 +1,11 @@
+{
+  "clientId": 9611,
+  "key": "item.exp.prestige_heal",
+  "kind": "item",
+  "name": {
+    "ru": "Лечебный заряд",
+    "en": "Med Barrel"
+  },
+  "apiId": "lmm2",
+  "apiIdStatus": "inferred"
+}

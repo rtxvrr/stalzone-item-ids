@@ -1,0 +1,11 @@
+{
+  "clientId": 30044,
+  "key": "item.filler.npc_shopot_5",
+  "kind": "item",
+  "name": {
+    "ru": "Пси-излучатель «Шепота»",
+    "en": "Murmur Psy-Emitter"
+  },
+  "apiId": "210rv",
+  "apiIdStatus": "inferred"
+}

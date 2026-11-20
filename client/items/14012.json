@@ -1,0 +1,11 @@
+{
+  "clientId": 14012,
+  "key": "item.exp.craft_thunder",
+  "kind": "item",
+  "name": {
+    "ru": "«Гром»",
+    "en": "Thunder"
+  },
+  "apiId": "rwl9g",
+  "apiIdStatus": "inferred"
+}

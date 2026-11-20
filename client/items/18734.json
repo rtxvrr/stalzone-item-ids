@@ -1,0 +1,11 @@
+{
+  "clientId": 18734,
+  "key": "item.camo.wpn.ceramics",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Керамика»",
+    "en": "Ceramic Camouflage"
+  },
+  "apiId": "j5jv6",
+  "apiIdStatus": "inferred"
+}

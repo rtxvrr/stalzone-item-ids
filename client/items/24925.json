@@ -1,0 +1,11 @@
+{
+  "clientId": 24925,
+  "key": "item.charm.lighter",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Вечная жига»",
+    "en": "Eternal Lighter Charm"
+  },
+  "apiId": "1rk4q",
+  "apiIdStatus": "inferred"
+}

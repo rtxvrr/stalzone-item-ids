@@ -1,0 +1,11 @@
+{
+  "clientId": 3500,
+  "key": "tile.3500",
+  "kind": "tile",
+  "name": {
+    "ru": "Камни (пол)",
+    "en": "Stones (Floor)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

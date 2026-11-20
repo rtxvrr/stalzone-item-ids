@@ -1,0 +1,11 @@
+{
+  "clientId": 24878,
+  "key": "item.charm.scstore_albatros_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Модель Альбатроса-Штурмовика»",
+    "en": "Albatross Heavy Assault Miniature Charm"
+  },
+  "apiId": "wjglp",
+  "apiIdStatus": "inferred"
+}

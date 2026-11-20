@@ -1,0 +1,11 @@
+{
+  "clientId": 6302,
+  "key": "item.misc.brass",
+  "kind": "item",
+  "name": {
+    "ru": "Латунь",
+    "en": "Brass"
+  },
+  "apiId": "g05g",
+  "apiIdStatus": "inferred"
+}

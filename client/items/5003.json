@@ -1,0 +1,11 @@
+{
+  "clientId": 5003,
+  "key": "item.plc.sticker.prestige_flowers",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Букет»",
+    "en": "Bouquet Sticker"
+  },
+  "apiId": "zvr2",
+  "apiIdStatus": "inferred"
+}

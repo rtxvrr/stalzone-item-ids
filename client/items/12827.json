@@ -1,0 +1,11 @@
+{
+  "clientId": 12827,
+  "key": "item.amm.939sep",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9x39 мм СЭП",
+    "en": "9x39 mm SEP Round"
+  },
+  "apiId": "z1o2",
+  "apiIdStatus": "inferred"
+}

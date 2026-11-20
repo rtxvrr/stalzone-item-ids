@@ -1,0 +1,11 @@
+{
+  "clientId": 16562,
+  "key": "item.bag.545inc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка зажигательных 5.45 мм",
+    "en": "Pouch of 5.45 mm Incendiary Rounds"
+  },
+  "apiId": "m0q7r",
+  "apiIdStatus": "inferred"
+}

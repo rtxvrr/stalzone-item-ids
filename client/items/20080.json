@@ -1,0 +1,11 @@
+{
+  "clientId": 20080,
+  "key": "item.wpn.f2000",
+  "kind": "item",
+  "name": {
+    "ru": "FN F2000 Tactical",
+    "en": "FN F2000 Tactical"
+  },
+  "apiId": "knl30",
+  "apiIdStatus": "inferred"
+}

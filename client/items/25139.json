@@ -1,0 +1,11 @@
+{
+  "clientId": 25139,
+  "key": "item.25139",
+  "kind": "item",
+  "name": {
+    "ru": "Рабочая броня DIO",
+    "en": "DIO Work Armor"
+  },
+  "apiId": "ok05m",
+  "apiIdStatus": "inferred"
+}

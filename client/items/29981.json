@@ -1,0 +1,11 @@
+{
+  "clientId": 29981,
+  "key": "item.filler.boss_limansk_2",
+  "kind": "item",
+  "name": {
+    "ru": "Огромный коготь",
+    "en": "Huge Claw"
+  },
+  "apiId": "q0qj3",
+  "apiIdStatus": "inferred"
+}

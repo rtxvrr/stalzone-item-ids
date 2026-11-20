@@ -1,0 +1,11 @@
+{
+  "clientId": 16346,
+  "key": "item.misc.anomal_dust",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная пыль",
+    "en": "Anomalous Dust"
+  },
+  "apiId": "7l127",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22544,
+  "key": "item.att.barrel_microbadger",
+  "kind": "item",
+  "name": {
+    "ru": "MICRO BADGER",
+    "en": "MICRO BADGER"
+  },
+  "apiId": "2o7rm",
+  "apiIdStatus": "inferred"
+}

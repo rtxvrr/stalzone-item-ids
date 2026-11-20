@@ -1,0 +1,11 @@
+{
+  "clientId": 19100,
+  "key": "item.camo.arm.butan",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Бутан»",
+    "en": "Bhutan Camouflage"
+  },
+  "apiId": "9623y",
+  "apiIdStatus": "inferred"
+}

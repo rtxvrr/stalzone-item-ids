@@ -1,0 +1,11 @@
+{
+  "clientId": 31289,
+  "key": "item.ny_toys.setA.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Красная мишура",
+    "en": "Red Tinsel"
+  },
+  "apiId": "pjnod",
+  "apiIdStatus": "inferred"
+}

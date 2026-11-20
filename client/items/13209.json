@@ -1,0 +1,11 @@
+{
+  "clientId": 13209,
+  "key": "item.camo.wpn.dmz26_skin_27",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Точеный»",
+    "en": "Сarved Paint"
+  },
+  "apiId": "qmm4",
+  "apiIdStatus": "inferred"
+}

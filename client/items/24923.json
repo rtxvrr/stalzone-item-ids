@@ -1,0 +1,11 @@
+{
+  "clientId": 24923,
+  "key": "item.charm.prestige_legend",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Горизонт»",
+    "en": "Horizon Charm"
+  },
+  "apiId": "6w076",
+  "apiIdStatus": "inferred"
+}

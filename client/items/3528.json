@@ -1,0 +1,11 @@
+{
+  "clientId": 3528,
+  "key": "tile.3528",
+  "kind": "tile",
+  "name": {
+    "ru": "Бетон чаэс",
+    "en": "ChNPP Concrete"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

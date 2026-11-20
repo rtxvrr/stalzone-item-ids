@@ -1,0 +1,11 @@
+{
+  "clientId": 16601,
+  "key": "item.16601",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с оружием",
+    "en": "Weapon Crate"
+  },
+  "apiId": "1rlkg",
+  "apiIdStatus": "inferred"
+}

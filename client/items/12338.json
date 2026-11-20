@@ -1,0 +1,11 @@
+{
+  "clientId": 12338,
+  "key": "item.exp.m18",
+  "kind": "item",
+  "name": {
+    "ru": "M18",
+    "en": "M18"
+  },
+  "apiId": "mp2r",
+  "apiIdStatus": "inferred"
+}

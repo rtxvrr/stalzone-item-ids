@@ -1,0 +1,11 @@
+{
+  "clientId": 25030,
+  "key": "item.arm.ip4m",
+  "kind": "item",
+  "name": {
+    "ru": "ИП-4м",
+    "en": "IP-4M"
+  },
+  "apiId": "wjgo2",
+  "apiIdStatus": "inferred"
+}

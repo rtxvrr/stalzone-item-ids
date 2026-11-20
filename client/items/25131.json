@@ -1,0 +1,11 @@
+{
+  "clientId": 25131,
+  "key": "item.arm.murmur_ratcatcher",
+  "kind": "item",
+  "name": {
+    "ru": "«Слияние»",
+    "en": "Fusion"
+  },
+  "apiId": "4qlpo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19440,
+  "key": "item.camo.arm.spring25_twitch_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Кромки Изнанки»",
+    "en": "Edges of The Inside Out Paint"
+  },
+  "apiId": "n4576",
+  "apiIdStatus": "inferred"
+}

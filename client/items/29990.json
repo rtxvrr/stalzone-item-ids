@@ -1,0 +1,11 @@
+{
+  "clientId": 29990,
+  "key": "item.filler.outpost_6",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон бойца",
+    "en": "Fighter Tokens"
+  },
+  "apiId": "vn3jp",
+  "apiIdStatus": "inferred"
+}

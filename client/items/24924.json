@@ -1,0 +1,11 @@
+{
+  "clientId": 24924,
+  "key": "item.charm.acc_pass",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Личный оперативник»",
+    "en": "Personal Operative Charm"
+  },
+  "apiId": "96n1w",
+  "apiIdStatus": "inferred"
+}

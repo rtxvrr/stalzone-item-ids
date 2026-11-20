@@ -1,0 +1,11 @@
+{
+  "clientId": 16082,
+  "key": "item.16082",
+  "kind": "item",
+  "name": {
+    "ru": "Конденсатор",
+    "en": "Capacitor"
+  },
+  "apiId": "j5n40",
+  "apiIdStatus": "inferred"
+}

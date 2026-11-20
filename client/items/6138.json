@@ -1,0 +1,11 @@
+{
+  "clientId": 6138,
+  "key": "item.misc.textolite",
+  "kind": "item",
+  "name": {
+    "ru": "Текстолит",
+    "en": "Textolite"
+  },
+  "apiId": "m2g7",
+  "apiIdStatus": "inferred"
+}

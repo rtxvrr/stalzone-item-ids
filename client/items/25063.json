@@ -1,0 +1,11 @@
+{
+  "clientId": 25063,
+  "key": "item.arm.ametist",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-122 «Аметист»",
+    "en": "MIS-122 Amethyst"
+  },
+  "apiId": "ok096",
+  "apiIdStatus": "inferred"
+}

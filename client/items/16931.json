@@ -1,0 +1,11 @@
+{
+  "clientId": 16931,
+  "key": "item.quest.freedom.docs_stack_special",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка секретных документов «Зари»",
+    "en": "Stack of Classified Rise Documents"
+  },
+  "apiId": "4q52n",
+  "apiIdStatus": "inferred"
+}

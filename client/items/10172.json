@@ -1,0 +1,11 @@
+{
+  "clientId": 10172,
+  "key": "item.quest.smotrikov23",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Путь",
+    "en": "Audio recorder: The Path"
+  },
+  "apiId": "9jpy",
+  "apiIdStatus": "inferred"
+}

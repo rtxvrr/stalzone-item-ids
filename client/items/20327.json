@@ -1,0 +1,11 @@
+{
+  "clientId": 20327,
+  "key": "item.wpn.mossberg500",
+  "kind": "item",
+  "name": {
+    "ru": "Mossberg 500",
+    "en": "Mossberg 500"
+  },
+  "apiId": "zz2om",
+  "apiIdStatus": "inferred"
+}

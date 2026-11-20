@@ -1,0 +1,11 @@
+{
+  "clientId": 8033,
+  "key": "item.quest.covenant.dossier_kramnik",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Крамник",
+    "en": "Dossier: Kramnik"
+  },
+  "apiId": "qkm6",
+  "apiIdStatus": "inferred"
+}

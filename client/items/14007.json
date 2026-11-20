@@ -1,0 +1,11 @@
+{
+  "clientId": 14007,
+  "key": "item.exp.mini_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельная мини-граната",
+    "en": "Handmade Mini Grenade"
+  },
+  "apiId": "4qzjp",
+  "apiIdStatus": "inferred"
+}

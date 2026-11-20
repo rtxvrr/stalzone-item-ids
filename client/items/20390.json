@@ -1,0 +1,11 @@
+{
+  "clientId": 20390,
+  "key": "item.wpn.ks12",
+  "kind": "item",
+  "name": {
+    "ru": "KS-12 Komrad",
+    "en": "KS-12 Komrad"
+  },
+  "apiId": "vj2mp",
+  "apiIdStatus": "inferred"
+}

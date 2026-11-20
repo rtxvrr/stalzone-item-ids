@@ -1,0 +1,11 @@
+{
+  "clientId": 31357,
+  "key": "item.ny_toys.setF.garland2",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая хорошая гирлянда",
+    "en": "Nice Plush Tree Lights"
+  },
+  "apiId": "q0nvk",
+  "apiIdStatus": "inferred"
+}

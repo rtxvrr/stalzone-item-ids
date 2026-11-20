@@ -1,0 +1,11 @@
+{
+  "clientId": 10251,
+  "key": "item.phonograph.vinyl_location_bolota",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Болота»",
+    "en": "The Swamps Vinyl Record"
+  },
+  "apiId": "z4yk",
+  "apiIdStatus": "inferred"
+}

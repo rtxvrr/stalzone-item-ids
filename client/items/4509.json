@@ -1,0 +1,11 @@
+{
+  "clientId": 4509,
+  "key": "item.plc.pattern.winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Операция Криостазис»",
+    "en": "Operation Cryostasis Season Pattern"
+  },
+  "apiId": "qpo9",
+  "apiIdStatus": "inferred"
+}

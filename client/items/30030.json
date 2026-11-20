@@ -1,0 +1,11 @@
+{
+  "clientId": 30030,
+  "key": "item.filler.wild_mining_1",
+  "kind": "item",
+  "name": {
+    "ru": "Аналоговые компоненты",
+    "en": "Analog Components"
+  },
+  "apiId": "w3l9z",
+  "apiIdStatus": "inferred"
+}

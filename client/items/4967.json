@@ -1,0 +1,11 @@
+{
+  "clientId": 4967,
+  "key": "item.plc.sticker.reichstag_engineer",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Инженер»",
+    "en": "Engineer Sticker"
+  },
+  "apiId": "d40n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12752,
+  "key": "item.amm.23kar",
+  "kind": "item",
+  "name": {
+    "ru": "Картечь 23x75",
+    "en": "23x75 Buckshot"
+  },
+  "apiId": "52y0",
+  "apiIdStatus": "inferred"
+}

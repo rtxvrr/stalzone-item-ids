@@ -1,0 +1,11 @@
+{
+  "clientId": 26617,
+  "key": "item.food.peas_with_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Каша гороховая с мясом",
+    "en": "Pease Porridge with Meat"
+  },
+  "apiId": "p6056",
+  "apiIdStatus": "inferred"
+}

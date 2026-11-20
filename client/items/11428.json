@@ -1,0 +1,11 @@
+{
+  "clientId": 11428,
+  "key": "item.ravent_veche",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Вече»",
+    "en": "Vede Amulet"
+  },
+  "apiId": "5r1o",
+  "apiIdStatus": "inferred"
+}

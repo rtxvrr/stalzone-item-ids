@@ -1,0 +1,11 @@
+{
+  "clientId": 31013,
+  "key": "item.brt.svalka.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Полыхающий срачник",
+    "en": "Burning Crappite"
+  },
+  "apiId": "009n9",
+  "apiIdStatus": "inferred"
+}

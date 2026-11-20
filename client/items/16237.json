@@ -1,0 +1,11 @@
+{
+  "clientId": 16237,
+  "key": "item.16237",
+  "kind": "item",
+  "name": {
+    "ru": "Кристалл Троицы",
+    "en": "Trio Crystal"
+  },
+  "apiId": "0rllk",
+  "apiIdStatus": "inferred"
+}

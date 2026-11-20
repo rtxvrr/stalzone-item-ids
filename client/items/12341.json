@@ -1,0 +1,11 @@
+{
+  "clientId": 12341,
+  "key": "item.exp.m84",
+  "kind": "item",
+  "name": {
+    "ru": "M84",
+    "en": "M84"
+  },
+  "apiId": "p2r5",
+  "apiIdStatus": "inferred"
+}

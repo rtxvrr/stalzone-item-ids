@@ -1,0 +1,11 @@
+{
+  "clientId": 24781,
+  "key": "item.charm.scstore_dakimakura",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Sнегурка»",
+    "en": "Snow Maiden Charm"
+  },
+  "apiId": "qjolk",
+  "apiIdStatus": "inferred"
+}

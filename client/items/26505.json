@@ -1,0 +1,11 @@
+{
+  "clientId": 26505,
+  "key": "item.food.kolbasa",
+  "kind": "item",
+  "name": {
+    "ru": "Колбасная нарезка",
+    "en": "Sausage Slices"
+  },
+  "apiId": "y391o",
+  "apiIdStatus": "inferred"
+}

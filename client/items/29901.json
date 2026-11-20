@@ -1,0 +1,11 @@
+{
+  "clientId": 29901,
+  "key": "item.filler.npc_2",
+  "kind": "item",
+  "name": {
+    "ru": "Сигареты",
+    "en": "Cigarettes"
+  },
+  "apiId": "19o22",
+  "apiIdStatus": "inferred"
+}

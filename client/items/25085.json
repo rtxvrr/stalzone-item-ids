@@ -1,0 +1,11 @@
+{
+  "clientId": 25085,
+  "key": "item.arm.ao3-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный костюм АО-3 «Искатель»",
+    "en": "Worn AH-3 Seeker Suit"
+  },
+  "apiId": "0r4k9",
+  "apiIdStatus": "inferred"
+}

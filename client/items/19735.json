@@ -1,0 +1,11 @@
+{
+  "clientId": 19735,
+  "key": "item.camo.arm.measure",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Мера»",
+    "en": "Measure Paint"
+  },
+  "apiId": "lyl5o",
+  "apiIdStatus": "inferred"
+}

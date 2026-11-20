@@ -1,0 +1,11 @@
+{
+  "clientId": 6512,
+  "key": "item.misc.hormones",
+  "kind": "item",
+  "name": {
+    "ru": "Гормоны",
+    "en": "Hormones"
+  },
+  "apiId": "r29y",
+  "apiIdStatus": "inferred"
+}

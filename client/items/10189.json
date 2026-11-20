@@ -1,0 +1,11 @@
+{
+  "clientId": 10189,
+  "key": "item.quest.duty_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «рубежника»",
+    "en": "Frontier Member Cassette"
+  },
+  "apiId": "pdg4",
+  "apiIdStatus": "inferred"
+}

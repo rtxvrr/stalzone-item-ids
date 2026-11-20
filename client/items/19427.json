@@ -1,0 +1,11 @@
+{
+  "clientId": 19427,
+  "key": "item.camo.arm.spring25_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Чужое небо»",
+    "en": "The Other Sky Paint"
+  },
+  "apiId": "zz642",
+  "apiIdStatus": "inferred"
+}

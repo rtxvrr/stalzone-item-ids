@@ -1,0 +1,11 @@
+{
+  "clientId": 31256,
+  "key": "item.scheme.yorsh_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #2: «Йорш»",
+    "en": "Schematic #2: Yorsh"
+  },
+  "apiId": "krzzj",
+  "apiIdStatus": "inferred"
+}

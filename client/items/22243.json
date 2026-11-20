@@ -1,0 +1,11 @@
+{
+  "clientId": 22243,
+  "key": "item.att.scope_tr20_hell",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел охотника Trijicon AccuPoint",
+    "en": "Trijicon AccuPoint Hunter's Sight"
+  },
+  "apiId": "dm00g",
+  "apiIdStatus": "inferred"
+}

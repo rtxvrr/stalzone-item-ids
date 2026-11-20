@@ -1,0 +1,11 @@
+{
+  "clientId": 16771,
+  "key": "item.misc.bet_coin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Малый набор жетонов Колизея",
+    "en": "Small Coliseum Token Pack"
+  },
+  "apiId": "6wlo0",
+  "apiIdStatus": "inferred"
+}

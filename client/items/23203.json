@@ -1,0 +1,11 @@
+{
+  "clientId": 23203,
+  "key": "item.bolt_gem.wave",
+  "kind": "item",
+  "name": {
+    "ru": "Импульсная частица: Море",
+    "en": "Impulse Particle: Sea"
+  },
+  "apiId": "zzroy",
+  "apiIdStatus": "inferred"
+}

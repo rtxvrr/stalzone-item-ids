@@ -1,0 +1,11 @@
+{
+  "clientId": 8177,
+  "key": "item.quest.apocalypse_not_today_encrypted_message",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованное сообщение",
+    "en": "Encrypted Message"
+  },
+  "apiId": "ypnw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22047,
+  "key": "item.att.forend_gribnik",
+  "kind": "item",
+  "name": {
+    "ru": "«Грибник»",
+    "en": "Forager"
+  },
+  "apiId": "6wv7p",
+  "apiIdStatus": "inferred"
+}

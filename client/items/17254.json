@@ -1,0 +1,11 @@
+{
+  "clientId": 17254,
+  "key": "item.style.melee.antiterror_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«ВЕДАЕТ»",
+    "en": "VEDAYET"
+  },
+  "apiId": "wj022",
+  "apiIdStatus": "inferred"
+}

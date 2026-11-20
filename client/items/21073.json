@@ -1,0 +1,11 @@
+{
+  "clientId": 21073,
+  "key": "item.melee.gladius",
+  "kind": "item",
+  "name": {
+    "ru": "«Гладиус»",
+    "en": "Gladius"
+  },
+  "apiId": "1rjvr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8296,
+  "key": "item.quest.crash_bura_envelope",
+  "kind": "item",
+  "name": {
+    "ru": "Конверт Буры",
+    "en": "Borax's Envelope"
+  },
+  "apiId": "9v2l",
+  "apiIdStatus": "inferred"
+}

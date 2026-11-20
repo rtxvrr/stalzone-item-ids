@@ -1,0 +1,11 @@
+{
+  "clientId": 24704,
+  "key": "item.charm.winter25_snowman",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кубовик»",
+    "en": "Cubeman Charm"
+  },
+  "apiId": "5lkz0",
+  "apiIdStatus": "inferred"
+}

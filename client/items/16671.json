@@ -1,0 +1,11 @@
+{
+  "clientId": 16671,
+  "key": "item.16671",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ для контейнера Охотников",
+    "en": "Key to a Hunter Container"
+  },
+  "apiId": "6w93p",
+  "apiIdStatus": "inferred"
+}

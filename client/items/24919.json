@@ -1,0 +1,11 @@
+{
+  "clientId": 24919,
+  "key": "item.charm.prestige_newbie",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Луч»",
+    "en": "Beam Charm"
+  },
+  "apiId": "dmgp9",
+  "apiIdStatus": "inferred"
+}

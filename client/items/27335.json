@@ -1,0 +1,11 @@
+{
+  "clientId": 27335,
+  "key": "item.misc.inside_glass_3",
+  "kind": "item",
+  "name": {
+    "ru": "Закаленное стекло",
+    "en": "Tempered Glass"
+  },
+  "apiId": "lyqlq",
+  "apiIdStatus": "inferred"
+}

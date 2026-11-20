@@ -1,0 +1,11 @@
+{
+  "clientId": 18701,
+  "key": "item.camo.wpn.kurjak",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Куржак»",
+    "en": "Kurzhak Paint"
+  },
+  "apiId": "1rm71",
+  "apiIdStatus": "inferred"
+}

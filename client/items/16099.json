@@ -1,0 +1,11 @@
+{
+  "clientId": 16099,
+  "key": "item.16099",
+  "kind": "item",
+  "name": {
+    "ru": "Колба со слабым токсином",
+    "en": "Flask Containing a Weak Toxin"
+  },
+  "apiId": "zzk1y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12065,
+  "key": "item.cont.barrelu",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Бочонок-У»",
+    "en": "Barrel-U Container"
+  },
+  "apiId": "p90d",
+  "apiIdStatus": "inferred"
+}

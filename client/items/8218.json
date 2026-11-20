@@ -1,0 +1,11 @@
+{
+  "clientId": 8218,
+  "key": "item.quest.ford_part",
+  "kind": "item",
+  "name": {
+    "ru": "Крепежные детали",
+    "en": "Fasteners"
+  },
+  "apiId": "vpgr",
+  "apiIdStatus": "inferred"
+}

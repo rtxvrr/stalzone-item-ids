@@ -1,0 +1,11 @@
+{
+  "clientId": 25091,
+  "key": "item.arm.bover_main",
+  "kind": "item",
+  "name": {
+    "ru": "Непромокаемый комбез",
+    "en": "Waterproof Suit"
+  },
+  "apiId": "dmgoj",
+  "apiIdStatus": "inferred"
+}

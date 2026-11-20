@@ -1,0 +1,11 @@
+{
+  "clientId": 11923,
+  "key": "item.plate.composite4",
+  "kind": "item",
+  "name": {
+    "ru": "Композитная пластина IV",
+    "en": "Composite Plate IV"
+  },
+  "apiId": "6gk0",
+  "apiIdStatus": "inferred"
+}

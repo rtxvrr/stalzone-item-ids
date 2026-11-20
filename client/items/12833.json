@@ -1,0 +1,11 @@
+{
+  "clientId": 12833,
+  "key": "item.amm.939elc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9x39 мм «Электросвинг»",
+    "en": "9x39 mm Electroswing Round"
+  },
+  "apiId": "qmn6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8108,
+  "key": "item.spring25_small_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Стекло-сырец",
+    "en": "Raw Glass"
+  },
+  "apiId": "kwn3",
+  "apiIdStatus": "inferred"
+}

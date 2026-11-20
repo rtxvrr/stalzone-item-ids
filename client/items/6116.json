@@ -1,0 +1,11 @@
+{
+  "clientId": 6116,
+  "key": "item.misc.abnormal_plasm",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная плазма",
+    "en": "Anomalous Plasma"
+  },
+  "apiId": "npq3",
+  "apiIdStatus": "inferred"
+}

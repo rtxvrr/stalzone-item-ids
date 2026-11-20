@@ -1,0 +1,11 @@
+{
+  "clientId": 17515,
+  "key": "item.style.wpn.python_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Мощнейший ствол ящеров»",
+    "en": "The mightiest lizard gun"
+  },
+  "apiId": "okny0",
+  "apiIdStatus": "inferred"
+}

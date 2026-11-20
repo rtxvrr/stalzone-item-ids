@@ -1,0 +1,11 @@
+{
+  "clientId": 26084,
+  "key": "item.food.ny23.mandarin",
+  "kind": "item",
+  "name": {
+    "ru": "Свежий мандарин",
+    "en": "Fresh Mandarin"
+  },
+  "apiId": "rw1pg",
+  "apiIdStatus": "inferred"
+}

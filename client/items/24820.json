@@ -1,0 +1,11 @@
+{
+  "clientId": 24820,
+  "key": "item.charm.media_bar",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пиксельный призрак»",
+    "en": "Pixel Ghost Charm"
+  },
+  "apiId": "2oq10",
+  "apiIdStatus": "inferred"
+}

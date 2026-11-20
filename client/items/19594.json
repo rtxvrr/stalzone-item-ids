@@ -1,0 +1,11 @@
+{
+  "clientId": 19594,
+  "key": "item.motif.arm.factional",
+  "kind": "item",
+  "name": {
+    "ru": "Фракционный покрас",
+    "en": "Fractional Coloring"
+  },
+  "apiId": "7lr4r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14018,
+  "key": "item.exp.craft_stinker",
+  "kind": "item",
+  "name": {
+    "ru": "«Вонючка»",
+    "en": "Stinky"
+  },
+  "apiId": "vjqvn",
+  "apiIdStatus": "inferred"
+}

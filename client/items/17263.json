@@ -1,0 +1,11 @@
+{
+  "clientId": 17263,
+  "key": "item.style.melee.katana_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Взмах»",
+    "en": "Swish"
+  },
+  "apiId": "okzo6",
+  "apiIdStatus": "inferred"
+}

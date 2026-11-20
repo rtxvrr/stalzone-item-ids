@@ -1,0 +1,11 @@
+{
+  "clientId": 14905,
+  "key": "item.exp.f1_sessions",
+  "kind": "item",
+  "name": {
+    "ru": "Ф-1",
+    "en": "F-1"
+  },
+  "apiId": "y33k3",
+  "apiIdStatus": "inferred"
+}

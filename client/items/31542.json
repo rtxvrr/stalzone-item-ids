@@ -1,0 +1,11 @@
+{
+  "clientId": 31542,
+  "key": "item.ny_toys.setM.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Игрушка-журавль диггеров",
+    "en": "Digger's Crane Decoration"
+  },
+  "apiId": "vng7g",
+  "apiIdStatus": "inferred"
+}

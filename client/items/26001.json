@@ -1,0 +1,11 @@
+{
+  "clientId": 26001,
+  "key": "item.med.apt_s",
+  "kind": "item",
+  "name": {
+    "ru": "Аптечка ученых",
+    "en": "Lab First-Aid Kit"
+  },
+  "apiId": "1r2o6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15068,
+  "key": "item.pack.camo.blitz_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Мультитрак»",
+    "en": "Multitruck Paint Set"
+  },
+  "apiId": "2o1rv",
+  "apiIdStatus": "inferred"
+}

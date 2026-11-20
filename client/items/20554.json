@@ -1,0 +1,11 @@
+{
+  "clientId": 20554,
+  "key": "item.wpn.rpk",
+  "kind": "item",
+  "name": {
+    "ru": "РПК",
+    "en": "RPK"
+  },
+  "apiId": "wj7qo",
+  "apiIdStatus": "inferred"
+}

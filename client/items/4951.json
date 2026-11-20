@@ -1,0 +1,11 @@
+{
+  "clientId": 4951,
+  "key": "item.plc.sticker.dmz26_to_boral",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Путевка»",
+    "en": "Tour Sticker"
+  },
+  "apiId": "zvpn",
+  "apiIdStatus": "inferred"
+}

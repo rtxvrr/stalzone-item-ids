@@ -1,0 +1,11 @@
+{
+  "clientId": 8158,
+  "key": "item.quest.zov_art_key",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ Арта",
+    "en": "Art Key"
+  },
+  "apiId": "j6n4",
+  "apiIdStatus": "inferred"
+}

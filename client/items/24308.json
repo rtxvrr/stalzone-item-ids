@@ -1,0 +1,11 @@
+{
+  "clientId": 24308,
+  "key": "item.charm.sverchok",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Сверчок»",
+    "en": "Cricket Charm"
+  },
+  "apiId": "kn7p3",
+  "apiIdStatus": "inferred"
+}

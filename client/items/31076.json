@@ -1,0 +1,11 @@
+{
+  "clientId": 31076,
+  "key": "item.brt.pd.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Армейский аккумулятор",
+    "en": "Army Battery"
+  },
+  "apiId": "55621",
+  "apiIdStatus": "inferred"
+}

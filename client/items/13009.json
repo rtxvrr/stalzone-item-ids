@@ -1,0 +1,11 @@
+{
+  "clientId": 13009,
+  "key": "item.coupon.master_99",
+  "kind": "item",
+  "name": {
+    "ru": "Бартерный купон (Мастер)",
+    "en": "Barter Coupon (Master)"
+  },
+  "apiId": "qmrj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16668,
+  "key": "item.lootbox.breakdown",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Пробой»",
+    "en": "Puncture Paint Set"
+  },
+  "apiId": "2o0pl",
+  "apiIdStatus": "inferred"
+}

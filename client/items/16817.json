@@ -1,0 +1,11 @@
+{
+  "clientId": 16817,
+  "key": "item.quest.primanka",
+  "kind": "item",
+  "name": {
+    "ru": "Приманка",
+    "en": "Bait"
+  },
+  "apiId": "p65qd",
+  "apiIdStatus": "inferred"
+}

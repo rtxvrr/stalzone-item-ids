@@ -1,0 +1,11 @@
+{
+  "clientId": 18333,
+  "key": "item.camo.wpn.autumn24_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Копи»",
+    "en": "Gold Mines Paint"
+  },
+  "apiId": "qjpo9",
+  "apiIdStatus": "inferred"
+}

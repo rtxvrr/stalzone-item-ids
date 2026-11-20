@@ -1,0 +1,11 @@
+{
+  "clientId": 10272,
+  "key": "item.phonograph.vinyl_mainstory_north",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Северный Сюжет»",
+    "en": "Northern Plot Vinyl Record"
+  },
+  "apiId": "9jyq",
+  "apiIdStatus": "inferred"
+}

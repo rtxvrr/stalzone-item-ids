@@ -1,0 +1,11 @@
+{
+  "clientId": 4817,
+  "key": "item.plc.sticker.operations_rat",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Большая уборка»",
+    "en": "The Big Clean Up Sticker"
+  },
+  "apiId": "pzzd",
+  "apiIdStatus": "inferred"
+}

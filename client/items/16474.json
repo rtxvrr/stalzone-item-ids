@@ -1,0 +1,11 @@
+{
+  "clientId": 16474,
+  "key": "item.quest.note_code",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ кодировки",
+    "en": "Encoding Key"
+  },
+  "apiId": "g41g0",
+  "apiIdStatus": "inferred"
+}

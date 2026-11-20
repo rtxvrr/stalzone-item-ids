@@ -1,0 +1,11 @@
+{
+  "clientId": 11431,
+  "key": "item.ravent_eyvaz",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Ойлен»",
+    "en": "Eulen Amulet"
+  },
+  "apiId": "4l9j",
+  "apiIdStatus": "inferred"
+}

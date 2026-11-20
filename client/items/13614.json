@@ -1,0 +1,11 @@
+{
+  "clientId": 13614,
+  "key": "item.camo.arm.bureau_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Участвующий»",
+    "en": "Participant Paint"
+  },
+  "apiId": "mlgy",
+  "apiIdStatus": "inferred"
+}

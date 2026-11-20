@@ -1,0 +1,11 @@
+{
+  "clientId": 16260,
+  "key": "item.misc.chimera_claw_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Коготь слабой бестии",
+    "en": "Weak Fiend's Claw"
+  },
+  "apiId": "rwv6z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17579,
+  "key": "item.style.wpn.vozduhan_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Продавец воздуха»",
+    "en": "Air Seller"
+  },
+  "apiId": "4q31n",
+  "apiIdStatus": "inferred"
+}

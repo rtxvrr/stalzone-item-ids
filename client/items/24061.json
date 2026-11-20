@@ -1,0 +1,11 @@
+{
+  "clientId": 24061,
+  "key": "item.24061",
+  "kind": "item",
+  "name": {
+    "ru": "«Автомат Деревяшкина»",
+    "en": "Derevyashkin's Assault Rifle"
+  },
+  "apiId": "0r1zk",
+  "apiIdStatus": "inferred"
+}

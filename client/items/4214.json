@@ -1,0 +1,11 @@
+{
+  "clientId": 4214,
+  "key": "item.plc.background.encaged_2",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Взаперти»",
+    "en": "Encaged Background"
+  },
+  "apiId": "mnnk",
+  "apiIdStatus": "inferred"
+}

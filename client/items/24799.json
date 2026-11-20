@@ -1,0 +1,11 @@
+{
+  "clientId": 24799,
+  "key": "item.charm.dmz26_cards",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Каре»",
+    "en": "Quads Charm"
+  },
+  "apiId": "zzyzn",
+  "apiIdStatus": "inferred"
+}

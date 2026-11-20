@@ -1,0 +1,11 @@
+{
+  "clientId": 4321,
+  "key": "item.plc.background.scstore_a26_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Последний воин»",
+    "en": "Last Warrior Background"
+  },
+  "apiId": "329g",
+  "apiIdStatus": "inferred"
+}

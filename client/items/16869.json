@@ -1,0 +1,11 @@
+{
+  "clientId": 16869,
+  "key": "item.quest.Lukum_bomb",
+  "kind": "item",
+  "name": {
+    "ru": "Бомба Лукума",
+    "en": "Lokum's Bomb"
+  },
+  "apiId": "3gz31",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22921,
+  "key": "item.att.mount_mauser",
+  "kind": "item",
+  "name": {
+    "ru": "Планка Пикатинни для Mauser 98k",
+    "en": "Picatinny Rail for Mauser 98k"
+  },
+  "apiId": "3gp6g",
+  "apiIdStatus": "inferred"
+}

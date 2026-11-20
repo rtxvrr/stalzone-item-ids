@@ -1,0 +1,11 @@
+{
+  "clientId": 10263,
+  "key": "item.phonograph.vinyl_location_barrier",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Барьер»",
+    "en": "Barrier Vinyl Record"
+  },
+  "apiId": "o205",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4516,
+  "key": "item.plc.pattern.master_zone",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Хозяина Зоны",
+    "en": "Master of the Zone Pattern"
+  },
+  "apiId": "no3w",
+  "apiIdStatus": "inferred"
+}

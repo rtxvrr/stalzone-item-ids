@@ -1,0 +1,11 @@
+{
+  "clientId": 6604,
+  "key": "item.misc.large_bullet",
+  "kind": "item",
+  "name": {
+    "ru": "Крупнокалиберная пуля",
+    "en": "Large-Caliber Bullet"
+  },
+  "apiId": "5nno",
+  "apiIdStatus": "inferred"
+}

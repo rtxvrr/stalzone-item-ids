@@ -1,0 +1,11 @@
+{
+  "clientId": 8058,
+  "key": "item.quest.dmz2_doc_convoy",
+  "kind": "item",
+  "name": {
+    "ru": "Документы конвоя",
+    "en": "Convoy Documents"
+  },
+  "apiId": "j1y7",
+  "apiIdStatus": "inferred"
+}

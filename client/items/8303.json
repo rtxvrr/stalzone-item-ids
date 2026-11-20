@@ -1,0 +1,11 @@
+{
+  "clientId": 8303,
+  "key": "item.quest.the_shock_wave_stater",
+  "kind": "item",
+  "name": {
+    "ru": "Статор",
+    "en": "Stator"
+  },
+  "apiId": "zp6m",
+  "apiIdStatus": "inferred"
+}

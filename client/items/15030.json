@@ -1,0 +1,11 @@
+{
+  "clientId": 15030,
+  "key": "item.lootbox.frontline_2",
+  "kind": "item",
+  "name": {
+    "ru": "Офицерский скарб",
+    "en": "Officer's Stuff"
+  },
+  "apiId": "wj33z",
+  "apiIdStatus": "inferred"
+}

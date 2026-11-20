@@ -1,0 +1,11 @@
+{
+  "clientId": 21600,
+  "key": "item.wpn_mod.adv.evil_fighter",
+  "kind": "item",
+  "name": {
+    "ru": "«Охотник»",
+    "en": "Hunter"
+  },
+  "apiId": "965wq",
+  "apiIdStatus": "inferred"
+}

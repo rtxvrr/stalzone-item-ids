@@ -1,0 +1,11 @@
+{
+  "clientId": 25600,
+  "key": "item.25600",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Свитер с балаклавой»",
+    "en": "Sweater with Balaclava Skin"
+  },
+  "apiId": "96yml",
+  "apiIdStatus": "inferred"
+}

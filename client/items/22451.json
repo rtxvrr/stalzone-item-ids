@@ -1,0 +1,11 @@
+{
+  "clientId": 22451,
+  "key": "item.att.lcu_compact",
+  "kind": "item",
+  "name": {
+    "ru": "Лазерный целеуказатель «Клещ-2ПС»",
+    "en": "Kleshch-2PS Laser Target Designator"
+  },
+  "apiId": "zzpm2",
+  "apiIdStatus": "inferred"
+}

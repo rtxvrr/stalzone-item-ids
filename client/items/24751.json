@@ -1,0 +1,11 @@
+{
+  "clientId": 24751,
+  "key": "item.charm.autumn25_pass_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Коготь»",
+    "en": "Claw Charm"
+  },
+  "apiId": "zzdmn",
+  "apiIdStatus": "inferred"
+}

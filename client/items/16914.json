@@ -1,0 +1,11 @@
+{
+  "clientId": 16914,
+  "key": "item.quest.merc.tven_habar",
+  "kind": "item",
+  "name": {
+    "ru": "Хабар Твена",
+    "en": "Twain's Loot"
+  },
+  "apiId": "m0197",
+  "apiIdStatus": "inferred"
+}

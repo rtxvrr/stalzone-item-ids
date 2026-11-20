@@ -1,0 +1,11 @@
+{
+  "clientId": 14200,
+  "key": "item.bag.10st",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка 10 мм патронов",
+    "en": "Pouch of 10 mm Rounds"
+  },
+  "apiId": "96qpl",
+  "apiIdStatus": "inferred"
+}

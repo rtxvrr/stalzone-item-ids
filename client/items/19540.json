@@ -1,0 +1,11 @@
+{
+  "clientId": 19540,
+  "key": "item.camo.unique_arm.guard1",
+  "kind": "item",
+  "name": {
+    "ru": "«Спецохрана»",
+    "en": "SecureOps"
+  },
+  "apiId": "n45lw",
+  "apiIdStatus": "inferred"
+}

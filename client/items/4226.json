@@ -1,0 +1,11 @@
+{
+  "clientId": 4226,
+  "key": "item.plc.background.dmz26_2",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Рождественское перемирие»",
+    "en": "Christmas Truce Background"
+  },
+  "apiId": "gzjn",
+  "apiIdStatus": "inferred"
+}

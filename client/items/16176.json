@@ -1,0 +1,11 @@
+{
+  "clientId": 16176,
+  "key": "item.16176",
+  "kind": "item",
+  "name": {
+    "ru": "Кошачья мята",
+    "en": "Catmint"
+  },
+  "apiId": "5lo5q",
+  "apiIdStatus": "inferred"
+}

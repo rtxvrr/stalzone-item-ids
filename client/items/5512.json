@@ -1,0 +1,11 @@
+{
+  "clientId": 5512,
+  "key": "item.plc.customisation_pack.dmz26_2",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Рождественское перемирие»",
+    "en": "Christmas Truce Customization Pack"
+  },
+  "apiId": "rkq5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11151,
+  "key": "item.art.kisel_kisel",
+  "kind": "item",
+  "name": {
+    "ru": "Кисель",
+    "en": "Lollipop"
+  },
+  "apiId": "zyv9",
+  "apiIdStatus": "inferred"
+}

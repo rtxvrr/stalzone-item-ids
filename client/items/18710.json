@@ -1,0 +1,11 @@
+{
+  "clientId": 18710,
+  "key": "item.camo.wpn.overload",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Перегрузка»",
+    "en": "Overload Paint"
+  },
+  "apiId": "j5jo6",
+  "apiIdStatus": "inferred"
+}

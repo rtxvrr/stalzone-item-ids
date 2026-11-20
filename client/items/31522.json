@@ -1,0 +1,11 @@
+{
+  "clientId": 31522,
+  "key": "item.ny_toys.setJ.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Аварийная Лампа",
+    "en": "Emergency Light"
+  },
+  "apiId": "773kr",
+  "apiIdStatus": "inferred"
+}

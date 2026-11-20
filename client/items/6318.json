@@ -1,0 +1,11 @@
+{
+  "clientId": 6318,
+  "key": "item.misc.mash",
+  "kind": "item",
+  "name": {
+    "ru": "Сусло",
+    "en": "Wort"
+  },
+  "apiId": "vrwg",
+  "apiIdStatus": "inferred"
+}

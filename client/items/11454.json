@@ -1,0 +1,11 @@
+{
+  "clientId": 11454,
+  "key": "item.art.blizzard_fahrenheit",
+  "kind": "item",
+  "name": {
+    "ru": "Фаренгейт",
+    "en": "Fahrenheit"
+  },
+  "apiId": "wgwz",
+  "apiIdStatus": "inferred"
+}

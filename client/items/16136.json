@@ -1,0 +1,11 @@
+{
+  "clientId": 16136,
+  "key": "item.16136",
+  "kind": "item",
+  "name": {
+    "ru": "Серебряная монетка",
+    "en": "Silver Coin"
+  },
+  "apiId": "rwvly",
+  "apiIdStatus": "inferred"
+}

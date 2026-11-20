@@ -1,0 +1,11 @@
+{
+  "clientId": 4006,
+  "key": "tile.4006",
+  "kind": "tile",
+  "name": {
+    "ru": "Мина",
+    "en": "Mine"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

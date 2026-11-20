@@ -1,0 +1,11 @@
+{
+  "clientId": 18773,
+  "key": "item.camo.wpn.artlight",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Аномальный свет»",
+    "en": "Anomalous Light Paint"
+  },
+  "apiId": "1rmv1",
+  "apiIdStatus": "inferred"
+}

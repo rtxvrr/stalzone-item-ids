@@ -1,0 +1,11 @@
+{
+  "clientId": 8113,
+  "key": "item.inside25_fantom_note_2",
+  "kind": "item",
+  "name": {
+    "ru": "Записка фантома 2",
+    "en": "Phantom's Note 2"
+  },
+  "apiId": "0v0r",
+  "apiIdStatus": "inferred"
+}

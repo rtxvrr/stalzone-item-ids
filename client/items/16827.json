@@ -1,0 +1,11 @@
+{
+  "clientId": 16827,
+  "key": "item.quest.flask",
+  "kind": "item",
+  "name": {
+    "ru": "Фляга",
+    "en": "Flask"
+  },
+  "apiId": "zz00k",
+  "apiIdStatus": "inferred"
+}

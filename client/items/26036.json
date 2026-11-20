@@ -1,0 +1,11 @@
+{
+  "clientId": 26036,
+  "key": "item.med.thermobarier_1",
+  "kind": "item",
+  "name": {
+    "ru": "«Термобарьер» первого класса",
+    "en": "1st Class ThermoBlock"
+  },
+  "apiId": "rw1vg",
+  "apiIdStatus": "inferred"
+}

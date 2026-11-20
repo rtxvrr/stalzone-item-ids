@@ -1,0 +1,11 @@
+{
+  "clientId": 4939,
+  "key": "item.plc.sticker.newyeartree_silver",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Серебрянной лиги",
+    "en": "Silver League Sticker"
+  },
+  "apiId": "ogw0",
+  "apiIdStatus": "inferred"
+}

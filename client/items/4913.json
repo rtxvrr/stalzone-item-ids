@@ -1,0 +1,11 @@
+{
+  "clientId": 4913,
+  "key": "item.plc.sticker.youtube",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер YouTube",
+    "en": "YouTube Sticker"
+  },
+  "apiId": "0mq1",
+  "apiIdStatus": "inferred"
+}

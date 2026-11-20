@@ -1,0 +1,11 @@
+{
+  "clientId": 18735,
+  "key": "item.camo.wpn.measure",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Мера»",
+    "en": "Measure Paint"
+  },
+  "apiId": "lypv1",
+  "apiIdStatus": "inferred"
+}

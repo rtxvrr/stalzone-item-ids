@@ -1,0 +1,11 @@
+{
+  "clientId": 10131,
+  "key": "item.quest.inside25_snegurochka_audiodnevnik_inside",
+  "kind": "item",
+  "name": {
+    "ru": "Последний дневник Sнегурочки",
+    "en": "Snow Maiden's last diary"
+  },
+  "apiId": "4yvo",
+  "apiIdStatus": "inferred"
+}

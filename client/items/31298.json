@@ -1,0 +1,11 @@
+{
+  "clientId": 31298,
+  "key": "item.ny_toys.setB.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Синий шарик с узором",
+    "en": "Blue Patterned Bauble"
+  },
+  "apiId": "gnpjn",
+  "apiIdStatus": "inferred"
+}

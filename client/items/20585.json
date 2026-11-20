@@ -1,0 +1,11 @@
+{
+  "clientId": 20585,
+  "key": "item.wpn.six12",
+  "kind": "item",
+  "name": {
+    "ru": "Crye Precision SIX12",
+    "en": "Crye Precision SIX12"
+  },
+  "apiId": "0r211",
+  "apiIdStatus": "inferred"
+}

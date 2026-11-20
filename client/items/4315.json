@@ -1,0 +1,11 @@
+{
+  "clientId": 4315,
+  "key": "item.plc.background.electroshtorm",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Старый шифер»",
+    "en": "Old Slate Background"
+  },
+  "apiId": "o6m0",
+  "apiIdStatus": "inferred"
+}

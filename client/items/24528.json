@@ -1,0 +1,11 @@
+{
+  "clientId": 24528,
+  "key": "item.charm.s3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «S3»",
+    "en": "S3 Charm"
+  },
+  "apiId": "5lkvq",
+  "apiIdStatus": "inferred"
+}

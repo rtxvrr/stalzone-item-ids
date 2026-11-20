@@ -1,0 +1,11 @@
+{
+  "clientId": 17136,
+  "key": "item.style.arm.antares_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Экзокостюм «Sirius G-12»",
+    "en": "Sirius G-12 Exosuit"
+  },
+  "apiId": "rw67l",
+  "apiIdStatus": "inferred"
+}

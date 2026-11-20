@@ -1,0 +1,11 @@
+{
+  "clientId": 25738,
+  "key": "item.skin.mk_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Отважный капитан»",
+    "en": "Brave Captain Skin"
+  },
+  "apiId": "m03o2",
+  "apiIdStatus": "inferred"
+}

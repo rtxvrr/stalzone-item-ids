@@ -1,0 +1,11 @@
+{
+  "clientId": 4823,
+  "key": "item.plc.sticker.snegurka",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Sнегурка»",
+    "en": "Snow Maiden Sticker  "
+  },
+  "apiId": "6ddn",
+  "apiIdStatus": "inferred"
+}

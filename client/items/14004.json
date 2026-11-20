@@ -1,0 +1,11 @@
+{
+  "clientId": 14004,
+  "key": "item.exp.vog25p_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Кустарный выстрел ВОГ-25П «Подкидыш»",
+    "en": "Jury-Rigged VOG-25P Podkidysh Round"
+  },
+  "apiId": "5lqjg",
+  "apiIdStatus": "inferred"
+}

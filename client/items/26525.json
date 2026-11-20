@@ -1,0 +1,11 @@
+{
+  "clientId": 26525,
+  "key": "item.food.masterpiece",
+  "kind": "item",
+  "name": {
+    "ru": "«Шедевральная красота»",
+    "en": "Exceptional Beauty"
+  },
+  "apiId": "1rnr1",
+  "apiIdStatus": "inferred"
+}

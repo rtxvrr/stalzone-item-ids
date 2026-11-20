@@ -1,0 +1,11 @@
+{
+  "clientId": 20359,
+  "key": "item.wpn.triple_shorty",
+  "kind": "item",
+  "name": {
+    "ru": "Обрез Chiappa Triple",
+    "en": "Sawed-off Chiappa Triple"
+  },
+  "apiId": "ly2po",
+  "apiIdStatus": "inferred"
+}

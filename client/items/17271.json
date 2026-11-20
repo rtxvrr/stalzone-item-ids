@@ -1,0 +1,11 @@
+{
+  "clientId": 17271,
+  "key": "item.style.melee.antiterror_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Трофейный»",
+    "en": "Trophy"
+  },
+  "apiId": "6wlnp",
+  "apiIdStatus": "inferred"
+}

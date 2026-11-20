@@ -1,0 +1,11 @@
+{
+  "clientId": 19878,
+  "key": "item.motif.wpn.kriss_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Адмирал»",
+    "en": "Admiral"
+  },
+  "apiId": "wjo6z",
+  "apiIdStatus": "inferred"
+}

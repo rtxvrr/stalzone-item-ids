@@ -1,0 +1,11 @@
+{
+  "clientId": 30015,
+  "key": "item.filler.valuable_16",
+  "kind": "item",
+  "name": {
+    "ru": "Драгоценности",
+    "en": "Jewelry"
+  },
+  "apiId": "olpl5",
+  "apiIdStatus": "inferred"
+}

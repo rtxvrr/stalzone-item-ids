@@ -1,0 +1,11 @@
+{
+  "clientId": 22545,
+  "key": "item.att.barrel_cgdoncaster",
+  "kind": "item",
+  "name": {
+    "ru": "Custom Guns Doncaster",
+    "en": "Custom Guns Doncaster"
+  },
+  "apiId": "3gpok",
+  "apiIdStatus": "inferred"
+}

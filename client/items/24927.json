@@ -1,0 +1,11 @@
+{
+  "clientId": 24927,
+  "key": "item.charm.autumn26_fish",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Всевидящий рыб»",
+    "en": "All-Seeing Fishie Charm"
+  },
+  "apiId": "zzyo9",
+  "apiIdStatus": "inferred"
+}

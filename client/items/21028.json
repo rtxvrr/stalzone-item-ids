@@ -1,0 +1,11 @@
+{
+  "clientId": 21028,
+  "key": "item.melee.britva_fire",
+  "kind": "item",
+  "name": {
+    "ru": "Огненная бритва",
+    "en": "Fire Razor"
+  },
+  "apiId": "5lggo",
+  "apiIdStatus": "inferred"
+}

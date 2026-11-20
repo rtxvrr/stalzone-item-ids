@@ -1,0 +1,11 @@
+{
+  "clientId": 21810,
+  "key": "item.wpn_mod.adv.quartet",
+  "kind": "item",
+  "name": {
+    "ru": "«Квартет»",
+    "en": "Quartet"
+  },
+  "apiId": "j5137",
+  "apiIdStatus": "inferred"
+}

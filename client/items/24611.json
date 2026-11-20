@@ -1,0 +1,11 @@
+{
+  "clientId": 24611,
+  "key": "item.charm.ny24_tushkanhead",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Праздник Крысиного Короля»",
+    "en": "Rat King's Holiday Charm"
+  },
+  "apiId": "ly7d2",
+  "apiIdStatus": "inferred"
+}

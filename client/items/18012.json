@@ -1,0 +1,11 @@
+{
+  "clientId": 18012,
+  "key": "item.camo.wpn.brown",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Коричневая»",
+    "en": "Brown Weapon Paint"
+  },
+  "apiId": "rw9pz",
+  "apiIdStatus": "inferred"
+}

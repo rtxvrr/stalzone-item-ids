@@ -1,0 +1,11 @@
+{
+  "clientId": 14205,
+  "key": "item.bag.9sep",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СЭП 9 мм",
+    "en": "Pouch of 9 mm SEP Rounds"
+  },
+  "apiId": "y31mk",
+  "apiIdStatus": "inferred"
+}

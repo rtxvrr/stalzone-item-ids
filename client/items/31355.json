@@ -1,0 +1,11 @@
+{
+  "clientId": 31355,
+  "key": "item.ny_toys.setF.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая Звезда",
+    "en": "Plush Star"
+  },
+  "apiId": "4k30n",
+  "apiIdStatus": "inferred"
+}

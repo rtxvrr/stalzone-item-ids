@@ -1,0 +1,11 @@
+{
+  "clientId": 25718,
+  "key": "item.skin.inside2",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Душелишенный»",
+    "en": "Soulvoid Skin"
+  },
+  "apiId": "vj6lp",
+  "apiIdStatus": "inferred"
+}

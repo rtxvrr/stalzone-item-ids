@@ -1,0 +1,11 @@
+{
+  "clientId": 12212,
+  "key": "item.misc.provision_pack",
+  "kind": "item",
+  "name": {
+    "ru": "Особый груз",
+    "en": "Special Cargo"
+  },
+  "apiId": "r1vg",
+  "apiIdStatus": "inferred"
+}

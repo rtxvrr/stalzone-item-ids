@@ -1,0 +1,11 @@
+{
+  "clientId": 18485,
+  "key": "item.camo.wpn.winter26_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Морозная гончая»",
+    "en": "Frost Hound Paint"
+  },
+  "apiId": "0rm09",
+  "apiIdStatus": "inferred"
+}

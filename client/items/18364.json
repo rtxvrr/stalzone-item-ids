@@ -1,0 +1,11 @@
+{
+  "clientId": 18364,
+  "key": "item.camo.wpn.red_expo_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пространство»",
+    "en": "Space Paint"
+  },
+  "apiId": "n4ovw",
+  "apiIdStatus": "inferred"
+}

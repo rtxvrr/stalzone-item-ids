@@ -1,0 +1,11 @@
+{
+  "clientId": 10120,
+  "key": "item.quest.inside25_professor_echo_copy",
+  "kind": "item",
+  "name": {
+    "ru": "Эхо Профессора (копия)",
+    "en": "Professors Echo (Copy)"
+  },
+  "apiId": "2zj5",
+  "apiIdStatus": "inferred"
+}

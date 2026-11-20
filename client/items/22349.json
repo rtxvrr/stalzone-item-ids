@@ -1,0 +1,11 @@
+{
+  "clientId": 22349,
+  "key": "item.att.sight_rmr_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Trijicon",
+    "en": "Trijicon Collimator Sight (Twitch)"
+  },
+  "apiId": "1rvk1",
+  "apiIdStatus": "inferred"
+}

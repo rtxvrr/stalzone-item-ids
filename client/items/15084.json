@@ -1,0 +1,11 @@
+{
+  "clientId": 15084,
+  "key": "item.case.summer26_cosmetic",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс эстета IV",
+    "en": "Aesthete Case IV"
+  },
+  "apiId": "rwjvz",
+  "apiIdStatus": "inferred"
+}

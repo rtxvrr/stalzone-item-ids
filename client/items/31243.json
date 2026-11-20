@@ -1,0 +1,11 @@
+{
+  "clientId": 31243,
+  "key": "item.scheme.pm_mod_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #4: ПМ вечного новичка",
+    "en": "Schematic #4: Eternal Novice's PM"
+  },
+  "apiId": "drp6g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19255,
+  "key": "item.camo.arm.hexcam_bx",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Hexcam BX»",
+    "en": "Hexcam BX Camouflage"
+  },
+  "apiId": "4q20j",
+  "apiIdStatus": "inferred"
+}

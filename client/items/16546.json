@@ -1,0 +1,11 @@
+{
+  "clientId": 16546,
+  "key": "item.pouch.apt_p",
+  "kind": "item",
+  "name": {
+    "ru": "Подсумок с аптечками проводника",
+    "en": "Pouch of Guide's First-Aid Kits"
+  },
+  "apiId": "7l1kr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16235,
+  "key": "item.16235",
+  "kind": "item",
+  "name": {
+    "ru": "Кристалл Поэта",
+    "en": "Poet's Crystal"
+  },
+  "apiId": "lyrr2",
+  "apiIdStatus": "inferred"
+}

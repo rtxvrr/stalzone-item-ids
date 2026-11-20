@@ -1,0 +1,11 @@
+{
+  "clientId": 16524,
+  "key": "item.crate.box_ammo_spb556",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик патронов 5.56 мм СБП",
+    "en": "Crate of 5.56 mm SBP Rounds"
+  },
+  "apiId": "96zlw",
+  "apiIdStatus": "inferred"
+}

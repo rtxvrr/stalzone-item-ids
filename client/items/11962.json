@@ -1,0 +1,11 @@
+{
+  "clientId": 11962,
+  "key": "item.plate.radiator3",
+  "kind": "item",
+  "name": {
+    "ru": "Экспериментальная термопластина III",
+    "en": "Experimental Thermoplate III"
+  },
+  "apiId": "m372",
+  "apiIdStatus": "inferred"
+}

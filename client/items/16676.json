@@ -1,0 +1,11 @@
+{
+  "clientId": 16676,
+  "key": "item.lootbox.convertation_small",
+  "kind": "item",
+  "name": {
+    "ru": "Малый ящик конвертации",
+    "en": "Small Conversion Crate"
+  },
+  "apiId": "5lo21",
+  "apiIdStatus": "inferred"
+}

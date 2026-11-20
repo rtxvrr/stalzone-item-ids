@@ -1,0 +1,11 @@
+{
+  "clientId": 31924,
+  "key": "item.med.apt_mushroom1",
+  "kind": "item",
+  "name": {
+    "ru": "Гриб здрав",
+    "en": "Health Shroom"
+  },
+  "apiId": "9domz",
+  "apiIdStatus": "inferred"
+}

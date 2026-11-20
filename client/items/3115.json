@@ -1,0 +1,11 @@
+{
+  "clientId": 3115,
+  "key": "tile.3115",
+  "kind": "tile",
+  "name": {
+    "ru": "Биологическое заражение (уровень 2)",
+    "en": "Biological Infection (Level 2)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

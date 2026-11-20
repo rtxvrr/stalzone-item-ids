@@ -1,0 +1,11 @@
+{
+  "clientId": 24838,
+  "key": "item.charm.mk_mine",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кровавая мина»",
+    "en": "Blood Mine Charm"
+  },
+  "apiId": "m06rj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26620,
+  "key": "item.food.aspic",
+  "kind": "item",
+  "name": {
+    "ru": "Заливное",
+    "en": "Aspic"
+  },
+  "apiId": "2opg0",
+  "apiIdStatus": "inferred"
+}

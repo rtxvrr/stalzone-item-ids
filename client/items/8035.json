@@ -1,0 +1,11 @@
+{
+  "clientId": 8035,
+  "key": "item.quest.covenant.military_notebook",
+  "kind": "item",
+  "name": {
+    "ru": "Записная книжка военстала",
+    "en": "Military Stalker's Notebook"
+  },
+  "apiId": "lz6j",
+  "apiIdStatus": "inferred"
+}

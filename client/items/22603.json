@@ -1,0 +1,11 @@
+{
+  "clientId": 22603,
+  "key": "item.22603",
+  "kind": "item",
+  "name": {
+    "ru": "Приклад MP5 нескладной",
+    "en": "MP5 Fixed Stock"
+  },
+  "apiId": "zz90y",
+  "apiIdStatus": "inferred"
+}

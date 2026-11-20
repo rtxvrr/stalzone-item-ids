@@ -1,0 +1,11 @@
+{
+  "clientId": 4216,
+  "key": "item.plc.background.master_zone",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Хозяина Зоны",
+    "en": "Master of the Zone Background"
+  },
+  "apiId": "noo9",
+  "apiIdStatus": "inferred"
+}

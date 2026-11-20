@@ -1,0 +1,11 @@
+{
+  "clientId": 17573,
+  "key": "item.motif.wpn.elbrus_eol",
+  "kind": "item",
+  "name": {
+    "ru": "«Эол»",
+    "en": "Aeolus"
+  },
+  "apiId": "1r4j1",
+  "apiIdStatus": "inferred"
+}

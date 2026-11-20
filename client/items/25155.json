@@ -1,0 +1,11 @@
+{
+  "clientId": 25155,
+  "key": "item.arm.bulatm",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Булат-М»",
+    "en": "Bulat-M Armored Suit"
+  },
+  "apiId": "4qlwo",
+  "apiIdStatus": "inferred"
+}

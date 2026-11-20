@@ -1,0 +1,11 @@
+{
+  "clientId": 22065,
+  "key": "item.att.forend_akmsamodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельное цевье с нижней планкой",
+    "en": "Handmade Handguard with Bottom Rail"
+  },
+  "apiId": "p6low",
+  "apiIdStatus": "inferred"
+}

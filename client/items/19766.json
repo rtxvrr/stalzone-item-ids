@@ -1,0 +1,11 @@
+{
+  "clientId": 19766,
+  "key": "item.camo.arm.kryptek_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Kryptek Blue»",
+    "en": "Kryptek Blue Camouflage"
+  },
+  "apiId": "vjr5p",
+  "apiIdStatus": "inferred"
+}

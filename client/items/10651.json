@@ -1,0 +1,11 @@
+{
+  "clientId": 10651,
+  "key": "item.key.safe_hospital",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от медицинского сейфа",
+    "en": "Medical Safe Key"
+  },
+  "apiId": "zd2y",
+  "apiIdStatus": "inferred"
+}

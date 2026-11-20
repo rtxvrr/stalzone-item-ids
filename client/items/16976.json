@@ -1,0 +1,11 @@
+{
+  "clientId": 16976,
+  "key": "item.season_pass.bp_token_50bl",
+  "kind": "item",
+  "name": {
+    "ru": "Сезонный Пропуск + 50 уровней",
+    "en": "Season Pass + 50 levels"
+  },
+  "apiId": "5l6n0",
+  "apiIdStatus": "inferred"
+}

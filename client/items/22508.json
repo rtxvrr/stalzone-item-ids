@@ -1,0 +1,11 @@
+{
+  "clientId": 22508,
+  "key": "item.att.barrel_tutorial",
+  "kind": "item",
+  "name": {
+    "ru": "Старый пламегаситель",
+    "en": "Old Flash Hider"
+  },
+  "apiId": "kn9n3",
+  "apiIdStatus": "inferred"
+}

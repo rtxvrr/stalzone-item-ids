@@ -1,0 +1,11 @@
+{
+  "clientId": 16660,
+  "key": "item.16660",
+  "kind": "item",
+  "name": {
+    "ru": "Запакованный ключ для особого контейнера",
+    "en": "Packaged Key to a Special Container"
+  },
+  "apiId": "rwvov",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25359,
+  "key": "item.arm.antares",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Антарес»",
+    "en": "Antares Exoarmor"
+  },
+  "apiId": "ly3w1",
+  "apiIdStatus": "inferred"
+}

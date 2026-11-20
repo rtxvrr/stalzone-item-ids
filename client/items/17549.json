@@ -1,0 +1,11 @@
+{
+  "clientId": 17549,
+  "key": "item.style.wpn.alk22_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Стрекот Изнанки»",
+    "en": "Flutter of the Inside Out"
+  },
+  "apiId": "1r471",
+  "apiIdStatus": "inferred"
+}

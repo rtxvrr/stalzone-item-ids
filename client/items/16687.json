@@ -1,0 +1,11 @@
+{
+  "clientId": 16687,
+  "key": "item.lootbox.ffa_sleeves_1_tier",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик багровых гильз (большой)",
+    "en": "Crimson Casing Crate (Large)"
+  },
+  "apiId": "okpo6",
+  "apiIdStatus": "inferred"
+}

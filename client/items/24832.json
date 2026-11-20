@@ -1,0 +1,11 @@
+{
+  "clientId": 24832,
+  "key": "item.charm.spring26_reel",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кинохроника»",
+    "en": "Newsreel Charm"
+  },
+  "apiId": "knqr0",
+  "apiIdStatus": "inferred"
+}

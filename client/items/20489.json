@@ -1,0 +1,11 @@
+{
+  "clientId": 20489,
+  "key": "item.wpn.glock18c_black",
+  "kind": "item",
+  "name": {
+    "ru": "Glock 18C Schwarz",
+    "en": "Glock 18C Schwarz"
+  },
+  "apiId": "p634d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27719,
+  "key": "item.stash_placer.summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Хранитель тишины",
+    "en": "Silence Keeper"
+  },
+  "apiId": "drlrn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31427,
+  "key": "item.lootbox.battlepack",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой набор",
+    "en": "Battle Pack"
+  },
+  "apiId": "z3o52",
+  "apiIdStatus": "inferred"
+}

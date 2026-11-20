@@ -1,0 +1,11 @@
+{
+  "clientId": 17124,
+  "key": "item.style.arm.bear_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Шатун»",
+    "en": "Medved"
+  },
+  "apiId": "96kjw",
+  "apiIdStatus": "inferred"
+}

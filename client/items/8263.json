@@ -1,0 +1,11 @@
+{
+  "clientId": 8263,
+  "key": "item.quest.diary_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент дневника бойца «Тайфуна»",
+    "en": "A Fragment from the Diary of a Typhoon Fighter"
+  },
+  "apiId": "ojg6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20079,
+  "key": "item.wpn.g3a1",
+  "kind": "item",
+  "name": {
+    "ru": "HK G3A1",
+    "en": "HK G3A1"
+  },
+  "apiId": "4q09p",
+  "apiIdStatus": "inferred"
+}

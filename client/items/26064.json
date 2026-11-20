@@ -1,0 +1,11 @@
+{
+  "clientId": 26064,
+  "key": "item.med.inside_amulet",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег Священника",
+    "en": "Clergyman's Amulet"
+  },
+  "apiId": "n4vn6",
+  "apiIdStatus": "inferred"
+}

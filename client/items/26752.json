@@ -1,0 +1,11 @@
+{
+  "clientId": 26752,
+  "key": "item.misc.golden_ticket",
+  "kind": "item",
+  "name": {
+    "ru": "Золотой билет",
+    "en": "Golden Ticket"
+  },
+  "apiId": "5l2d4",
+  "apiIdStatus": "inferred"
+}

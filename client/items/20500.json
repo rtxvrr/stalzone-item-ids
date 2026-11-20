@@ -1,0 +1,11 @@
+{
+  "clientId": 20500,
+  "key": "item.wpn.ump",
+  "kind": "item",
+  "name": {
+    "ru": "HK UMP9",
+    "en": "HK UMP9"
+  },
+  "apiId": "969vz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31012,
+  "key": "item.brt.svalka.mining",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки медной проволоки",
+    "en": "Pieces of Copper Wire"
+  },
+  "apiId": "rj6gv",
+  "apiIdStatus": "inferred"
+}

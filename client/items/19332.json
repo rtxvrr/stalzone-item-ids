@@ -1,0 +1,11 @@
+{
+  "clientId": 19332,
+  "key": "item.camo.arm.autumn24_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Веяние»",
+    "en": "Winnowing Paint"
+  },
+  "apiId": "kn1gv",
+  "apiIdStatus": "inferred"
+}

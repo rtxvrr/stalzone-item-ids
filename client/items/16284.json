@@ -1,0 +1,11 @@
+{
+  "clientId": 16284,
+  "key": "item.misc.pseudodog_brain_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Мозг гончей",
+    "en": "Hound Brain"
+  },
+  "apiId": "rwvpz",
+  "apiIdStatus": "inferred"
+}

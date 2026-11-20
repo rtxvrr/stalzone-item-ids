@@ -1,0 +1,11 @@
+{
+  "clientId": 8026,
+  "key": "item.quest.abnormal_connection",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка с аномальным соединением",
+    "en": "Test Tube with Anomalous Combination"
+  },
+  "apiId": "go50",
+  "apiIdStatus": "inferred"
+}

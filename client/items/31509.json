@@ -1,0 +1,11 @@
+{
+  "clientId": 31509,
+  "key": "item.ny_toys.setK.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая простая гирлянда",
+    "en": "Simple Crafted Tree Lights"
+  },
+  "apiId": "q0nz9",
+  "apiIdStatus": "inferred"
+}

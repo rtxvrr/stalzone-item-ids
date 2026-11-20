@@ -1,0 +1,11 @@
+{
+  "clientId": 26089,
+  "key": "item.food.ny23.eskimo",
+  "kind": "item",
+  "name": {
+    "ru": "Эскимо",
+    "en": "Ice Cream"
+  },
+  "apiId": "p62o6",
+  "apiIdStatus": "inferred"
+}

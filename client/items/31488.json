@@ -1,0 +1,11 @@
+{
+  "clientId": 31488,
+  "key": "item.lootbox.black_gold",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Черное Золото»",
+    "en": "Black Gold Container"
+  },
+  "apiId": "nkn96",
+  "apiIdStatus": "inferred"
+}

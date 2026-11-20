@@ -1,0 +1,11 @@
+{
+  "clientId": 31336,
+  "key": "item.ny_toys.setE.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовый полосатый шарик",
+    "en": "Purple Striped Bauble"
+  },
+  "apiId": "rjpk5",
+  "apiIdStatus": "inferred"
+}

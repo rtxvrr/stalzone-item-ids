@@ -1,0 +1,11 @@
+{
+  "clientId": 16803,
+  "key": "item.16803",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Зари»",
+    "en": "Rise Data Block"
+  },
+  "apiId": "zz0wk",
+  "apiIdStatus": "inferred"
+}

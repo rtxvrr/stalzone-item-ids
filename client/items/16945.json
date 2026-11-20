@@ -1,0 +1,11 @@
+{
+  "clientId": 16945,
+  "key": "item.quest.prince_sorrel",
+  "kind": "item",
+  "name": {
+    "ru": "Княжий щавель",
+    "en": "Prince's Sorrel"
+  },
+  "apiId": "3gzrg",
+  "apiIdStatus": "inferred"
+}

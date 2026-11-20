@@ -1,0 +1,11 @@
+{
+  "clientId": 26069,
+  "key": "item.med.inside_sedative",
+  "kind": "item",
+  "name": {
+    "ru": "Успокоительное Профессора",
+    "en": "Professor's Sedative"
+  },
+  "apiId": "3g13z",
+  "apiIdStatus": "inferred"
+}

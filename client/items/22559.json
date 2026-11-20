@@ -1,0 +1,11 @@
+{
+  "clientId": 22559,
+  "key": "item.att.silencer_socom556",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель SureFire SOCOM556-RC2",
+    "en": "SureFire SOCOM556-RC2 Silencer"
+  },
+  "apiId": "ly1kq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18007,
+  "key": "item.camo.wpn.violet",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Фиолетовая»",
+    "en": "Purple Weapon Paint"
+  },
+  "apiId": "4qj3j",
+  "apiIdStatus": "inferred"
+}

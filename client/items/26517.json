@@ -1,0 +1,11 @@
+{
+  "clientId": 26517,
+  "key": "item.26517",
+  "kind": "item",
+  "name": {
+    "ru": "Салат крабовый",
+    "en": "Crab Salad"
+  },
+  "apiId": "p60k2",
+  "apiIdStatus": "inferred"
+}

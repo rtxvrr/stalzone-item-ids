@@ -1,0 +1,11 @@
+{
+  "clientId": 31499,
+  "key": "item.case.winter25_innovative",
+  "kind": "item",
+  "name": {
+    "ru": "Передовой кейс «Операции Криостазис»",
+    "en": "Advanced Operation Cryostasis Case"
+  },
+  "apiId": "z3or2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10601,
+  "key": "item.keyholder.medium",
+  "kind": "item",
+  "name": {
+    "ru": "Ключница",
+    "en": "Key Holder"
+  },
+  "apiId": "156g",
+  "apiIdStatus": "inferred"
+}

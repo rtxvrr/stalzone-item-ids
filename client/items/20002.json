@@ -1,0 +1,11 @@
+{
+  "clientId": 20002,
+  "key": "item.wpn.uzi",
+  "kind": "item",
+  "name": {
+    "ru": "IMI Uzi",
+    "en": "IMI Uzi"
+  },
+  "apiId": "g40d0",
+  "apiIdStatus": "inferred"
+}

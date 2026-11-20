@@ -1,0 +1,11 @@
+{
+  "clientId": 20492,
+  "key": "item.wpn.tec9",
+  "kind": "item",
+  "name": {
+    "ru": "Tec-DC9",
+    "en": "Tec-DC9"
+  },
+  "apiId": "2onjv",
+  "apiIdStatus": "inferred"
+}

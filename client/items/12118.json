@@ -1,0 +1,11 @@
+{
+  "clientId": 12118,
+  "key": "item.bag.light3",
+  "kind": "item",
+  "name": {
+    "ru": "Разгрузка Black Eagle Y-73",
+    "en": "Utility Vest Black Eagle Y-73"
+  },
+  "apiId": "vyqd",
+  "apiIdStatus": "inferred"
+}

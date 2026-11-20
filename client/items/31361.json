@@ -1,0 +1,11 @@
+{
+  "clientId": 31361,
+  "key": "item.ny_toys.setG.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-трюфель",
+    "en": "Gingerbread Truffle Decoration"
+  },
+  "apiId": "00j31",
+  "apiIdStatus": "inferred"
+}

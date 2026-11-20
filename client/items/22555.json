@@ -1,0 +1,11 @@
+{
+  "clientId": 22555,
+  "key": "item.att.silencer_kacqd",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель KAC Style QD",
+    "en": "KAC Style QD Silencer"
+  },
+  "apiId": "4qpol",
+  "apiIdStatus": "inferred"
+}

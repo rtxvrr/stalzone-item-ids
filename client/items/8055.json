@@ -1,0 +1,11 @@
+{
+  "clientId": 8055,
+  "key": "item.quest.complex_composition_botwin2",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка с комплексным составом",
+    "en": "The test tube with a complex composition"
+  },
+  "apiId": "46rp",
+  "apiIdStatus": "inferred"
+}

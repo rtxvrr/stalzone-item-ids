@@ -1,0 +1,11 @@
+{
+  "clientId": 8048,
+  "key": "item.quest.brain_sound",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенный ультразвуком мозг пси-гончей",
+    "en": "Ultrasound-cleaned brain of a psy-hound"
+  },
+  "apiId": "9570",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25107,
+  "key": "item.arm.centurion-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Центурион»",
+    "en": "Worn Centurion"
+  },
+  "apiId": "4qlvo",
+  "apiIdStatus": "inferred"
+}

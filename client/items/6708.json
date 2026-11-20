@@ -1,0 +1,11 @@
+{
+  "clientId": 6708,
+  "key": "item.misc.coagulant",
+  "kind": "item",
+  "name": {
+    "ru": "Коагулянт",
+    "en": "Coagulant"
+  },
+  "apiId": "km9v",
+  "apiIdStatus": "inferred"
+}

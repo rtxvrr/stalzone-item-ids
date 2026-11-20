@@ -1,0 +1,11 @@
+{
+  "clientId": 25008,
+  "key": "item.arm.bronj_press",
+  "kind": "item",
+  "name": {
+    "ru": "Броня репортера",
+    "en": "Reporter's Armor"
+  },
+  "apiId": "knqly",
+  "apiIdStatus": "inferred"
+}

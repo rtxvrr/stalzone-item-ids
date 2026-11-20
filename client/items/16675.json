@@ -1,0 +1,11 @@
+{
+  "clientId": 16675,
+  "key": "item.lootbox.led",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «ЛЕD»",
+    "en": "LED Container"
+  },
+  "apiId": "zzw1y",
+  "apiIdStatus": "inferred"
+}

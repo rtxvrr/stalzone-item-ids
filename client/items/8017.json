@@ -1,0 +1,11 @@
+{
+  "clientId": 8017,
+  "key": "item.quest.duty_painkillers",
+  "kind": "item",
+  "name": {
+    "ru": "Сильные обезболивающие",
+    "en": "Strong Painkillers"
+  },
+  "apiId": "p406",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4323,
+  "key": "item.plc.background.scstore_a26_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Приближающийся набат»",
+    "en": "Approaching Tocsin Background"
+  },
+  "apiId": "6jzy",
+  "apiIdStatus": "inferred"
+}

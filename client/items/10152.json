@@ -1,0 +1,11 @@
+{
+  "clientId": 10152,
+  "key": "item.quest.smotrikov3",
+  "kind": "item",
+  "name": {
+    "ru": "Белая кассета: 51",
+    "en": "White Cassette: 51"
+  },
+  "apiId": "5wpq",
+  "apiIdStatus": "inferred"
+}

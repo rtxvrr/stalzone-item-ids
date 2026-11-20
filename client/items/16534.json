@@ -1,0 +1,11 @@
+{
+  "clientId": 16534,
+  "key": "item.bag.9exp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка экспансивных 9 мм патронов",
+    "en": "Pouch of 9 mm Expanding Rounds"
+  },
+  "apiId": "j5qr4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20401,
+  "key": "item.wpn.pm",
+  "kind": "item",
+  "name": {
+    "ru": "ПМ",
+    "en": "PM"
+  },
+  "apiId": "1r7dr",
+  "apiIdStatus": "inferred"
+}

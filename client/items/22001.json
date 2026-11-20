@@ -1,0 +1,11 @@
+{
+  "clientId": 22001,
+  "key": "item.att.forend_m4ris",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье RIS M4A1",
+    "en": "RIS M4A1 Handguard"
+  },
+  "apiId": "1rvlg",
+  "apiIdStatus": "inferred"
+}

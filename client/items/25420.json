@@ -1,0 +1,11 @@
+{
+  "clientId": 25420,
+  "key": "item.arm.saturn",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Сатурн»",
+    "en": "Saturn Jumpsuit"
+  },
+  "apiId": "2ovr0",
+  "apiIdStatus": "inferred"
+}

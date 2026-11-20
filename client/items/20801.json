@@ -1,0 +1,11 @@
+{
+  "clientId": 20801,
+  "key": "item.wpn.pm_mod",
+  "kind": "item",
+  "name": {
+    "ru": "ПМ вечного новичка",
+    "en": "Eternal Novice's PM"
+  },
+  "apiId": "1rj9g",
+  "apiIdStatus": "inferred"
+}

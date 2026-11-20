@@ -1,0 +1,11 @@
+{
+  "clientId": 10262,
+  "key": "item.phonograph.vinyl_location_serpentine",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Серпантин»",
+    "en": "Serpentine Vinyl Record"
+  },
+  "apiId": "md6k",
+  "apiIdStatus": "inferred"
+}

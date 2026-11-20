@@ -1,0 +1,11 @@
+{
+  "clientId": 10178,
+  "key": "item.quest.audio_diary_operation_lesta_water_area",
+  "kind": "item",
+  "name": {
+    "ru": "“Акватория“",
+    "en": "Water Area"
+  },
+  "apiId": "w5q3",
+  "apiIdStatus": "inferred"
+}

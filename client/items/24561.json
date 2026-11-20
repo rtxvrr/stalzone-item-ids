@@ -1,0 +1,11 @@
+{
+  "clientId": 24561,
+  "key": "item.charm.blizzard_sphere1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Принявший холод»",
+    "en": "Frost Convert Charm"
+  },
+  "apiId": "0rzpy",
+  "apiIdStatus": "inferred"
+}

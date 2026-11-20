@@ -1,0 +1,11 @@
+{
+  "clientId": 6055,
+  "key": "item.misc.cold_fusion_battery",
+  "kind": "item",
+  "name": {
+    "ru": "Батарея холодного синтеза",
+    "en": "Cold fusion battery"
+  },
+  "apiId": "401j",
+  "apiIdStatus": "inferred"
+}

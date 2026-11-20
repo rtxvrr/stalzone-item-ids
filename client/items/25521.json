@@ -1,0 +1,11 @@
+{
+  "clientId": 25521,
+  "key": "item.device.nvdtest2_24b",
+  "kind": "item",
+  "name": {
+    "ru": "Штурмовой ПНВ (синий)",
+    "en": "Assault NVG, Blue"
+  },
+  "apiId": "3gd2k",
+  "apiIdStatus": "inferred"
+}

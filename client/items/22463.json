@@ -1,0 +1,11 @@
+{
+  "clientId": 22463,
+  "key": "item.att.lcu_murmur_r",
+  "kind": "item",
+  "name": {
+    "ru": "«Склера»",
+    "en": "Sclera"
+  },
+  "apiId": "okjoo",
+  "apiIdStatus": "inferred"
+}

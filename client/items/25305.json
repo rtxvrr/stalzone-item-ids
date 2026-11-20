@@ -1,0 +1,11 @@
+{
+  "clientId": 25305,
+  "key": "item.arm.smog",
+  "kind": "item",
+  "name": {
+    "ru": "Тяжелый бронекостюм «Туманный охотник»",
+    "en": "Fog Hunter Heavy Armored Suit"
+  },
+  "apiId": "y359o",
+  "apiIdStatus": "inferred"
+}

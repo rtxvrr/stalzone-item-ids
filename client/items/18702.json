@@ -1,0 +1,11 @@
+{
+  "clientId": 18702,
+  "key": "item.camo.wpn.media_base",
+  "kind": "item",
+  "name": {
+    "ru": "Краска базового партнера",
+    "en": "Basic Partner Paint"
+  },
+  "apiId": "g4jmp",
+  "apiIdStatus": "inferred"
+}

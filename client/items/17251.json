@@ -1,0 +1,11 @@
+{
+  "clientId": 17251,
+  "key": "item.style.melee.katana_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "/seppuku",
+    "en": "/seppuku"
+  },
+  "apiId": "zz01y",
+  "apiIdStatus": "inferred"
+}

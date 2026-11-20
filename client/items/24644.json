@@ -1,0 +1,11 @@
+{
+  "clientId": 24644,
+  "key": "item.charm.executioner",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Палач»",
+    "en": "Executioner Charm"
+  },
+  "apiId": "2oyyv",
+  "apiIdStatus": "inferred"
+}

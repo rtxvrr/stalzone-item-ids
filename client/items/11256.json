@@ -1,0 +1,11 @@
+{
+  "clientId": 11256,
+  "key": "item.art.trampoline_braslet",
+  "kind": "item",
+  "name": {
+    "ru": "Браслет",
+    "en": "Bracelet"
+  },
+  "apiId": "kqgy",
+  "apiIdStatus": "inferred"
+}

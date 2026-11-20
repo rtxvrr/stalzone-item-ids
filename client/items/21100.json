@@ -1,0 +1,11 @@
+{
+  "clientId": 21100,
+  "key": "item.melee.chain_whip",
+  "kind": "item",
+  "name": {
+    "ru": "«Дружба»",
+    "en": "Friendship"
+  },
+  "apiId": "96wpz",
+  "apiIdStatus": "inferred"
+}

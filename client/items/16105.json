@@ -1,0 +1,11 @@
+{
+  "clientId": 16105,
+  "key": "item.16105",
+  "kind": "item",
+  "name": {
+    "ru": "Селезенка с Бораля",
+    "en": "Spleen from Boral"
+  },
+  "apiId": "y3gr3",
+  "apiIdStatus": "inferred"
+}

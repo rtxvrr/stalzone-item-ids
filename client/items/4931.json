@@ -1,0 +1,11 @@
+{
+  "clientId": 4931,
+  "key": "item.plc.sticker.scstore_elbrus",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Эльбрус»",
+    "en": "Elbrus Sticker"
+  },
+  "apiId": "4m6n",
+  "apiIdStatus": "inferred"
+}

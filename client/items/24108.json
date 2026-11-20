@@ -1,0 +1,11 @@
+{
+  "clientId": 24108,
+  "key": "item.24108",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Осколок»",
+    "en": "Shard Charm"
+  },
+  "apiId": "knd3v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15069,
+  "key": "item.pack.camo.blitz_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Раскол»",
+    "en": "Split Paint Set"
+  },
+  "apiId": "3g4o1",
+  "apiIdStatus": "inferred"
+}

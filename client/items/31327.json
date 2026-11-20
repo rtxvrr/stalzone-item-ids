@@ -1,0 +1,11 @@
+{
+  "clientId": 31327,
+  "key": "item.ny_toys.setD.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая сосулька",
+    "en": "Green Icicle"
+  },
+  "apiId": "z3o6n",
+  "apiIdStatus": "inferred"
+}

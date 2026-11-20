@@ -1,0 +1,11 @@
+{
+  "clientId": 5301,
+  "key": "item.plc.tag.prestige_nichie",
+  "kind": "item",
+  "name": {
+    "ru": "Смерть в нищете",
+    "en": "Died Broke"
+  },
+  "apiId": "16l2",
+  "apiIdStatus": "inferred"
+}

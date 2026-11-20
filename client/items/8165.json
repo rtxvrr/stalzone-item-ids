@@ -1,0 +1,11 @@
+{
+  "clientId": 8165,
+  "key": "item.quest.apocalypse_not_today_syringe_green",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленый шприц",
+    "en": "Green Syringe"
+  },
+  "apiId": "plq5",
+  "apiIdStatus": "inferred"
+}

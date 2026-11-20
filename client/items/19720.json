@@ -1,0 +1,11 @@
+{
+  "clientId": 19720,
+  "key": "item.camo.arm.elki",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Елки»",
+    "en": "Christmas Trees Paint"
+  },
+  "apiId": "2odg5",
+  "apiIdStatus": "inferred"
+}

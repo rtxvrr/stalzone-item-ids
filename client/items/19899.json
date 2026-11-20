@@ -1,0 +1,11 @@
+{
+  "clientId": 19899,
+  "key": "item.motif.wpn.f2000_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Бес»",
+    "en": "Devil"
+  },
+  "apiId": "zz75k",
+  "apiIdStatus": "inferred"
+}

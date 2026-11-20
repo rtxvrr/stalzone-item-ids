@@ -1,0 +1,11 @@
+{
+  "clientId": 18737,
+  "key": "item.camo.wpn.puncture",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Прокол»",
+    "en": "Puncture Paint"
+  },
+  "apiId": "0rmq1",
+  "apiIdStatus": "inferred"
+}

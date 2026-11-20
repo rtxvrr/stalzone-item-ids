@@ -1,0 +1,11 @@
+{
+  "clientId": 25164,
+  "key": "item.arm.painter",
+  "kind": "item",
+  "name": {
+    "ru": "Плащ художника",
+    "en": "Artist's Cloak"
+  },
+  "apiId": "n4r92",
+  "apiIdStatus": "inferred"
+}

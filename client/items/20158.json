@@ -1,0 +1,11 @@
+{
+  "clientId": 20158,
+  "key": "item.wpn.bren",
+  "kind": "item",
+  "name": {
+    "ru": "Bren",
+    "en": "Bren"
+  },
+  "apiId": "j5ly4",
+  "apiIdStatus": "inferred"
+}

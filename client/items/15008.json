@@ -1,0 +1,11 @@
+{
+  "clientId": 15008,
+  "key": "item.lootbox.spring25",
+  "kind": "item",
+  "name": {
+    "ru": "Забытые припасы",
+    "en": "Forgotten supplies"
+  },
+  "apiId": "knrnj",
+  "apiIdStatus": "inferred"
+}

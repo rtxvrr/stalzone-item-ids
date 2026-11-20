@@ -1,0 +1,11 @@
+{
+  "clientId": 24669,
+  "key": "item.charm.welcome_narrator",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Нарратор»",
+    "en": "Narrator Channel Fan Charm"
+  },
+  "apiId": "3gw61",
+  "apiIdStatus": "inferred"
+}

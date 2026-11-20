@@ -1,0 +1,11 @@
+{
+  "clientId": 19511,
+  "key": "item.camo.unique_arm.legend",
+  "kind": "item",
+  "name": {
+    "ru": "«Легенда»",
+    "en": "Legend"
+  },
+  "apiId": "lyg3q",
+  "apiIdStatus": "inferred"
+}

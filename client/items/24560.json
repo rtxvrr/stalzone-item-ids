@@ -1,0 +1,11 @@
+{
+  "clientId": 24560,
+  "key": "item.charm.snowflake",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Стальная снежинка»",
+    "en": "Steel Snowflake Charm"
+  },
+  "apiId": "rw74y",
+  "apiIdStatus": "inferred"
+}

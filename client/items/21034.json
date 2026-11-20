@@ -1,0 +1,11 @@
+{
+  "clientId": 21034,
+  "key": "item.melee.vstesak",
+  "kind": "item",
+  "name": {
+    "ru": "Тесак военсталов",
+    "en": "Military Stalkers' Cleaver"
+  },
+  "apiId": "j5vvl",
+  "apiIdStatus": "inferred"
+}

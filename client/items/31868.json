@@ -1,0 +1,11 @@
+{
+  "clientId": 31868,
+  "key": "item.blueprint.wpn.ravent_mr153",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж MP-153",
+    "en": "MP-153 Blueprint"
+  },
+  "apiId": "21wwv",
+  "apiIdStatus": "inferred"
+}

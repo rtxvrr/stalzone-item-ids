@@ -1,0 +1,11 @@
+{
+  "clientId": 16646,
+  "key": "item.16646",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ для обычного контейнера",
+    "en": "Key to a Common Container"
+  },
+  "apiId": "7l1y6",
+  "apiIdStatus": "inferred"
+}

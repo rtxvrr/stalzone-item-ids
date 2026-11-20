@@ -1,0 +1,11 @@
+{
+  "clientId": 11060,
+  "key": "item.art.jarka_shishka",
+  "kind": "item",
+  "name": {
+    "ru": "Шишка",
+    "en": "Cone"
+  },
+  "apiId": "rnvg",
+  "apiIdStatus": "inferred"
+}

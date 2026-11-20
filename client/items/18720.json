@@ -1,0 +1,11 @@
+{
+  "clientId": 18720,
+  "key": "item.camo.wpn.elki",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Елки»",
+    "en": "Christmas Trees Paint"
+  },
+  "apiId": "2oml6",
+  "apiIdStatus": "inferred"
+}

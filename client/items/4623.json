@@ -1,0 +1,11 @@
+{
+  "clientId": 4623,
+  "key": "item.plc.pattern.bureau26",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Периметр»",
+    "en": "Perimeter Pattern"
+  },
+  "apiId": "6dmp",
+  "apiIdStatus": "inferred"
+}

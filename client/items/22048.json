@@ -1,0 +1,11 @@
+{
+  "clientId": 22048,
+  "key": "item.att.forend_g3wood",
+  "kind": "item",
+  "name": {
+    "ru": "Деревянное цевье G3",
+    "en": "G3 Wooden Handguard"
+  },
+  "apiId": "96v1l",
+  "apiIdStatus": "inferred"
+}

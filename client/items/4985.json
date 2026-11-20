@@ -1,0 +1,11 @@
+{
+  "clientId": 4985,
+  "key": "item.plc.sticker.nea_tiger",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Тигр»",
+    "en": "Tigre Sticker"
+  },
+  "apiId": "0mp1",
+  "apiIdStatus": "inferred"
+}

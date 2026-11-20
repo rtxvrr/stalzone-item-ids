@@ -1,0 +1,11 @@
+{
+  "clientId": 22717,
+  "key": "item.att.mag_g350",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин G3/M1A",
+    "en": "G3/M1A Drum Magazine"
+  },
+  "apiId": "p6yr4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16990,
+  "key": "item.quest.daily_measurer",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство для замеров",
+    "en": "Measurement Device"
+  },
+  "apiId": "vj02d",
+  "apiIdStatus": "inferred"
+}

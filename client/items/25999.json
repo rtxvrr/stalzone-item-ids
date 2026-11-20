@@ -1,0 +1,11 @@
+{
+  "clientId": 25999,
+  "key": "item.arm.longcoat_terentii",
+  "kind": "item",
+  "name": {
+    "ru": "Плащ грибника",
+    "en": "Mushroom Forager's Cloak"
+  },
+  "apiId": "zzqkn",
+  "apiIdStatus": "inferred"
+}

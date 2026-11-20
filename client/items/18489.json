@@ -1,0 +1,11 @@
+{
+  "clientId": 18489,
+  "key": "item.camo.wpn.stalcraft_store_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Промоушен»",
+    "en": "Promotion Paint"
+  },
+  "apiId": "p6zjw",
+  "apiIdStatus": "inferred"
+}

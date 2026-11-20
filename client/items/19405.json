@@ -1,0 +1,11 @@
+{
+  "clientId": 19405,
+  "key": "item.camo.arm.bf_skin_8",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Blufor»",
+    "en": "BLUFOR Paint"
+  },
+  "apiId": "y3olz",
+  "apiIdStatus": "inferred"
+}

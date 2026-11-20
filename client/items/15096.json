@@ -1,0 +1,11 @@
+{
+  "clientId": 15096,
+  "key": "item.lootbox.arena26_styles",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами прошлых Арен",
+    "en": "Past Arena Skins Case"
+  },
+  "apiId": "96dkq",
+  "apiIdStatus": "inferred"
+}

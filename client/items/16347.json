@@ -1,0 +1,11 @@
+{
+  "clientId": 16347,
+  "key": "item.clan.resource4",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с оборудованием",
+    "en": "Crate of Equipment"
+  },
+  "apiId": "6w92y",
+  "apiIdStatus": "inferred"
+}

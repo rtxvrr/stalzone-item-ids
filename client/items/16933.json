@@ -1,0 +1,11 @@
+{
+  "clientId": 16933,
+  "key": "item.quest.covenant.docs_stack_special",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка секретных документов «Завета»",
+    "en": "Stack of Classified Covenant Documents"
+  },
+  "apiId": "qj34k",
+  "apiIdStatus": "inferred"
+}

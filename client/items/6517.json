@@ -1,0 +1,11 @@
+{
+  "clientId": 6517,
+  "key": "item.misc.rotary_system",
+  "kind": "item",
+  "name": {
+    "ru": "Роторная система",
+    "en": "Rotor System"
+  },
+  "apiId": "p3o4",
+  "apiIdStatus": "inferred"
+}

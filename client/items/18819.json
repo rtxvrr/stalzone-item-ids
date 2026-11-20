@@ -1,0 +1,11 @@
+{
+  "clientId": 18819,
+  "key": "item.mtl.arm.frozenblood",
+  "kind": "item",
+  "name": {
+    "ru": "«Замерзшая кровь»",
+    "en": "Frozen Blood"
+  },
+  "apiId": "dm4w5",
+  "apiIdStatus": "inferred"
+}

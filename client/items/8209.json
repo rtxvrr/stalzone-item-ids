@@ -1,0 +1,11 @@
+{
+  "clientId": 8209,
+  "key": "item.quest.wild_north_urda_report",
+  "kind": "item",
+  "name": {
+    "ru": "Отчет Урда",
+    "en": "Urd Report"
+  },
+  "apiId": "qrnj",
+  "apiIdStatus": "inferred"
+}

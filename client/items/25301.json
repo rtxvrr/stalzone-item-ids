@@ -1,0 +1,11 @@
+{
+  "clientId": 25301,
+  "key": "item.arm.magnit",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Магнит»",
+    "en": "Magnet Jumpsuit"
+  },
+  "apiId": "1rkn1",
+  "apiIdStatus": "inferred"
+}

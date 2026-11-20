@@ -1,0 +1,11 @@
+{
+  "clientId": 24926,
+  "key": "item.charm.bureau_skull",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Верный Пес»",
+    "en": "Faithful Hound Charm"
+  },
+  "apiId": "g4ypg",
+  "apiIdStatus": "inferred"
+}

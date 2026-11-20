@@ -1,0 +1,11 @@
+{
+  "clientId": 18490,
+  "key": "item.camo.wpn.stalcraft_store_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Беспорядок»",
+    "en": "Mess Paint"
+  },
+  "apiId": "vjvnr",
+  "apiIdStatus": "inferred"
+}

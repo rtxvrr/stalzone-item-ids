@@ -1,0 +1,11 @@
+{
+  "clientId": 31423,
+  "key": "item.crate.molotov",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик коктейлей Молотова",
+    "en": "Crate of Molotov Cocktails"
+  },
+  "apiId": "6o71j",
+  "apiIdStatus": "inferred"
+}

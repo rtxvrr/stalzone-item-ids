@@ -1,0 +1,11 @@
+{
+  "clientId": 31700,
+  "key": "item.part.mg42_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть MG3 #1",
+    "en": "MG3 Part #1"
+  },
+  "apiId": "9doqy",
+  "apiIdStatus": "inferred"
+}

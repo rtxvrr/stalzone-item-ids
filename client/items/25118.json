@@ -1,0 +1,11 @@
+{
+  "clientId": 25118,
+  "key": "item.arm.turist-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Грибник»",
+    "en": "Worn Forager"
+  },
+  "apiId": "vj1pp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 23202,
+  "key": "item.bolt_gem.ice",
+  "kind": "item",
+  "name": {
+    "ru": "Импульсная частица: Иней",
+    "en": "Impulse Particle: Rime"
+  },
+  "apiId": "g4qp6",
+  "apiIdStatus": "inferred"
+}

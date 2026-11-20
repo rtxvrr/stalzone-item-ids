@@ -1,0 +1,11 @@
+{
+  "clientId": 29920,
+  "key": "item.filler.mining_1",
+  "kind": "item",
+  "name": {
+    "ru": "Предохранитель",
+    "en": "Failsafe"
+  },
+  "apiId": "21rp5",
+  "apiIdStatus": "inferred"
+}

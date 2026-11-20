@@ -1,0 +1,11 @@
+{
+  "clientId": 5008,
+  "key": "item.plc.sticker.electroshtorm_3",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Да ведь убьет же!»",
+    "en": "Told You It’d Kill You! Sticker"
+  },
+  "apiId": "kj00",
+  "apiIdStatus": "inferred"
+}

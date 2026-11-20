@@ -1,0 +1,11 @@
+{
+  "clientId": 4968,
+  "key": "item.plc.sticker.reichstag_assault",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Штурмовик»",
+    "en": "Assaulter Sticker"
+  },
+  "apiId": "2m76",
+  "apiIdStatus": "inferred"
+}

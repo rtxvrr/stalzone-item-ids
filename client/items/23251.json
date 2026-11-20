@@ -1,0 +1,11 @@
+{
+  "clientId": 23251,
+  "key": "item.bolt_gem.acid",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Ядовитая",
+    "en": "Chromatic Particle: Poisonous"
+  },
+  "apiId": "zzrvy",
+  "apiIdStatus": "inferred"
+}

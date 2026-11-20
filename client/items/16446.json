@@ -1,0 +1,11 @@
+{
+  "clientId": 16446,
+  "key": "item.16446",
+  "kind": "item",
+  "name": {
+    "ru": "Радио Отшельника",
+    "en": "Hermit's Radio"
+  },
+  "apiId": "7l1g3",
+  "apiIdStatus": "inferred"
+}

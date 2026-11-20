@@ -1,0 +1,11 @@
+{
+  "clientId": 20580,
+  "key": "item.wpn.gauss",
+  "kind": "item",
+  "name": {
+    "ru": "Винтовка Гаусса",
+    "en": "Gauss Rifle"
+  },
+  "apiId": "knmdv",
+  "apiIdStatus": "inferred"
+}

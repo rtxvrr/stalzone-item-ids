@@ -1,0 +1,11 @@
+{
+  "clientId": 26502,
+  "key": "item.food.mandarin",
+  "kind": "item",
+  "name": {
+    "ru": "Мандарин",
+    "en": "Mandarin"
+  },
+  "apiId": "g45rp",
+  "apiIdStatus": "inferred"
+}

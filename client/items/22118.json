@@ -1,0 +1,11 @@
+{
+  "clientId": 22118,
+  "key": "item.att.handgrip_rk1",
+  "kind": "item",
+  "name": {
+    "ru": "РК-1",
+    "en": "RK-1"
+  },
+  "apiId": "vjpmp",
+  "apiIdStatus": "inferred"
+}

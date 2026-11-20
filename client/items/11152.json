@@ -1,0 +1,11 @@
+{
+  "clientId": 11152,
+  "key": "item.art.kisel_sliz",
+  "kind": "item",
+  "name": {
+    "ru": "Флегма",
+    "en": "Phlegm"
+  },
+  "apiId": "5r04",
+  "apiIdStatus": "inferred"
+}

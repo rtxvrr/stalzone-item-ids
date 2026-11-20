@@ -1,0 +1,11 @@
+{
+  "clientId": 16414,
+  "key": "item.16414",
+  "kind": "item",
+  "name": {
+    "ru": "Радиомаячок",
+    "en": "Radio tracker"
+  },
+  "apiId": "m0qmj",
+  "apiIdStatus": "inferred"
+}

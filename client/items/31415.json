@@ -1,0 +1,11 @@
+{
+  "clientId": 31415,
+  "key": "item.bag.9fire",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 9 мм «Жгучий»",
+    "en": "Pouch of 9 mm Fluff Rounds"
+  },
+  "apiId": "oln9o",
+  "apiIdStatus": "inferred"
+}

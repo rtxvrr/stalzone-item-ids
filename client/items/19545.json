@@ -1,0 +1,11 @@
+{
+  "clientId": 19545,
+  "key": "item.camo.unique_arm.vimpel",
+  "kind": "item",
+  "name": {
+    "ru": "«Вымпел»",
+    "en": "Directorate V"
+  },
+  "apiId": "3gkvk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21042,
+  "key": "item.melee.cryomancer",
+  "kind": "item",
+  "name": {
+    "ru": "«Криомансер»",
+    "en": "Cryomancer"
+  },
+  "apiId": "vj447",
+  "apiIdStatus": "inferred"
+}

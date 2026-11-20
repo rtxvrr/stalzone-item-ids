@@ -1,0 +1,11 @@
+{
+  "clientId": 9901,
+  "key": "item.exp.sermistor_frag",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный M384E1",
+    "en": "Grenade Launcher Round M384E1"
+  },
+  "apiId": "1glq",
+  "apiIdStatus": "inferred"
+}

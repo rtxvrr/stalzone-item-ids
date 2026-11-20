@@ -1,0 +1,11 @@
+{
+  "clientId": 18491,
+  "key": "item.camo.wpn.stalcraft_store_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Стикер-арт»",
+    "en": "Sticker Art Paint"
+  },
+  "apiId": "dm4rj",
+  "apiIdStatus": "inferred"
+}

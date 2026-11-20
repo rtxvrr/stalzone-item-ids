@@ -1,0 +1,11 @@
+{
+  "clientId": 31468,
+  "key": "item.case.summer24_usual",
+  "kind": "item",
+  "name": {
+    "ru": "Базовый кейс «Корпорации ZIVCAS»",
+    "en": "Basic ZIVCAS Corporation Case"
+  },
+  "apiId": "21370",
+  "apiIdStatus": "inferred"
+}

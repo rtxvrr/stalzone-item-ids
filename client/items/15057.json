@@ -1,0 +1,11 @@
+{
+  "clientId": 15057,
+  "key": "item.lootbox.bureau_attach",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик Рынка с обвесами",
+    "en": "Market Crate with Attachments"
+  },
+  "apiId": "qj0y4",
+  "apiIdStatus": "inferred"
+}

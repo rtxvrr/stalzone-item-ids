@@ -1,0 +1,11 @@
+{
+  "clientId": 24731,
+  "key": "item.charm.summer25_ssop_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Священное возмездие",
+    "en": "Sacred Retribution"
+  },
+  "apiId": "4q4dn",
+  "apiIdStatus": "inferred"
+}

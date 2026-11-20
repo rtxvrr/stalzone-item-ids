@@ -1,0 +1,11 @@
+{
+  "clientId": 31514,
+  "key": "item.ny_toys.setJ.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерский игрушка-крыса",
+    "en": "Stalker Rat Decoration"
+  },
+  "apiId": "mrydr",
+  "apiIdStatus": "inferred"
+}

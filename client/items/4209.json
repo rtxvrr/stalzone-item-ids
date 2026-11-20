@@ -1,0 +1,11 @@
+{
+  "clientId": 4209,
+  "key": "item.plc.background.winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Операция Криостазис»",
+    "en": "Operation Cryostasis Season Background "
+  },
+  "apiId": "qpp4",
+  "apiIdStatus": "inferred"
+}

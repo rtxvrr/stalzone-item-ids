@@ -1,0 +1,11 @@
+{
+  "clientId": 14228,
+  "key": "item.crate.m397_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик самодельных M397",
+    "en": "Crate of Handmade M397s"
+  },
+  "apiId": "5lq41",
+  "apiIdStatus": "inferred"
+}

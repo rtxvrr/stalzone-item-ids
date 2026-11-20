@@ -1,0 +1,11 @@
+{
+  "clientId": 20475,
+  "key": "item.wpn.colt",
+  "kind": "item",
+  "name": {
+    "ru": "SW1911",
+    "en": "SW1911"
+  },
+  "apiId": "zz25k",
+  "apiIdStatus": "inferred"
+}

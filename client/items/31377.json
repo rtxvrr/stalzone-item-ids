@@ -1,0 +1,11 @@
+{
+  "clientId": 31377,
+  "key": "item.ny_toys.setH.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичный узорчатый шарик",
+    "en": "Futuristic Patterned Bauble"
+  },
+  "apiId": "y4y2o",
+  "apiIdStatus": "inferred"
+}

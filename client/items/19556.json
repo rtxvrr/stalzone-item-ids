@@ -1,0 +1,11 @@
+{
+  "clientId": 19556,
+  "key": "item.camo.unique_arm.build",
+  "kind": "item",
+  "name": {
+    "ru": "«Спецтехника»",
+    "en": "Special Machinery"
+  },
+  "apiId": "kn1k3",
+  "apiIdStatus": "inferred"
+}

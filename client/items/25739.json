@@ -1,0 +1,11 @@
+{
+  "clientId": 25739,
+  "key": "item.skin.blitz_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Йотун»",
+    "en": "Jotun Skin"
+  },
+  "apiId": "ok31m",
+  "apiIdStatus": "inferred"
+}

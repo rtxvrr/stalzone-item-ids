@@ -1,0 +1,11 @@
+{
+  "clientId": 24591,
+  "key": "item.charm.hw23_micro",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Голос Зоны»",
+    "en": "Voice of the Zone Charm"
+  },
+  "apiId": "dm7w2",
+  "apiIdStatus": "inferred"
+}

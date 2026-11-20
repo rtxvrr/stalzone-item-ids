@@ -1,0 +1,11 @@
+{
+  "clientId": 30042,
+  "key": "item.filler.npc_shopot_3",
+  "kind": "item",
+  "name": {
+    "ru": "Детали имплантов «Шепота»",
+    "en": "Murmur Implant Parts"
+  },
+  "apiId": "vn3o7",
+  "apiIdStatus": "inferred"
+}

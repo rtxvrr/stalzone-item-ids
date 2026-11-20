@@ -1,0 +1,11 @@
+{
+  "clientId": 19419,
+  "key": "item.camo.arm.bf_skin_22",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Предостережение»",
+    "en": "Caution Paint"
+  },
+  "apiId": "dmzd5",
+  "apiIdStatus": "inferred"
+}

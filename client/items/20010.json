@@ -1,0 +1,11 @@
+{
+  "clientId": 20010,
+  "key": "item.wpn.aksu_civilian",
+  "kind": "item",
+  "name": {
+    "ru": "Гражданский АКС-74У",
+    "en": "Civilian AKS-74U"
+  },
+  "apiId": "j5ld7",
+  "apiIdStatus": "inferred"
+}

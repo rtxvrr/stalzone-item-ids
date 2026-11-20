@@ -1,0 +1,11 @@
+{
+  "clientId": 6127,
+  "key": "item.misc.buckwheat_box",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с гречкой",
+    "en": "Can of Buckwheat"
+  },
+  "apiId": "z79n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16862,
+  "key": "item.quest.scientific_sup",
+  "kind": "item",
+  "name": {
+    "ru": "Научные припасы",
+    "en": "Scientific Supplies"
+  },
+  "apiId": "m01yk",
+  "apiIdStatus": "inferred"
+}

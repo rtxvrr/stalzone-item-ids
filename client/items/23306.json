@@ -1,0 +1,11 @@
+{
+  "clientId": 23306,
+  "key": "item.bolt_gem.oceanic_blue",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Океаническая",
+    "en": "Chromatic Particle: Oceanic"
+  },
+  "apiId": "wjq73",
+  "apiIdStatus": "inferred"
+}

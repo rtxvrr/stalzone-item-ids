@@ -1,0 +1,11 @@
+{
+  "clientId": 15092,
+  "key": "item.case.autumn26_innovative",
+  "kind": "item",
+  "name": {
+    "ru": "Передовой кейс «тульпа!»",
+    "en": "tulpa! Advanced Case"
+  },
+  "apiId": "2o10v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20054,
+  "key": "item.wpn.sig",
+  "kind": "item",
+  "name": {
+    "ru": "SIG SG 550",
+    "en": "SIG SG 550"
+  },
+  "apiId": "wjogp",
+  "apiIdStatus": "inferred"
+}

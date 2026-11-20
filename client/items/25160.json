@@ -1,0 +1,11 @@
+{
+  "clientId": 25160,
+  "key": "item.arm.ny_exomod",
+  "kind": "item",
+  "name": {
+    "ru": "«Страж» группы «Норд»",
+    "en": "Nord Group Guard"
+  },
+  "apiId": "rwn5y",
+  "apiIdStatus": "inferred"
+}

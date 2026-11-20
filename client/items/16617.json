@@ -1,0 +1,11 @@
+{
+  "clientId": 16617,
+  "key": "item.16617",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с протоартефактом",
+    "en": "Crate with a Protoartifact"
+  },
+  "apiId": "p6q9w",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16146,
+  "key": "item.quest.armsklad.13024",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА бойца Завета",
+    "en": "Covenant Soldier's PDA"
+  },
+  "apiId": "7l14j",
+  "apiIdStatus": "inferred"
+}

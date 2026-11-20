@@ -1,0 +1,11 @@
+{
+  "clientId": 4941,
+  "key": "item.plc.sticker.newyeartree_ice",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Ледяной лиги",
+    "en": "Ice League Sticker"
+  },
+  "apiId": "pz42",
+  "apiIdStatus": "inferred"
+}

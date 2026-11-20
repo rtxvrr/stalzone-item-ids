@@ -1,0 +1,11 @@
+{
+  "clientId": 29971,
+  "key": "item.filler.npc_limansk_2",
+  "kind": "item",
+  "name": {
+    "ru": "Хорошие сигареты",
+    "en": "Good Cigarettes"
+  },
+  "apiId": "6o9m0",
+  "apiIdStatus": "inferred"
+}

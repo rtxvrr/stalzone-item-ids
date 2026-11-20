@@ -1,0 +1,11 @@
+{
+  "clientId": 31441,
+  "key": "item.lootbox.fireworks",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с фейерверками",
+    "en": "Crate of Fireworks"
+  },
+  "apiId": "pjnl6",
+  "apiIdStatus": "inferred"
+}

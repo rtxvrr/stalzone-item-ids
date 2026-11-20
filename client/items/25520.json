@@ -1,0 +1,11 @@
+{
+  "clientId": 25520,
+  "key": "item.device.nvdtest2_24w",
+  "kind": "item",
+  "name": {
+    "ru": "Штурмовой ПНВ (белый)",
+    "en": "Assault NVG, White"
+  },
+  "apiId": "2ovwm",
+  "apiIdStatus": "inferred"
+}

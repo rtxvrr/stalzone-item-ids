@@ -1,0 +1,11 @@
+{
+  "clientId": 31870,
+  "key": "item.blueprint.wpn.ravent_m1a",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж M1A FA",
+    "en": "M1A FA Blueprint"
+  },
+  "apiId": "77dd9",
+  "apiIdStatus": "inferred"
+}

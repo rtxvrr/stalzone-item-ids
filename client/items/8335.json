@@ -1,0 +1,11 @@
+{
+  "clientId": 8335,
+  "key": "item.quest.pray_unknown",
+  "kind": "item",
+  "name": {
+    "ru": "Молитва незнакомца",
+    "en": "Stranger’s Prayer"
+  },
+  "apiId": "l42o",
+  "apiIdStatus": "inferred"
+}

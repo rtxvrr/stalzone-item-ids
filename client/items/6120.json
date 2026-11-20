@@ -1,0 +1,11 @@
+{
+  "clientId": 6120,
+  "key": "item.misc.boar_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Мясо кабана",
+    "en": "Boar Meat"
+  },
+  "apiId": "2d76",
+  "apiIdStatus": "inferred"
+}

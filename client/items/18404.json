@@ -1,0 +1,11 @@
+{
+  "clientId": 18404,
+  "key": "item.camo.wpn.bf_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Мутировавшая оболочка»",
+    "en": "Mutated Shell Paint"
+  },
+  "apiId": "5lj21",
+  "apiIdStatus": "inferred"
+}

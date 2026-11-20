@@ -1,0 +1,11 @@
+{
+  "clientId": 25516,
+  "key": "item.25516",
+  "kind": "item",
+  "name": {
+    "ru": "Посылка ученых",
+    "en": "Scientist Package"
+  },
+  "apiId": "n43ow",
+  "apiIdStatus": "inferred"
+}

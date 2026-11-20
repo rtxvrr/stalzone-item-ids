@@ -1,0 +1,11 @@
+{
+  "clientId": 16836,
+  "key": "item.16836",
+  "kind": "item",
+  "name": {
+    "ru": "Жучок Тренера",
+    "en": "Coach's Tracker"
+  },
+  "apiId": "rw66z",
+  "apiIdStatus": "inferred"
+}

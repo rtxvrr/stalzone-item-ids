@@ -1,0 +1,11 @@
+{
+  "clientId": 12141,
+  "key": "item.bag.heavy1",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак «Гроб»",
+    "en": "Coffin Backpack"
+  },
+  "apiId": "p262",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19391,
+  "key": "item.camo.arm.ny25_tree_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска Золотой лиги",
+    "en": "Gold League Paint"
+  },
+  "apiId": "dmz2n",
+  "apiIdStatus": "inferred"
+}

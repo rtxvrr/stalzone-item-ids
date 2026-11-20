@@ -1,0 +1,11 @@
+{
+  "clientId": 4620,
+  "key": "item.plc.pattern.prestige_eye",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Око»",
+    "en": "The Eye Pattern"
+  },
+  "apiId": "2m6l",
+  "apiIdStatus": "inferred"
+}

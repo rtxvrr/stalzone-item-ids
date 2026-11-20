@@ -1,0 +1,11 @@
+{
+  "clientId": 8349,
+  "key": "item.quest.zov_sever_3",
+  "kind": "item",
+  "name": {
+    "ru": "Записка группы Север 3",
+    "en": "North Group Note 3"
+  },
+  "apiId": "1v72",
+  "apiIdStatus": "inferred"
+}

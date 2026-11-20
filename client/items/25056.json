@@ -1,0 +1,11 @@
+{
+  "clientId": 25056,
+  "key": "item.arm.sokol",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Сокол»",
+    "en": "Falcon Jumpsuit"
+  },
+  "apiId": "knqvy",
+  "apiIdStatus": "inferred"
+}

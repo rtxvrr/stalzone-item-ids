@@ -1,0 +1,11 @@
+{
+  "clientId": 9250,
+  "key": "item.wpn.flamethrower_calldown",
+  "kind": "item",
+  "name": {
+    "ru": "УТО-2 «Саламандра»",
+    "en": "UTF-2 Salamander"
+  },
+  "apiId": "gq40",
+  "apiIdStatus": "inferred"
+}

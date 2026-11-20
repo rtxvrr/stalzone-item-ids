@@ -1,0 +1,11 @@
+{
+  "clientId": 6051,
+  "key": "item.misc.canister_diesel",
+  "kind": "item",
+  "name": {
+    "ru": "Канистра с дизелем",
+    "en": "Canister of Diesel"
+  },
+  "apiId": "z7lk",
+  "apiIdStatus": "inferred"
+}

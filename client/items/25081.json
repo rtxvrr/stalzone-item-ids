@@ -1,0 +1,11 @@
+{
+  "clientId": 25081,
+  "key": "item.arm.kimm-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный КИМ-99М «Малахит»",
+    "en": "Worn MIS-99M Malachite"
+  },
+  "apiId": "qjokj",
+  "apiIdStatus": "inferred"
+}

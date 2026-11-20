@@ -1,0 +1,11 @@
+{
+  "clientId": 28610,
+  "key": "item.28610",
+  "kind": "item",
+  "name": {
+    "ru": "Импортное устройство",
+    "en": "Imported Device"
+  },
+  "apiId": "j05r0",
+  "apiIdStatus": "inferred"
+}

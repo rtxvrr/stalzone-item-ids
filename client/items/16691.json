@@ -1,0 +1,11 @@
+{
+  "clientId": 16691,
+  "key": "item.lootbox.structure",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Структура»",
+    "en": "Structure Container"
+  },
+  "apiId": "dmynj",
+  "apiIdStatus": "inferred"
+}

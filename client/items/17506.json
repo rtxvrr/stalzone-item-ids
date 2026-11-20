@@ -1,0 +1,11 @@
+{
+  "clientId": 17506,
+  "key": "item.style.wpn.rsh12_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "«Горохострел»",
+    "en": "Peashooter"
+  },
+  "apiId": "wjzmo",
+  "apiIdStatus": "inferred"
+}

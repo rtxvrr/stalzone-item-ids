@@ -1,0 +1,11 @@
+{
+  "clientId": 25514,
+  "key": "item.device.nvdtest2_17",
+  "kind": "item",
+  "name": {
+    "ru": "Штурмовой ПНВ",
+    "en": "Assault NVG"
+  },
+  "apiId": "m03nr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17514,
+  "key": "item.style.wpn.mc116_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель Байкала»",
+    "en": "Keeper of Baikal"
+  },
+  "apiId": "m0yz7",
+  "apiIdStatus": "inferred"
+}

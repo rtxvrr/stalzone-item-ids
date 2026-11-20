@@ -1,0 +1,11 @@
+{
+  "clientId": 20100,
+  "key": "item.wpn.qbz191",
+  "kind": "item",
+  "name": {
+    "ru": "QBZ-191 «Буревестник»",
+    "en": "QBZ-191 Thunderbird"
+  },
+  "apiId": "96m4w",
+  "apiIdStatus": "inferred"
+}

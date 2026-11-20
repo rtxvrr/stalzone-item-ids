@@ -1,0 +1,11 @@
+{
+  "clientId": 19512,
+  "key": "item.camo.unique_arm.magma_warrior",
+  "kind": "item",
+  "name": {
+    "ru": "«Магмовый воин»",
+    "en": "Magma Warrior"
+  },
+  "apiId": "rwk1l",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19845,
+  "key": "item.motif.wpn.mcmillan_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Легат»",
+    "en": "Legate"
+  },
+  "apiId": "3grr1",
+  "apiIdStatus": "inferred"
+}

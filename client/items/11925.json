@@ -1,0 +1,11 @@
+{
+  "clientId": 11925,
+  "key": "item.plate.steel3_frontline",
+  "kind": "item",
+  "name": {
+    "ru": "Уплотненная стальная пластина",
+    "en": "Compacted Steel Plate"
+  },
+  "apiId": "1pz2",
+  "apiIdStatus": "inferred"
+}

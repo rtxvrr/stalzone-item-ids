@@ -1,0 +1,11 @@
+{
+  "clientId": 16434,
+  "key": "item.16434",
+  "kind": "item",
+  "name": {
+    "ru": "Матрица темпорального поля",
+    "en": "Temporal Field Matrix"
+  },
+  "apiId": "j5qv7",
+  "apiIdStatus": "inferred"
+}

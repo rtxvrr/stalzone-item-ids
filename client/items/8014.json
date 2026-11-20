@@ -1,0 +1,11 @@
+{
+  "clientId": 8014,
+  "key": "item.exp.vog25_ffa_heal",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный «Подорожник»",
+    "en": "Plantain Grenade Round"
+  },
+  "apiId": "m5pj",
+  "apiIdStatus": "inferred"
+}

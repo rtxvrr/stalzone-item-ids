@@ -1,0 +1,11 @@
+{
+  "clientId": 17518,
+  "key": "item.style.wpn.deagle_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Коварство Чемпиона»",
+    "en": "Champion's Cunning"
+  },
+  "apiId": "vjgmd",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19529,
+  "key": "item.camo.unique_arm.mercury",
+  "kind": "item",
+  "name": {
+    "ru": "«Меркурий»",
+    "en": "Mercury"
+  },
+  "apiId": "y3okw",
+  "apiIdStatus": "inferred"
+}

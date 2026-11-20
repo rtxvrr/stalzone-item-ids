@@ -1,0 +1,11 @@
+{
+  "clientId": 11510,
+  "key": "item.art.inside_izum",
+  "kind": "item",
+  "name": {
+    "ru": "Изюм",
+    "en": "Raisin"
+  },
+  "apiId": "jky6",
+  "apiIdStatus": "inferred"
+}

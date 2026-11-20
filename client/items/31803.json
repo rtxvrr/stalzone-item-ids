@@ -1,0 +1,11 @@
+{
+  "clientId": 31803,
+  "key": "item.scheme.rpd_dsa",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы: DSA RPD",
+    "en": "Schematic: DSA RPD"
+  },
+  "apiId": "z3n0k",
+  "apiIdStatus": "inferred"
+}

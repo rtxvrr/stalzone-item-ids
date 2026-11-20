@@ -1,0 +1,11 @@
+{
+  "clientId": 18789,
+  "key": "item.camo.wpn.razor",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Раздор»",
+    "en": "Feud Camouflage"
+  },
+  "apiId": "p6zl2",
+  "apiIdStatus": "inferred"
+}

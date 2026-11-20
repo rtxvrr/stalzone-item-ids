@@ -1,0 +1,11 @@
+{
+  "clientId": 4907,
+  "key": "item.plc.sticker.arcade_300",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер 300 ур. сессионных боев",
+    "en": "Level 300 Session Battles Sticker"
+  },
+  "apiId": "4m1n",
+  "apiIdStatus": "inferred"
+}

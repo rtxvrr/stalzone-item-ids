@@ -1,0 +1,11 @@
+{
+  "clientId": 29931,
+  "key": "item.filler.node_5",
+  "kind": "item",
+  "name": {
+    "ru": "Образцы",
+    "en": "Samples"
+  },
+  "apiId": "4koro",
+  "apiIdStatus": "inferred"
+}

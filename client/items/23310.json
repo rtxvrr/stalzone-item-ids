@@ -1,0 +1,11 @@
+{
+  "clientId": 23310,
+  "key": "item.bolt_gem.base_art",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Заказная",
+    "en": "Chromatic Particle: Custom"
+  },
+  "apiId": "j5rog",
+  "apiIdStatus": "inferred"
+}

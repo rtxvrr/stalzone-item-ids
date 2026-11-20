@@ -1,0 +1,11 @@
+{
+  "clientId": 9140,
+  "key": "item.att.mag_ppsh_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин ППШ",
+    "en": "PPSh Drum Magazine"
+  },
+  "apiId": "nz33",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22456,
+  "key": "item.att.lcu_anpeq_f",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический блок AN/PEQ 15, зимний",
+    "en": "AN/PEQ 15 Tactical Unit, Winter"
+  },
+  "apiId": "knw40",
+  "apiIdStatus": "inferred"
+}

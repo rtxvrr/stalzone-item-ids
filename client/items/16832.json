@@ -1,0 +1,11 @@
+{
+  "clientId": 16832,
+  "key": "item.16832",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство Юниора",
+    "en": "Junior's Device"
+  },
+  "apiId": "kn55j",
+  "apiIdStatus": "inferred"
+}

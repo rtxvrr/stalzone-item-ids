@@ -1,0 +1,11 @@
+{
+  "clientId": 22326,
+  "key": "item.att.sight_walther103",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Walther",
+    "en": "Walther Collimator Sight"
+  },
+  "apiId": "g4g6p",
+  "apiIdStatus": "inferred"
+}

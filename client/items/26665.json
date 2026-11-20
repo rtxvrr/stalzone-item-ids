@@ -1,0 +1,11 @@
+{
+  "clientId": 26665,
+  "key": "item.premium.token_5d",
+  "kind": "item",
+  "name": {
+    "ru": "Премиум на 5 дней",
+    "en": "Premium for 5 days"
+  },
+  "apiId": "p60o6",
+  "apiIdStatus": "inferred"
+}

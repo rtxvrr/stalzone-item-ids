@@ -1,0 +1,11 @@
+{
+  "clientId": 17001,
+  "key": "item.att.launcher_m203",
+  "kind": "item",
+  "name": {
+    "ru": "M203",
+    "en": "M203"
+  },
+  "apiId": "1r1j6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18694,
+  "key": "item.camo.wpn.hacker",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Хакер»",
+    "en": "Hacker Camouflage"
+  },
+  "apiId": "7l0r9",
+  "apiIdStatus": "inferred"
+}

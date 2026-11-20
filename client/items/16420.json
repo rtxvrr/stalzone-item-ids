@@ -1,0 +1,11 @@
+{
+  "clientId": 16420,
+  "key": "item.16420",
+  "kind": "item",
+  "name": {
+    "ru": "«Смитник»",
+    "en": "Disintegrator"
+  },
+  "apiId": "2o0l0",
+  "apiIdStatus": "inferred"
+}

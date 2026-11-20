@@ -1,0 +1,11 @@
+{
+  "clientId": 16290,
+  "key": "item.misc.ssop_help_tip_7",
+  "kind": "item",
+  "name": {
+    "ru": "Агентурная наводка на Тихую Заводь",
+    "en": "Intelligence Lead for the Stillwaters"
+  },
+  "apiId": "vj3g7",
+  "apiIdStatus": "inferred"
+}

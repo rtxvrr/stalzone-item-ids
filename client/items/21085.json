@@ -1,0 +1,11 @@
+{
+  "clientId": 21085,
+  "key": "item.melee.ruki",
+  "kind": "item",
+  "name": {
+    "ru": "Кулаки",
+    "en": "Fists"
+  },
+  "apiId": "0rqvk",
+  "apiIdStatus": "inferred"
+}

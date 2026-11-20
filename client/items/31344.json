@@ -1,0 +1,11 @@
+{
+  "clientId": 31344,
+  "key": "item.ny_toys.setE.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая простецкая мишура",
+    "en": "Simple Purple Tinsel"
+  },
+  "apiId": "213d6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 5021,
+  "key": "item.plc.sticker.raven26_heart_5",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Откровение»",
+    "en": "Revelation League Sticker"
+  },
+  "apiId": "3m5z",
+  "apiIdStatus": "inferred"
+}

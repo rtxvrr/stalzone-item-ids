@@ -1,0 +1,11 @@
+{
+  "clientId": 31809,
+  "key": "item.part.azimut",
+  "kind": "item",
+  "name": {
+    "ru": "Часть «Азимут»",
+    "en": "Azimut Part"
+  },
+  "apiId": "q0p34",
+  "apiIdStatus": "inferred"
+}

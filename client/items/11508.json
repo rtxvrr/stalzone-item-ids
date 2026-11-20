@@ -1,0 +1,11 @@
+{
+  "clientId": 11508,
+  "key": "item.art.inside_kalina",
+  "kind": "item",
+  "name": {
+    "ru": "Темная калина",
+    "en": "Dark Viburnum"
+  },
+  "apiId": "kq4v",
+  "apiIdStatus": "inferred"
+}

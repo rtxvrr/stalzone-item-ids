@@ -1,0 +1,11 @@
+{
+  "clientId": 15039,
+  "key": "item.lootbox.autumn25_pass_paint",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Орнамент охотника»",
+    "en": "Hunter's Ornament Container"
+  },
+  "apiId": "okll5",
+  "apiIdStatus": "inferred"
+}

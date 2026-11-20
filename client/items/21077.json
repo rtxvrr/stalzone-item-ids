@@ -1,0 +1,11 @@
+{
+  "clientId": 21077,
+  "key": "item.melee.sledgehammer",
+  "kind": "item",
+  "name": {
+    "ru": "Кувалда",
+    "en": "Sledgehammer"
+  },
+  "apiId": "y3jp0",
+  "apiIdStatus": "inferred"
+}

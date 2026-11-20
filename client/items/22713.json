@@ -1,0 +1,11 @@
+{
+  "clientId": 22713,
+  "key": "item.att.mag_pufgun556b",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.56 Pufgun, черный",
+    "en": "5.56 Pufgun Magazine, Black"
+  },
+  "apiId": "0rp3y",
+  "apiIdStatus": "inferred"
+}

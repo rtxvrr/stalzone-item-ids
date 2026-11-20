@@ -1,0 +1,11 @@
+{
+  "clientId": 4915,
+  "key": "item.plc.sticker.twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Twitch",
+    "en": "Twitch Sticker"
+  },
+  "apiId": "og90",
+  "apiIdStatus": "inferred"
+}

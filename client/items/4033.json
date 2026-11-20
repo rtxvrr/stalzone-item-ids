@@ -1,0 +1,11 @@
+{
+  "clientId": 4033,
+  "key": "tile.4033",
+  "kind": "tile",
+  "name": {
+    "ru": "Листва с биозаражением (тропики, уровень 3)",
+    "en": "Leaves with Bio Infection (Tropical, Level 3)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

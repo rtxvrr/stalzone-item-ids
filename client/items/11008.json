@@ -1,0 +1,11 @@
+{
+  "clientId": 11008,
+  "key": "item.art.electra_helium",
+  "kind": "item",
+  "name": {
+    "ru": "Гелий",
+    "en": "Helium"
+  },
+  "apiId": "kqr0",
+  "apiIdStatus": "inferred"
+}

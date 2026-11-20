@@ -1,0 +1,11 @@
+{
+  "clientId": 4809,
+  "key": "item.plc.sticker.winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «Операция Криостазис»",
+    "en": "Operation Cryostasis Season Sticker "
+  },
+  "apiId": "q554",
+  "apiIdStatus": "inferred"
+}

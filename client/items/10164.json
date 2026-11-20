@@ -1,0 +1,11 @@
+{
+  "clientId": 10164,
+  "key": "item.quest.smotrikov15",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Документация",
+    "en": "Audio recorder: Documentation"
+  },
+  "apiId": "ndz2",
+  "apiIdStatus": "inferred"
+}

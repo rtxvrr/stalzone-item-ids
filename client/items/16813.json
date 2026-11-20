@@ -1,0 +1,11 @@
+{
+  "clientId": 16813,
+  "key": "item.quest.rusty_key",
+  "kind": "item",
+  "name": {
+    "ru": "Ржавый ключ",
+    "en": "Rusty Key"
+  },
+  "apiId": "0r9lk",
+  "apiIdStatus": "inferred"
+}

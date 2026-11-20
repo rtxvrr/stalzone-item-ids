@@ -1,0 +1,11 @@
+{
+  "clientId": 23015,
+  "key": "item.23015",
+  "kind": "item",
+  "name": {
+    "ru": "Убрать приклад",
+    "en": "Remove Stock"
+  },
+  "apiId": "ok5ro",
+  "apiIdStatus": "inferred"
+}

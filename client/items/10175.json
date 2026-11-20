@@ -1,0 +1,11 @@
+{
+  "clientId": 10175,
+  "key": "item.quest.smotrikov26",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Прощание",
+    "en": "Audio recorder: Farewell"
+  },
+  "apiId": "z49m",
+  "apiIdStatus": "inferred"
+}

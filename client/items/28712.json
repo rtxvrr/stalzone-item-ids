@@ -1,0 +1,11 @@
+{
+  "clientId": 28712,
+  "key": "item.misc.special_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Загадочный жетон",
+    "en": "Mysterious Token"
+  },
+  "apiId": "rjwgy",
+  "apiIdStatus": "inferred"
+}

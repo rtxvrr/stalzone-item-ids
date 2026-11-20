@@ -1,0 +1,11 @@
+{
+  "clientId": 8052,
+  "key": "item.quest.neural_fractions",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка с невральными фракциями",
+    "en": "Test tube with neural fractions"
+  },
+  "apiId": "59mg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24557,
+  "key": "item.charm.set_plush_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Плюшевый противогаз»",
+    "en": "Plush Gas Mask Charm"
+  },
+  "apiId": "qj7w3",
+  "apiIdStatus": "inferred"
+}

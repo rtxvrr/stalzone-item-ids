@@ -1,0 +1,11 @@
+{
+  "clientId": 6415,
+  "key": "item.misc.drillbits",
+  "kind": "item",
+  "name": {
+    "ru": "Набор тонких сверл и бит",
+    "en": "Set of Fine Drills and Bits"
+  },
+  "apiId": "om46",
+  "apiIdStatus": "inferred"
+}

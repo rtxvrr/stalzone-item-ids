@@ -1,0 +1,11 @@
+{
+  "clientId": 21088,
+  "key": "item.melee.petal",
+  "kind": "item",
+  "name": {
+    "ru": "«Лепесток»",
+    "en": "Petal"
+  },
+  "apiId": "n42q9",
+  "apiIdStatus": "inferred"
+}

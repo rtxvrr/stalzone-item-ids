@@ -1,0 +1,11 @@
+{
+  "clientId": 11532,
+  "key": "item.art.murmur_hoop",
+  "kind": "item",
+  "name": {
+    "ru": "Обруч",
+    "en": "Hoop"
+  },
+  "apiId": "k3yv",
+  "apiIdStatus": "inferred"
+}

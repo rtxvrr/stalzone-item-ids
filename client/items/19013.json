@@ -1,0 +1,11 @@
+{
+  "clientId": 19013,
+  "key": "item.camo.arm.pink",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Мужественный розовый»",
+    "en": "Manly Pink Armor Paint"
+  },
+  "apiId": "0ryw9",
+  "apiIdStatus": "inferred"
+}

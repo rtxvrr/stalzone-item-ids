@@ -1,0 +1,11 @@
+{
+  "clientId": 8182,
+  "key": "item.quest.apocalypse_charm",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Лимон»",
+    "en": "Lemon Charm"
+  },
+  "apiId": "j6q4",
+  "apiIdStatus": "inferred"
+}

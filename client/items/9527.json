@@ -1,0 +1,11 @@
+{
+  "clientId": 9527,
+  "key": "item.abl.anm.prestige_high_gravity",
+  "kind": "item",
+  "name": {
+    "ru": "МГ «Перигей»",
+    "en": "GM Perigee"
+  },
+  "apiId": "zrlm",
+  "apiIdStatus": "inferred"
+}

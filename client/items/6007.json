@@ -1,0 +1,11 @@
+{
+  "clientId": 6007,
+  "key": "item.misc.emerald_minerals",
+  "kind": "item",
+  "name": {
+    "ru": "Изумрудные минералы",
+    "en": "Emerald Minerals"
+  },
+  "apiId": "400j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25725,
+  "key": "item.skin.summer24_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Корпорат»",
+    "en": "Corporate skin"
+  },
+  "apiId": "1rp32",
+  "apiIdStatus": "inferred"
+}

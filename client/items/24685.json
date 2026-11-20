@@ -1,0 +1,11 @@
+{
+  "clientId": 24685,
+  "key": "item.charm.red_expo_gamepad",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Геймпад RED»",
+    "en": "REDGamepad Charm"
+  },
+  "apiId": "0rznk",
+  "apiIdStatus": "inferred"
+}

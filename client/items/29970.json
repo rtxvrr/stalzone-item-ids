@@ -1,0 +1,11 @@
+{
+  "clientId": 29970,
+  "key": "item.filler.npc_limansk_1",
+  "kind": "item",
+  "name": {
+    "ru": "Иностранная валюта",
+    "en": "Foreign Currency"
+  },
+  "apiId": "7714j",
+  "apiIdStatus": "inferred"
+}

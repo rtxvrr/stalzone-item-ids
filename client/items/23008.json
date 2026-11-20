@@ -1,0 +1,11 @@
+{
+  "clientId": 23008,
+  "key": "item.23008",
+  "kind": "item",
+  "name": {
+    "ru": "Компактный приклад XM8",
+    "en": "XM8 Compact Stock"
+  },
+  "apiId": "kn9k0",
+  "apiIdStatus": "inferred"
+}

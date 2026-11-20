@@ -1,0 +1,11 @@
+{
+  "clientId": 21032,
+  "key": "item.melee.kukri_f",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяной кукри",
+    "en": "Icy Kukri"
+  },
+  "apiId": "knvvj",
+  "apiIdStatus": "inferred"
+}

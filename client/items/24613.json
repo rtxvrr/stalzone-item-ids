@@ -1,0 +1,11 @@
+{
+  "clientId": 24613,
+  "key": "item.charm.set_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Новогодний сюрприз»",
+    "en": "New Year Surprise Charm"
+  },
+  "apiId": "0rz1k",
+  "apiIdStatus": "inferred"
+}

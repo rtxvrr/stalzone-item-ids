@@ -1,0 +1,11 @@
+{
+  "clientId": 11505,
+  "key": "item.art.inside_egg",
+  "kind": "item",
+  "name": {
+    "ru": "Яйцо",
+    "en": "Egg"
+  },
+  "apiId": "y5ro",
+  "apiIdStatus": "inferred"
+}

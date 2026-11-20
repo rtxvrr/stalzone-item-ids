@@ -1,0 +1,11 @@
+{
+  "clientId": 22054,
+  "key": "item.att.forend_caars",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье CAA RS-21",
+    "en": "CAA RS-21 Handguard"
+  },
+  "apiId": "wjpz2",
+  "apiIdStatus": "inferred"
+}

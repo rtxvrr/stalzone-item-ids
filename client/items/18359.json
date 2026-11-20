@@ -1,0 +1,11 @@
+{
+  "clientId": 18359,
+  "key": "item.camo.wpn.autumn24_black_gold",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Черное Золото»",
+    "en": "Black Gold Paint"
+  },
+  "apiId": "lyo3q",
+  "apiIdStatus": "inferred"
+}

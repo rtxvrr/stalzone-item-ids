@@ -1,0 +1,11 @@
+{
+  "clientId": 22327,
+  "key": "item.att.sight_murmur28",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел «Композит 2.8»",
+    "en": "Composite 2.8 Optical Sight"
+  },
+  "apiId": "zzpdn",
+  "apiIdStatus": "inferred"
+}

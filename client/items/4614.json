@@ -1,0 +1,11 @@
+{
+  "clientId": 4614,
+  "key": "item.plc.pattern.na_stripes",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Полосы»",
+    "en": "Stripes Pattern"
+  },
+  "apiId": "m9wy",
+  "apiIdStatus": "inferred"
+}

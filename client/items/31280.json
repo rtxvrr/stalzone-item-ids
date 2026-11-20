@@ -1,0 +1,11 @@
+{
+  "clientId": 31280,
+  "key": "item.ny_toys.setA.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Красный полосатый шарик",
+    "en": "Red Striped Bauble"
+  },
+  "apiId": "krz2j",
+  "apiIdStatus": "inferred"
+}

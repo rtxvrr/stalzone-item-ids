@@ -1,0 +1,11 @@
+{
+  "clientId": 18790,
+  "key": "item.camo.wpn.ornament_perun",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Узор Перуна»",
+    "en": "Perun's Pattern Camouflage"
+  },
+  "apiId": "vjvpd",
+  "apiIdStatus": "inferred"
+}

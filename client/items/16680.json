@@ -1,0 +1,11 @@
+{
+  "clientId": 16680,
+  "key": "item.lootbox.convertation_large_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Большой ящик конвертации («Рубеж»)",
+    "en": "Large Conversion Crate (Frontier)"
+  },
+  "apiId": "knp4y",
+  "apiIdStatus": "inferred"
+}

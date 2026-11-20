@@ -1,0 +1,11 @@
+{
+  "clientId": 12142,
+  "key": "item.bag.zivcas",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS Sisyphus-6",
+    "en": "ZIVCAS Sisyphus-6"
+  },
+  "apiId": "vyjd",
+  "apiIdStatus": "inferred"
+}

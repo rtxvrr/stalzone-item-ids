@@ -1,0 +1,11 @@
+{
+  "clientId": 25252,
+  "key": "item.arm.longcoat_donate",
+  "kind": "item",
+  "name": {
+    "ru": "Укрепленный плащ",
+    "en": "Reinforced Cloak"
+  },
+  "apiId": "5lr1o",
+  "apiIdStatus": "inferred"
+}

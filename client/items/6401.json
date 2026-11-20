@@ -1,0 +1,11 @@
+{
+  "clientId": 6401,
+  "key": "item.misc.sleeve_blank",
+  "kind": "item",
+  "name": {
+    "ru": "Заготовка для гильзы",
+    "en": "Casing Blank"
+  },
+  "apiId": "179g",
+  "apiIdStatus": "inferred"
+}

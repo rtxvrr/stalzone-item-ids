@@ -1,0 +1,11 @@
+{
+  "clientId": 26506,
+  "key": "item.food.kreker",
+  "kind": "item",
+  "name": {
+    "ru": "Армейские галеты",
+    "en": "Army Crispbread"
+  },
+  "apiId": "wj2no",
+  "apiIdStatus": "inferred"
+}

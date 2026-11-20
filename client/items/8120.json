@@ -1,0 +1,11 @@
+{
+  "clientId": 8120,
+  "key": "item.quest.morok_protection",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство защиты от Морока",
+    "en": "Device of Protection from Morph"
+  },
+  "apiId": "221m",
+  "apiIdStatus": "inferred"
+}

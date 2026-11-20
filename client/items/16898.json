@@ -1,0 +1,11 @@
+{
+  "clientId": 16898,
+  "key": "item.quest.covenant_commandment4",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 4",
+    "en": "4th Covenant Commandment"
+  },
+  "apiId": "g49jn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17259,
+  "key": "item.style.melee.jagd_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Циркуль»",
+    "en": "Corkscrew"
+  },
+  "apiId": "ly9qk",
+  "apiIdStatus": "inferred"
+}

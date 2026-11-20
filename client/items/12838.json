@@ -1,0 +1,11 @@
+{
+  "clientId": 12838,
+  "key": "item.amm.12txc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12 калибра «Кислотный дракон»",
+    "en": "12 Caliber Acid Dragon Round"
+  },
+  "apiId": "mjyj",
+  "apiIdStatus": "inferred"
+}

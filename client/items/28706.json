@@ -1,0 +1,11 @@
+{
+  "clientId": 28706,
+  "key": "item.misc.expedition_crate",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик потерянной экспедиции",
+    "en": "Lost Expedition Crate"
+  },
+  "apiId": "w3j43",
+  "apiIdStatus": "inferred"
+}

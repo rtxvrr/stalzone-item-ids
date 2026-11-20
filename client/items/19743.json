@@ -1,0 +1,11 @@
+{
+  "clientId": 19743,
+  "key": "item.camo.arm.swampbeast",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Болотная тварь»",
+    "en": "Swamp Creature Paint"
+  },
+  "apiId": "dmqp2",
+  "apiIdStatus": "inferred"
+}

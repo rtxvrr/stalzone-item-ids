@@ -1,0 +1,11 @@
+{
+  "clientId": 8363,
+  "key": "item.quest.zov_utkevich_2",
+  "kind": "item",
+  "name": {
+    "ru": "Запись Уткевича 2",
+    "en": "Utkevich’s Note 2"
+  },
+  "apiId": "oj9m",
+  "apiIdStatus": "inferred"
+}

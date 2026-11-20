@@ -1,0 +1,11 @@
+{
+  "clientId": 27331,
+  "key": "item.misc.inside_totem",
+  "kind": "item",
+  "name": {
+    "ru": "Фантомная мелодия",
+    "en": "Phantom Melody"
+  },
+  "apiId": "4qr0l",
+  "apiIdStatus": "inferred"
+}

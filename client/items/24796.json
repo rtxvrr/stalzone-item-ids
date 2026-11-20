@@ -1,0 +1,11 @@
+{
+  "clientId": 24796,
+  "key": "item.charm.dmz26_skull",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Смерть в бою»",
+    "en": "Death in Battle Charm"
+  },
+  "apiId": "96n6z",
+  "apiIdStatus": "inferred"
+}

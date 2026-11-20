@@ -1,0 +1,11 @@
+{
+  "clientId": 24714,
+  "key": "item.charm.spring25_marketing_3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Фантомная луна»",
+    "en": "Phantom Moon Charm"
+  },
+  "apiId": "m07p7",
+  "apiIdStatus": "inferred"
+}

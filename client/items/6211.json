@@ -1,0 +1,11 @@
+{
+  "clientId": 6211,
+  "key": "item.misc.protein_substrate",
+  "kind": "item",
+  "name": {
+    "ru": "Белковый субстрат",
+    "en": "Protein Substrate"
+  },
+  "apiId": "ll7j",
+  "apiIdStatus": "inferred"
+}

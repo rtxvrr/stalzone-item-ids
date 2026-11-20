@@ -1,0 +1,11 @@
+{
+  "clientId": 29905,
+  "key": "item.filler.npc_6",
+  "kind": "item",
+  "name": {
+    "ru": "Фильтр",
+    "en": "Filter"
+  },
+  "apiId": "y4g93",
+  "apiIdStatus": "inferred"
+}

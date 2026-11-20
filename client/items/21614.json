@@ -1,0 +1,11 @@
+{
+  "clientId": 21614,
+  "key": "item.wpn_mod.adv.vulture",
+  "kind": "item",
+  "name": {
+    "ru": "«Стервятник»",
+    "en": "Vulture"
+  },
+  "apiId": "m05vk",
+  "apiIdStatus": "inferred"
+}

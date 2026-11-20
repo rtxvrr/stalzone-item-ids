@@ -1,0 +1,11 @@
+{
+  "clientId": 9523,
+  "key": "item.abl.anm.tubus_assault",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический Тубус Штурмовика",
+    "en": "Assault's Tactical Tube"
+  },
+  "apiId": "6kz0",
+  "apiIdStatus": "inferred"
+}

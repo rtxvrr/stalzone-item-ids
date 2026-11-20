@@ -1,0 +1,11 @@
+{
+  "clientId": 31247,
+  "key": "item.scheme.p99_mod_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #3: «Пчела»",
+    "en": "Schematic #3: Bee"
+  },
+  "apiId": "6o7ln",
+  "apiIdStatus": "inferred"
+}

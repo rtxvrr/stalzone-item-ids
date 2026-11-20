@@ -1,0 +1,11 @@
+{
+  "clientId": 4542,
+  "key": "item.plc.pattern.autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «тульпа!»",
+    "en": "tulpa! Season Pattern"
+  },
+  "apiId": "v5yg",
+  "apiIdStatus": "inferred"
+}

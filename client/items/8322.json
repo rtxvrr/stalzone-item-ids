@@ -1,0 +1,11 @@
+{
+  "clientId": 8322,
+  "key": "item.quest.shock_wave_synth",
+  "kind": "item",
+  "name": {
+    "ru": "Синтезированный препарат",
+    "en": "Synthesized Compound"
+  },
+  "apiId": "76rj",
+  "apiIdStatus": "inferred"
+}

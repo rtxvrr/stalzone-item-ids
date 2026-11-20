@@ -1,0 +1,11 @@
+{
+  "clientId": 29909,
+  "key": "item.filler.mob_1",
+  "kind": "item",
+  "name": {
+    "ru": "Клок шерсти",
+    "en": "Hair Ball"
+  },
+  "apiId": "q0ym3",
+  "apiIdStatus": "inferred"
+}

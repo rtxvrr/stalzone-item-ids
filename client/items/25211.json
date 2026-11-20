@@ -1,0 +1,11 @@
+{
+  "clientId": 25211,
+  "key": "item.arm.centurion_test",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Центурион»",
+    "en": "Centurion Armored Suit"
+  },
+  "apiId": "lyj72",
+  "apiIdStatus": "inferred"
+}

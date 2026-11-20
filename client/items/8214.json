@@ -1,0 +1,11 @@
+{
+  "clientId": 8214,
+  "key": "item.quest.armor_piercing_sky_nashivka",
+  "kind": "item",
+  "name": {
+    "ru": "Шеврон Орлова",
+    "en": "Orlov's Chevron"
+  },
+  "apiId": "mkyy",
+  "apiIdStatus": "inferred"
+}

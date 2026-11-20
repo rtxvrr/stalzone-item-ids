@@ -1,0 +1,11 @@
+{
+  "clientId": 4831,
+  "key": "item.plc.sticker.mk_burelom",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Морской бурелом»",
+    "en": "Sea Behemoth Sticker"
+  },
+  "apiId": "4m2j",
+  "apiIdStatus": "inferred"
+}

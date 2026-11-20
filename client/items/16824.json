@@ -1,0 +1,11 @@
+{
+  "clientId": 16824,
+  "key": "item.quest.raspiska_lipi",
+  "kind": "item",
+  "name": {
+    "ru": "Расписка от Липы",
+    "en": "IOU from Linden"
+  },
+  "apiId": "96kkq",
+  "apiIdStatus": "inferred"
+}

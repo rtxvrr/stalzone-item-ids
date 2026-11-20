@@ -1,0 +1,11 @@
+{
+  "clientId": 16770,
+  "key": "item.misc.bet_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон Колизея",
+    "en": "Coliseum Token"
+  },
+  "apiId": "7lo7j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24546,
+  "key": "item.charm.acc_steam",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «STEAM»",
+    "en": "STEAM Charm"
+  },
+  "apiId": "7lj6j",
+  "apiIdStatus": "inferred"
+}

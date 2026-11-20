@@ -1,0 +1,11 @@
+{
+  "clientId": 21618,
+  "key": "item.wpn_mod.adv.tearing_force",
+  "kind": "item",
+  "name": {
+    "ru": "«Разрыв»",
+    "en": "Laceration"
+  },
+  "apiId": "vj947",
+  "apiIdStatus": "inferred"
+}

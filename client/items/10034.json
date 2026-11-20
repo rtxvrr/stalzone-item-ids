@@ -1,0 +1,11 @@
+{
+  "clientId": 10034,
+  "key": "item.quest.audio_diary_freedom_9",
+  "kind": "item",
+  "name": {
+    "ru": "Отчет «Зивкаса» 9",
+    "en": "ZIVCAS Report 9"
+  },
+  "apiId": "jdl0",
+  "apiIdStatus": "inferred"
+}

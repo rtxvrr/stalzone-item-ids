@@ -1,0 +1,11 @@
+{
+  "clientId": 21018,
+  "key": "item.melee.m48",
+  "kind": "item",
+  "name": {
+    "ru": "M48 Tomahawk",
+    "en": "M48 Tomahawk"
+  },
+  "apiId": "vj427",
+  "apiIdStatus": "inferred"
+}

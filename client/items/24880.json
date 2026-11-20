@@ -1,0 +1,11 @@
+{
+  "clientId": 24880,
+  "key": "item.charm.na_donut",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пончик»",
+    "en": "Donut Charm"
+  },
+  "apiId": "knqp0",
+  "apiIdStatus": "inferred"
+}

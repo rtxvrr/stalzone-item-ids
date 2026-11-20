@@ -1,0 +1,11 @@
+{
+  "clientId": 31353,
+  "key": "item.ny_toys.setF.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-граната",
+    "en": "Plush Grenade Decoration"
+  },
+  "apiId": "y4y7o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16470,
+  "key": "item.misc.memorable_detail",
+  "kind": "item",
+  "name": {
+    "ru": "Памятные детали",
+    "en": "Memorable Parts"
+  },
+  "apiId": "7l163",
+  "apiIdStatus": "inferred"
+}

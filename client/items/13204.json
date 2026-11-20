@@ -1,0 +1,11 @@
+{
+  "clientId": 13204,
+  "key": "item.camo.wpn.winter26_snowstorm",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Зеленый всплеск»",
+    "en": "Green Splash Paint"
+  },
+  "apiId": "522o",
+  "apiIdStatus": "inferred"
+}

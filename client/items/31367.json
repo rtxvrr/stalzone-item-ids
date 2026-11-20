@@ -1,0 +1,11 @@
+{
+  "clientId": 31367,
+  "key": "item.ny_toys.setG.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-свинюшка",
+    "en": "Gingerbread Piggy Decoration"
+  },
+  "apiId": "drpqn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16085,
+  "key": "item.quest.ssop_help_murmur_notes_2",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент антенны “Шепота”",
+    "en": "Murmur Antenna Fragment"
+  },
+  "apiId": "0r7o9",
+  "apiIdStatus": "inferred"
+}

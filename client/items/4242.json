@@ -1,0 +1,11 @@
+{
+  "clientId": 4242,
+  "key": "item.plc.background.autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «тульпа!»",
+    "en": "tulpa! Season Background"
+  },
+  "apiId": "v5v7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22724,
+  "key": "item.att.mag_pmag556gen2",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин PMAG GEN2 M2 MOE",
+    "en": "PMAG GEN2 M2 MOE Magazine"
+  },
+  "apiId": "96pmy",
+  "apiIdStatus": "inferred"
+}

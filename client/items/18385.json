@@ -1,0 +1,11 @@
+{
+  "clientId": 18385,
+  "key": "item.camo.wpn.winter25_skin_21",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Зебра»",
+    "en": "Paint \"Zebra\""
+  },
+  "apiId": "0r6or",
+  "apiIdStatus": "inferred"
+}

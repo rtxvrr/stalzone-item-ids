@@ -1,0 +1,11 @@
+{
+  "clientId": 31303,
+  "key": "item.ny_toys.setB.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя мишура",
+    "en": "Blue Tinsel"
+  },
+  "apiId": "z3ovn",
+  "apiIdStatus": "inferred"
+}

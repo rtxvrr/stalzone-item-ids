@@ -1,0 +1,11 @@
+{
+  "clientId": 25517,
+  "key": "item.device.nvdtest2_24g",
+  "kind": "item",
+  "name": {
+    "ru": "Штурмовой ПНВ (зеленый)",
+    "en": "Assault NVG, Green"
+  },
+  "apiId": "p69o5",
+  "apiIdStatus": "inferred"
+}

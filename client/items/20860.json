@@ -1,0 +1,11 @@
+{
+  "clientId": 20860,
+  "key": "item.wpn.svu_mod_a",
+  "kind": "item",
+  "name": {
+    "ru": "«Волна» (А)",
+    "en": "Wave (A)"
+  },
+  "apiId": "rwz6v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6227,
+  "key": "item.misc.vegetables",
+  "kind": "item",
+  "name": {
+    "ru": "Протертые овощи",
+    "en": "Pureed Vegetables"
+  },
+  "apiId": "z7y2",
+  "apiIdStatus": "inferred"
+}

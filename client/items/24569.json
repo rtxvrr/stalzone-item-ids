@@ -1,0 +1,11 @@
+{
+  "clientId": 24569,
+  "key": "item.charm.ravent23_ball",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шар»",
+    "en": "Sphere Charm"
+  },
+  "apiId": "3gwp5",
+  "apiIdStatus": "inferred"
+}

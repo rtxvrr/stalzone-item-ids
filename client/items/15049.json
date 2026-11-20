@@ -1,0 +1,11 @@
+{
+  "clientId": 15049,
+  "key": "item.lootbox.winter26",
+  "kind": "item",
+  "name": {
+    "ru": "Промерзший хабар",
+    "en": "Frozen Loot"
+  },
+  "apiId": "1r9or",
+  "apiIdStatus": "inferred"
+}

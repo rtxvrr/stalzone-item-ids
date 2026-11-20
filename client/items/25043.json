@@ -1,0 +1,11 @@
+{
+  "clientId": 25043,
+  "key": "item.arm.berill_lech",
+  "kind": "item",
+  "name": {
+    "ru": "Лечебный «Комбат»",
+    "en": "Healing Combat"
+  },
+  "apiId": "dmgjj",
+  "apiIdStatus": "inferred"
+}

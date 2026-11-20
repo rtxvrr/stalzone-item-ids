@@ -1,0 +1,11 @@
+{
+  "clientId": 16829,
+  "key": "item.quest.incendiary_mixture_adv",
+  "kind": "item",
+  "name": {
+    "ru": "Зажигательная смесь (улучшена)",
+    "en": "Incendiary Mixture (Upgraded)"
+  },
+  "apiId": "y3000",
+  "apiIdStatus": "inferred"
+}

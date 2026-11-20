@@ -1,0 +1,11 @@
+{
+  "clientId": 6303,
+  "key": "item.misc.steel",
+  "kind": "item",
+  "name": {
+    "ru": "Сталь",
+    "en": "Steel"
+  },
+  "apiId": "z719",
+  "apiIdStatus": "inferred"
+}

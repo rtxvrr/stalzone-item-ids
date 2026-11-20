@@ -1,0 +1,11 @@
+{
+  "clientId": 15093,
+  "key": "item.case.autumn26_cosmetic",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс эстета V",
+    "en": "Aesthete Case V"
+  },
+  "apiId": "3g4q1",
+  "apiIdStatus": "inferred"
+}

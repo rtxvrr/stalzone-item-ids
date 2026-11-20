@@ -1,0 +1,11 @@
+{
+  "clientId": 29912,
+  "key": "item.filler.mob_4",
+  "kind": "item",
+  "name": {
+    "ru": "Кожа мутанта",
+    "en": "Mutant's Skin"
+  },
+  "apiId": "rjmoy",
+  "apiIdStatus": "inferred"
+}

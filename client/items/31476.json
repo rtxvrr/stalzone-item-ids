@@ -1,0 +1,11 @@
+{
+  "clientId": 31476,
+  "key": "item.case.autumn24_exclusive_armory",
+  "kind": "item",
+  "name": {
+    "ru": "Элитный кейс «Черного Рынка»",
+    "en": "Elite Black Market Case"
+  },
+  "apiId": "553pg",
+  "apiIdStatus": "inferred"
+}

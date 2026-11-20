@@ -1,0 +1,11 @@
+{
+  "clientId": 30009,
+  "key": "item.filler.valuable_10",
+  "kind": "item",
+  "name": {
+    "ru": "Системы наведения",
+    "en": "Targeting Systems"
+  },
+  "apiId": "q0q04",
+  "apiIdStatus": "inferred"
+}

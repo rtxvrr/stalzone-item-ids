@@ -1,0 +1,11 @@
+{
+  "clientId": 4223,
+  "key": "item.plc.background.snegurka",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Sнегурки",
+    "en": "Snow Maiden Background"
+  },
+  "apiId": "6jjn",
+  "apiIdStatus": "inferred"
+}

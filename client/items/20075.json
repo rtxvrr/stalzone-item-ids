@@ -1,0 +1,11 @@
+{
+  "clientId": 20075,
+  "key": "item.wpn.g36c",
+  "kind": "item",
+  "name": {
+    "ru": "HK G36C",
+    "en": "HK G36C"
+  },
+  "apiId": "zz7j2",
+  "apiIdStatus": "inferred"
+}

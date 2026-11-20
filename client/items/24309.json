@@ -1,0 +1,11 @@
+{
+  "clientId": 24309,
+  "key": "item.charm.hydra",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Гидра»",
+    "en": "Hydra Charm"
+  },
+  "apiId": "qj7q9",
+  "apiIdStatus": "inferred"
+}

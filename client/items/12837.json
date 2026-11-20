@@ -1,0 +1,11 @@
+{
+  "clientId": 12837,
+  "key": "item.amm.556thr",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм «Прогрев»",
+    "en": "5.56 mm Heating Round"
+  },
+  "apiId": "0ojd",
+  "apiIdStatus": "inferred"
+}

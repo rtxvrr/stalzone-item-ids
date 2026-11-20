@@ -1,0 +1,11 @@
+{
+  "clientId": 29917,
+  "key": "item.filler.mob_9",
+  "kind": "item",
+  "name": {
+    "ru": "Сердце мутанта",
+    "en": "Mutant's Heart"
+  },
+  "apiId": "pjv04",
+  "apiIdStatus": "inferred"
+}

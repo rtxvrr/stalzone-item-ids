@@ -1,0 +1,11 @@
+{
+  "clientId": 31307,
+  "key": "item.ny_toys.setC.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Желтая игрушка-шишка",
+    "en": "Yellow Pine Cone Ornament"
+  },
+  "apiId": "4k3mn",
+  "apiIdStatus": "inferred"
+}

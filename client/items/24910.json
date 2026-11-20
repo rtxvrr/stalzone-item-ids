@@ -1,0 +1,11 @@
+{
+  "clientId": 24910,
+  "key": "item.charm.media_skull",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Хой!»",
+    "en": "Oi! Charm"
+  },
+  "apiId": "j5kz4",
+  "apiIdStatus": "inferred"
+}

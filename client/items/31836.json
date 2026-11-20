@@ -1,0 +1,11 @@
+{
+  "clientId": 31836,
+  "key": "item.part.qbz191",
+  "kind": "item",
+  "name": {
+    "ru": "Часть QBZ-191 «Буревестник»",
+    "en": "QBZ-191 Thunderbird Part"
+  },
+  "apiId": "rj9pz",
+  "apiIdStatus": "inferred"
+}

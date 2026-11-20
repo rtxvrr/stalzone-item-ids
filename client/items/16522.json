@@ -1,0 +1,11 @@
+{
+  "clientId": 16522,
+  "key": "item.crate.hotjack",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик «Горячих Джеков»",
+    "en": "Hot Jack Crate"
+  },
+  "apiId": "7l1qr",
+  "apiIdStatus": "inferred"
+}

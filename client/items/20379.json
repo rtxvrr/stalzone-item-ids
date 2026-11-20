@@ -1,0 +1,11 @@
+{
+  "clientId": 20379,
+  "key": "item.wpn.protecta",
+  "kind": "item",
+  "name": {
+    "ru": "Protecta",
+    "en": "Protecta"
+  },
+  "apiId": "4qn2o",
+  "apiIdStatus": "inferred"
+}

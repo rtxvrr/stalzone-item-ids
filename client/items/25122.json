@@ -1,0 +1,11 @@
+{
+  "clientId": 25122,
+  "key": "item.arm.murmur_sniper",
+  "kind": "item",
+  "name": {
+    "ru": "«Служение»",
+    "en": "Devotion"
+  },
+  "apiId": "7lm6j",
+  "apiIdStatus": "inferred"
+}

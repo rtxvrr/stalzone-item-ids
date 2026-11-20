@@ -1,0 +1,11 @@
+{
+  "clientId": 27341,
+  "key": "item.misc.blizzard_quest_simistor",
+  "kind": "item",
+  "name": {
+    "ru": "Морозостойкий симистор",
+    "en": "Frostproof TRIAC"
+  },
+  "apiId": "p6p35",
+  "apiIdStatus": "inferred"
+}

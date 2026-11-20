@@ -1,0 +1,11 @@
+{
+  "clientId": 16345,
+  "key": "item.misc.anomal_battery",
+  "kind": "item",
+  "name": {
+    "ru": "Нестабильная аномальная батарея",
+    "en": "Unstable Anomalous Battery"
+  },
+  "apiId": "3gqkg",
+  "apiIdStatus": "inferred"
+}

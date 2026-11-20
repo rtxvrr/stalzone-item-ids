@@ -1,0 +1,11 @@
+{
+  "clientId": 25435,
+  "key": "item.arm.apostle",
+  "kind": "item",
+  "name": {
+    "ru": "Сверхтяжелый бронекостюм «Апостол»",
+    "en": "Apostle Super-Heavy Armored Suit"
+  },
+  "apiId": "ly3kj",
+  "apiIdStatus": "inferred"
+}

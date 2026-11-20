@@ -1,0 +1,11 @@
+{
+  "clientId": 8275,
+  "key": "item.quest.prestige_success",
+  "kind": "item",
+  "name": {
+    "ru": "Успех",
+    "en": "Success"
+  },
+  "apiId": "zpvy",
+  "apiIdStatus": "inferred"
+}

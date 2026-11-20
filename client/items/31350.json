@@ -1,0 +1,11 @@
+{
+  "clientId": 31350,
+  "key": "item.ny_toys.setF.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-ёлочка",
+    "en": "Plush Christmas Tree Decoration"
+  },
+  "apiId": "gnp0p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19751,
+  "key": "item.camo.arm.sponge",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Губка»",
+    "en": "Sponge Paint"
+  },
+  "apiId": "zz7om",
+  "apiIdStatus": "inferred"
+}

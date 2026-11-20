@@ -1,0 +1,11 @@
+{
+  "clientId": 8135,
+  "key": "item.quest.pda_of_corpse_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА павшего «Заветовца»",
+    "en": "PDA of the fallen Covenant member"
+  },
+  "apiId": "l40q",
+  "apiIdStatus": "inferred"
+}

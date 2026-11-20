@@ -1,0 +1,11 @@
+{
+  "clientId": 15013,
+  "key": "item.lootbox.spring25_tickets_big",
+  "kind": "item",
+  "name": {
+    "ru": "Памятная шкатулка",
+    "en": "Memorial Casket"
+  },
+  "apiId": "0r0rk",
+  "apiIdStatus": "inferred"
+}

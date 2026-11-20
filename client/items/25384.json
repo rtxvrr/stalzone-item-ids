@@ -1,0 +1,11 @@
+{
+  "clientId": 25384,
+  "key": "item.arm.skat10_zivcas",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS «Spectre»",
+    "en": "ZIVCAS «Spectre»"
+  },
+  "apiId": "rwgw5",
+  "apiIdStatus": "inferred"
+}

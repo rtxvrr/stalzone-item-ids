@@ -1,0 +1,11 @@
+{
+  "clientId": 8111,
+  "key": "item.inside25_mrkovrik_beacon_charged",
+  "kind": "item",
+  "name": {
+    "ru": "«Фантомный маяк» Ковровского (полный заряд)",
+    "en": "Carpetsky Phantom Beacon (Full Charge)"
+  },
+  "apiId": "l4yq",
+  "apiIdStatus": "inferred"
+}

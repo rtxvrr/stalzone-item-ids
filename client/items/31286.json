@@ -1,0 +1,11 @@
+{
+  "clientId": 31286,
+  "key": "item.ny_toys.setA.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Красная простая гирлянда",
+    "en": "Simple Red Tree Lights"
+  },
+  "apiId": "mrynk",
+  "apiIdStatus": "inferred"
+}

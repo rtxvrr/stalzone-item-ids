@@ -1,0 +1,11 @@
+{
+  "clientId": 24922,
+  "key": "item.charm.prestige_master",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Сингулярность»",
+    "en": "Singularity Charm"
+  },
+  "apiId": "7lm3r",
+  "apiIdStatus": "inferred"
+}

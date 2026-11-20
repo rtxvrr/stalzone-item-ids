@@ -1,0 +1,11 @@
+{
+  "clientId": 25035,
+  "key": "item.arm.zarya_balon",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Аврора-Б»",
+    "en": "Aurora-B Jumpsuit"
+  },
+  "apiId": "lyj2k",
+  "apiIdStatus": "inferred"
+}

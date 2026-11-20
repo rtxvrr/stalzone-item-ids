@@ -1,0 +1,11 @@
+{
+  "clientId": 24856,
+  "key": "item.charm.personal_shop_card",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Богатенький буратино»",
+    "en": "Money Boy Charm"
+  },
+  "apiId": "knq60",
+  "apiIdStatus": "inferred"
+}

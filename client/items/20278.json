@@ -1,0 +1,11 @@
+{
+  "clientId": 20278,
+  "key": "item.wpn.l96",
+  "kind": "item",
+  "name": {
+    "ru": "L96A1",
+    "en": "L96A1"
+  },
+  "apiId": "wj7l2",
+  "apiIdStatus": "inferred"
+}

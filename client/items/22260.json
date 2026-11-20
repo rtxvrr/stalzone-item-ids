@@ -1,0 +1,11 @@
+{
+  "clientId": 22260,
+  "key": "item.att.scope_gewehr43",
+  "kind": "item",
+  "name": {
+    "ru": "Оптический прицел",
+    "en": "Optical Sight"
+  },
+  "apiId": "rw04z",
+  "apiIdStatus": "inferred"
+}

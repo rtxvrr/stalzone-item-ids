@@ -1,0 +1,11 @@
+{
+  "clientId": 6220,
+  "key": "item.misc.dog_meat_fried",
+  "kind": "item",
+  "name": {
+    "ru": "Жареное мясо шавки",
+    "en": "Fried Mutt Meat"
+  },
+  "apiId": "2dq0",
+  "apiIdStatus": "inferred"
+}

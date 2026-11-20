@@ -1,0 +1,11 @@
+{
+  "clientId": 16519,
+  "key": "item.16519",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик осколочных гранат",
+    "en": "Crate of Fragmentation Grenades"
+  },
+  "apiId": "dmyw9",
+  "apiIdStatus": "inferred"
+}

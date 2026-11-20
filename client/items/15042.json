@@ -1,0 +1,11 @@
+{
+  "clientId": 15042,
+  "key": "item.lootbox.encaged_1",
+  "kind": "item",
+  "name": {
+    "ru": "Склад Преследователя",
+    "en": "Pursuer's Stash"
+  },
+  "apiId": "vjnn7",
+  "apiIdStatus": "inferred"
+}

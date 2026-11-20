@@ -1,0 +1,11 @@
+{
+  "clientId": 12727,
+  "key": "item.amm.762exp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм экспансивный",
+    "en": "7.62 mm Expanding Round"
+  },
+  "apiId": "z13n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10176,
+  "key": "item.quest.mir_korabley_cave_audio_1",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета военстала: Каюк",
+    "en": "Military Stalker Cassette: Kaput"
+  },
+  "apiId": "5w4q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20458,
+  "key": "item.wpn.python-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный Colt Python",
+    "en": "Worn Colt Python"
+  },
+  "apiId": "j5ovl",
+  "apiIdStatus": "inferred"
+}

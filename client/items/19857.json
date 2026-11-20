@@ -1,0 +1,11 @@
+{
+  "clientId": 19857,
+  "key": "item.motif.wpn.ak15_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Запах напалма»",
+    "en": "Smell of Napalm"
+  },
+  "apiId": "qjv24",
+  "apiIdStatus": "inferred"
+}

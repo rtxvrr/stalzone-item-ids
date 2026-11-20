@@ -1,0 +1,11 @@
+{
+  "clientId": 8128,
+  "key": "item.quest.operation2025_cassette1",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из лаборатории Полигона-7",
+    "en": "Cassette from the Laboratory of Area-7"
+  },
+  "apiId": "5v54",
+  "apiIdStatus": "inferred"
+}

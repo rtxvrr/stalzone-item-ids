@@ -1,0 +1,11 @@
+{
+  "clientId": 9612,
+  "key": "item.exp.prestige_smoke",
+  "kind": "item",
+  "name": {
+    "ru": "Дымовой заряд",
+    "en": "Smoke Barrel"
+  },
+  "apiId": "r55z",
+  "apiIdStatus": "inferred"
+}

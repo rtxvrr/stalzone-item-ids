@@ -1,0 +1,11 @@
+{
+  "clientId": 25060,
+  "key": "item.arm.topaz",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-105 «Топаз»",
+    "en": "MIS-105 Topaz"
+  },
+  "apiId": "rwnzv",
+  "apiIdStatus": "inferred"
+}

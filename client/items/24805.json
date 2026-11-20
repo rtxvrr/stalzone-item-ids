@@ -1,0 +1,11 @@
+{
+  "clientId": 24805,
+  "key": "item.charm.hookah",
+  "kind": "item",
+  "name": {
+    "ru": "Кальян",
+    "en": "Hookah"
+  },
+  "apiId": "y353z",
+  "apiIdStatus": "inferred"
+}

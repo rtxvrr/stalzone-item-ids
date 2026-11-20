@@ -1,0 +1,11 @@
+{
+  "clientId": 22509,
+  "key": "item.att.barrel_lantac_dragon",
+  "kind": "item",
+  "name": {
+    "ru": "Пламегаситель Lantac Dragon 7.62",
+    "en": "Lantac Dragon 7.62 Flash Hider"
+  },
+  "apiId": "qjwj9",
+  "apiIdStatus": "inferred"
+}

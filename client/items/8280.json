@@ -1,0 +1,11 @@
+{
+  "clientId": 8280,
+  "key": "item.quest.can_terentiy",
+  "kind": "item",
+  "name": {
+    "ru": "Циркониевый бидон",
+    "en": "Zirconium Water Can"
+  },
+  "apiId": "kw1y",
+  "apiIdStatus": "inferred"
+}

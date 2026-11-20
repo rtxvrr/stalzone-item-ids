@@ -1,0 +1,11 @@
+{
+  "clientId": 16681,
+  "key": "item.lootbox.convertation_large_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Большой ящик конвертации («Заря»)",
+    "en": "Large Conversion Crate (Rise)"
+  },
+  "apiId": "qjqdj",
+  "apiIdStatus": "inferred"
+}

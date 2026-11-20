@@ -1,0 +1,11 @@
+{
+  "clientId": 23204,
+  "key": "item.bolt_gem.flash",
+  "kind": "item",
+  "name": {
+    "ru": "Импульсная частица: Вспышка",
+    "en": "Impulse Particle: Flare"
+  },
+  "apiId": "5l431",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31694,
+  "key": "item.blueprint.wpn.ravent_f2000",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж FN F2000 Tactical",
+    "en": "FN F2000 Tactical Blueprint"
+  },
+  "apiId": "77d46",
+  "apiIdStatus": "inferred"
+}

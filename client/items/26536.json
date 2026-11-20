@@ -1,0 +1,11 @@
+{
+  "clientId": 26536,
+  "key": "item.med.water",
+  "kind": "item",
+  "name": {
+    "ru": "Бутылка чистой воды",
+    "en": "Bottle of Pure Water"
+  },
+  "apiId": "rwow5",
+  "apiIdStatus": "inferred"
+}

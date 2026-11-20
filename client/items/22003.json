@@ -1,0 +1,11 @@
+{
+  "clientId": 22003,
+  "key": "item.att.forend_mp5ris",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье MP5 с планками Пикатинни",
+    "en": "MP5 Handguard with Picatinny Rail"
+  },
+  "apiId": "zzpwy",
+  "apiIdStatus": "inferred"
+}

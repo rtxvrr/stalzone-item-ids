@@ -1,0 +1,11 @@
+{
+  "clientId": 6320,
+  "key": "item.misc.dog_meat_ground",
+  "kind": "item",
+  "name": {
+    "ru": "Фарш из собаки",
+    "en": "Ground Dog Meat"
+  },
+  "apiId": "2dkm",
+  "apiIdStatus": "inferred"
+}

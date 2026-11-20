@@ -1,0 +1,11 @@
+{
+  "clientId": 22656,
+  "key": "item.22656",
+  "kind": "item",
+  "name": {
+    "ru": "Пластиковый приклад РПД",
+    "en": "RPD Plastic Stock"
+  },
+  "apiId": "kn9jy",
+  "apiIdStatus": "inferred"
+}

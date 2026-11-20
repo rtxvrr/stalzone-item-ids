@@ -1,0 +1,11 @@
+{
+  "clientId": 24999,
+  "key": "item.24999",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Золотой ключик»",
+    "en": "Gold Key Charm"
+  },
+  "apiId": "zzy69",
+  "apiIdStatus": "inferred"
+}

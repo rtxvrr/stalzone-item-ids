@@ -1,0 +1,11 @@
+{
+  "clientId": 24896,
+  "key": "item.charm.quest_mushroom_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Атомный опенок»",
+    "en": "Atomic Honey Mushroom Charm"
+  },
+  "apiId": "96nk0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6605,
+  "key": "item.misc.adrenaline",
+  "kind": "item",
+  "name": {
+    "ru": "Адреналин",
+    "en": "Adrenaline"
+  },
+  "apiId": "y220",
+  "apiIdStatus": "inferred"
+}

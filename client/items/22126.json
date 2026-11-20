@@ -1,0 +1,11 @@
+{
+  "clientId": 22126,
+  "key": "item.att.handgrip_nord_light",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоятка Fortis Nord",
+    "en": "Fortis Nord Grip"
+  },
+  "apiId": "g4gw5",
+  "apiIdStatus": "inferred"
+}

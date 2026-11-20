@@ -1,0 +1,11 @@
+{
+  "clientId": 20577,
+  "key": "item.wpn.xm8",
+  "kind": "item",
+  "name": {
+    "ru": "HK XM8",
+    "en": "HK XM8"
+  },
+  "apiId": "y32wo",
+  "apiIdStatus": "inferred"
+}

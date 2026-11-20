@@ -1,0 +1,11 @@
+{
+  "clientId": 18698,
+  "key": "item.camo.wpn.cinder",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Зола»",
+    "en": "Cinder Paint"
+  },
+  "apiId": "g4jmn",
+  "apiIdStatus": "inferred"
+}

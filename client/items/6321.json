@@ -1,0 +1,11 @@
+{
+  "clientId": 6321,
+  "key": "item.misc.flesh_meat_ground",
+  "kind": "item",
+  "name": {
+    "ru": "Фарш из хрюши",
+    "en": "Ground Piggy Meat"
+  },
+  "apiId": "3rjk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16904,
+  "key": "item.quest.covenant.cache",
+  "kind": "item",
+  "name": {
+    "ru": "Хабар Лазаря",
+    "en": "Lazarus's Loot"
+  },
+  "apiId": "5l600",
+  "apiIdStatus": "inferred"
+}

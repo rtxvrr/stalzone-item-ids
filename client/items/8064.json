@@ -1,0 +1,11 @@
+{
+  "clientId": 8064,
+  "key": "item.quest.shard_steam_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенные паром осколки",
+    "en": "Steam-cleaned shards"
+  },
+  "apiId": "nq66",
+  "apiIdStatus": "inferred"
+}

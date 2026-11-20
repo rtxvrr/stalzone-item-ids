@@ -1,0 +1,11 @@
+{
+  "clientId": 19885,
+  "key": "item.motif.wpn.aa12_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Мемориал»",
+    "en": "Memorial"
+  },
+  "apiId": "0r3qk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6705,
+  "key": "item.misc.neurodegenerant",
+  "kind": "item",
+  "name": {
+    "ru": "Нейродегенерант",
+    "en": "Neurodegenerant"
+  },
+  "apiId": "y2mo",
+  "apiIdStatus": "inferred"
+}

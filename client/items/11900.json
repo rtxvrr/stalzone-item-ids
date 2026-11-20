@@ -1,0 +1,11 @@
+{
+  "clientId": 11900,
+  "key": "item.plate.steel1",
+  "kind": "item",
+  "name": {
+    "ru": "Стальная пластина I",
+    "en": "Steel Plate I"
+  },
+  "apiId": "9ypy",
+  "apiIdStatus": "inferred"
+}

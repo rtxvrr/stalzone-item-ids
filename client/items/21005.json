@@ -1,0 +1,11 @@
+{
+  "clientId": 21005,
+  "key": "item.melee.downrange",
+  "kind": "item",
+  "name": {
+    "ru": "Gerber Downrange Tomahawk",
+    "en": "Gerber Downrange Tomahawk"
+  },
+  "apiId": "y3j20",
+  "apiIdStatus": "inferred"
+}

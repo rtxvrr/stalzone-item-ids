@@ -1,0 +1,11 @@
+{
+  "clientId": 9359,
+  "key": "item.melee.sledgehammer_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Реванш»",
+    "en": "Rematch"
+  },
+  "apiId": "lm9q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12356,
+  "key": "item.flare.red",
+  "kind": "item",
+  "name": {
+    "ru": "Сигнальная ракета (красная)",
+    "en": "Signal Flare (Red)"
+  },
+  "apiId": "kol3",
+  "apiIdStatus": "inferred"
+}

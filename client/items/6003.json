@@ -1,0 +1,11 @@
+{
+  "clientId": 6003,
+  "key": "item.misc.alcohol",
+  "kind": "item",
+  "name": {
+    "ru": "Мякоть спиртня",
+    "en": "Spiritfruit Pulp"
+  },
+  "apiId": "z77k",
+  "apiIdStatus": "inferred"
+}

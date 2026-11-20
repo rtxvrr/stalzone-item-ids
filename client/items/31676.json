@@ -1,0 +1,11 @@
+{
+  "clientId": 31676,
+  "key": "item.blueprint.arm.magnit",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Комбинезон «Магнит»",
+    "en": "Magnet Jumpsuit Blueprint"
+  },
+  "apiId": "553m1",
+  "apiIdStatus": "inferred"
+}

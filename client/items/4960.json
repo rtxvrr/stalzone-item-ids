@@ -1,0 +1,11 @@
+{
+  "clientId": 4960,
+  "key": "item.plc.sticker.mk_bubbles",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Пузырьки»",
+    "en": "Bubbles Sticker"
+  },
+  "apiId": "ry05",
+  "apiIdStatus": "inferred"
+}

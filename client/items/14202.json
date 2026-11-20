@@ -1,0 +1,11 @@
+{
+  "clientId": 14202,
+  "key": "item.bag.10bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка бронебойных 10 мм",
+    "en": "Pouch of 10 mm Armor-Piercing Rounds"
+  },
+  "apiId": "g4r26",
+  "apiIdStatus": "inferred"
+}

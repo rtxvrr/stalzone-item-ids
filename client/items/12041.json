@@ -1,0 +1,11 @@
+{
+  "clientId": 12041,
+  "key": "item.cont.hive",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Улей»",
+    "en": "Hive Container"
+  },
+  "apiId": "p92d",
+  "apiIdStatus": "inferred"
+}

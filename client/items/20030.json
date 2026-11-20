@@ -1,0 +1,11 @@
+{
+  "clientId": 20030,
+  "key": "item.wpn.aks74-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АКС-74",
+    "en": "Worn AKS-74"
+  },
+  "apiId": "wjodp",
+  "apiIdStatus": "inferred"
+}

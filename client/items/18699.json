@@ -1,0 +1,11 @@
+{
+  "clientId": 18699,
+  "key": "item.camo.wpn.led",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «ЛЕD»",
+    "en": "LED Camouflage"
+  },
+  "apiId": "zzv2k",
+  "apiIdStatus": "inferred"
+}

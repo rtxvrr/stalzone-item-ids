@@ -1,0 +1,11 @@
+{
+  "clientId": 16570,
+  "key": "item.bag.armorpack_radiator5",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка термопластин",
+    "en": "Bag of Thermoplates"
+  },
+  "apiId": "7l1jr",
+  "apiIdStatus": "inferred"
+}

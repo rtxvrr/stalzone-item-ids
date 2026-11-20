@@ -1,0 +1,11 @@
+{
+  "clientId": 15012,
+  "key": "item.lootbox.spring25_tickets_small",
+  "kind": "item",
+  "name": {
+    "ru": "Старая шкатулка",
+    "en": "Old Casket"
+  },
+  "apiId": "rwjwz",
+  "apiIdStatus": "inferred"
+}

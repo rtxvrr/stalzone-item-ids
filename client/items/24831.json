@@ -1,0 +1,11 @@
+{
+  "clientId": 24831,
+  "key": "item.charm.spring26_photo",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Секретные материалы»",
+    "en": "Secret Materials Charm"
+  },
+  "apiId": "4qlkp",
+  "apiIdStatus": "inferred"
+}

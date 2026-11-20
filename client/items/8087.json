@@ -1,0 +1,11 @@
+{
+  "clientId": 8087,
+  "key": "item.quest.hookah_flask_empty",
+  "kind": "item",
+  "name": {
+    "ru": "Фляга Мишани",
+    "en": "Mishanya's Flask"
+  },
+  "apiId": "ojqo",
+  "apiIdStatus": "inferred"
+}

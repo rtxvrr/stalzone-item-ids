@@ -1,0 +1,11 @@
+{
+  "clientId": 21070,
+  "key": "item.melee.endgame",
+  "kind": "item",
+  "name": {
+    "ru": "«Эндшпиль»",
+    "en": "Endgame"
+  },
+  "apiId": "7l5g9",
+  "apiIdStatus": "inferred"
+}

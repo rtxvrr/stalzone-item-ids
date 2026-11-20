@@ -1,0 +1,11 @@
+{
+  "clientId": 12040,
+  "key": "item.cont.apiary",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Пасека»",
+    "en": "Apiary Container"
+  },
+  "apiId": "n3v9",
+  "apiIdStatus": "inferred"
+}

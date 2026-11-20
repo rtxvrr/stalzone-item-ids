@@ -1,0 +1,11 @@
+{
+  "clientId": 18825,
+  "key": "item.dmz2026.calldown_token.helic8",
+  "kind": "item",
+  "name": {
+    "ru": "«Вертолетные C-8»",
+    "en": "Helicopter S-8"
+  },
+  "apiId": "1rmz6",
+  "apiIdStatus": "inferred"
+}

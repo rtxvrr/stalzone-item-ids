@@ -1,0 +1,11 @@
+{
+  "clientId": 16295,
+  "key": "item.quest.recommendation",
+  "kind": "item",
+  "name": {
+    "ru": "Рекомендации Бондаренко",
+    "en": "Bondarenko’s Recommendations"
+  },
+  "apiId": "6w97n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4994,
+  "key": "item.plc.sticker.prestige_newbie",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Луч»",
+    "en": "Beam Sticker"
+  },
+  "apiId": "70q7",
+  "apiIdStatus": "inferred"
+}

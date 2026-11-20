@@ -1,0 +1,11 @@
+{
+  "clientId": 17130,
+  "key": "item.style.arm.ghost_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Крысиный король»",
+    "en": "The Rat King"
+  },
+  "apiId": "wj05d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 5005,
+  "key": "item.plc.sticker.prestige_strong",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Сильнейший боец Колизея»",
+    "en": "Coliseum’s Strongest Fighter Sticker"
+  },
+  "apiId": "yvlz",
+  "apiIdStatus": "inferred"
+}

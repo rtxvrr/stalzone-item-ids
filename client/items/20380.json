@@ -1,0 +1,11 @@
+{
+  "clientId": 20380,
+  "key": "item.wpn.mr153_yana",
+  "kind": "item",
+  "name": {
+    "ru": "Мурка Яна",
+    "en": "Jan's Murka"
+  },
+  "apiId": "knm1p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6411,
+  "key": "item.misc.glycerin",
+  "kind": "item",
+  "name": {
+    "ru": "Глицерин",
+    "en": "Glycerin"
+  },
+  "apiId": "l2kk",
+  "apiIdStatus": "inferred"
+}

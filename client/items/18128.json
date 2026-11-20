@@ -1,0 +1,11 @@
+{
+  "clientId": 18128,
+  "key": "item.camo.wpn.field",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Поле»",
+    "en": "Field Camouflage"
+  },
+  "apiId": "5ljn0",
+  "apiIdStatus": "inferred"
+}

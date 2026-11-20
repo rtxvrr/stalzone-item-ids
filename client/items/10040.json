@@ -1,0 +1,11 @@
+{
+  "clientId": 10040,
+  "key": "item.quest.audio_diary_covenant_5",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиодневник Иллариона 5",
+    "en": "Illarion's Audio Journal 5"
+  },
+  "apiId": "ndp1",
+  "apiIdStatus": "inferred"
+}

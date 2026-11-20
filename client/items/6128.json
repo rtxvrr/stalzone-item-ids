@@ -1,0 +1,11 @@
+{
+  "clientId": 6128,
+  "key": "item.misc.millet_box",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с пшеном",
+    "en": "Can of Millet"
+  },
+  "apiId": "5dp0",
+  "apiIdStatus": "inferred"
+}

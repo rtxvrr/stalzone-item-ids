@@ -1,0 +1,11 @@
+{
+  "clientId": 18305,
+  "key": "item.camo.wpn.summer24_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Микросхема»",
+    "en": "Microcircuit Paint"
+  },
+  "apiId": "y36dw",
+  "apiIdStatus": "inferred"
+}

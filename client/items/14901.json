@@ -1,0 +1,11 @@
+{
+  "clientId": 14901,
+  "key": "item.exp.rgn_sessions",
+  "kind": "item",
+  "name": {
+    "ru": "РГН",
+    "en": "RGN"
+  },
+  "apiId": "1rrp2",
+  "apiIdStatus": "inferred"
+}

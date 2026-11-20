@@ -1,0 +1,11 @@
+{
+  "clientId": 6402,
+  "key": "item.misc.bullet_alloy",
+  "kind": "item",
+  "name": {
+    "ru": "Пулевой сплав",
+    "en": "Bullet Alloy"
+  },
+  "apiId": "gmn6",
+  "apiIdStatus": "inferred"
+}

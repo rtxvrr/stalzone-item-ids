@@ -1,0 +1,11 @@
+{
+  "clientId": 12210,
+  "key": "item.misc.tradepack_11",
+  "kind": "item",
+  "name": {
+    "ru": "Торговый ящик",
+    "en": "Trader's Crate"
+  },
+  "apiId": "jmq7",
+  "apiIdStatus": "inferred"
+}

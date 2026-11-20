@@ -1,0 +1,11 @@
+{
+  "clientId": 17257,
+  "key": "item.style.melee.antiterror_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Черное перо»",
+    "en": "Black Feather"
+  },
+  "apiId": "qj3dj",
+  "apiIdStatus": "inferred"
+}

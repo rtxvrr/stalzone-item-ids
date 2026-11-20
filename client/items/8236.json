@@ -1,0 +1,11 @@
+{
+  "clientId": 8236,
+  "key": "item.quest.unnamed_deep_prototype_classified",
+  "kind": "item",
+  "name": {
+    "ru": "СОВ. СЕКРЕТНО \\nЭкз. № 1 \\nВОЕННО-ПРОМЫШЛЕННАЯ КОМИССИЯ ПРИ СМ СССР \\nРАСПОРЯЖЕНИЕ № ВПК-83/21",
+    "en": "TOP SECRET \\nCopy No. 1 \\nMILITARY-INDUSTRIAL COMMISSION UNDER THE COUNCIL OF MINISTERS OF THE USSR \\nORDER No. MIC-83/21"
+  },
+  "apiId": "r09v",
+  "apiIdStatus": "inferred"
+}

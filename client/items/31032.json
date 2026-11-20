@@ -1,0 +1,11 @@
+{
+  "clientId": 31032,
+  "key": "item.brt.td.mining",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки алюминиевого кабеля",
+    "en": "Pieces of Aluminum Cable"
+  },
+  "apiId": "kr5oy",
+  "apiIdStatus": "inferred"
+}

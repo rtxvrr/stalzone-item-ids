@@ -1,0 +1,11 @@
+{
+  "clientId": 25743,
+  "key": "item.skin.na_latam_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Затейник»",
+    "en": "Hustler Skin"
+  },
+  "apiId": "dm3w2",
+  "apiIdStatus": "inferred"
+}

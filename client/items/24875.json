@@ -1,0 +1,11 @@
+{
+  "clientId": 24875,
+  "key": "item.charm.na_eagle",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Свободный полет»",
+    "en": "Free Flight Charm"
+  },
+  "apiId": "zzyw2",
+  "apiIdStatus": "inferred"
+}

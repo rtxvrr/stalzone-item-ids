@@ -1,0 +1,11 @@
+{
+  "clientId": 31543,
+  "key": "item.ny_toys.setM.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Зеркальная игрушка-голубь диггеров",
+    "en": "Digger's Mirror Dove Decoration"
+  },
+  "apiId": "drp79",
+  "apiIdStatus": "inferred"
+}

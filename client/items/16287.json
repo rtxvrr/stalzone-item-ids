@@ -1,0 +1,11 @@
+{
+  "clientId": 16287,
+  "key": "item.misc.pseudogigant_gyro_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Гиростабилизирующий орган бурелома",
+    "en": "Behemoth Gyrostabilizing Organ"
+  },
+  "apiId": "okpn5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8032,
+  "key": "item.quest.covenant.dossier_moonwalker",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Луноход",
+    "en": "Dossier: Moonwalker"
+  },
+  "apiId": "kgk0",
+  "apiIdStatus": "inferred"
+}

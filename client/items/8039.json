@@ -1,0 +1,11 @@
+{
+  "clientId": 8039,
+  "key": "item.quest.covenant.military_anticonsulvant",
+  "kind": "item",
+  "name": {
+    "ru": "Противосудорожное средство",
+    "en": "Anticonvulsant agent"
+  },
+  "apiId": "owro",
+  "apiIdStatus": "inferred"
+}

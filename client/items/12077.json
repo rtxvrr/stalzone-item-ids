@@ -1,0 +1,11 @@
+{
+  "clientId": 12077,
+  "key": "item.bag.corpse_big",
+  "kind": "item",
+  "name": {
+    "ru": "Большой подозрительный мешок",
+    "en": "Large Suspicious Bag"
+  },
+  "apiId": "yqr0",
+  "apiIdStatus": "inferred"
+}

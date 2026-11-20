@@ -1,0 +1,11 @@
+{
+  "clientId": 21800,
+  "key": "item.wpn_mod.adv.vigilante",
+  "kind": "item",
+  "name": {
+    "ru": "«Линчеватель»",
+    "en": "Vigilante"
+  },
+  "apiId": "965y0",
+  "apiIdStatus": "inferred"
+}

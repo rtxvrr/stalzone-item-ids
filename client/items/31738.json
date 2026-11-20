@@ -1,0 +1,11 @@
+{
+  "clientId": 31738,
+  "key": "item.part.sa58_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть SA-58 CTC #4",
+    "en": "SA-58 CTC Part #4"
+  },
+  "apiId": "mrnr2",
+  "apiIdStatus": "inferred"
+}

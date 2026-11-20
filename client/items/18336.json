@@ -1,0 +1,11 @@
+{
+  "clientId": 18336,
+  "key": "item.camo.wpn.autumn24_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Тень богатств»",
+    "en": "Shadow of Wealth Paint"
+  },
+  "apiId": "rw9gl",
+  "apiIdStatus": "inferred"
+}

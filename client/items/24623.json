@@ -1,0 +1,11 @@
+{
+  "clientId": 24623,
+  "key": "item.charm.spring24_egg2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Яйцо ящера»",
+    "en": "Lizard Egg Charm\t"
+  },
+  "apiId": "6wq4n",
+  "apiIdStatus": "inferred"
+}

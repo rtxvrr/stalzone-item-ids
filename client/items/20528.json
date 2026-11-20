@@ -1,0 +1,11 @@
+{
+  "clientId": 20528,
+  "key": "item.wpn.sok94",
+  "kind": "item",
+  "name": {
+    "ru": "СОК-94",
+    "en": "SOK-94"
+  },
+  "apiId": "5lnp0",
+  "apiIdStatus": "inferred"
+}

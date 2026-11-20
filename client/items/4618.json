@@ -1,0 +1,11 @@
+{
+  "clientId": 4618,
+  "key": "item.plc.pattern.nea_leaves",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Летящие лепестки»",
+    "en": "Fluttering Petals Pattern"
+  },
+  "apiId": "vvqr",
+  "apiIdStatus": "inferred"
+}

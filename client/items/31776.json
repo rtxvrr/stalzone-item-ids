@@ -1,0 +1,11 @@
+{
+  "clientId": 31776,
+  "key": "item.part.rigel_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть комбинезона «Ригель» #4",
+    "en": "Rigel Jumpsuit Part #4"
+  },
+  "apiId": "55joq",
+  "apiIdStatus": "inferred"
+}

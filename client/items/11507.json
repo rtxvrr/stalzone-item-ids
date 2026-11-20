@@ -1,0 +1,11 @@
+{
+  "clientId": 11507,
+  "key": "item.art.inside_bismuth",
+  "kind": "item",
+  "name": {
+    "ru": "Висмут",
+    "en": "Bismuth"
+  },
+  "apiId": "4lrn",
+  "apiIdStatus": "inferred"
+}

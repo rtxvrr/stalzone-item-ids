@@ -1,0 +1,11 @@
+{
+  "clientId": 24540,
+  "key": "item.charm.inside_onyx",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Оникс»",
+    "en": "Onyx Charm"
+  },
+  "apiId": "n47q2",
+  "apiIdStatus": "inferred"
+}

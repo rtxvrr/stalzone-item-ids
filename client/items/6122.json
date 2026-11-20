@@ -1,0 +1,11 @@
+{
+  "clientId": 6122,
+  "key": "item.misc.garlic",
+  "kind": "item",
+  "name": {
+    "ru": "Чеснок",
+    "en": "Garlic"
+  },
+  "apiId": "7rp7",
+  "apiIdStatus": "inferred"
+}

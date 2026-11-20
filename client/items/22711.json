@@ -1,0 +1,11 @@
+{
+  "clientId": 22711,
+  "key": "item.att.mag_pmag76230b",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 7.62 NATO PMAG, черный",
+    "en": "7.62 NATO PMAG Magazine, Black"
+  },
+  "apiId": "ly1lo",
+  "apiIdStatus": "inferred"
+}

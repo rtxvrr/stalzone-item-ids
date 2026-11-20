@@ -1,0 +1,11 @@
+{
+  "clientId": 16887,
+  "key": "item.quest.merc.gasbomb",
+  "kind": "item",
+  "name": {
+    "ru": "Газовая бомба Твена",
+    "en": "Twain's Gas Bomb"
+  },
+  "apiId": "okz65",
+  "apiIdStatus": "inferred"
+}

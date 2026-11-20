@@ -1,0 +1,11 @@
+{
+  "clientId": 19483,
+  "key": "item.camo.arm.winter26_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Темная метель»",
+    "en": "Dark Windstorm Paint"
+  },
+  "apiId": "lygjj",
+  "apiIdStatus": "inferred"
+}

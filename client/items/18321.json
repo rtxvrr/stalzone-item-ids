@@ -1,0 +1,11 @@
+{
+  "clientId": 18321,
+  "key": "item.camo.wpn.dayx_twitch_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Обсидиан Twitch»",
+    "en": "Twitch Obsidian Paint"
+  },
+  "apiId": "3g26k",
+  "apiIdStatus": "inferred"
+}

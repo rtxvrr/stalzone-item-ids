@@ -1,0 +1,11 @@
+{
+  "clientId": 15029,
+  "key": "item.lootbox.frontline_1",
+  "kind": "item",
+  "name": {
+    "ru": "Солдатский ящик",
+    "en": "Soldier's Crate"
+  },
+  "apiId": "y3440",
+  "apiIdStatus": "inferred"
+}

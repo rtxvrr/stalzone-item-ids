@@ -1,0 +1,11 @@
+{
+  "clientId": 29935,
+  "key": "item.filler.npc_12",
+  "kind": "item",
+  "name": {
+    "ru": "Полевая кухня",
+    "en": "Field Kitchen"
+  },
+  "apiId": "l0kqo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15036,
+  "key": "item.lootbox.autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "Загадочная добыча",
+    "en": "Mysterious Loot"
+  },
+  "apiId": "rwjjz",
+  "apiIdStatus": "inferred"
+}

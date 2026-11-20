@@ -1,0 +1,11 @@
+{
+  "clientId": 16886,
+  "key": "item.quest.covenant.stuff",
+  "kind": "item",
+  "name": {
+    "ru": "Вещи отшельников",
+    "en": "Hermits' Things"
+  },
+  "apiId": "m01nk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31819,
+  "key": "item.part.bren",
+  "kind": "item",
+  "name": {
+    "ru": "Часть Bren",
+    "en": "Bren Part"
+  },
+  "apiId": "dr96g",
+  "apiIdStatus": "inferred"
+}

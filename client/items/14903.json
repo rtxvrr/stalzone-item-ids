@@ -1,0 +1,11 @@
+{
+  "clientId": 14903,
+  "key": "item.exp.m67_sessions",
+  "kind": "item",
+  "name": {
+    "ru": "M67",
+    "en": "M67"
+  },
+  "apiId": "zzzjm",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8302,
+  "key": "item.quest.the_shock_wave_shielded_cable",
+  "kind": "item",
+  "name": {
+    "ru": "Экранированный кабель",
+    "en": "Shielded Cable"
+  },
+  "apiId": "ggw5",
+  "apiIdStatus": "inferred"
+}

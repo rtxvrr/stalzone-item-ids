@@ -1,0 +1,11 @@
+{
+  "clientId": 31063,
+  "key": "item.brt.mg.node",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент данных «Бета»",
+    "en": "Beta Data Fragment"
+  },
+  "apiId": "olzr6",
+  "apiIdStatus": "inferred"
+}

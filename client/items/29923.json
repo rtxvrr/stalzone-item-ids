@@ -1,0 +1,11 @@
+{
+  "clientId": 29923,
+  "key": "item.filler.mining_4",
+  "kind": "item",
+  "name": {
+    "ru": "Терморезистор",
+    "en": "Thermistor"
+  },
+  "apiId": "6oy30",
+  "apiIdStatus": "inferred"
+}

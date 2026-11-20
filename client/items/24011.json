@@ -1,0 +1,11 @@
+{
+  "clientId": 24011,
+  "key": "item.24011",
+  "kind": "item",
+  "name": {
+    "ru": "Бронзовый жетон бандита",
+    "en": "Bronze Bandit Token"
+  },
+  "apiId": "lydm2",
+  "apiIdStatus": "inferred"
+}

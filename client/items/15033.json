@@ -1,0 +1,11 @@
+{
+  "clientId": 15033,
+  "key": "item.lootbox.ssop_support",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с трофеями «Шепота»",
+    "en": "Murmur trophies crate"
+  },
+  "apiId": "qj004",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28601,
+  "key": "item.28601",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденная плата",
+    "en": "Damaged Circuit Board"
+  },
+  "apiId": "19r3g",
+  "apiIdStatus": "inferred"
+}

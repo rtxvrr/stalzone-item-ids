@@ -1,0 +1,11 @@
+{
+  "clientId": 31493,
+  "key": "item.case.winter25_exclusive_gear",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический кейс «Операции Криостазис»",
+    "en": "Tactical Operation Cryostasis Case"
+  },
+  "apiId": "343yz",
+  "apiIdStatus": "inferred"
+}

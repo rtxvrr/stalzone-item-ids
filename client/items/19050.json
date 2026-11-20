@@ -1,0 +1,11 @@
+{
+  "clientId": 19050,
+  "key": "item.camo.arm.stalker",
+  "kind": "item",
+  "name": {
+    "ru": "«Сталкерская олива»",
+    "en": "Stalker Olive"
+  },
+  "apiId": "g4w46",
+  "apiIdStatus": "inferred"
+}

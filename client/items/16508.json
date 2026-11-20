@@ -1,0 +1,11 @@
+{
+  "clientId": 16508,
+  "key": "item.upg.tools_2a",
+  "kind": "item",
+  "name": {
+    "ru": "Особые инструменты",
+    "en": "Special Tools"
+  },
+  "apiId": "knp93",
+  "apiIdStatus": "inferred"
+}

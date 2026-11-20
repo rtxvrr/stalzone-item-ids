@@ -1,0 +1,11 @@
+{
+  "clientId": 4811,
+  "key": "item.plc.sticker.summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «Шепот над Зоной»",
+    "en": "Murmur of the Zone Season Sticker"
+  },
+  "apiId": "lpp2",
+  "apiIdStatus": "inferred"
+}

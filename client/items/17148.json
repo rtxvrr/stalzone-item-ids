@@ -1,0 +1,11 @@
+{
+  "clientId": 17148,
+  "key": "item.style.arm.albatros_heavy_divisions",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS 3.0 «Expanse»",
+    "en": "ZIVCAS 3.0 Expanse"
+  },
+  "apiId": "96krw",
+  "apiIdStatus": "inferred"
+}

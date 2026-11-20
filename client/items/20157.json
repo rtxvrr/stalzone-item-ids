@@ -1,0 +1,11 @@
+{
+  "clientId": 20157,
+  "key": "item.wpn.rpk_old",
+  "kind": "item",
+  "name": {
+    "ru": "РПК",
+    "en": "RPK"
+  },
+  "apiId": "qjvd9",
+  "apiIdStatus": "inferred"
+}

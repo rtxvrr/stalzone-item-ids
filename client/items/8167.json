@@ -1,0 +1,11 @@
+{
+  "clientId": 8167,
+  "key": "item.quest.apocalypse_not_today_syringe_blue",
+  "kind": "item",
+  "name": {
+    "ru": "Синий шприц",
+    "en": "Blue Syringe"
+  },
+  "apiId": "d0y9",
+  "apiIdStatus": "inferred"
+}

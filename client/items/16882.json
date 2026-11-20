@@ -1,0 +1,11 @@
+{
+  "clientId": 16882,
+  "key": "item.quest.cheese",
+  "kind": "item",
+  "name": {
+    "ru": "Кусок вонючего сыра",
+    "en": "Piece of Stinky Cheese"
+  },
+  "apiId": "j5zwl",
+  "apiIdStatus": "inferred"
+}

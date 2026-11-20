@@ -1,0 +1,11 @@
+{
+  "clientId": 8213,
+  "key": "item.quest.armor_piercing_sky_mail",
+  "kind": "item",
+  "name": {
+    "ru": "Письмо Орлова",
+    "en": "Orlov's Letter"
+  },
+  "apiId": "0vj9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14206,
+  "key": "item.bag.10sep",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СЭП 10 мм",
+    "en": "Pouch of 10 mm SEP Rounds"
+  },
+  "apiId": "wjnr2",
+  "apiIdStatus": "inferred"
+}

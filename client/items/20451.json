@@ -1,0 +1,11 @@
+{
+  "clientId": 20451,
+  "key": "item.wpn.hp",
+  "kind": "item",
+  "name": {
+    "ru": "Browning Hi-Power",
+    "en": "Browning Hi-Power"
+  },
+  "apiId": "zz2lk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31306,
+  "key": "item.ny_toys.setC.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Желтый звездный шарик",
+    "en": "Yellow Star Bauble"
+  },
+  "apiId": "w3zvo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22807,
+  "key": "item.att.forend_b10m_bint",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье Б-10М, обмотанное",
+    "en": "B-10M Handguard, Taped"
+  },
+  "apiId": "4qpvj",
+  "apiIdStatus": "inferred"
+}

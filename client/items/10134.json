@@ -1,0 +1,11 @@
+{
+  "clientId": 10134,
+  "key": "item.quest.operatsii_audiodnevnik3",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из \"Отдела мутаций\" Полигона-7",
+    "en": "Cassette from the Mutation Department of Area-7"
+  },
+  "apiId": "jd6g",
+  "apiIdStatus": "inferred"
+}

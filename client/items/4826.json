@@ -1,0 +1,11 @@
+{
+  "clientId": 4826,
+  "key": "item.plc.sticker.dmz26_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Рождественское перемирие»",
+    "en": "Christmas Truce Sticker"
+  },
+  "apiId": "gjwn",
+  "apiIdStatus": "inferred"
+}

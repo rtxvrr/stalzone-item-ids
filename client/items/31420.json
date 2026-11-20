@@ -1,0 +1,11 @@
+{
+  "clientId": 31420,
+  "key": "item.bag.939fire",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 9.39 мм «Жгучий»",
+    "en": "Pouch of 9.39 mm Fluff Rounds"
+  },
+  "apiId": "213j0",
+  "apiIdStatus": "inferred"
+}

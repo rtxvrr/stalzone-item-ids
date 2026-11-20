@@ -1,0 +1,11 @@
+{
+  "clientId": 8267,
+  "key": "item.quest.radio_finder",
+  "kind": "item",
+  "name": {
+    "ru": "Радиопеленгатор",
+    "en": "RDF"
+  },
+  "apiId": "d04j",
+  "apiIdStatus": "inferred"
+}

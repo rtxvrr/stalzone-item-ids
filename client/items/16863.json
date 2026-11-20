@@ -1,0 +1,11 @@
+{
+  "clientId": 16863,
+  "key": "item.quest.poison",
+  "kind": "item",
+  "name": {
+    "ru": "Бутыль с ядом",
+    "en": "Bottle of Poison"
+  },
+  "apiId": "okzn5",
+  "apiIdStatus": "inferred"
+}

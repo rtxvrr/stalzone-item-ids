@@ -1,0 +1,11 @@
+{
+  "clientId": 18250,
+  "key": "item.camo.wpn.m90_winter",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «M90 Winter»",
+    "en": "M90 Winter Camouflage"
+  },
+  "apiId": "g4zq0",
+  "apiIdStatus": "inferred"
+}

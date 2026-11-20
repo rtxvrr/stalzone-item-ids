@@ -1,0 +1,11 @@
+{
+  "clientId": 27704,
+  "key": "item.stash_placer.twitch_1",
+  "kind": "item",
+  "name": {
+    "ru": "Особый схрон",
+    "en": "Special Stash"
+  },
+  "apiId": "55q50",
+  "apiIdStatus": "inferred"
+}

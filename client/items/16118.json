@@ -1,0 +1,11 @@
+{
+  "clientId": 16118,
+  "key": "item.16118",
+  "kind": "item",
+  "name": {
+    "ru": "Мочевой пузырь мертвеца",
+    "en": "Dead Person's Bladder"
+  },
+  "apiId": "vjowp",
+  "apiIdStatus": "inferred"
+}

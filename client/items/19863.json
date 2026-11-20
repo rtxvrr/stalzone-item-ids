@@ -1,0 +1,11 @@
+{
+  "clientId": 19863,
+  "key": "item.motif.wpn.a545_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Ночная охота»",
+    "en": "Night Hunt"
+  },
+  "apiId": "okvm5",
+  "apiIdStatus": "inferred"
+}

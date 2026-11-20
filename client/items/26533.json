@@ -1,0 +1,11 @@
+{
+  "clientId": 26533,
+  "key": "item.food.peas_fighter",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой горох",
+    "en": "Combat Peas"
+  },
+  "apiId": "qjmjk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16161,
+  "key": "item.16161",
+  "kind": "item",
+  "name": {
+    "ru": "Зарисовки Бороды",
+    "en": "Beard's Sketches"
+  },
+  "apiId": "0rlry",
+  "apiIdStatus": "inferred"
+}

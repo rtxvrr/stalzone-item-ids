@@ -1,0 +1,11 @@
+{
+  "clientId": 25111,
+  "key": "item.arm.ametist-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Аметист»",
+    "en": "Worn Amethyst"
+  },
+  "apiId": "lyj4o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6143,
+  "key": "item.misc.multitool",
+  "kind": "item",
+  "name": {
+    "ru": "Мультитул",
+    "en": "Multitool"
+  },
+  "apiId": "dq2n",
+  "apiIdStatus": "inferred"
+}

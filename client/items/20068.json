@@ -1,0 +1,11 @@
+{
+  "clientId": 20068,
+  "key": "item.wpn.m16a3_rune",
+  "kind": "item",
+  "name": {
+    "ru": "Руна",
+    "en": "Rune"
+  },
+  "apiId": "2odv0",
+  "apiIdStatus": "inferred"
+}

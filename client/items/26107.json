@@ -1,0 +1,11 @@
+{
+  "clientId": 26107,
+  "key": "item.med.painblocker_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Чешуя»",
+    "en": "Scale"
+  },
+  "apiId": "4qgjl",
+  "apiIdStatus": "inferred"
+}

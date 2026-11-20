@@ -1,0 +1,11 @@
+{
+  "clientId": 26103,
+  "key": "item.med.unforgettable_mix",
+  "kind": "item",
+  "name": {
+    "ru": "Коктейль «Незабываемый»",
+    "en": "Unforgettable Cocktail"
+  },
+  "apiId": "zzqn9",
+  "apiIdStatus": "inferred"
+}

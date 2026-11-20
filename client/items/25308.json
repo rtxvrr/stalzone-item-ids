@@ -1,0 +1,11 @@
+{
+  "clientId": 25308,
+  "key": "item.arm.albatros_scout",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Альбатрос-Разведчик»",
+    "en": "Albatross Scout Armored Exoarmor"
+  },
+  "apiId": "knqkv",
+  "apiIdStatus": "inferred"
+}

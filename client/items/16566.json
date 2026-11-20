@@ -1,0 +1,11 @@
+{
+  "clientId": 16566,
+  "key": "item.bag.armorpack_glass5",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка стеклянных пластин",
+    "en": "Bag of Glass Plates"
+  },
+  "apiId": "vj37g",
+  "apiIdStatus": "inferred"
+}

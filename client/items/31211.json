@@ -1,0 +1,11 @@
+{
+  "clientId": 31211,
+  "key": "item.scheme.svu_mod_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #2: «Волна»",
+    "en": "Schematic #2: Wave"
+  },
+  "apiId": "l05r2",
+  "apiIdStatus": "inferred"
+}

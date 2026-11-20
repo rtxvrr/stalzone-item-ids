@@ -1,0 +1,11 @@
+{
+  "clientId": 9603,
+  "key": "item.prestige.ability.black_hole",
+  "kind": "item",
+  "name": {
+    "ru": "ГС-1 «BlackHole»",
+    "en": "SG-1 BlackHole"
+  },
+  "apiId": "zrrk",
+  "apiIdStatus": "inferred"
+}

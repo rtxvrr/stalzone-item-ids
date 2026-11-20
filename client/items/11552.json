@@ -1,0 +1,11 @@
+{
+  "clientId": 11552,
+  "key": "item.art.scaries_face",
+  "kind": "item",
+  "name": {
+    "ru": "Харя",
+    "en": "Mug"
+  },
+  "apiId": "51l0",
+  "apiIdStatus": "inferred"
+}

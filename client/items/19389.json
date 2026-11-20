@@ -1,0 +1,11 @@
+{
+  "clientId": 19389,
+  "key": "item.camo.arm.winter25_twitch_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Обледенение»",
+    "en": "Ice Formation Paint"
+  },
+  "apiId": "p6wy2",
+  "apiIdStatus": "inferred"
+}

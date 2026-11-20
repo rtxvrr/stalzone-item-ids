@@ -1,0 +1,11 @@
+{
+  "clientId": 31341,
+  "key": "item.ny_toys.setE.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая сосулька",
+    "en": "Purple Icicle"
+  },
+  "apiId": "pjnw2",
+  "apiIdStatus": "inferred"
+}

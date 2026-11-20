@@ -1,0 +1,11 @@
+{
+  "clientId": 24752,
+  "key": "item.charm.autumn25_pass_3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Наблюдатель»",
+    "en": "Watcher Charm"
+  },
+  "apiId": "5lkm0",
+  "apiIdStatus": "inferred"
+}

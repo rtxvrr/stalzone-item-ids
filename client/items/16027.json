@@ -1,0 +1,11 @@
+{
+  "clientId": 16027,
+  "key": "item.16027",
+  "kind": "item",
+  "name": {
+    "ru": "Старый системник",
+    "en": "Old Mainframe"
+  },
+  "apiId": "zzkyy",
+  "apiIdStatus": "inferred"
+}

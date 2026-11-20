@@ -1,0 +1,11 @@
+{
+  "clientId": 6327,
+  "key": "item.misc.multimer",
+  "kind": "item",
+  "name": {
+    "ru": "Мультиметр",
+    "en": "Multimeter"
+  },
+  "apiId": "z7m9",
+  "apiIdStatus": "inferred"
+}

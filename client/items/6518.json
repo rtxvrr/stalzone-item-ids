@@ -1,0 +1,11 @@
+{
+  "clientId": 6518,
+  "key": "item.misc.operational_amplifier",
+  "kind": "item",
+  "name": {
+    "ru": "Операционный усилитель",
+    "en": "Operational Booster"
+  },
+  "apiId": "v25p",
+  "apiIdStatus": "inferred"
+}

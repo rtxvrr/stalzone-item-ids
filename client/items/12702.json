@@ -1,0 +1,11 @@
+{
+  "clientId": 12702,
+  "key": "item.amm.9exp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм экспансивный",
+    "en": "9 mm Expanding Round"
+  },
+  "apiId": "g54p",
+  "apiIdStatus": "inferred"
+}

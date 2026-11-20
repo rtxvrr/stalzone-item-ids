@@ -1,0 +1,11 @@
+{
+  "clientId": 8178,
+  "key": "item.quest.apocalypse_not_today_armor_fixed",
+  "kind": "item",
+  "name": {
+    "ru": "Отремонтированная броня Азата",
+    "en": "Repaired Azat Armor"
+  },
+  "apiId": "wpld",
+  "apiIdStatus": "inferred"
+}

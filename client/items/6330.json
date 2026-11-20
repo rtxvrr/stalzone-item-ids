@@ -1,0 +1,11 @@
+{
+  "clientId": 6330,
+  "key": "item.misc.lubricants",
+  "kind": "item",
+  "name": {
+    "ru": "Смазочные материалы",
+    "en": "Lubricants"
+  },
+  "apiId": "wokd",
+  "apiIdStatus": "inferred"
+}

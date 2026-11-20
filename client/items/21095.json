@@ -1,0 +1,11 @@
+{
+  "clientId": 21095,
+  "key": "item.melee.lopata_terentii",
+  "kind": "item",
+  "name": {
+    "ru": "Лопата Терентия",
+    "en": "Terenty's Shovel"
+  },
+  "apiId": "6wzvn",
+  "apiIdStatus": "inferred"
+}

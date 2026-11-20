@@ -1,0 +1,11 @@
+{
+  "clientId": 16875,
+  "key": "item.quest.merc.trash",
+  "kind": "item",
+  "name": {
+    "ru": "Хлам для Стиглица",
+    "en": "Junk for Stiglitz"
+  },
+  "apiId": "zz0nk",
+  "apiIdStatus": "inferred"
+}

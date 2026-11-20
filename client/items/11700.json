@@ -1,0 +1,11 @@
+{
+  "clientId": 11700,
+  "key": "item.wpn_mod.core",
+  "kind": "item",
+  "name": {
+    "ru": "Ядро модуля",
+    "en": "Module Core"
+  },
+  "apiId": "9yow",
+  "apiIdStatus": "inferred"
+}

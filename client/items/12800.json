@@ -1,0 +1,11 @@
+{
+  "clientId": 12800,
+  "key": "item.amm.9fire",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм жгучий",
+    "en": "9 mm Fluff Round"
+  },
+  "apiId": "9gk0",
+  "apiIdStatus": "inferred"
+}

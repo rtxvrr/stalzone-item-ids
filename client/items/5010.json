@@ -1,0 +1,11 @@
+{
+  "clientId": 5010,
+  "key": "item.plc.sticker.bureau26_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Тень»",
+    "en": "Shadow Sticker"
+  },
+  "apiId": "jjr7",
+  "apiIdStatus": "inferred"
+}

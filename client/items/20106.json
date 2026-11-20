@@ -1,0 +1,11 @@
+{
+  "clientId": 20106,
+  "key": "item.wpn.valm",
+  "kind": "item",
+  "name": {
+    "ru": "АСМ «Сервал»",
+    "en": "ASM Serval"
+  },
+  "apiId": "wjowd",
+  "apiIdStatus": "inferred"
+}

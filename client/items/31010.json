@@ -1,0 +1,11 @@
+{
+  "clientId": 31010,
+  "key": "item.brt.svalka.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Срачник",
+    "en": "Crappite"
+  },
+  "apiId": "j0z30",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28302,
+  "key": "item.28302",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденная нашивка бандитов",
+    "en": "Damaged Bandit Patch"
+  },
+  "apiId": "gn4kp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25492,
+  "key": "item.arm.ratcatcher_twins",
+  "kind": "item",
+  "name": {
+    "ru": "«Крысолов» Близнецов",
+    "en": "The Twins' Ratcatcher"
+  },
+  "apiId": "2ov30",
+  "apiIdStatus": "inferred"
+}

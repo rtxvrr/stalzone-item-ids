@@ -1,0 +1,11 @@
+{
+  "clientId": 5521,
+  "key": "item.plc.customisation_pack.prestige_golden_raid",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Золотой рейд»",
+    "en": "Golden Raid Customization Pack"
+  },
+  "apiId": "3k7g",
+  "apiIdStatus": "inferred"
+}

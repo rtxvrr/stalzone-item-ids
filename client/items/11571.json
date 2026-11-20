@@ -1,0 +1,11 @@
+{
+  "clientId": 11571,
+  "key": "item.art.lesta_petlya",
+  "kind": "item",
+  "name": {
+    "ru": "Петля",
+    "en": "Loop"
+  },
+  "apiId": "6goy",
+  "apiIdStatus": "inferred"
+}

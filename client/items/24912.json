@@ -1,0 +1,11 @@
+{
+  "clientId": 24912,
+  "key": "item.charm.media_vader",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Прихожанин»",
+    "en": "Parishioner Charm"
+  },
+  "apiId": "rwnpl",
+  "apiIdStatus": "inferred"
+}

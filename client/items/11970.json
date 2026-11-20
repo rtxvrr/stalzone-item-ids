@@ -1,0 +1,11 @@
+{
+  "clientId": 11970,
+  "key": "item.plate.ops.hunter",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничья пластина",
+    "en": "Hunter Plate"
+  },
+  "apiId": "7zjj",
+  "apiIdStatus": "inferred"
+}

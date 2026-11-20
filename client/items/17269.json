@@ -1,0 +1,11 @@
+{
+  "clientId": 17269,
+  "key": "item.style.melee.antiterror_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "«Оплавленный»",
+    "en": "Melted"
+  },
+  "apiId": "3gzjl",
+  "apiIdStatus": "inferred"
+}

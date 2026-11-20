@@ -1,0 +1,11 @@
+{
+  "clientId": 20016,
+  "key": "item.wpn.ump45",
+  "kind": "item",
+  "name": {
+    "ru": "HK UMP45",
+    "en": "HK UMP45"
+  },
+  "apiId": "n4p76",
+  "apiIdStatus": "inferred"
+}

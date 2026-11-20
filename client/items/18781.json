@@ -1,0 +1,11 @@
+{
+  "clientId": 18781,
+  "key": "item.camo.wpn.shake",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Встряска»",
+    "en": "Shake Camouflage"
+  },
+  "apiId": "qj5rk",
+  "apiIdStatus": "inferred"
+}

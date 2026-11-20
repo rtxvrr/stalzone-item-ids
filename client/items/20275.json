@@ -1,0 +1,11 @@
+{
+  "clientId": 20275,
+  "key": "item.wpn.m1a",
+  "kind": "item",
+  "name": {
+    "ru": "M1A FA",
+    "en": "M1A FA"
+  },
+  "apiId": "zz2wy",
+  "apiIdStatus": "inferred"
+}

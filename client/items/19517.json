@@ -1,0 +1,11 @@
+{
+  "clientId": 19517,
+  "key": "item.camo.unique_arm.habolog",
+  "kind": "item",
+  "name": {
+    "ru": "«HABOLOG»",
+    "en": "HABOLOG"
+  },
+  "apiId": "p6w25",
+  "apiIdStatus": "inferred"
+}

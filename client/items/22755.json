@@ -1,0 +1,11 @@
+{
+  "clientId": 22755,
+  "key": "item.att.mag_rumag54575",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин 5.45",
+    "en": "5.45 Drum Magazine"
+  },
+  "apiId": "4qp1o",
+  "apiIdStatus": "inferred"
+}

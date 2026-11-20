@@ -1,0 +1,11 @@
+{
+  "clientId": 24785,
+  "key": "item.charm.scstore_remove_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удалить перед уничтожением»",
+    "en": "Remove Before Extermination Charm"
+  },
+  "apiId": "0r4w1",
+  "apiIdStatus": "inferred"
+}

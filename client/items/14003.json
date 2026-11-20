@@ -1,0 +1,11 @@
+{
+  "clientId": 14003,
+  "key": "item.exp.vog25_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Кустарный выстрел ВОГ-25",
+    "en": "Jury-Rigged VOG-25 Round"
+  },
+  "apiId": "zzgn2",
+  "apiIdStatus": "inferred"
+}

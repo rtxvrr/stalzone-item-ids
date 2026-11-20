@@ -1,0 +1,11 @@
+{
+  "clientId": 20296,
+  "key": "item.wpn.vozduhan",
+  "kind": "item",
+  "name": {
+    "ru": "«Воздухан»",
+    "en": "Capper"
+  },
+  "apiId": "969kl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31064,
+  "key": "item.brt.mg.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Формалин",
+    "en": "Formaldehyde"
+  },
+  "apiId": "nkgl1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17135,
+  "key": "item.style.arm.kz4_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Бурав»",
+    "en": "Drill Armored Suit"
+  },
+  "apiId": "ly9dq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25001,
+  "key": "item.arm.kyrtka_bandit",
+  "kind": "item",
+  "name": {
+    "ru": "Бандитский кожак",
+    "en": "Bandit Coat"
+  },
+  "apiId": "1rk6g",
+  "apiIdStatus": "inferred"
+}

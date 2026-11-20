@@ -1,0 +1,11 @@
+{
+  "clientId": 16266,
+  "key": "item.misc.pseudodog_tail_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост дикой гончей",
+    "en": "Wild Hound's Tail"
+  },
+  "apiId": "vj307",
+  "apiIdStatus": "inferred"
+}

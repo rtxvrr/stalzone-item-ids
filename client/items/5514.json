@@ -1,0 +1,11 @@
+{
+  "clientId": 5514,
+  "key": "item.plc.customisation_pack.dmz26_4",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Окопный»",
+    "en": "Trench Customization Pack"
+  },
+  "apiId": "mz57",
+  "apiIdStatus": "inferred"
+}

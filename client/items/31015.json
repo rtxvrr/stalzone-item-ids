@@ -1,0 +1,11 @@
+{
+  "clientId": 31015,
+  "key": "item.brt.svalka.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Моток медной проволоки",
+    "en": "Spool of Copper Wire"
+  },
+  "apiId": "olz36",
+  "apiIdStatus": "inferred"
+}

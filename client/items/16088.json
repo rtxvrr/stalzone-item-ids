@@ -1,0 +1,11 @@
+{
+  "clientId": 16088,
+  "key": "item.quest.ssop_help_murmur_notes_5",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных “Шепота”",
+    "en": "Murmur Data Module"
+  },
+  "apiId": "n4jl1",
+  "apiIdStatus": "inferred"
+}

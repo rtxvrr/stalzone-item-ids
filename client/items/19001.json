@@ -1,0 +1,11 @@
+{
+  "clientId": 19001,
+  "key": "item.camo.arm.red",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Красная»",
+    "en": "Red Armor Paint"
+  },
+  "apiId": "1rmwg",
+  "apiIdStatus": "inferred"
+}

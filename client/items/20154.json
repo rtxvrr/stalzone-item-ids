@@ -1,0 +1,11 @@
+{
+  "clientId": 20154,
+  "key": "item.wpn.rpd_ogonka",
+  "kind": "item",
+  "name": {
+    "ru": "РПД Огонька",
+    "en": "Firebrand's RPD"
+  },
+  "apiId": "wjokd",
+  "apiIdStatus": "inferred"
+}

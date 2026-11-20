@@ -1,0 +1,11 @@
+{
+  "clientId": 19893,
+  "key": "item.motif.wpn.fiveseven_nea",
+  "kind": "item",
+  "name": {
+    "ru": "«Хонгик Инган»",
+    "en": "Hongik Ingan"
+  },
+  "apiId": "3gr91",
+  "apiIdStatus": "inferred"
+}

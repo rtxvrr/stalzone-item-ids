@@ -1,0 +1,11 @@
+{
+  "clientId": 27710,
+  "key": "item.stash_placer.spring25",
+  "kind": "item",
+  "name": {
+    "ru": "Забытый багаж",
+    "en": "Forgotten Luggage"
+  },
+  "apiId": "j0p06",
+  "apiIdStatus": "inferred"
+}

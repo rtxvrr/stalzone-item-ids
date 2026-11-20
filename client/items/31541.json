@@ -1,0 +1,11 @@
+{
+  "clientId": 31541,
+  "key": "item.ny_toys.setL.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Артефактная редкая мишура",
+    "en": "Rare Artifact Tinsel"
+  },
+  "apiId": "pjn75",
+  "apiIdStatus": "inferred"
+}

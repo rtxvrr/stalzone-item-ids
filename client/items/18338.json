@@ -1,0 +1,11 @@
+{
+  "clientId": 18338,
+  "key": "item.camo.wpn.autumn24_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Специальный заказ»",
+    "en": "Special Order Paint"
+  },
+  "apiId": "m0n3r",
+  "apiIdStatus": "inferred"
+}

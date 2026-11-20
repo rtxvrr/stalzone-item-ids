@@ -1,0 +1,11 @@
+{
+  "clientId": 31132,
+  "key": "item.brt.limansk.signal",
+  "kind": "item",
+  "name": {
+    "ru": "Маячок группы «Лямбда»",
+    "en": "Lambda Group Tracker"
+  },
+  "apiId": "krznp",
+  "apiIdStatus": "inferred"
+}

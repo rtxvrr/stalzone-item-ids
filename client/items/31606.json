@@ -1,0 +1,11 @@
+{
+  "clientId": 31606,
+  "key": "item.blueprint.wpn.ravent_rpd",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж РПД",
+    "en": "RPD Blueprint"
+  },
+  "apiId": "w3z42",
+  "apiIdStatus": "inferred"
+}

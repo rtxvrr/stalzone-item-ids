@@ -1,0 +1,11 @@
+{
+  "clientId": 13220,
+  "key": "item.camo.wpn.spring26_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Красный стяг»",
+    "en": "Red Banner Paint"
+  },
+  "apiId": "2ppv",
+  "apiIdStatus": "inferred"
+}

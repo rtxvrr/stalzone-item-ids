@@ -1,0 +1,11 @@
+{
+  "clientId": 11206,
+  "key": "item.art.puh_oxyd",
+  "kind": "item",
+  "name": {
+    "ru": "Оксид",
+    "en": "Oxide"
+  },
+  "apiId": "wgo2",
+  "apiIdStatus": "inferred"
+}

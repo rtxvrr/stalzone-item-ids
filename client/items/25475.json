@@ -1,0 +1,11 @@
+{
+  "clientId": 25475,
+  "key": "item.arm.berill_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "«Комбат-5М» ящеров",
+    "en": "Lizard's Combat-5M"
+  },
+  "apiId": "zzj02",
+  "apiIdStatus": "inferred"
+}

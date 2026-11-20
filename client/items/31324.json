@@ -1,0 +1,11 @@
+{
+  "clientId": 31324,
+  "key": "item.ny_toys.setD.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая звездочка",
+    "en": "Green Star"
+  },
+  "apiId": "9d12z",
+  "apiIdStatus": "inferred"
+}

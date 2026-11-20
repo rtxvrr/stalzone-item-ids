@@ -1,0 +1,11 @@
+{
+  "clientId": 4976,
+  "key": "item.plc.sticker.na_kilometer",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Метрическая система»",
+    "en": "The Metric System Pattern"
+  },
+  "apiId": "50p0",
+  "apiIdStatus": "inferred"
+}

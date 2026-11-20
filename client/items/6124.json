@@ -1,0 +1,11 @@
+{
+  "clientId": 6124,
+  "key": "item.misc.corn_box",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с кукурузой",
+    "en": "Can of Corn"
+  },
+  "apiId": "9mpz",
+  "apiIdStatus": "inferred"
+}

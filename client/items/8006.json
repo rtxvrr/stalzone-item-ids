@@ -1,0 +1,11 @@
+{
+  "clientId": 8006,
+  "key": "item.exp.m381_ffa_heal",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный «Подорожник»",
+    "en": "Plantain Grenade Round"
+  },
+  "apiId": "w1wp",
+  "apiIdStatus": "inferred"
+}

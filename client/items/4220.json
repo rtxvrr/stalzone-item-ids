@@ -1,0 +1,11 @@
+{
+  "clientId": 4220,
+  "key": "item.plc.background.shaman",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Шамана",
+    "en": "Shaman Background"
+  },
+  "apiId": "2wwv",
+  "apiIdStatus": "inferred"
+}

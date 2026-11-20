@@ -1,0 +1,11 @@
+{
+  "clientId": 8284,
+  "key": "item.quest.the_shock_wave_key_card_2",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта",
+    "en": "Key Card"
+  },
+  "apiId": "r0kv",
+  "apiIdStatus": "inferred"
+}

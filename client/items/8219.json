@@ -1,0 +1,11 @@
+{
+  "clientId": 8219,
+  "key": "item.quest.ford_material",
+  "kind": "item",
+  "name": {
+    "ru": "Зубастая руда",
+    "en": "Toothed Ore"
+  },
+  "apiId": "d0pj",
+  "apiIdStatus": "inferred"
+}

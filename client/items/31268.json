@@ -1,0 +1,11 @@
+{
+  "clientId": 31268,
+  "key": "item.ny_toys.setQ.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Советский фиолетовый шарик",
+    "en": "Soviet Purple Bauble"
+  },
+  "apiId": "2133v",
+  "apiIdStatus": "inferred"
+}

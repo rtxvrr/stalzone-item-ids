@@ -1,0 +1,11 @@
+{
+  "clientId": 10173,
+  "key": "item.quest.smotrikov24",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Художники",
+    "en": "Audio recorder: Artists"
+  },
+  "apiId": "1g32",
+  "apiIdStatus": "inferred"
+}

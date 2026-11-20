@@ -1,0 +1,11 @@
+{
+  "clientId": 19734,
+  "key": "item.camo.arm.ceramics",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Керамика»",
+    "en": "Ceramic Camouflage"
+  },
+  "apiId": "j5lgg",
+  "apiIdStatus": "inferred"
+}

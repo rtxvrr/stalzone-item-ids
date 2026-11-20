@@ -1,0 +1,11 @@
+{
+  "clientId": 24775,
+  "key": "item.charm.autumn25_encaged_scout",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Выживший разведчик»",
+    "en": "Survivor Scout Charm"
+  },
+  "apiId": "zzygn",
+  "apiIdStatus": "inferred"
+}

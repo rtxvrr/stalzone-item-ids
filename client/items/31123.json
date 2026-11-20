@@ -1,0 +1,11 @@
+{
+  "clientId": 31123,
+  "key": "item.brt.limansk.node",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент данных «Лямбда»",
+    "en": "Lambda Data Fragment"
+  },
+  "apiId": "6o7m0",
+  "apiIdStatus": "inferred"
+}

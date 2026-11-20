@@ -1,0 +1,11 @@
+{
+  "clientId": 31687,
+  "key": "item.blueprint.wpn.ravent_mp5",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж HK MP5",
+    "en": "HK MP5 Blueprint"
+  },
+  "apiId": "ol6q6",
+  "apiIdStatus": "inferred"
+}

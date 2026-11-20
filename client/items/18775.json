@@ -1,0 +1,11 @@
+{
+  "clientId": 18775,
+  "key": "item.camo.wpn.lightning_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Lightning»",
+    "en": "Twitch Lightning Camouflage"
+  },
+  "apiId": "zzvpn",
+  "apiIdStatus": "inferred"
+}

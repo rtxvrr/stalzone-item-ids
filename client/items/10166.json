@@ -1,0 +1,11 @@
+{
+  "clientId": 10166,
+  "key": "item.quest.smotrikov17",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Невозможное",
+    "en": "Audio recorder: The Impossible"
+  },
+  "apiId": "vzlp",
+  "apiIdStatus": "inferred"
+}

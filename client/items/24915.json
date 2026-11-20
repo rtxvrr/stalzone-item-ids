@@ -1,0 +1,11 @@
+{
+  "clientId": 24915,
+  "key": "item.charm.soop",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «SOOP»",
+    "en": "SOOP Charm"
+  },
+  "apiId": "ok0n4",
+  "apiIdStatus": "inferred"
+}

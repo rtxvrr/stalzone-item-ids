@@ -1,0 +1,11 @@
+{
+  "clientId": 16979,
+  "key": "item.season_pass.level_token_tradeable",
+  "kind": "item",
+  "name": {
+    "ru": "Передаваемый уровень Сезона",
+    "en": "Transferable Season Level"
+  },
+  "apiId": "4q5nn",
+  "apiIdStatus": "inferred"
+}

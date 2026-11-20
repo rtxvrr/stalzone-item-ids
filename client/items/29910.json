@@ -1,0 +1,11 @@
+{
+  "clientId": 29910,
+  "key": "item.filler.mob_2",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанный коготь",
+    "en": "Broken Claw"
+  },
+  "apiId": "j0n4g",
+  "apiIdStatus": "inferred"
+}

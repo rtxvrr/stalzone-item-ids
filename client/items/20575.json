@@ -1,0 +1,11 @@
+{
+  "clientId": 20575,
+  "key": "item.wpn.sigsniper",
+  "kind": "item",
+  "name": {
+    "ru": "SIG SG 550 Sniper",
+    "en": "SIG SG 550 Sniper"
+  },
+  "apiId": "zz24n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10269,
+  "key": "item.phonograph.vinyl_location_zaton",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Тихая Заводь»",
+    "en": "Stillwaters Vinyl Record"
+  },
+  "apiId": "3561",
+  "apiIdStatus": "inferred"
+}

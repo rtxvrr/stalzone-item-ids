@@ -1,0 +1,11 @@
+{
+  "clientId": 8125,
+  "key": "item.quest.operation2025_song3",
+  "kind": "item",
+  "name": {
+    "ru": "Призрачный город",
+    "en": "Ghost Town"
+  },
+  "apiId": "1v9q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11155,
+  "key": "item.art.kisel_svetlyak",
+  "kind": "item",
+  "name": {
+    "ru": "Змеиный глаз",
+    "en": "Snake Eye"
+  },
+  "apiId": "4lml",
+  "apiIdStatus": "inferred"
+}

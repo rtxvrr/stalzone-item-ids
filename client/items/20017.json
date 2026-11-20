@@ -1,0 +1,11 @@
+{
+  "clientId": 20017,
+  "key": "item.wpn.vityaz_sn",
+  "kind": "item",
+  "name": {
+    "ru": "«Витязь-СН»",
+    "en": "Vityaz-SN"
+  },
+  "apiId": "p6r76",
+  "apiIdStatus": "inferred"
+}

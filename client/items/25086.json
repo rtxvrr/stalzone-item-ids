@@ -1,0 +1,11 @@
+{
+  "clientId": 25086,
+  "key": "item.arm.voshod-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный тяжелый бронекостюм «Восход»",
+    "en": "Worn Voshod Heavy Armored Suit"
+  },
+  "apiId": "m065y",
+  "apiIdStatus": "inferred"
+}

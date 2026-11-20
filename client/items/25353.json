@@ -1,0 +1,11 @@
+{
+  "clientId": 25353,
+  "key": "item.arm.tank",
+  "kind": "item",
+  "name": {
+    "ru": "SBA TANK",
+    "en": "SBA TANK"
+  },
+  "apiId": "y3q1o",
+  "apiIdStatus": "inferred"
+}

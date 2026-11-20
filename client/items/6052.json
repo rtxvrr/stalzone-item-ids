@@ -1,0 +1,11 @@
+{
+  "clientId": 6052,
+  "key": "item.misc.balon_propane",
+  "kind": "item",
+  "name": {
+    "ru": "Баллон с пропаном",
+    "en": "Propane Tank"
+  },
+  "apiId": "5dgo",
+  "apiIdStatus": "inferred"
+}

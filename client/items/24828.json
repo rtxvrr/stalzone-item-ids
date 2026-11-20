@@ -1,0 +1,11 @@
+{
+  "clientId": 24828,
+  "key": "item.charm.spring26_birka",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Бирка»",
+    "en": "Tag Charm"
+  },
+  "apiId": "5lr5g",
+  "apiIdStatus": "inferred"
+}

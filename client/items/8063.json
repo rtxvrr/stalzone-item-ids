@@ -1,0 +1,11 @@
+{
+  "clientId": 8063,
+  "key": "item.quest.psi_hound_tissues_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Ткани пси-гончей",
+    "en": "Body tissues of a psy-hound"
+  },
+  "apiId": "owoo",
+  "apiIdStatus": "inferred"
+}

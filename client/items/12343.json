@@ -1,0 +1,11 @@
+{
+  "clientId": 12343,
+  "key": "item.exp.rgd5",
+  "kind": "item",
+  "name": {
+    "ru": "РГД-5",
+    "en": "RGD-5"
+  },
+  "apiId": "dkq9",
+  "apiIdStatus": "inferred"
+}

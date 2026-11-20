@@ -1,0 +1,11 @@
+{
+  "clientId": 22553,
+  "key": "item.att.silencer_fa556",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель FA556 Mini",
+    "en": "FA556 Mini Silencer"
+  },
+  "apiId": "y3mgw",
+  "apiIdStatus": "inferred"
+}

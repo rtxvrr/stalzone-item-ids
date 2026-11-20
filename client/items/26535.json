@@ -1,0 +1,11 @@
+{
+  "clientId": 26535,
+  "key": "item.food.champion_breakfast",
+  "kind": "item",
+  "name": {
+    "ru": "Завтрак чемпиона",
+    "en": "Breakfast of Champions"
+  },
+  "apiId": "ly6y1",
+  "apiIdStatus": "inferred"
+}

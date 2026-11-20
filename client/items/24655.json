@@ -1,0 +1,11 @@
+{
+  "clientId": 24655,
+  "key": "item.charm.welcome_thevovca",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «TheVovkaCom»",
+    "en": "TheVovkaCom Channel Fan Charm"
+  },
+  "apiId": "4q4lj",
+  "apiIdStatus": "inferred"
+}

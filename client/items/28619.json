@@ -1,0 +1,11 @@
+{
+  "clientId": 28619,
+  "key": "item.med.spirt",
+  "kind": "item",
+  "name": {
+    "ru": "Технический спирт",
+    "en": "Industrial Alcohol"
+  },
+  "apiId": "drmwj",
+  "apiIdStatus": "inferred"
+}

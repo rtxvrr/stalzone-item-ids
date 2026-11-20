@@ -1,0 +1,11 @@
+{
+  "clientId": 8173,
+  "key": "item.quest.apocalypse_not_today_triac",
+  "kind": "item",
+  "name": {
+    "ru": "Симистор",
+    "en": "TRIAC"
+  },
+  "apiId": "1vlq",
+  "apiIdStatus": "inferred"
+}

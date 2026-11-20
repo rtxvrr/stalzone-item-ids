@@ -1,0 +1,11 @@
+{
+  "clientId": 25116,
+  "key": "item.arm.bulat-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный «Скиф-2м»",
+    "en": "Damaged Scythian-2m"
+  },
+  "apiId": "n4rq2",
+  "apiIdStatus": "inferred"
+}

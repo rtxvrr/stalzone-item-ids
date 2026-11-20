@@ -1,0 +1,11 @@
+{
+  "clientId": 26077,
+  "key": "item.food.ny23.icecream_stakan",
+  "kind": "item",
+  "name": {
+    "ru": "Стаканчик мороженого",
+    "en": "Ice Cream Cone"
+  },
+  "apiId": "y3kyz",
+  "apiIdStatus": "inferred"
+}

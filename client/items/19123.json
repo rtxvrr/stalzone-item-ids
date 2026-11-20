@@ -1,0 +1,11 @@
+{
+  "clientId": 19123,
+  "key": "item.camo.arm.flake",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Хлопья»",
+    "en": "Flakes Camouflage"
+  },
+  "apiId": "6w290",
+  "apiIdStatus": "inferred"
+}

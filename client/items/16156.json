@@ -1,0 +1,11 @@
+{
+  "clientId": 16156,
+  "key": "item.16156",
+  "kind": "item",
+  "name": {
+    "ru": "Череп корешей Бороды",
+    "en": "Skull of Beard's Buddy"
+  },
+  "apiId": "knpnp",
+  "apiIdStatus": "inferred"
+}

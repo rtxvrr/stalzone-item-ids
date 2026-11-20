@@ -1,0 +1,11 @@
+{
+  "clientId": 12061,
+  "key": "item.cont.pathfinder",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Вязанка»",
+    "en": "Sheaf Container"
+  },
+  "apiId": "0nok",
+  "apiIdStatus": "inferred"
+}

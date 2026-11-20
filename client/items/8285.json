@@ -1,0 +1,11 @@
+{
+  "clientId": 8285,
+  "key": "item.wpn.quest_tatishchev_spreader",
+  "kind": "item",
+  "name": {
+    "ru": "Распылитель Татищева",
+    "en": "Tatishchev’s Fogger"
+  },
+  "apiId": "0vy9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4625,
+  "key": "item.plc.pattern.prestige_interference",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Помехи»",
+    "en": "Static Pattern"
+  },
+  "apiId": "1m0g",
+  "apiIdStatus": "inferred"
+}

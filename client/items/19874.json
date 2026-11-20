@@ -1,0 +1,11 @@
+{
+  "clientId": 19874,
+  "key": "item.motif.wpn.rsh12_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Торпедист»",
+    "en": "Torpedoist"
+  },
+  "apiId": "g40vn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18831,
+  "key": "item.dmz2026.data_block",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованный блок данных",
+    "en": "Encrypted Data Block"
+  },
+  "apiId": "4qmwp",
+  "apiIdStatus": "inferred"
+}

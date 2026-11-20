@@ -1,0 +1,11 @@
+{
+  "clientId": 16482,
+  "key": "item.quest.psi_power",
+  "kind": "item",
+  "name": {
+    "ru": "Кольцо пси-властия",
+    "en": "Ring of Psy Dominion"
+  },
+  "apiId": "j5q67",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 23302,
+  "key": "item.bolt_gem.bloody_red",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Кроваво-красная",
+    "en": "Chromatic Particle: Blood Red"
+  },
+  "apiId": "g4q05",
+  "apiIdStatus": "inferred"
+}

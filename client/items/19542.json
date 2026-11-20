@@ -1,0 +1,11 @@
+{
+  "clientId": 19542,
+  "key": "item.camo.unique_arm.prorok",
+  "kind": "item",
+  "name": {
+    "ru": "«Пророк»",
+    "en": "Prophet"
+  },
+  "apiId": "vjmdg",
+  "apiIdStatus": "inferred"
+}

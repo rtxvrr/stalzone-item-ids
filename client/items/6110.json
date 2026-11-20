@@ -1,0 +1,11 @@
+{
+  "clientId": 6110,
+  "key": "item.misc.protective_gear",
+  "kind": "item",
+  "name": {
+    "ru": "Защитное снаряжение",
+    "en": "Protective Gear"
+  },
+  "apiId": "jl66",
+  "apiIdStatus": "inferred"
+}

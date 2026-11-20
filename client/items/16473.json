@@ -1,0 +1,11 @@
+{
+  "clientId": 16473,
+  "key": "item.quest.prototip_case",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с прототипом",
+    "en": "Case with a Prototype"
+  },
+  "apiId": "1rlv6",
+  "apiIdStatus": "inferred"
+}

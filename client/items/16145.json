@@ -1,0 +1,11 @@
+{
+  "clientId": 16145,
+  "key": "item.quest.armsklad.12962",
+  "kind": "item",
+  "name": {
+    "ru": "Красная лента",
+    "en": "Red Ribbon"
+  },
+  "apiId": "3gq05",
+  "apiIdStatus": "inferred"
+}

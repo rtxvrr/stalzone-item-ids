@@ -1,0 +1,11 @@
+{
+  "clientId": 9528,
+  "key": "item.abl.anm.prestige_gaze",
+  "kind": "item",
+  "name": {
+    "ru": "АМ «Паритет»",
+    "en": "AM Parity"
+  },
+  "apiId": "549q",
+  "apiIdStatus": "inferred"
+}

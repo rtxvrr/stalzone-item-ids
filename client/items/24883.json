@@ -1,0 +1,11 @@
+{
+  "clientId": 24883,
+  "key": "item.charm.scx_token",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Железный Еж»",
+    "en": "Iron Hedgehog Charm"
+  },
+  "apiId": "lyjrj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22123,
+  "key": "item.att.handgrip_arsenal_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка «Утяжелитель»",
+    "en": "Weight Tactical Grip"
+  },
+  "apiId": "6wv20",
+  "apiIdStatus": "inferred"
+}

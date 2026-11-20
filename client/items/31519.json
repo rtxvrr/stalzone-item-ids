@@ -1,0 +1,11 @@
+{
+  "clientId": 31519,
+  "key": "item.ny_toys.setJ.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская игрушка-граната",
+    "en": "Stalker Grenade Decoration"
+  },
+  "apiId": "drpd9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16678,
+  "key": "item.lootbox.convertation_large_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Большой ящик конвертации («Завет»)",
+    "en": "Large Conversion Crate (Covenant)"
+  },
+  "apiId": "wjl22",
+  "apiIdStatus": "inferred"
+}

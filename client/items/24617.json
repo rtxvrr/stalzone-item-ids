@@ -1,0 +1,11 @@
+{
+  "clientId": 24617,
+  "key": "item.charm.spring24_balalaika",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Балалайка»",
+    "en": "Balalaika Charm"
+  },
+  "apiId": "p67dd",
+  "apiIdStatus": "inferred"
+}

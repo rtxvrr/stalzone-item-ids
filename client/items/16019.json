@@ -1,0 +1,11 @@
+{
+  "clientId": 16019,
+  "key": "item.16019",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка документов",
+    "en": "Stack of Documents"
+  },
+  "apiId": "dm5gj",
+  "apiIdStatus": "inferred"
+}

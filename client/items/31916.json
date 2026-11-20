@@ -1,0 +1,11 @@
+{
+  "clientId": 31916,
+  "key": "item.lootbox.extremal_delivery_mid",
+  "kind": "item",
+  "name": {
+    "ru": "Большой ящик с подарками",
+    "en": "Large Gift Box"
+  },
+  "apiId": "nko53",
+  "apiIdStatus": "inferred"
+}

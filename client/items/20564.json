@@ -1,0 +1,11 @@
+{
+  "clientId": 20564,
+  "key": "item.wpn.mr412",
+  "kind": "item",
+  "name": {
+    "ru": "MP-412",
+    "en": "MP-412"
+  },
+  "apiId": "n4m93",
+  "apiIdStatus": "inferred"
+}

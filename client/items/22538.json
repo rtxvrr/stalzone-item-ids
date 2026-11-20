@@ -1,0 +1,11 @@
+{
+  "clientId": 22538,
+  "key": "item.att.barrel_sprvmbrjet",
+  "kind": "item",
+  "name": {
+    "ru": "SRVV MBR Jet",
+    "en": "SRVV MBR Jet"
+  },
+  "apiId": "m0g4r",
+  "apiIdStatus": "inferred"
+}

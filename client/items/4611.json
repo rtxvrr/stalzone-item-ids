@@ -1,0 +1,11 @@
+{
+  "clientId": 4611,
+  "key": "item.plc.pattern.newyear26_6",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Новый Год 2026» Подарки",
+    "en": "New Year 2026 Gifts Pattern"
+  },
+  "apiId": "lpwk",
+  "apiIdStatus": "inferred"
+}

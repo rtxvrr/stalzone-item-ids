@@ -1,0 +1,11 @@
+{
+  "clientId": 31533,
+  "key": "item.ny_toys.setL.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Хрустальный ежик",
+    "en": "Crystal Hedgehog Artifact Decoration"
+  },
+  "apiId": "q0n69",
+  "apiIdStatus": "inferred"
+}

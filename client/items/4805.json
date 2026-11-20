@@ -1,0 +1,11 @@
+{
+  "clientId": 4805,
+  "key": "item.plc.sticker.covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Завета»",
+    "en": "Covenant Sticker"
+  },
+  "apiId": "yvv0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19544,
+  "key": "item.camo.unique_arm.alpha",
+  "kind": "item",
+  "name": {
+    "ru": "«Альфа»",
+    "en": "Alpha"
+  },
+  "apiId": "2o4pm",
+  "apiIdStatus": "inferred"
+}

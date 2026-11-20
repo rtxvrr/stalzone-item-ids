@@ -1,0 +1,11 @@
+{
+  "clientId": 19753,
+  "key": "item.camo.arm.thaw",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Нагрев»",
+    "en": "Heat Paint"
+  },
+  "apiId": "y3763",
+  "apiIdStatus": "inferred"
+}

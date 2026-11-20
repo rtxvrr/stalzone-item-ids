@@ -1,0 +1,11 @@
+{
+  "clientId": 6102,
+  "key": "item.misc.rotten_boards",
+  "kind": "item",
+  "name": {
+    "ru": "Гнилые доски",
+    "en": "Rotten Boards"
+  },
+  "apiId": "g0gp",
+  "apiIdStatus": "inferred"
+}

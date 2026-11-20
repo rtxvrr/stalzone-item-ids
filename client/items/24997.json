@@ -1,0 +1,11 @@
+{
+  "clientId": 24997,
+  "key": "item.charm.colorchecker",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «ColorChecker»",
+    "en": "ColorChecker Charm"
+  },
+  "apiId": "1rk6q",
+  "apiIdStatus": "inferred"
+}

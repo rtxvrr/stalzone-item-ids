@@ -1,0 +1,11 @@
+{
+  "clientId": 24599,
+  "key": "item.charm.patch_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шеврон Наемников»",
+    "en": "Mercenary Chevron Charm"
+  },
+  "apiId": "zzdrm",
+  "apiIdStatus": "inferred"
+}

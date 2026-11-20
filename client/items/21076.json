@@ -1,0 +1,11 @@
+{
+  "clientId": 21076,
+  "key": "item.melee.katana",
+  "kind": "item",
+  "name": {
+    "ru": "Синобигатана",
+    "en": "Shinobigatana"
+  },
+  "apiId": "5lgvo",
+  "apiIdStatus": "inferred"
+}

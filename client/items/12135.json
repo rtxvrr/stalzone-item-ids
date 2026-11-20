@@ -1,0 +1,11 @@
+{
+  "clientId": 12135,
+  "key": "item.bag.trizip",
+  "kind": "item",
+  "name": {
+    "ru": "Штурмовой рюкзак Tri-Zip",
+    "en": "Tri-Zip Assault Backpack"
+  },
+  "apiId": "lny1",
+  "apiIdStatus": "inferred"
+}

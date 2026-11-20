@@ -1,0 +1,11 @@
+{
+  "clientId": 18312,
+  "key": "item.camo.wpn.summer24_skin_13",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Фрагментация»",
+    "en": "Fragmentation Paint"
+  },
+  "apiId": "rw9nl",
+  "apiIdStatus": "inferred"
+}

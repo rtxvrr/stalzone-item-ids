@@ -1,0 +1,11 @@
+{
+  "clientId": 8034,
+  "key": "item.quest.covenant.military_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка военстала",
+    "en": "Military Stalker's Note"
+  },
+  "apiId": "j147",
+  "apiIdStatus": "inferred"
+}

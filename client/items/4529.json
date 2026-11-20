@@ -1,0 +1,11 @@
+{
+  "clientId": 4529,
+  "key": "item.plc.pattern.spring26",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Закаленная сталь»",
+    "en": "Tempered Steel Pattern"
+  },
+  "apiId": "y6qw",
+  "apiIdStatus": "inferred"
+}

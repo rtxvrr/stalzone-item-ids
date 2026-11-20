@@ -1,0 +1,11 @@
+{
+  "clientId": 19504,
+  "key": "item.camo.unique_arm.halflive",
+  "kind": "item",
+  "name": {
+    "ru": "«Полураспад»",
+    "en": "Half-life"
+  },
+  "apiId": "5l714",
+  "apiIdStatus": "inferred"
+}

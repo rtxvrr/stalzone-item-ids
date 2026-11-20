@@ -1,0 +1,11 @@
+{
+  "clientId": 24539,
+  "key": "item.charm.cube_inside",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Куб»",
+    "en": "Cube Charm"
+  },
+  "apiId": "ok7jm",
+  "apiIdStatus": "inferred"
+}

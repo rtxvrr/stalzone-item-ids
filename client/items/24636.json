@@ -1,0 +1,11 @@
+{
+  "clientId": 24636,
+  "key": "item.charm.dayx_test_group",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Day X Test Group»",
+    "en": "Day X Test Group Charm"
+  },
+  "apiId": "rw77z",
+  "apiIdStatus": "inferred"
+}

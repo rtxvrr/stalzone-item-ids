@@ -1,0 +1,11 @@
+{
+  "clientId": 16610,
+  "key": "item.16610",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик безумного жнеца",
+    "en": "Mad Reaper's Crate"
+  },
+  "apiId": "j5q30",
+  "apiIdStatus": "inferred"
+}

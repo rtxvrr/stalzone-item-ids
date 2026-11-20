@@ -1,0 +1,11 @@
+{
+  "clientId": 25097,
+  "key": "item.arm.bulat-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Скиф-2м»",
+    "en": "Worn Scythian-2m"
+  },
+  "apiId": "1rkqg",
+  "apiIdStatus": "inferred"
+}

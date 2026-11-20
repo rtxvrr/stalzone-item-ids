@@ -1,0 +1,11 @@
+{
+  "clientId": 19553,
+  "key": "item.camo.unique_arm.covenant",
+  "kind": "item",
+  "name": {
+    "ru": "«Завет»",
+    "en": "Covenant"
+  },
+  "apiId": "y3o9w",
+  "apiIdStatus": "inferred"
+}

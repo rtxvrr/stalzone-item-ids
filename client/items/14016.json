@@ -1,0 +1,11 @@
+{
+  "clientId": 14016,
+  "key": "item.exp.craft_heal",
+  "kind": "item",
+  "name": {
+    "ru": "«Подорожник»",
+    "en": "Plantain"
+  },
+  "apiId": "n4616",
+  "apiIdStatus": "inferred"
+}

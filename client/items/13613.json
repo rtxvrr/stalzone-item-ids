@@ -1,0 +1,11 @@
+{
+  "clientId": 13613,
+  "key": "item.camo.arm.stream_battle_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Плитка»",
+    "en": "Tile Paint"
+  },
+  "apiId": "05p9",
+  "apiIdStatus": "inferred"
+}

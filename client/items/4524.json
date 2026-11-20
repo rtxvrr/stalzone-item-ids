@@ -1,0 +1,11 @@
+{
+  "clientId": 4524,
+  "key": "item.plc.pattern.coldline",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Coldline»",
+    "en": "Coldline Pattern"
+  },
+  "apiId": "9oyw",
+  "apiIdStatus": "inferred"
+}

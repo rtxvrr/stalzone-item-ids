@@ -1,0 +1,11 @@
+{
+  "clientId": 22317,
+  "key": "item.att.sight_romeo3",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Sig Sauer",
+    "en": "Sig Sauer Collimator Sight"
+  },
+  "apiId": "p6ld2",
+  "apiIdStatus": "inferred"
+}

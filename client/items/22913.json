@@ -1,0 +1,11 @@
+{
+  "clientId": 22913,
+  "key": "item.att.mount_m4samodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельное крепление для M4A1",
+    "en": "Handmade Mount for M4A1"
+  },
+  "apiId": "0rpz1",
+  "apiIdStatus": "inferred"
+}

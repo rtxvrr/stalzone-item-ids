@@ -1,0 +1,11 @@
+{
+  "clientId": 8069,
+  "key": "item.quest.shard_isotope_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Обработанные изотопным обстрелом осколки «Призмы»",
+    "en": "Shards of the Prism processed by isotope bombardment."
+  },
+  "apiId": "370z",
+  "apiIdStatus": "inferred"
+}

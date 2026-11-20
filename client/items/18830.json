@@ -1,0 +1,11 @@
+{
+  "clientId": 18830,
+  "key": "item.dmz2026.calldown_token.quest_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "Груз 200 тысяч лье",
+    "en": "Thousand Leagues Cargo 200"
+  },
+  "apiId": "wjvqp",
+  "apiIdStatus": "inferred"
+}

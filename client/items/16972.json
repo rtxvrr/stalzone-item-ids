@@ -1,0 +1,11 @@
+{
+  "clientId": 16972,
+  "key": "item.season_pass.level_token",
+  "kind": "item",
+  "name": {
+    "ru": "Персональный уровень Сезона",
+    "en": "Personal Season Level"
+  },
+  "apiId": "96k9z",
+  "apiIdStatus": "inferred"
+}

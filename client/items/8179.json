@@ -1,0 +1,11 @@
+{
+  "clientId": 8179,
+  "key": "item.quest.apocalypse_not_today_fuse",
+  "kind": "item",
+  "name": {
+    "ru": "Предохранитель",
+    "en": "Fuse"
+  },
+  "apiId": "4v7l",
+  "apiIdStatus": "inferred"
+}

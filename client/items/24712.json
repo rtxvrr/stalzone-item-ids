@@ -1,0 +1,11 @@
+{
+  "clientId": 24712,
+  "key": "item.charm.spring25_marketing_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Светофор»",
+    "en": "Traffic light Charm"
+  },
+  "apiId": "rw715",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 23252,
+  "key": "item.bolt_gem.frost",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Морозная",
+    "en": "Chromatic Particle: Frosty"
+  },
+  "apiId": "5l401",
+  "apiIdStatus": "inferred"
+}

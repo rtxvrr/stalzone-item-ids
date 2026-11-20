@@ -1,0 +1,11 @@
+{
+  "clientId": 19611,
+  "key": "item.motif.arm.zivcas_commander_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Жестянка»",
+    "en": "Tin"
+  },
+  "apiId": "lylyk",
+  "apiIdStatus": "inferred"
+}

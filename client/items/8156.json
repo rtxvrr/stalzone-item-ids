@@ -1,0 +1,11 @@
+{
+  "clientId": 8156,
+  "key": "item.quest.fleshka1_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Флеш-карта РХБЗ",
+    "en": "NBCP flash card"
+  },
+  "apiId": "kw63",
+  "apiIdStatus": "inferred"
+}

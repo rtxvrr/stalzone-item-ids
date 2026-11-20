@@ -1,0 +1,11 @@
+{
+  "clientId": 22659,
+  "key": "item.22659",
+  "kind": "item",
+  "name": {
+    "ru": "Пистолетная рукоятка КС-23",
+    "en": "KS-23 Pistol Grip"
+  },
+  "apiId": "ly1pk",
+  "apiIdStatus": "inferred"
+}

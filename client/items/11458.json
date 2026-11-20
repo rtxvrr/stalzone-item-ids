@@ -1,0 +1,11 @@
+{
+  "clientId": 11458,
+  "key": "item.art.blizzard_stormeye",
+  "kind": "item",
+  "name": {
+    "ru": "Глаз бури",
+    "en": "Eye of the Storm"
+  },
+  "apiId": "jkml",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24646,
+  "key": "item.charm.running_man",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Бегущий человек»",
+    "en": "Running Man Charm"
+  },
+  "apiId": "7ljj9",
+  "apiIdStatus": "inferred"
+}

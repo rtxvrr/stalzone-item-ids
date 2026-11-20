@@ -1,0 +1,11 @@
+{
+  "clientId": 30006,
+  "key": "item.filler.valuable_7",
+  "kind": "item",
+  "name": {
+    "ru": "Промышленные запчасти",
+    "en": "Industrial Spare Parts"
+  },
+  "apiId": "w3l3z",
+  "apiIdStatus": "inferred"
+}

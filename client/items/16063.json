@@ -1,0 +1,11 @@
+{
+  "clientId": 16063,
+  "key": "item.16063",
+  "kind": "item",
+  "name": {
+    "ru": "Старинная монета 1584 года",
+    "en": "Old Coin from 1584"
+  },
+  "apiId": "ok4d6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8148,
+  "key": "item.quest.pda_damaged_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный ПДА бойца РХБЗ",
+    "en": "Damaged NBCP Soldier's PDA"
+  },
+  "apiId": "9v3w",
+  "apiIdStatus": "inferred"
+}

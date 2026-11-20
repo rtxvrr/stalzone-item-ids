@@ -1,0 +1,11 @@
+{
+  "clientId": 6208,
+  "key": "item.misc.gypsum",
+  "kind": "item",
+  "name": {
+    "ru": "Гипс",
+    "en": "Gypsum"
+  },
+  "apiId": "kl70",
+  "apiIdStatus": "inferred"
+}

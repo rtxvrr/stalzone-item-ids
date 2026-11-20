@@ -1,0 +1,11 @@
+{
+  "clientId": 6226,
+  "key": "item.misc.pickles",
+  "kind": "item",
+  "name": {
+    "ru": "Соленья",
+    "en": "Pickles"
+  },
+  "apiId": "g0y0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31347,
+  "key": "item.ny_toys.setF.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-сердечко",
+    "en": "Plush Heart Decoration"
+  },
+  "apiId": "6o7ry",
+  "apiIdStatus": "inferred"
+}

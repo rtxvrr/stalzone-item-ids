@@ -1,0 +1,11 @@
+{
+  "clientId": 27727,
+  "key": "item.firework.rocket_pink",
+  "kind": "item",
+  "name": {
+    "ru": "Фейерверк (розовый)",
+    "en": "Firework (Pink)"
+  },
+  "apiId": "z3gkn",
+  "apiIdStatus": "inferred"
+}

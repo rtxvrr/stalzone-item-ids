@@ -1,0 +1,11 @@
+{
+  "clientId": 16547,
+  "key": "item.pouch.apt_i",
+  "kind": "item",
+  "name": {
+    "ru": "Подсумок с индивидуальными аптечками",
+    "en": "Pouch of Personal First-Aid Kits"
+  },
+  "apiId": "6w946",
+  "apiIdStatus": "inferred"
+}

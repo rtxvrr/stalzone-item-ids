@@ -1,0 +1,11 @@
+{
+  "clientId": 18704,
+  "key": "item.camo.wpn.spike",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Спайк»",
+    "en": "Spike Paint"
+  },
+  "apiId": "5l0n0",
+  "apiIdStatus": "inferred"
+}

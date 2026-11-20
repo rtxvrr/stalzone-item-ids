@@ -1,0 +1,11 @@
+{
+  "clientId": 13003,
+  "key": "item.coupon.veteran_weapon_20",
+  "kind": "item",
+  "name": {
+    "ru": "Бартерный купон (Ветеран)",
+    "en": "Barter Coupon (Veteran)"
+  },
+  "apiId": "z15y",
+  "apiIdStatus": "inferred"
+}

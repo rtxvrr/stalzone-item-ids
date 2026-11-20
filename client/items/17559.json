@@ -1,0 +1,11 @@
+{
+  "clientId": 17559,
+  "key": "item.style.wpn.deagle_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Хорда»",
+    "en": "Notochord"
+  },
+  "apiId": "ly521",
+  "apiIdStatus": "inferred"
+}

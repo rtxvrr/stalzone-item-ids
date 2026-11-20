@@ -1,0 +1,11 @@
+{
+  "clientId": 16281,
+  "key": "item.misc.chimera_head_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Голова сильной бестии",
+    "en": "Strong Fiend's Head"
+  },
+  "apiId": "qjqn4",
+  "apiIdStatus": "inferred"
+}

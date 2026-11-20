@@ -1,0 +1,11 @@
+{
+  "clientId": 11052,
+  "key": "item.art.jarka_kaplya",
+  "kind": "item",
+  "name": {
+    "ru": "Пиявка",
+    "en": "Leech"
+  },
+  "apiId": "5rog",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16773,
+  "key": "item.misc.bet_coin_25",
+  "kind": "item",
+  "name": {
+    "ru": "Большой набор жетонов Колизея",
+    "en": "Big Coliseum Token Pack"
+  },
+  "apiId": "1r192",
+  "apiIdStatus": "inferred"
+}

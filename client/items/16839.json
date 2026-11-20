@@ -1,0 +1,11 @@
+{
+  "clientId": 16839,
+  "key": "item.quest.bloodyfinger",
+  "kind": "item",
+  "name": {
+    "ru": "Кольцо Федора Рюкзакова",
+    "en": "Ring of Fyodor Bagginsky"
+  },
+  "apiId": "okzz5",
+  "apiIdStatus": "inferred"
+}

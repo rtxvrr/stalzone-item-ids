@@ -1,0 +1,11 @@
+{
+  "clientId": 28613,
+  "key": "item.28613",
+  "kind": "item",
+  "name": {
+    "ru": "Пыльная папка документов",
+    "en": "Dusty Folder of Documents"
+  },
+  "apiId": "00rg9",
+  "apiIdStatus": "inferred"
+}

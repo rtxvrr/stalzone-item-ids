@@ -1,0 +1,11 @@
+{
+  "clientId": 22557,
+  "key": "item.att.silencer_mcmillan",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель McMillan CS5",
+    "en": "McMillan CS5 Silencer"
+  },
+  "apiId": "qjwy9",
+  "apiIdStatus": "inferred"
+}

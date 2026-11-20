@@ -1,0 +1,11 @@
+{
+  "clientId": 4925,
+  "key": "item.plc.sticker.inside_newbie",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Опустошенного",
+    "en": "Devastated Sticker"
+  },
+  "apiId": "1mq1",
+  "apiIdStatus": "inferred"
+}

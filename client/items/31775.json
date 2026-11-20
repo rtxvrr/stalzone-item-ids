@@ -1,0 +1,11 @@
+{
+  "clientId": 31775,
+  "key": "item.part.rigel_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть комбинезона «Ригель» #3",
+    "en": "Rigel Jumpsuit Part #3"
+  },
+  "apiId": "z3nkm",
+  "apiIdStatus": "inferred"
+}

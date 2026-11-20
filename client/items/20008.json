@@ -1,0 +1,11 @@
+{
+  "clientId": 20008,
+  "key": "item.wpn.tutorial",
+  "kind": "item",
+  "name": {
+    "ru": "Старый MPK",
+    "en": "Old MPK"
+  },
+  "apiId": "knld0",
+  "apiIdStatus": "inferred"
+}

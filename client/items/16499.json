@@ -1,0 +1,11 @@
+{
+  "clientId": 16499,
+  "key": "item.16499",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон убийцы",
+    "en": "Killer Token"
+  },
+  "apiId": "zzw92",
+  "apiIdStatus": "inferred"
+}

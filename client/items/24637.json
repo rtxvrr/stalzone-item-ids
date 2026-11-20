@@ -1,0 +1,11 @@
+{
+  "clientId": 24637,
+  "key": "item.charm.xmask",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «X-Mask»",
+    "en": "X-Mask Charm"
+  },
+  "apiId": "0rzzk",
+  "apiIdStatus": "inferred"
+}

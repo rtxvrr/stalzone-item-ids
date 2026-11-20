@@ -1,0 +1,11 @@
+{
+  "clientId": 10018,
+  "key": "item.quest.audio_diary_duty_3",
+  "kind": "item",
+  "name": {
+    "ru": "Отчет военсталов 3",
+    "en": "Military Stalkers' Report 3"
+  },
+  "apiId": "vzmr",
+  "apiIdStatus": "inferred"
+}

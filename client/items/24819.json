@@ -1,0 +1,11 @@
+{
+  "clientId": 24819,
+  "key": "item.charm.media_nsh4rk",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Улыбка прошлого»",
+    "en": "Smile of the Past Charm"
+  },
+  "apiId": "dmgr5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20579,
+  "key": "item.wpn.ptrd",
+  "kind": "item",
+  "name": {
+    "ru": "ПТРД-М",
+    "en": "PTRD-M"
+  },
+  "apiId": "4qnyn",
+  "apiIdStatus": "inferred"
+}

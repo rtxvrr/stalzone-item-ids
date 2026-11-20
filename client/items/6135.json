@@ -1,0 +1,11 @@
+{
+  "clientId": 6135,
+  "key": "item.misc.broken_device",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанный прибор",
+    "en": "Broken Device"
+  },
+  "apiId": "ll11",
+  "apiIdStatus": "inferred"
+}

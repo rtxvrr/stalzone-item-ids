@@ -1,0 +1,11 @@
+{
+  "clientId": 25183,
+  "key": "item.arm.zarya_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Аврора» Санитаров",
+    "en": "Orderlies' Aurora"
+  },
+  "apiId": "lyjdo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22200,
+  "key": "item.att.scope_susat",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический SUSAT",
+    "en": "SUSAT Optical Sight"
+  },
+  "apiId": "96v5q",
+  "apiIdStatus": "inferred"
+}

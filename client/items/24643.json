@@ -1,0 +1,11 @@
+{
+  "clientId": 24643,
+  "key": "item.charm.great_chemist",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Великий химик»",
+    "en": "Great Chemist Charm"
+  },
+  "apiId": "dm77g",
+  "apiIdStatus": "inferred"
+}

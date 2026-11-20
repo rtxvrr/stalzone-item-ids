@@ -1,0 +1,11 @@
+{
+  "clientId": 29994,
+  "key": "item.filler.outpost_10",
+  "kind": "item",
+  "name": {
+    "ru": "Ноутбук",
+    "en": "Laptop"
+  },
+  "apiId": "771lj",
+  "apiIdStatus": "inferred"
+}

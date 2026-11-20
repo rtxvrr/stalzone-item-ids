@@ -1,0 +1,11 @@
+{
+  "clientId": 25363,
+  "key": "item.arm.albatros_interceptor",
+  "kind": "item",
+  "name": {
+    "ru": "Бронескелет «Альбатрос-Перехватчик»",
+    "en": "Albatross Interceptor Armored Exoskeleton"
+  },
+  "apiId": "ok3q0",
+  "apiIdStatus": "inferred"
+}

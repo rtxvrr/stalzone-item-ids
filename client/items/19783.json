@@ -1,0 +1,11 @@
+{
+  "clientId": 19783,
+  "key": "item.camo.arm.veles_wounds",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Раны Велеса»",
+    "en": "Veles Wounds Camouflage"
+  },
+  "apiId": "lylpo",
+  "apiIdStatus": "inferred"
+}

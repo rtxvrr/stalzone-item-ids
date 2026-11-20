@@ -1,0 +1,11 @@
+{
+  "clientId": 31216,
+  "key": "item.scheme.kedr_mod_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #2: «Цунами»",
+    "en": "Schematic #2: Tsunami"
+  },
+  "apiId": "nknw9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8118,
+  "key": "item.quest.morok_tools",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты для взлома",
+    "en": "Lockpicking Tools"
+  },
+  "apiId": "vpng",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20479,
+  "key": "item.wpn.oc33",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-33 «Пернач»",
+    "en": "OTs-33 Pernach"
+  },
+  "apiId": "4qn6j",
+  "apiIdStatus": "inferred"
+}

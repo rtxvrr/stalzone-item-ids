@@ -1,0 +1,11 @@
+{
+  "clientId": 28622,
+  "key": "item.med.bandage_s",
+  "kind": "item",
+  "name": {
+    "ru": "Бинт Ученых",
+    "en": "Scientists Bandage"
+  },
+  "apiId": "77lq6",
+  "apiIdStatus": "inferred"
+}

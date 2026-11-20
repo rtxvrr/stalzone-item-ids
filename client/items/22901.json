@@ -1,0 +1,11 @@
+{
+  "clientId": 22901,
+  "key": "item.att.mount_mp5ris",
+  "kind": "item",
+  "name": {
+    "ru": "Кронштейн-планка RIS",
+    "en": "RIS Bracket-Rail"
+  },
+  "apiId": "1r351",
+  "apiIdStatus": "inferred"
+}

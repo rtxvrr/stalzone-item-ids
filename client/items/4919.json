@@ -1,0 +1,11 @@
+{
+  "clientId": 4919,
+  "key": "item.plc.sticker.blackraid_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Агентов Рынка",
+    "en": "Market Agents Sticker"
+  },
+  "apiId": "d4vn",
+  "apiIdStatus": "inferred"
+}

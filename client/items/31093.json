@@ -1,0 +1,11 @@
+{
+  "clientId": 31093,
+  "key": "item.brt.sever.node",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент данных «Дигамма»",
+    "en": "Digamma Data Fragment"
+  },
+  "apiId": "34zjl",
+  "apiIdStatus": "inferred"
+}

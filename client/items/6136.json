@@ -1,0 +1,11 @@
+{
+  "clientId": 6136,
+  "key": "item.misc.asbestos",
+  "kind": "item",
+  "name": {
+    "ru": "Асбест",
+    "en": "Asbestos"
+  },
+  "apiId": "rr45",
+  "apiIdStatus": "inferred"
+}

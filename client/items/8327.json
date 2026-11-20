@@ -1,0 +1,11 @@
+{
+  "clientId": 8327,
+  "key": "item.quest.shock_wave_printout_4",
+  "kind": "item",
+  "name": {
+    "ru": "Распечатка №4",
+    "en": "Printout No. 4"
+  },
+  "apiId": "zp7m",
+  "apiIdStatus": "inferred"
+}

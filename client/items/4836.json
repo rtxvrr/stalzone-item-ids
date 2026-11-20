@@ -1,0 +1,11 @@
+{
+  "clientId": 4836,
+  "key": "item.plc.sticker.mt_tank",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Танк»",
+    "en": "Tank Sticker"
+  },
+  "apiId": "rykz",
+  "apiIdStatus": "inferred"
+}

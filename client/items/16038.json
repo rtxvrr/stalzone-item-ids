@@ -1,0 +1,11 @@
+{
+  "clientId": 16038,
+  "key": "item.16038",
+  "kind": "item",
+  "name": {
+    "ru": "Флешка с данными",
+    "en": "Flash Drive with Data"
+  },
+  "apiId": "m043y",
+  "apiIdStatus": "inferred"
+}

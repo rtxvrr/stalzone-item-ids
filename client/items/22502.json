@@ -1,0 +1,11 @@
+{
+  "clientId": 22502,
+  "key": "item.att.barrel_resistance",
+  "kind": "item",
+  "name": {
+    "ru": "Resistance Armament Compensator",
+    "en": "Resistance Armament Compensator"
+  },
+  "apiId": "g424g",
+  "apiIdStatus": "inferred"
+}

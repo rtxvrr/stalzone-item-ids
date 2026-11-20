@@ -1,0 +1,11 @@
+{
+  "clientId": 15997,
+  "key": "item.crt.barter_coins",
+  "kind": "item",
+  "name": {
+    "ru": "Обменные монеты",
+    "en": "Trade Coins"
+  },
+  "apiId": "1ro5q",
+  "apiIdStatus": "inferred"
+}

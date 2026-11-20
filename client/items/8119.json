@@ -1,0 +1,11 @@
+{
+  "clientId": 8119,
+  "key": "item.quest.morok_notes",
+  "kind": "item",
+  "name": {
+    "ru": "Записи Морока",
+    "en": "Morphs Notes"
+  },
+  "apiId": "d0r9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31375,
+  "key": "item.ny_toys.setH.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичный фасеточный шарик",
+    "en": "Futuristic Ocular Bauble"
+  },
+  "apiId": "z3o2n",
+  "apiIdStatus": "inferred"
+}

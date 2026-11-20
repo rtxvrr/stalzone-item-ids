@@ -1,0 +1,11 @@
+{
+  "clientId": 12368,
+  "key": "item.exp.smoke",
+  "kind": "item",
+  "name": {
+    "ru": "РДГ-М",
+    "en": "RDG-M"
+  },
+  "apiId": "29nm",
+  "apiIdStatus": "inferred"
+}

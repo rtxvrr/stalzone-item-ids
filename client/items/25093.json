@@ -1,0 +1,11 @@
+{
+  "clientId": 25093,
+  "key": "item.arm.worm_main",
+  "kind": "item",
+  "name": {
+    "ru": "«Червь» Оракула",
+    "en": "Oracle's Worm"
+  },
+  "apiId": "3g6ll",
+  "apiIdStatus": "inferred"
+}

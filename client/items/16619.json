@@ -1,0 +1,11 @@
+{
+  "clientId": 16619,
+  "key": "item.16619",
+  "kind": "item",
+  "name": {
+    "ru": "Набор медикаментов",
+    "en": "Pack of Medicine"
+  },
+  "apiId": "dmy3j",
+  "apiIdStatus": "inferred"
+}

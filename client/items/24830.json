@@ -1,0 +1,11 @@
+{
+  "clientId": 24830,
+  "key": "item.charm.spring26_pass",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Проходка»",
+    "en": "Access Charm"
+  },
+  "apiId": "wjg3p",
+  "apiIdStatus": "inferred"
+}

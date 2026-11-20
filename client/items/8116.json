@@ -1,0 +1,11 @@
+{
+  "clientId": 8116,
+  "key": "item.quest.morok_locator",
+  "kind": "item",
+  "name": {
+    "ru": "Прототип локатора сущностей Изнанки",
+    "en": "Prototype of the Inside Out Entity Locator"
+  },
+  "apiId": "nqkw",
+  "apiIdStatus": "inferred"
+}

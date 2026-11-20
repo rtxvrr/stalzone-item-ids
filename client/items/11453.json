@@ -1,0 +1,11 @@
+{
+  "clientId": 11453,
+  "key": "item.art.blizzard_vortex",
+  "kind": "item",
+  "name": {
+    "ru": "Вихрь",
+    "en": "Whirlwind"
+  },
+  "apiId": "y5k0",
+  "apiIdStatus": "inferred"
+}

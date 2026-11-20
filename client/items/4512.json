@@ -1,0 +1,11 @@
+{
+  "clientId": 4512,
+  "key": "item.plc.pattern.autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Ужасы Зоны»",
+    "en": "Horrors of the Zone Season Pattern"
+  },
+  "apiId": "r9gl",
+  "apiIdStatus": "inferred"
+}

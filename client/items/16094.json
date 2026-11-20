@@ -1,0 +1,11 @@
+{
+  "clientId": 16094,
+  "key": "item.quest.kolenval_castiron",
+  "kind": "item",
+  "name": {
+    "ru": "Чугунный коленвал",
+    "en": "Cast-iron crankshaft"
+  },
+  "apiId": "7lw96",
+  "apiIdStatus": "inferred"
+}

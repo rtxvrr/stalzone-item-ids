@@ -1,0 +1,11 @@
+{
+  "clientId": 24619,
+  "key": "item.charm.spring24_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Азгыр-шаррх, гроза Байкала»",
+    "en": "Azgyr-sharrkh, Baikal Threat Charm"
+  },
+  "apiId": "dm7dg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20450,
+  "key": "item.wpn.beretta",
+  "kind": "item",
+  "name": {
+    "ru": "Beretta 92FS",
+    "en": "Beretta 92FS"
+  },
+  "apiId": "g4mvn",
+  "apiIdStatus": "inferred"
+}

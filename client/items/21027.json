@@ -1,0 +1,11 @@
+{
+  "clientId": 21027,
+  "key": "item.melee.britva",
+  "kind": "item",
+  "name": {
+    "ru": "Бритва",
+    "en": "Razor"
+  },
+  "apiId": "zzllk",
+  "apiIdStatus": "inferred"
+}

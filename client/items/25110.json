@@ -1,0 +1,11 @@
+{
+  "clientId": 25110,
+  "key": "item.arm.izumrud-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Изумруд»",
+    "en": "Worn Emerald"
+  },
+  "apiId": "j5k6g",
+  "apiIdStatus": "inferred"
+}

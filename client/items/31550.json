@@ -1,0 +1,11 @@
+{
+  "clientId": 31550,
+  "key": "item.ny_toys.setM.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Звезда диггеров",
+    "en": "Digger's Star"
+  },
+  "apiId": "gnp6g",
+  "apiIdStatus": "inferred"
+}

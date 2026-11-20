@@ -1,0 +1,11 @@
+{
+  "clientId": 24572,
+  "key": "item.charm.ravent23_skull",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Закаленный в боях»",
+    "en": "Forged in Battle Charm"
+  },
+  "apiId": "96rpy",
+  "apiIdStatus": "inferred"
+}

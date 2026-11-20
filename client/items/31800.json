@@ -1,0 +1,11 @@
+{
+  "clientId": 31800,
+  "key": "item.part.ks23_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть КС-23 #2",
+    "en": "KS-23 Part #2"
+  },
+  "apiId": "9dokq",
+  "apiIdStatus": "inferred"
+}

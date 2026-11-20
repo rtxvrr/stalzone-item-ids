@@ -1,0 +1,11 @@
+{
+  "clientId": 25701,
+  "key": "item.skin.blizzard3",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Последователь»",
+    "en": "Disciple Skin"
+  },
+  "apiId": "1rpv2",
+  "apiIdStatus": "inferred"
+}

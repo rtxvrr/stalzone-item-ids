@@ -1,0 +1,11 @@
+{
+  "clientId": 16922,
+  "key": "item.quest.covenant_commandment8",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 8",
+    "en": "8th Covenant Commandment"
+  },
+  "apiId": "7lo27",
+  "apiIdStatus": "inferred"
+}

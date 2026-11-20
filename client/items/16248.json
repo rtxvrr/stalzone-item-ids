@@ -1,0 +1,11 @@
+{
+  "clientId": 16248,
+  "key": "item.frost_thorn",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяные колючки",
+    "en": "Ice Spikes"
+  },
+  "apiId": "96zkq",
+  "apiIdStatus": "inferred"
+}

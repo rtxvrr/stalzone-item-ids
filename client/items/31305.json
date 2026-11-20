@@ -1,0 +1,11 @@
+{
+  "clientId": 31305,
+  "key": "item.ny_toys.setC.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Желтый колокольчик",
+    "en": "Yellow Bell"
+  },
+  "apiId": "y4yvo",
+  "apiIdStatus": "inferred"
+}

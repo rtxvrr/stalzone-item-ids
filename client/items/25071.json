@@ -1,0 +1,11 @@
+{
+  "clientId": 25071,
+  "key": "item.arm.exo_bandit",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Масть»",
+    "en": "Trump Exoarmor"
+  },
+  "apiId": "6w0zp",
+  "apiIdStatus": "inferred"
+}

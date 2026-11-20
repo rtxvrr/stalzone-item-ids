@@ -1,0 +1,11 @@
+{
+  "clientId": 20488,
+  "key": "item.wpn.mr412_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "Темная длань",
+    "en": "Dark Hand"
+  },
+  "apiId": "n4my9",
+  "apiIdStatus": "inferred"
+}

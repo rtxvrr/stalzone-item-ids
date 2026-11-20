@@ -1,0 +1,11 @@
+{
+  "clientId": 31397,
+  "key": "item.bag.127st",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 12.7 мм",
+    "en": "Pouch of 12.7 mm Rounds"
+  },
+  "apiId": "194j1",
+  "apiIdStatus": "inferred"
+}

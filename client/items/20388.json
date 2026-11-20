@@ -1,0 +1,11 @@
+{
+  "clientId": 20388,
+  "key": "item.wpn.six12_sd_testers",
+  "kind": "item",
+  "name": {
+    "ru": "Наградной SIX12 SD",
+    "en": "Award SIX12 SD"
+  },
+  "apiId": "n4m52",
+  "apiIdStatus": "inferred"
+}

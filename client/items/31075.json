@@ -1,0 +1,11 @@
+{
+  "clientId": 31075,
+  "key": "item.brt.pd.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Цветущий северный мох",
+    "en": "Flowering Northern Moss"
+  },
+  "apiId": "z301y",
+  "apiIdStatus": "inferred"
+}

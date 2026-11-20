@@ -1,0 +1,11 @@
+{
+  "clientId": 24814,
+  "key": "item.charm.media_adhh",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Сторож»",
+    "en": "Guardian Charm"
+  },
+  "apiId": "m060j",
+  "apiIdStatus": "inferred"
+}

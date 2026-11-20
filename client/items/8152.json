@@ -1,0 +1,11 @@
+{
+  "clientId": 8152,
+  "key": "item.quest.scan2_Granitskogo_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Улучшенный сканер Границкого",
+    "en": "Improved Granitsky Scaner"
+  },
+  "apiId": "5vy4",
+  "apiIdStatus": "inferred"
+}

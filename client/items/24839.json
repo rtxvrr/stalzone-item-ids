@@ -1,0 +1,11 @@
+{
+  "clientId": 24839,
+  "key": "item.charm.mk_hms",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «HMS Royal Sovereign»",
+    "en": "HMS Royal Sovereign Charm"
+  },
+  "apiId": "ok0lo",
+  "apiIdStatus": "inferred"
+}

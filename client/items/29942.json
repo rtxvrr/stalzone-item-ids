@@ -1,0 +1,11 @@
+{
+  "clientId": 29942,
+  "key": "item.filler.soda",
+  "kind": "item",
+  "name": {
+    "ru": "Сода",
+    "en": "Soda"
+  },
+  "apiId": "vnowp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29900,
+  "key": "item.filler.npc_1",
+  "kind": "item",
+  "name": {
+    "ru": "Карманные деньги",
+    "en": "Pocket Money"
+  },
+  "apiId": "9d34y",
+  "apiIdStatus": "inferred"
+}

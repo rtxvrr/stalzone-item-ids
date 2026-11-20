@@ -1,0 +1,11 @@
+{
+  "clientId": 22400,
+  "key": "item.att.marks_pm",
+  "kind": "item",
+  "name": {
+    "ru": "Прицельные метки для ПМ",
+    "en": "PM Reticles"
+  },
+  "apiId": "96v40",
+  "apiIdStatus": "inferred"
+}

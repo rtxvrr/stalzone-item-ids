@@ -1,0 +1,11 @@
+{
+  "clientId": 19514,
+  "key": "item.camo.unique_arm.paint",
+  "kind": "item",
+  "name": {
+    "ru": "«Взрыв красок»",
+    "en": "Burst of Color"
+  },
+  "apiId": "m0zpr",
+  "apiIdStatus": "inferred"
+}

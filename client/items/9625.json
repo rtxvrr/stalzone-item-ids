@@ -1,0 +1,11 @@
+{
+  "clientId": 9625,
+  "key": "item.exp.prestige_foam",
+  "kind": "item",
+  "name": {
+    "ru": "Пенный заряд",
+    "en": "Foam Charge"
+  },
+  "apiId": "1zgr",
+  "apiIdStatus": "inferred"
+}

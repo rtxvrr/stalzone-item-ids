@@ -1,0 +1,11 @@
+{
+  "clientId": 19838,
+  "key": "item.motif.wpn.qbu191_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Мастак»",
+    "en": "Virtuoso "
+  },
+  "apiId": "m022k",
+  "apiIdStatus": "inferred"
+}

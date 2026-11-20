@@ -1,0 +1,11 @@
+{
+  "clientId": 21056,
+  "key": "item.21056",
+  "kind": "item",
+  "name": {
+    "ru": "Костяной шип",
+    "en": "Bone Spike"
+  },
+  "apiId": "knvgj",
+  "apiIdStatus": "inferred"
+}

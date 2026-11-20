@@ -1,0 +1,11 @@
+{
+  "clientId": 21091,
+  "key": "item.melee.scissors",
+  "kind": "item",
+  "name": {
+    "ru": "Ножницы",
+    "en": "Scissors"
+  },
+  "apiId": "dmv0g",
+  "apiIdStatus": "inferred"
+}

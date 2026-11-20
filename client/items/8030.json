@@ -1,0 +1,11 @@
+{
+  "clientId": 8030,
+  "key": "item.quest.covenant.dossier_kolesnikov",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Колесников",
+    "en": "Dossier: Kolesnikov"
+  },
+  "apiId": "w12p",
+  "apiIdStatus": "inferred"
+}

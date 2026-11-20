@@ -1,0 +1,11 @@
+{
+  "clientId": 15971,
+  "key": "item.crt.encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Мрачный сигил",
+    "en": "Grim Sigils"
+  },
+  "apiId": "6wy46",
+  "apiIdStatus": "inferred"
+}

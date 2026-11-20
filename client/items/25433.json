@@ -1,0 +1,11 @@
+{
+  "clientId": 25433,
+  "key": "item.arm.tuz-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Туз»",
+    "en": "Worn Ace"
+  },
+  "apiId": "qj1y6",
+  "apiIdStatus": "inferred"
+}

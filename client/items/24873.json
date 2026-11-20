@@ -1,0 +1,11 @@
+{
+  "clientId": 24873,
+  "key": "item.charm.promo_sc",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «SC»",
+    "en": "SC Charm"
+  },
+  "apiId": "1rkl6",
+  "apiIdStatus": "inferred"
+}

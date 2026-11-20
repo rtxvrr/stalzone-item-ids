@@ -1,0 +1,11 @@
+{
+  "clientId": 8242,
+  "key": "item.quest.vodka_case",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик водки",
+    "en": "Crate of Vodka"
+  },
+  "apiId": "vp5r",
+  "apiIdStatus": "inferred"
+}

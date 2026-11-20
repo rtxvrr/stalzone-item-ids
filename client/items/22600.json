@@ -1,0 +1,11 @@
+{
+  "clientId": 22600,
+  "key": "item.22600",
+  "kind": "item",
+  "name": {
+    "ru": "Приклад Mossberg",
+    "en": "Mossberg Stock"
+  },
+  "apiId": "96pkl",
+  "apiIdStatus": "inferred"
+}

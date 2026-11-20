@@ -1,0 +1,11 @@
+{
+  "clientId": 16276,
+  "key": "item.misc.boar_hoof_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Копыто сильного кабана",
+    "en": "Strong Boar's Hoof"
+  },
+  "apiId": "5lo3o",
+  "apiIdStatus": "inferred"
+}

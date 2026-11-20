@@ -1,0 +1,11 @@
+{
+  "clientId": 20012,
+  "key": "item.wpn.aksu_varg",
+  "kind": "item",
+  "name": {
+    "ru": "АКС-74У Варга",
+    "en": "Varg's AKS-74U"
+  },
+  "apiId": "rwrdg",
+  "apiIdStatus": "inferred"
+}

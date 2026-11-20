@@ -1,0 +1,11 @@
+{
+  "clientId": 4541,
+  "key": "item.plc.pattern.summer26",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Антициклон»",
+    "en": "Anticyclone Season Pattern"
+  },
+  "apiId": "po25",
+  "apiIdStatus": "inferred"
+}

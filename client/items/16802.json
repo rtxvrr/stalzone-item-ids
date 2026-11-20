@@ -1,0 +1,11 @@
+{
+  "clientId": 16802,
+  "key": "item.16802",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Рубежа»",
+    "en": "Frontier Data Block"
+  },
+  "apiId": "g491n",
+  "apiIdStatus": "inferred"
+}

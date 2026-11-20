@@ -1,0 +1,11 @@
+{
+  "clientId": 8336,
+  "key": "item.quest.water_bottle_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Склянка с водой",
+    "en": "Vial of Water"
+  },
+  "apiId": "r02y",
+  "apiIdStatus": "inferred"
+}

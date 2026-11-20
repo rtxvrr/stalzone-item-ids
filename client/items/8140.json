@@ -1,0 +1,11 @@
+{
+  "clientId": 8140,
+  "key": "item.quest.printout_bbox1_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Распечатка записей черного ящика 1",
+    "en": "Black box recording printout 1"
+  },
+  "apiId": "nqjw",
+  "apiIdStatus": "inferred"
+}

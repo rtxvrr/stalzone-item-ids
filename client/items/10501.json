@@ -1,0 +1,11 @@
+{
+  "clientId": 10501,
+  "key": "item.device.dshd_sak2",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор широкого диапазона САК-2",
+    "en": "SAC-2 Wide Range Detector"
+  },
+  "apiId": "151q",
+  "apiIdStatus": "inferred"
+}

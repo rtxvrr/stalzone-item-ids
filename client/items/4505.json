@@ -1,0 +1,11 @@
+{
+  "clientId": 4505,
+  "key": "item.plc.pattern.covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Завета»",
+    "en": "Covenant Pattern"
+  },
+  "apiId": "y65w",
+  "apiIdStatus": "inferred"
+}

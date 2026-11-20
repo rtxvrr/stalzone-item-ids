@@ -1,0 +1,11 @@
+{
+  "clientId": 22115,
+  "key": "item.att.handgrip_rvg",
+  "kind": "item",
+  "name": {
+    "ru": "Magpul RVG",
+    "en": "Magpul RVG"
+  },
+  "apiId": "okjym",
+  "apiIdStatus": "inferred"
+}

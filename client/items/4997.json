@@ -1,0 +1,11 @@
+{
+  "clientId": 4997,
+  "key": "item.plc.sticker.prestige_master",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Сингулярность»",
+    "en": "Singularity Sticker"
+  },
+  "apiId": "1mz1",
+  "apiIdStatus": "inferred"
+}

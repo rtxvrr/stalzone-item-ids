@@ -1,0 +1,11 @@
+{
+  "clientId": 31082,
+  "key": "item.brt.armsklad.mining",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденные микросхемы",
+    "en": "Damaged Microchips"
+  },
+  "apiId": "j0zy0",
+  "apiIdStatus": "inferred"
+}

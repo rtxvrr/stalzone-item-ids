@@ -1,0 +1,11 @@
+{
+  "clientId": 26034,
+  "key": "item.med.antidot_1",
+  "kind": "item",
+  "name": {
+    "ru": "Антидот первого класса",
+    "en": "1st Class Antidote"
+  },
+  "apiId": "j5mq7",
+  "apiIdStatus": "inferred"
+}

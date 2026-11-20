@@ -1,0 +1,11 @@
+{
+  "clientId": 20387,
+  "key": "item.wpn.six12_sd_fg",
+  "kind": "item",
+  "name": {
+    "ru": "SIX12 первопроходцев Севера",
+    "en": "SIX12 Trailblazers of the North"
+  },
+  "apiId": "okmym",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13605,
+  "key": "item.camo.arm.winter26_m90_urban",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «M90 Green Holiday»",
+    "en": "«M90 Green Holiday» Paint"
+  },
+  "apiId": "yrpk",
+  "apiIdStatus": "inferred"
+}

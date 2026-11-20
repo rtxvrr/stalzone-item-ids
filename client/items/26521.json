@@ -1,0 +1,11 @@
+{
+  "clientId": 26521,
+  "key": "item.food.dogjoy",
+  "kind": "item",
+  "name": {
+    "ru": "Паштет «Собачья радость»",
+    "en": "Doggie Delight Pâté"
+  },
+  "apiId": "3gvgg",
+  "apiIdStatus": "inferred"
+}

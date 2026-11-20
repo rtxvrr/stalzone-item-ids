@@ -1,0 +1,11 @@
+{
+  "clientId": 16911,
+  "key": "item.quest.merc.promote_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Пропаганда «Завета»",
+    "en": "Covenant Propaganda"
+  },
+  "apiId": "ly9p1",
+  "apiIdStatus": "inferred"
+}

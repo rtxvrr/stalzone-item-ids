@@ -1,0 +1,11 @@
+{
+  "clientId": 25140,
+  "key": "item.25140",
+  "kind": "item",
+  "name": {
+    "ru": "Рабочая броня Jotaro",
+    "en": "Jotaro Work Armor"
+  },
+  "apiId": "n4rz2",
+  "apiIdStatus": "inferred"
+}

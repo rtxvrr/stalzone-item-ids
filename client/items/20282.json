@@ -1,0 +1,11 @@
+{
+  "clientId": 20282,
+  "key": "item.wpn.m1a-2",
+  "kind": "item",
+  "name": {
+    "ru": "Старая M1A",
+    "en": "Old M1A"
+  },
+  "apiId": "j5oz0",
+  "apiIdStatus": "inferred"
+}

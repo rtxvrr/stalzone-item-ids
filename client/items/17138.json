@@ -1,0 +1,11 @@
+{
+  "clientId": 17138,
+  "key": "item.style.arm.combined_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Блаженный Диггер",
+    "en": "Blessed Digger"
+  },
+  "apiId": "m017r",
+  "apiIdStatus": "inferred"
+}

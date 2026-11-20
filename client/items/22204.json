@@ -1,0 +1,11 @@
+{
+  "clientId": 22204,
+  "key": "item.att.scope_bravo",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Sig Sauer",
+    "en": "Sig Sauer Optical Sight"
+  },
+  "apiId": "5lv9o",
+  "apiIdStatus": "inferred"
+}

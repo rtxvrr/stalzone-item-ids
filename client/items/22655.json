@@ -1,0 +1,11 @@
+{
+  "clientId": 22655,
+  "key": "item.22655",
+  "kind": "item",
+  "name": {
+    "ru": "Приклад АПС",
+    "en": "APS Stock"
+  },
+  "apiId": "4qpjr",
+  "apiIdStatus": "inferred"
+}

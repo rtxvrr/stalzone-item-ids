@@ -1,0 +1,11 @@
+{
+  "clientId": 20304,
+  "key": "item.wpn.winchester1887",
+  "kind": "item",
+  "name": {
+    "ru": "Winchester 1887",
+    "en": "Winchester 1887"
+  },
+  "apiId": "5ln3q",
+  "apiIdStatus": "inferred"
+}

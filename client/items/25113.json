@@ -1,0 +1,11 @@
+{
+  "clientId": 25113,
+  "key": "item.arm.osh-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный защитный костюм «Ош»",
+    "en": "Damaged Osh Protective Suit"
+  },
+  "apiId": "0r4vy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14988,
+  "key": "item.tool.eshka",
+  "kind": "item",
+  "name": {
+    "ru": "Фаза",
+    "en": "Phase"
+  },
+  "apiId": "n4k62",
+  "apiIdStatus": "inferred"
+}

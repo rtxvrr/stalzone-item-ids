@@ -1,0 +1,11 @@
+{
+  "clientId": 22127,
+  "key": "item.att.handgrip_nord_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоятка Defense Nord",
+    "en": "Defense Nord Grip"
+  },
+  "apiId": "zzp6m",
+  "apiIdStatus": "inferred"
+}

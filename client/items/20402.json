@@ -1,0 +1,11 @@
+{
+  "clientId": 20402,
+  "key": "item.wpn.tt",
+  "kind": "item",
+  "name": {
+    "ru": "ТТ",
+    "en": "TT"
+  },
+  "apiId": "g4m0n",
+  "apiIdStatus": "inferred"
+}

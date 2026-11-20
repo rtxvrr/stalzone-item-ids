@@ -1,0 +1,11 @@
+{
+  "clientId": 16860,
+  "key": "item.quest.questionable_drugs",
+  "kind": "item",
+  "name": {
+    "ru": "Сомнительные препараты",
+    "en": "Questionable Drugs"
+  },
+  "apiId": "rw6pz",
+  "apiIdStatus": "inferred"
+}

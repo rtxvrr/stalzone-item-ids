@@ -1,0 +1,11 @@
+{
+  "clientId": 16447,
+  "key": "item.16447",
+  "kind": "item",
+  "name": {
+    "ru": "Шкатулка Зрячего",
+    "en": "Seer's Box"
+  },
+  "apiId": "6w91j",
+  "apiIdStatus": "inferred"
+}

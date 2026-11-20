@@ -1,0 +1,11 @@
+{
+  "clientId": 16993,
+  "key": "item.quest.summer24_mite1",
+  "kind": "item",
+  "name": {
+    "ru": "Молодой клещ",
+    "en": "Young tick"
+  },
+  "apiId": "3gz9g",
+  "apiIdStatus": "inferred"
+}

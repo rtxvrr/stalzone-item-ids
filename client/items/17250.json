@@ -1,0 +1,11 @@
+{
+  "clientId": 17250,
+  "key": "item.style.melee.gladius_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Клюв Ворона»",
+    "en": "Crow Beak"
+  },
+  "apiId": "g4956",
+  "apiIdStatus": "inferred"
+}

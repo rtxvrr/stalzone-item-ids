@@ -1,0 +1,11 @@
+{
+  "clientId": 10182,
+  "key": "item.quest.audio_diary_operation_lesta_intervention",
+  "kind": "item",
+  "name": {
+    "ru": "Вмешательство",
+    "en": "Intervention"
+  },
+  "apiId": "jdrg",
+  "apiIdStatus": "inferred"
+}

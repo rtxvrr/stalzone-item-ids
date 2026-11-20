@@ -1,0 +1,11 @@
+{
+  "clientId": 12830,
+  "key": "item.amm.10boom",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 10 мм разрывной",
+    "en": "10 mm Explosive Round"
+  },
+  "apiId": "w2zp",
+  "apiIdStatus": "inferred"
+}

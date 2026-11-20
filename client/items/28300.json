@@ -1,0 +1,11 @@
+{
+  "clientId": 28300,
+  "key": "item.28300",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденная нашивка сталкеров",
+    "en": "Damaged Stalker Patch"
+  },
+  "apiId": "9d63z",
+  "apiIdStatus": "inferred"
+}

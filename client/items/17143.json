@@ -1,0 +1,11 @@
+{
+  "clientId": 17143,
+  "key": "item.motif.arm.saturn_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Отпечаток Изнанки»",
+    "en": "Inside Out Imprint"
+  },
+  "apiId": "dm679",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28052,
+  "key": "item.28052",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Пустота»",
+    "en": "Void Artifact"
+  },
+  "apiId": "55q41",
+  "apiIdStatus": "inferred"
+}

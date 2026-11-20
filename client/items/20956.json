@@ -1,0 +1,11 @@
+{
+  "clientId": 20956,
+  "key": "item.wpn.frostthrower",
+  "kind": "item",
+  "name": {
+    "ru": "«Хладомет»",
+    "en": "Frostthrower"
+  },
+  "apiId": "knv1p",
+  "apiIdStatus": "inferred"
+}

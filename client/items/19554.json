@@ -1,0 +1,11 @@
+{
+  "clientId": 19554,
+  "key": "item.camo.unique_arm.supersonic",
+  "kind": "item",
+  "name": {
+    "ru": "«Сверхзвуковой»",
+    "en": "Supersonic"
+  },
+  "apiId": "wjm2d",
+  "apiIdStatus": "inferred"
+}

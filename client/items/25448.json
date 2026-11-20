@@ -1,0 +1,11 @@
+{
+  "clientId": 25448,
+  "key": "item.arm.reiter",
+  "kind": "item",
+  "name": {
+    "ru": "Сверхтяжелый бронекостюм «Рейтар»",
+    "en": "Reiter Super-Heavy Armored Suit"
+  },
+  "apiId": "96yz0",
+  "apiIdStatus": "inferred"
+}

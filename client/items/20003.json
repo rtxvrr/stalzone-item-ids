@@ -1,0 +1,11 @@
+{
+  "clientId": 20003,
+  "key": "item.wpn.kashtan",
+  "kind": "item",
+  "name": {
+    "ru": "АЕК-919К «Каштан»",
+    "en": "AEK-919K Kashtan"
+  },
+  "apiId": "zz742",
+  "apiIdStatus": "inferred"
+}

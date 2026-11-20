@@ -1,0 +1,11 @@
+{
+  "clientId": 10149,
+  "key": "item.quest.audio_diary_dmz_jiguli",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета военного с Борали 3",
+    "en": "Military Cassette from Boral 3"
+  },
+  "apiId": "1gv2",
+  "apiIdStatus": "inferred"
+}

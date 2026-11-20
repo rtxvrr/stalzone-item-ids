@@ -1,0 +1,11 @@
+{
+  "clientId": 8172,
+  "key": "item.quest.apocalypse_not_today_old_battery",
+  "kind": "item",
+  "name": {
+    "ru": "Старый аккумулятор",
+    "en": "Old Battery"
+  },
+  "apiId": "9vzw",
+  "apiIdStatus": "inferred"
+}

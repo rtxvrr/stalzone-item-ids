@@ -1,0 +1,11 @@
+{
+  "clientId": 25088,
+  "key": "item.arm.osh-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный защитный костюм «Ош»",
+    "en": "Worn Osh Protective Suit"
+  },
+  "apiId": "n4ry1",
+  "apiIdStatus": "inferred"
+}

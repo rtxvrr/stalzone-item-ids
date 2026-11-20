@@ -1,0 +1,11 @@
+{
+  "clientId": 26012,
+  "key": "item.med.gerkules",
+  "kind": "item",
+  "name": {
+    "ru": "Тоник «Арни»",
+    "en": "Arnie Tonic"
+  },
+  "apiId": "rw1mg",
+  "apiIdStatus": "inferred"
+}

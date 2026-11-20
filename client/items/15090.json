@@ -1,0 +1,11 @@
+{
+  "clientId": 15090,
+  "key": "item.case.autumn26_functional",
+  "kind": "item",
+  "name": {
+    "ru": "Особый кейс «тульпа!»",
+    "en": "tulpa! Special Case"
+  },
+  "apiId": "vjn37",
+  "apiIdStatus": "inferred"
+}

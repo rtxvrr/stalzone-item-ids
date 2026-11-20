@@ -1,0 +1,11 @@
+{
+  "clientId": 5002,
+  "key": "item.plc.sticker.prestige_chill",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Заслуженный отдых»",
+    "en": "Well-Earned Rest Sticker"
+  },
+  "apiId": "gjq0",
+  "apiIdStatus": "inferred"
+}

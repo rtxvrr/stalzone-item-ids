@@ -1,0 +1,11 @@
+{
+  "clientId": 22209,
+  "key": "item.att.scope_elcan6",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Elcan",
+    "en": "Elcan Optical Sight"
+  },
+  "apiId": "qjrk4",
+  "apiIdStatus": "inferred"
+}

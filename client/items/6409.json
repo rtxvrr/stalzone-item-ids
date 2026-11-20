@@ -1,0 +1,11 @@
+{
+  "clientId": 6409,
+  "key": "item.misc.reinforced_steel",
+  "kind": "item",
+  "name": {
+    "ru": "Крепкая сталь",
+    "en": "Strong Steel"
+  },
+  "apiId": "q2yj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31340,
+  "key": "item.ny_toys.setE.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовый шарик с узором",
+    "en": "Purple Patterned Bauble"
+  },
+  "apiId": "nkn53",
+  "apiIdStatus": "inferred"
+}

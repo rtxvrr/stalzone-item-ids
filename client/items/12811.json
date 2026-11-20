@@ -1,0 +1,11 @@
+{
+  "clientId": 12811,
+  "key": "item.amm.12slugsilver",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12 калибра серебряный",
+    "en": "12 Caliber Silver Ammo"
+  },
+  "apiId": "l69j",
+  "apiIdStatus": "inferred"
+}

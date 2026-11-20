@@ -1,0 +1,11 @@
+{
+  "clientId": 12740,
+  "key": "item.amm.10st",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 10 мм",
+    "en": "10 mm Round"
+  },
+  "apiId": "nlk3",
+  "apiIdStatus": "inferred"
+}

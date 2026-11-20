@@ -1,0 +1,11 @@
+{
+  "clientId": 31710,
+  "key": "item.part.am17_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть АМ-17 #3",
+    "en": "AM-17 Part #3"
+  },
+  "apiId": "j0w5g",
+  "apiIdStatus": "inferred"
+}

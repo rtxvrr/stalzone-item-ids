@@ -1,0 +1,11 @@
+{
+  "clientId": 6800,
+  "key": "item.misc.polyurethane",
+  "kind": "item",
+  "name": {
+    "ru": "Полиуретан",
+    "en": "Polyurethane"
+  },
+  "apiId": "99n0",
+  "apiIdStatus": "inferred"
+}

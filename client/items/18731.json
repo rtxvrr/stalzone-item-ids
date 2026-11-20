@@ -1,0 +1,11 @@
+{
+  "clientId": 18731,
+  "key": "item.camo.wpn.frostbite",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Обморожение»",
+    "en": "Frostbite Paint"
+  },
+  "apiId": "4qm1n",
+  "apiIdStatus": "inferred"
+}

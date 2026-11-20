@@ -1,0 +1,11 @@
+{
+  "clientId": 6109,
+  "key": "item.misc.boric_acid",
+  "kind": "item",
+  "name": {
+    "ru": "Борная кислота",
+    "en": "Boric Acid"
+  },
+  "apiId": "qvrk",
+  "apiIdStatus": "inferred"
+}

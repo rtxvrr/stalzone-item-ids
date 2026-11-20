@@ -1,0 +1,11 @@
+{
+  "clientId": 20955,
+  "key": "item.wpn.coldcutter",
+  "kind": "item",
+  "name": {
+    "ru": "«Хладорез»",
+    "en": "Coldcutter"
+  },
+  "apiId": "4q12o",
+  "apiIdStatus": "inferred"
+}

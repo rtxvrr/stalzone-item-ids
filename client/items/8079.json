@@ -1,0 +1,11 @@
+{
+  "clientId": 8079,
+  "key": "item.quest.exorcism_flask",
+  "kind": "item",
+  "name": {
+    "ru": "Фляга с водкой",
+    "en": "Flask of Vodka"
+  },
+  "apiId": "4vzp",
+  "apiIdStatus": "inferred"
+}

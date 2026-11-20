@@ -1,0 +1,11 @@
+{
+  "clientId": 14214,
+  "key": "item.bag.762ap",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка 7.62 мм «Динозавр»",
+    "en": "Pouch of 7.62 mm Dinosaur Rounds"
+  },
+  "apiId": "m0woy",
+  "apiIdStatus": "inferred"
+}

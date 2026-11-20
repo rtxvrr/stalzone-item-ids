@@ -1,0 +1,11 @@
+{
+  "clientId": 9361,
+  "key": "item.melee.kukri_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Орудие Охотника",
+    "en": "Hunter's Tool"
+  },
+  "apiId": "0gjr",
+  "apiIdStatus": "inferred"
+}

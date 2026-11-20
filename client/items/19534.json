@@ -1,0 +1,11 @@
+{
+  "clientId": 19534,
+  "key": "item.camo.unique_arm.mod47",
+  "kind": "item",
+  "name": {
+    "ru": "«Модификация 47»",
+    "en": "Modification 47"
+  },
+  "apiId": "j59m4",
+  "apiIdStatus": "inferred"
+}

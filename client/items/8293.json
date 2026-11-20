@@ -1,0 +1,11 @@
+{
+  "clientId": 8293,
+  "key": "item.quest.crash_recorder",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованный бортовой самописец",
+    "en": "Encrypted Flight Recorder"
+  },
+  "apiId": "37kl",
+  "apiIdStatus": "inferred"
+}

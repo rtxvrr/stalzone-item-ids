@@ -1,0 +1,11 @@
+{
+  "clientId": 22550,
+  "key": "item.att.silencer_js",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель SUPRA K-8 С.К.О.С.",
+    "en": "SCOS SUPRA K-8 Silencer"
+  },
+  "apiId": "g42kg",
+  "apiIdStatus": "inferred"
+}

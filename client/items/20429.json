@@ -1,0 +1,11 @@
+{
+  "clientId": 20429,
+  "key": "item.wpn.tt_swamp",
+  "kind": "item",
+  "name": {
+    "ru": "Вечноклинящий ТТ",
+    "en": "Everjamming TT"
+  },
+  "apiId": "y3220",
+  "apiIdStatus": "inferred"
+}

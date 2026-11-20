@@ -1,0 +1,11 @@
+{
+  "clientId": 30010,
+  "key": "item.filler.valuable_11",
+  "kind": "item",
+  "name": {
+    "ru": "Компоненты редких сплавов",
+    "en": "Rare Alloy Components"
+  },
+  "apiId": "j0q0l",
+  "apiIdStatus": "inferred"
+}

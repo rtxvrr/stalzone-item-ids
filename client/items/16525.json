@@ -1,0 +1,11 @@
+{
+  "clientId": 16525,
+  "key": "item.crate.box_ammo_spb762",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик патронов 7.62 мм СБП",
+    "en": "Crate of 7.62 mm SBP Rounds"
+  },
+  "apiId": "1rlzq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17252,
+  "key": "item.style.melee.6x4_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "Укус Обращенного",
+    "en": "Convert's Bite"
+  },
+  "apiId": "5l621",
+  "apiIdStatus": "inferred"
+}

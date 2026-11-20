@@ -1,0 +1,11 @@
+{
+  "clientId": 18317,
+  "key": "item.camo.wpn.dayx_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Урбанизм»",
+    "en": "Urbanism Paint"
+  },
+  "apiId": "p6om5",
+  "apiIdStatus": "inferred"
+}

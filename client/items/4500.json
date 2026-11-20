@@ -1,0 +1,11 @@
+{
+  "clientId": 4500,
+  "key": "item.plc.pattern.bandits",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн бандитов",
+    "en": "Bandit Pattern"
+  },
+  "apiId": "9onw",
+  "apiIdStatus": "inferred"
+}

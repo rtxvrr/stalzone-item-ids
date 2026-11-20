@@ -1,0 +1,11 @@
+{
+  "clientId": 10052,
+  "key": "item.misc.cn2",
+  "kind": "item",
+  "name": {
+    "ru": "СН-2 «Нога»",
+    "en": "SN-2 Leg"
+  },
+  "apiId": "5wd1",
+  "apiIdStatus": "inferred"
+}

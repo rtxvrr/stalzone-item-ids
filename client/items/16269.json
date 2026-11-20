@@ -1,0 +1,11 @@
+{
+  "clientId": 16269,
+  "key": "item.misc.pseudogigant_eye_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Глаз бурелома",
+    "en": "Behemoth's Eye"
+  },
+  "apiId": "3gqz1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22700,
+  "key": "item.att.mag_stanag20",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин 5.56 NATO STANAG",
+    "en": "5.56 NATO STANAG Magazine"
+  },
+  "apiId": "96p2y",
+  "apiIdStatus": "inferred"
+}

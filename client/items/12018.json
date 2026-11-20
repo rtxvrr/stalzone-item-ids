@@ -1,0 +1,11 @@
+{
+  "clientId": 12018,
+  "key": "item.bag.bale",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка «Тюк»",
+    "en": "Bale Bag"
+  },
+  "apiId": "v667",
+  "apiIdStatus": "inferred"
+}

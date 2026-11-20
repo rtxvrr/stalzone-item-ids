@@ -1,0 +1,11 @@
+{
+  "clientId": 25574,
+  "key": "item.arm.topaz_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Медик»",
+    "en": "Medic"
+  },
+  "apiId": "g43wg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31288,
+  "key": "item.ny_toys.setA.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Красная простецкая мишура",
+    "en": "Simple Red Tinsel"
+  },
+  "apiId": "nkno9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12350,
+  "key": "item.exp.m397",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный M397",
+    "en": "M397 Grenade Round"
+  },
+  "apiId": "gl0g",
+  "apiIdStatus": "inferred"
+}

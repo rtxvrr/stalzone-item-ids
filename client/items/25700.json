@@ -1,0 +1,11 @@
+{
+  "clientId": 25700,
+  "key": "item.skin.blizzard2",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Полярник»",
+    "en": "Arctic Explorer Skin"
+  },
+  "apiId": "96yvy",
+  "apiIdStatus": "inferred"
+}

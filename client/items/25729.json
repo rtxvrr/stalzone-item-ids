@@ -1,0 +1,11 @@
+{
+  "clientId": 25729,
+  "key": "item.skin.spring25_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Искаженный»",
+    "en": "Hollow Skin"
+  },
+  "apiId": "y3ql3",
+  "apiIdStatus": "inferred"
+}

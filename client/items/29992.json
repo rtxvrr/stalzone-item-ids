@@ -1,0 +1,11 @@
+{
+  "clientId": 29992,
+  "key": "item.filler.outpost_8",
+  "kind": "item",
+  "name": {
+    "ru": "Офицерская фляга",
+    "en": "Officer's Flask"
+  },
+  "apiId": "210o5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19895,
+  "key": "item.motif.wpn.scorpion_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Жало»",
+    "en": "Sting"
+  },
+  "apiId": "6wrzn",
+  "apiIdStatus": "inferred"
+}

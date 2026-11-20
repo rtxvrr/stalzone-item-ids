@@ -1,0 +1,11 @@
+{
+  "clientId": 20159,
+  "key": "item.wpn.mg34",
+  "kind": "item",
+  "name": {
+    "ru": "MG-34",
+    "en": "MG-34"
+  },
+  "apiId": "lylqq",
+  "apiIdStatus": "inferred"
+}

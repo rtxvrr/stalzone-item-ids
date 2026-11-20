@@ -1,0 +1,11 @@
+{
+  "clientId": 18793,
+  "key": "item.camo.wpn.chainmail_cold",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Холодная кольчуга»",
+    "en": "Cold Chain Mail Camouflage"
+  },
+  "apiId": "3gmpg",
+  "apiIdStatus": "inferred"
+}

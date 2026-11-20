@@ -1,0 +1,11 @@
+{
+  "clientId": 15075,
+  "key": "item.pack.camo.blitz_skin_13",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Клинч»",
+    "en": "Clinch Paint Set"
+  },
+  "apiId": "zz3wk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22063,
+  "key": "item.att.forend_rpd",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическое цевье РПД",
+    "en": "RPD Tactical Handguard"
+  },
+  "apiId": "okj66",
+  "apiIdStatus": "inferred"
+}

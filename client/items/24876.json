@@ -1,0 +1,11 @@
+{
+  "clientId": 24876,
+  "key": "item.charm.na_flag",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Звезды Штатов»",
+    "en": "Stars of the States Charm"
+  },
+  "apiId": "5lrog",
+  "apiIdStatus": "inferred"
+}

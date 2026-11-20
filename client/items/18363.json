@@ -1,0 +1,11 @@
+{
+  "clientId": 18363,
+  "key": "item.camo.wpn.red_expo_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «VolumeHex Red»",
+    "en": "«VolumeHex Red» Paint"
+  },
+  "apiId": "ok6d4",
+  "apiIdStatus": "inferred"
+}

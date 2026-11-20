@@ -1,0 +1,11 @@
+{
+  "clientId": 6013,
+  "key": "item.misc.acid_nettle",
+  "kind": "item",
+  "name": {
+    "ru": "Кислотная крапива",
+    "en": "Acid Nettle"
+  },
+  "apiId": "033k",
+  "apiIdStatus": "inferred"
+}

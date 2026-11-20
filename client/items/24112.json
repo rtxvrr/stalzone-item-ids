@@ -1,0 +1,11 @@
+{
+  "clientId": 24112,
+  "key": "item.24112",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Чернильница»",
+    "en": "Inkwell Charm"
+  },
+  "apiId": "rwdg5",
+  "apiIdStatus": "inferred"
+}

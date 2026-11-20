@@ -1,0 +1,11 @@
+{
+  "clientId": 4966,
+  "key": "item.plc.sticker.ops_rating_fifth_league",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Адепт»",
+    "en": "Adept Sticker"
+  },
+  "apiId": "vvpd",
+  "apiIdStatus": "inferred"
+}

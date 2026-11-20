@@ -1,0 +1,11 @@
+{
+  "clientId": 24710,
+  "key": "item.charm.spring25_tick_inside",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Щелк»",
+    "en": "Click Charm"
+  },
+  "apiId": "j57m6",
+  "apiIdStatus": "inferred"
+}

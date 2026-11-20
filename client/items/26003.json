@@ -1,0 +1,11 @@
+{
+  "clientId": 26003,
+  "key": "item.med.bandage",
+  "kind": "item",
+  "name": {
+    "ru": "Бинт",
+    "en": "Bandage"
+  },
+  "apiId": "zzqk2",
+  "apiIdStatus": "inferred"
+}

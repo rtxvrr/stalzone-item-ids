@@ -1,0 +1,11 @@
+{
+  "clientId": 31816,
+  "key": "item.part.rubik",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная взвесь",
+    "en": "Anomalous Suspension"
+  },
+  "apiId": "nkog9",
+  "apiIdStatus": "inferred"
+}

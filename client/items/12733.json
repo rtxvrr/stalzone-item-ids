@@ -1,0 +1,11 @@
+{
+  "clientId": 12733,
+  "key": "item.amm.12st",
+  "kind": "item",
+  "name": {
+    "ru": "Крупнокалиберный самодельный патрон",
+    "en": "Large-Caliber Handmade Round"
+  },
+  "apiId": "qm0k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16114,
+  "key": "item.16114",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки оборудования",
+    "en": "Equipment Remains"
+  },
+  "apiId": "m04l2",
+  "apiIdStatus": "inferred"
+}

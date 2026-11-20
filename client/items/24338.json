@@ -1,0 +1,11 @@
+{
+  "clientId": 24338,
+  "key": "item.charm.9mm_f",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Заледенелый патрон 9 мм»",
+    "en": "Icy 9 mm Round Charm"
+  },
+  "apiId": "m07yr",
+  "apiIdStatus": "inferred"
+}

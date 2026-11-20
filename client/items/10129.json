@@ -1,0 +1,11 @@
+{
+  "clientId": 10129,
+  "key": "item.quest.inside25_nina_echo_3",
+  "kind": "item",
+  "name": {
+    "ru": "Эхо Нины 3",
+    "en": "N.I.N.A.s 3 Echo"
+  },
+  "apiId": "ywp3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10138,
+  "key": "item.quest.operatsii_audiodnevnik7",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета с пометкой \"Лаборатория ускорителя\"",
+    "en": "Cassette marked \"Accelerator Laboratory\""
+  },
+  "apiId": "mdk2",
+  "apiIdStatus": "inferred"
+}

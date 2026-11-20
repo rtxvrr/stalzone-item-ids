@@ -1,0 +1,11 @@
+{
+  "clientId": 8038,
+  "key": "item.quest.covenant.military_water",
+  "kind": "item",
+  "name": {
+    "ru": "Бутыль воды для пленника",
+    "en": "Bottle of water for the prisoner"
+  },
+  "apiId": "m5jj",
+  "apiIdStatus": "inferred"
+}

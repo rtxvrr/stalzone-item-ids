@@ -1,0 +1,11 @@
+{
+  "clientId": 24866,
+  "key": "item.charm.summer26_binoculars",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Тактический бинокль»",
+    "en": "Tactical Binoculars Charm"
+  },
+  "apiId": "vj13n",
+  "apiIdStatus": "inferred"
+}

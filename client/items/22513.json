@@ -1,0 +1,11 @@
+{
+  "clientId": 22513,
+  "key": "item.att.barrel_pam11762",
+  "kind": "item",
+  "name": {
+    "ru": "Precision Armament M11 Severe Duty 7.62x51",
+    "en": "Precision Armament M11 Severe Duty 7.62x51"
+  },
+  "apiId": "0rp0r",
+  "apiIdStatus": "inferred"
+}

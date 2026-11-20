@@ -1,0 +1,11 @@
+{
+  "clientId": 20461,
+  "key": "item.wpn.highest_power",
+  "kind": "item",
+  "name": {
+    "ru": "«Highest power»",
+    "en": "Highest Power"
+  },
+  "apiId": "0r2qk",
+  "apiIdStatus": "inferred"
+}

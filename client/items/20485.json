@@ -1,0 +1,11 @@
+{
+  "clientId": 20485,
+  "key": "item.wpn.deagle_golden",
+  "kind": "item",
+  "name": {
+    "ru": "«Дар Избранному»",
+    "en": "Gift for the Chosen One"
+  },
+  "apiId": "0r2kk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20486,
+  "key": "item.wpn.p320",
+  "kind": "item",
+  "name": {
+    "ru": "SIG Sauer P320",
+    "en": "Sig Sauer P320"
+  },
+  "apiId": "m0m5k",
+  "apiIdStatus": "inferred"
+}

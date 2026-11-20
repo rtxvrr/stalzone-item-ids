@@ -1,0 +1,11 @@
+{
+  "clientId": 25078,
+  "key": "item.arm.legion",
+  "kind": "item",
+  "name": {
+    "ru": "Тяжелый бронекостюм «Легионер»",
+    "en": "Legionnaire Heavy Armored Suit"
+  },
+  "apiId": "wjg62",
+  "apiIdStatus": "inferred"
+}

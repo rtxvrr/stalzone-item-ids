@@ -1,0 +1,11 @@
+{
+  "clientId": 4903,
+  "key": "item.plc.sticker.arcade_35",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер 35 ур. сессионных боев",
+    "en": "Level 35 Session Battles Sticker"
+  },
+  "apiId": "zvln",
+  "apiIdStatus": "inferred"
+}

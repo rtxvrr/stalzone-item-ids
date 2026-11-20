@@ -1,0 +1,11 @@
+{
+  "clientId": 20853,
+  "key": "item.wpn.xm8s_a",
+  "kind": "item",
+  "name": {
+    "ru": "XM8S (А)",
+    "en": "XM8S (A)"
+  },
+  "apiId": "y3jnk",
+  "apiIdStatus": "inferred"
+}

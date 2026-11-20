@@ -1,0 +1,11 @@
+{
+  "clientId": 31418,
+  "key": "item.bag.556fire",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 5.56 мм «Жгучий»",
+    "en": "Pouch of 5.56 mm Fluff Rounds"
+  },
+  "apiId": "vng9n",
+  "apiIdStatus": "inferred"
+}

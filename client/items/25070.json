@@ -1,0 +1,11 @@
+{
+  "clientId": 25070,
+  "key": "item.arm.exo",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Самсон»",
+    "en": "Samson Exoarmor"
+  },
+  "apiId": "7lm56",
+  "apiIdStatus": "inferred"
+}

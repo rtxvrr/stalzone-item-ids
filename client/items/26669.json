@@ -1,0 +1,11 @@
+{
+  "clientId": 26669,
+  "key": "item.premium.token_90d",
+  "kind": "item",
+  "name": {
+    "ru": "Премиум на 90 дней",
+    "en": "Premium for 90 days"
+  },
+  "apiId": "3gv2z",
+  "apiIdStatus": "inferred"
+}

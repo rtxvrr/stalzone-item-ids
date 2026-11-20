@@ -1,0 +1,11 @@
+{
+  "clientId": 27212,
+  "key": "item.27212",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА",
+    "en": "PDA"
+  },
+  "apiId": "rw36g",
+  "apiIdStatus": "inferred"
+}

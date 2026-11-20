@@ -1,0 +1,11 @@
+{
+  "clientId": 8016,
+  "key": "item.exp.vog25_ffa_stinker",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный «Вонючка»",
+    "en": "Stinky Grenade Round"
+  },
+  "apiId": "nyl6",
+  "apiIdStatus": "inferred"
+}

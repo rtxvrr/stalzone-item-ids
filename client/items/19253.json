@@ -1,0 +1,11 @@
+{
+  "clientId": 19253,
+  "key": "item.camo.arm.dpm_white",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «DPM White»",
+    "en": "DPM White Camouflage"
+  },
+  "apiId": "y3o70",
+  "apiIdStatus": "inferred"
+}

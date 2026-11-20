@@ -1,0 +1,11 @@
+{
+  "clientId": 8249,
+  "key": "item.quest.quest_tutorial_stalker_path",
+  "kind": "item",
+  "name": {
+    "ru": "Нашивка Сталкера",
+    "en": "Stalker Patch"
+  },
+  "apiId": "1vyg",
+  "apiIdStatus": "inferred"
+}

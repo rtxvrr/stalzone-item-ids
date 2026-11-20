@@ -1,0 +1,11 @@
+{
+  "clientId": 18308,
+  "key": "item.camo.wpn.summer24_skin_9",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Эфир»",
+    "en": "Ether Paint"
+  },
+  "apiId": "kn273",
+  "apiIdStatus": "inferred"
+}

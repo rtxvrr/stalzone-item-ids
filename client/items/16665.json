@@ -1,0 +1,11 @@
+{
+  "clientId": 16665,
+  "key": "item.lootbox.combustion",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Горение»",
+    "en": "Burning Container"
+  },
+  "apiId": "p6q0w",
+  "apiIdStatus": "inferred"
+}

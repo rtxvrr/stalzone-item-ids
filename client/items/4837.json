@@ -1,0 +1,11 @@
+{
+  "clientId": 4837,
+  "key": "item.plc.sticker.mt_mushroom",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Крепкий хват»",
+    "en": "Strong Grip Sticker"
+  },
+  "apiId": "0myk",
+  "apiIdStatus": "inferred"
+}

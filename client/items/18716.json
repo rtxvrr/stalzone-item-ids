@@ -1,0 +1,11 @@
+{
+  "clientId": 18716,
+  "key": "item.camo.wpn.snowfall",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Снегопад»",
+    "en": "Snowfall Paint"
+  },
+  "apiId": "n41m3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31537,
+  "key": "item.ny_toys.setL.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Артефактная простая гирлянда",
+    "en": "Simple Artifact Tree Lights"
+  },
+  "apiId": "00jzr",
+  "apiIdStatus": "inferred"
+}

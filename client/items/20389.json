@@ -1,0 +1,11 @@
+{
+  "clientId": 20389,
+  "key": "item.wpn.mk12",
+  "kind": "item",
+  "name": {
+    "ru": "Derya MK-12 AS-103S",
+    "en": "Derya MK-12 AS-103S"
+  },
+  "apiId": "p63w4",
+  "apiIdStatus": "inferred"
+}

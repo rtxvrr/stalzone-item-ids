@@ -1,0 +1,11 @@
+{
+  "clientId": 4508,
+  "key": "item.plc.pattern.autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Черный Рынок: Интервенция»",
+    "en": "Black Market: Intervention Season Pattern"
+  },
+  "apiId": "k2q3",
+  "apiIdStatus": "inferred"
+}

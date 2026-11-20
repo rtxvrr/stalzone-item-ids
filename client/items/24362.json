@@ -1,0 +1,11 @@
+{
+  "clientId": 24362,
+  "key": "item.24362",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ветеран Проходной»",
+    "en": "Entrance Checkpoint Veteran Charm"
+  },
+  "apiId": "m07nr",
+  "apiIdStatus": "inferred"
+}

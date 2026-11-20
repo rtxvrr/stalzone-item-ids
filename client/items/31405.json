@@ -1,0 +1,11 @@
+{
+  "clientId": 31405,
+  "key": "item.lootbox.ny_case2_3",
+  "kind": "item",
+  "name": {
+    "ru": "Старый кейс 6-го уровня",
+    "en": "Old Level 6 Case"
+  },
+  "apiId": "y4yjz",
+  "apiIdStatus": "inferred"
+}

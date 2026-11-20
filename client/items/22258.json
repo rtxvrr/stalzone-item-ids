@@ -1,0 +1,11 @@
+{
+  "clientId": 22258,
+  "key": "item.att.scope_pilad",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Пилад 3.5х20",
+    "en": "Pilad 3.5x20 Optical Sight"
+  },
+  "apiId": "j562l",
+  "apiIdStatus": "inferred"
+}

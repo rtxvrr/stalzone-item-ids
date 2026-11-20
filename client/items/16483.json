@@ -1,0 +1,11 @@
+{
+  "clientId": 16483,
+  "key": "item.misc.triumph_compensation",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон компенсации",
+    "en": "Compensation Token"
+  },
+  "apiId": "lyr4j",
+  "apiIdStatus": "inferred"
+}

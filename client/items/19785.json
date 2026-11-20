@@ -1,0 +1,11 @@
+{
+  "clientId": 19785,
+  "key": "item.camo.arm.svarog_work",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Работа Сварога»",
+    "en": "Svarogs Work Camouflage"
+  },
+  "apiId": "0r3my",
+  "apiIdStatus": "inferred"
+}

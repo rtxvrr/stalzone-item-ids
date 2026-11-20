@@ -1,0 +1,11 @@
+{
+  "clientId": 5024,
+  "key": "item.plc.sticker.scstore_a26_merc_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Крайний заказ»",
+    "en": "Last Order Sticker"
+  },
+  "apiId": "90j0",
+  "apiIdStatus": "inferred"
+}

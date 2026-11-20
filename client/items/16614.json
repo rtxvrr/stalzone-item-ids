@@ -1,0 +1,11 @@
+{
+  "clientId": 16614,
+  "key": "item.16614",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с холодостойким снаряжением",
+    "en": "Crate of Cold-Resistant Gear"
+  },
+  "apiId": "m0q3y",
+  "apiIdStatus": "inferred"
+}

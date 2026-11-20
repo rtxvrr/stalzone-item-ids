@@ -1,0 +1,11 @@
+{
+  "clientId": 31070,
+  "key": "item.brt.pd.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Дурман-камень",
+    "en": "Dopestone"
+  },
+  "apiId": "77o96",
+  "apiIdStatus": "inferred"
+}

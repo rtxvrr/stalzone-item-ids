@@ -1,0 +1,11 @@
+{
+  "clientId": 5520,
+  "key": "item.misc.gate_keycard",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта Врат",
+    "en": "Gates Key Card"
+  },
+  "apiId": "2426",
+  "apiIdStatus": "inferred"
+}

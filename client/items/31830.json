@@ -1,0 +1,11 @@
+{
+  "clientId": 31830,
+  "key": "item.part.xm8s",
+  "kind": "item",
+  "name": {
+    "ru": "Часть HK XM8S",
+    "en": "HK XM8S Part"
+  },
+  "apiId": "w3yzz",
+  "apiIdStatus": "inferred"
+}

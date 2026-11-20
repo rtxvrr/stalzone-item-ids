@@ -1,0 +1,11 @@
+{
+  "clientId": 6139,
+  "key": "item.misc.frying_pan",
+  "kind": "item",
+  "name": {
+    "ru": "Сковорода",
+    "en": "Frying Pan"
+  },
+  "apiId": "ov50",
+  "apiIdStatus": "inferred"
+}

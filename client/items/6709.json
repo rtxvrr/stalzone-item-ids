@@ -1,0 +1,11 @@
+{
+  "clientId": 6709,
+  "key": "item.misc.ventilation_duct",
+  "kind": "item",
+  "name": {
+    "ru": "Воздуховод",
+    "en": "Air Duct"
+  },
+  "apiId": "q2wk",
+  "apiIdStatus": "inferred"
+}

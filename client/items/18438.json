@@ -1,0 +1,11 @@
+{
+  "clientId": 18438,
+  "key": "item.camo.wpn.spring25_twitch_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Болотный патриот»",
+    "en": "Swamps patriot Paint"
+  },
+  "apiId": "m09wy",
+  "apiIdStatus": "inferred"
+}

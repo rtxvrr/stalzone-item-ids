@@ -1,0 +1,11 @@
+{
+  "clientId": 16762,
+  "key": "item.gachapon.winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Операции Криостазис»",
+    "en": "Case with skins from Operation Cryostasis"
+  },
+  "apiId": "m01r2",
+  "apiIdStatus": "inferred"
+}

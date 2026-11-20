@@ -1,0 +1,11 @@
+{
+  "clientId": 16772,
+  "key": "item.misc.bet_coin_12",
+  "kind": "item",
+  "name": {
+    "ru": "Стандартный набор жетонов Колизея",
+    "en": "Standard Coliseum Token Pack"
+  },
+  "apiId": "96kdy",
+  "apiIdStatus": "inferred"
+}

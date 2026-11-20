@@ -1,0 +1,11 @@
+{
+  "clientId": 29962,
+  "key": "item.filler.mob_limansk_3",
+  "kind": "item",
+  "name": {
+    "ru": "Зуб мутанта из Любеча",
+    "en": "Lyubech Mutant's Tooth"
+  },
+  "apiId": "mrqw2",
+  "apiIdStatus": "inferred"
+}

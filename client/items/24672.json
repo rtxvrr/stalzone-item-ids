@@ -1,0 +1,11 @@
+{
+  "clientId": 24672,
+  "key": "item.charm.autumn24_card",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ключ Черного Рынка»",
+    "en": "Black Market Key Charm"
+  },
+  "apiId": "96ryq",
+  "apiIdStatus": "inferred"
+}

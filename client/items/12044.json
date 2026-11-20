@@ -1,0 +1,11 @@
+{
+  "clientId": 12044,
+  "key": "item.cont.kolotun",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Колотун»",
+    "en": "Shiver Container"
+  },
+  "apiId": "2v9v",
+  "apiIdStatus": "inferred"
+}

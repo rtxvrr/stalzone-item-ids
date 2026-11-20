@@ -1,0 +1,11 @@
+{
+  "clientId": 4989,
+  "key": "item.plc.sticker.soop",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер SOOP",
+    "en": "SOOP Sticker"
+  },
+  "apiId": "pzy2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20396,
+  "key": "item.wpn.mr155_ultima",
+  "kind": "item",
+  "name": {
+    "ru": "MP-155 Ultima",
+    "en": "MP-155 Ultima"
+  },
+  "apiId": "9692y",
+  "apiIdStatus": "inferred"
+}

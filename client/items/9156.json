@@ -1,0 +1,11 @@
+{
+  "clientId": 9156,
+  "key": "item.wpn.fg42_reich",
+  "kind": "item",
+  "name": {
+    "ru": "FG-42",
+    "en": "FG-42"
+  },
+  "apiId": "k9ov",
+  "apiIdStatus": "inferred"
+}

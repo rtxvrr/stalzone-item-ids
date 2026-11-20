@@ -1,0 +1,11 @@
+{
+  "clientId": 27338,
+  "key": "item.misc.blizzard_upsilon",
+  "kind": "item",
+  "name": {
+    "ru": "Ипсилон данные",
+    "en": "Upsilon Data"
+  },
+  "apiId": "m0lmr",
+  "apiIdStatus": "inferred"
+}

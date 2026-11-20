@@ -1,0 +1,11 @@
+{
+  "clientId": 11903,
+  "key": "item.plate.steel4",
+  "kind": "item",
+  "name": {
+    "ru": "Стальная пластина IV",
+    "en": "Steel Plate IV"
+  },
+  "apiId": "zj9m",
+  "apiIdStatus": "inferred"
+}

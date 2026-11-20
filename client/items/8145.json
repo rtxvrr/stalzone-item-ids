@@ -1,0 +1,11 @@
+{
+  "clientId": 8145,
+  "key": "item.quest.duty_injector",
+  "kind": "item",
+  "name": {
+    "ru": "Инъектор блокады универсальный",
+    "en": "Universal blockade injector"
+  },
+  "apiId": "37ok",
+  "apiIdStatus": "inferred"
+}

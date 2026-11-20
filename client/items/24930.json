@@ -1,0 +1,11 @@
+{
+  "clientId": 24930,
+  "key": "item.charm.rune_cockroach",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Тридцать пятый таракан»",
+    "en": "Thirty-Fifth Cockroach Charm"
+  },
+  "apiId": "wjgzd",
+  "apiIdStatus": "inferred"
+}

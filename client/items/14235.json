@@ -1,0 +1,11 @@
+{
+  "clientId": 14235,
+  "key": "item.crate.craft_napalm",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Напалм»",
+    "en": "Crate of Napalm Grenades"
+  },
+  "apiId": "lywdk",
+  "apiIdStatus": "inferred"
+}

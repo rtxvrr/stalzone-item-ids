@@ -1,0 +1,11 @@
+{
+  "clientId": 8206,
+  "key": "item.quest.whirlpool_active_chertozvet",
+  "kind": "item",
+  "name": {
+    "ru": "Заряженный активный чертоцвет",
+    "en": "Charged Active Hellroot"
+  },
+  "apiId": "wp02",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12150,
+  "key": "item.bag.march",
+  "kind": "item",
+  "name": {
+    "ru": "Советский походный рюкзак",
+    "en": "Soviet Travel Backpack"
+  },
+  "apiId": "glnp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22211,
+  "key": "item.att.scope_acecare",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Acecare",
+    "en": "Acecare Optical Sight"
+  },
+  "apiId": "ly4z2",
+  "apiIdStatus": "inferred"
+}

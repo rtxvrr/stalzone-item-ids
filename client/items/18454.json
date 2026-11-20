@@ -1,0 +1,11 @@
+{
+  "clientId": 18454,
+  "key": "item.camo.wpn.summer25_skin_13",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Аугментация»",
+    "en": "Augmentation Paint"
+  },
+  "apiId": "wjvn2",
+  "apiIdStatus": "inferred"
+}

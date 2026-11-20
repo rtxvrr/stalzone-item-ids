@@ -1,0 +1,11 @@
+{
+  "clientId": 8352,
+  "key": "item.quest.zov_brodyaga_1",
+  "kind": "item",
+  "name": {
+    "ru": "Дневник Бродяги 1",
+    "en": "Wanderer's Journal 1"
+  },
+  "apiId": "5vgq",
+  "apiIdStatus": "inferred"
+}

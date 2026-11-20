@@ -1,0 +1,11 @@
+{
+  "clientId": 16300,
+  "key": "item.16300",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон группировки «Рубеж»",
+    "en": "Frontier Faction Token"
+  },
+  "apiId": "96zoz",
+  "apiIdStatus": "inferred"
+}

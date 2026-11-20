@@ -1,0 +1,11 @@
+{
+  "clientId": 31376,
+  "key": "item.ny_toys.setH.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичный мерцающий шарик",
+    "en": "Futuristic Shimmering Bauble"
+  },
+  "apiId": "553n0",
+  "apiIdStatus": "inferred"
+}

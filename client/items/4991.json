@@ -1,0 +1,11 @@
+{
+  "clientId": 4991,
+  "key": "item.plc.sticker.prestige_burya",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Буря»",
+    "en": "Storm Sticker"
+  },
+  "apiId": "d42n",
+  "apiIdStatus": "inferred"
+}

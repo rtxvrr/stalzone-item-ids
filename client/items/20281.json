@@ -1,0 +1,11 @@
+{
+  "clientId": 20281,
+  "key": "item.wpn.vyhlop",
+  "kind": "item",
+  "name": {
+    "ru": "ВССК «Выхлоп»",
+    "en": "VSSK Vykhlop"
+  },
+  "apiId": "qj23j",
+  "apiIdStatus": "inferred"
+}

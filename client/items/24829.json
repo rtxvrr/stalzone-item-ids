@@ -1,0 +1,11 @@
+{
+  "clientId": 24829,
+  "key": "item.charm.spring26_box",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Архив»",
+    "en": "Archive Charm"
+  },
+  "apiId": "y354z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24897,
+  "key": "item.charm.quest_mushroom_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Атомный подосиновик»",
+    "en": "Atomic Aspen Mushroom Charm"
+  },
+  "apiId": "1rk16",
+  "apiIdStatus": "inferred"
+}

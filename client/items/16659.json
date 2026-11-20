@@ -1,0 +1,11 @@
+{
+  "clientId": 16659,
+  "key": "item.16659",
+  "kind": "item",
+  "name": {
+    "ru": "Запакованный ключ для обычного контейнера",
+    "en": "Packaged Key to a Common Container"
+  },
+  "apiId": "lyr6k",
+  "apiIdStatus": "inferred"
+}

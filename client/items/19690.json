@@ -1,0 +1,11 @@
+{
+  "clientId": 19690,
+  "key": "item.camo.arm.faces",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Грани»",
+    "en": "Facets Camouflage"
+  },
+  "apiId": "vjr3r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12119,
+  "key": "item.bag.light4",
+  "kind": "item",
+  "name": {
+    "ru": "Разгрузка ADR-WRBT",
+    "en": "Utility Vest ADR-WRBT"
+  },
+  "apiId": "dkln",
+  "apiIdStatus": "inferred"
+}

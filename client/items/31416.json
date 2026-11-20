@@ -1,0 +1,11 @@
+{
+  "clientId": 31416,
+  "key": "item.bag.12slugfire",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 12 калибра «Жгучий»",
+    "en": "Pouch of 12 Caliber Fluff Rounds"
+  },
+  "apiId": "nkny6",
+  "apiIdStatus": "inferred"
+}

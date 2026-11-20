@@ -1,0 +1,11 @@
+{
+  "clientId": 24809,
+  "key": "item.charm.media_mashtakoff",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Солдат удачи»",
+    "en": "Soldier of Fortune Charm"
+  },
+  "apiId": "qjoj6",
+  "apiIdStatus": "inferred"
+}

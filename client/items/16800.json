@@ -1,0 +1,11 @@
+{
+  "clientId": 16800,
+  "key": "item.16800",
+  "kind": "item",
+  "name": {
+    "ru": "Открытка",
+    "en": "Postcard"
+  },
+  "apiId": "96kzq",
+  "apiIdStatus": "inferred"
+}

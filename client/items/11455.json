@@ -1,0 +1,11 @@
+{
+  "clientId": 11455,
+  "key": "item.art.blizzard_razor",
+  "kind": "item",
+  "name": {
+    "ru": "Бритва",
+    "en": "Razor"
+  },
+  "apiId": "4lgj",
+  "apiIdStatus": "inferred"
+}

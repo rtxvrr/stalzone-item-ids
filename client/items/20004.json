@@ -1,0 +1,11 @@
+{
+  "clientId": 20004,
+  "key": "item.wpn.aksu",
+  "kind": "item",
+  "name": {
+    "ru": "АКС-74У",
+    "en": "AKS-74U"
+  },
+  "apiId": "5ldwg",
+  "apiIdStatus": "inferred"
+}

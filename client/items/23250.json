@@ -1,0 +1,11 @@
+{
+  "clientId": 23250,
+  "key": "item.bolt_gem.fire",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Пламенная",
+    "en": "Chromatic Particle: Fiery"
+  },
+  "apiId": "g4qj6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6016,
+  "key": "item.misc.hellroot",
+  "kind": "item",
+  "name": {
+    "ru": "Чертоцвет",
+    "en": "Hellroot"
+  },
+  "apiId": "npp9",
+  "apiIdStatus": "inferred"
+}

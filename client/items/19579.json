@@ -1,0 +1,11 @@
+{
+  "clientId": 19579,
+  "key": "item.motif.arm.pathfinder",
+  "kind": "item",
+  "name": {
+    "ru": "«Первопроходец»",
+    "en": "Trailblazer"
+  },
+  "apiId": "4q2rl",
+  "apiIdStatus": "inferred"
+}

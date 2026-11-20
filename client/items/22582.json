@@ -1,0 +1,11 @@
+{
+  "clientId": 22582,
+  "key": "item.att.silencer_mc558",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель МЦ-558",
+    "en": "MTs-558 Silencer"
+  },
+  "apiId": "j52q4",
+  "apiIdStatus": "inferred"
+}

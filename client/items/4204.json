@@ -1,0 +1,11 @@
+{
+  "clientId": 4204,
+  "key": "item.plc.background.freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Зари»",
+    "en": "Rise Background"
+  },
+  "apiId": "5jjo",
+  "apiIdStatus": "inferred"
+}

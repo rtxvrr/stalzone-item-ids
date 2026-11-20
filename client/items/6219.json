@@ -1,0 +1,11 @@
+{
+  "clientId": 6219,
+  "key": "item.misc.animal_fat",
+  "kind": "item",
+  "name": {
+    "ru": "Животный жир",
+    "en": "Animal Fat"
+  },
+  "apiId": "dqg5",
+  "apiIdStatus": "inferred"
+}

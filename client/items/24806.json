@@ -1,0 +1,11 @@
+{
+  "clientId": 24806,
+  "key": "item.charm.media_fladar",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ткач»",
+    "en": "Weaver Charm"
+  },
+  "apiId": "wjgjp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 5000,
+  "key": "item.plc.sticker.prestige_dead_arbiter",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Мертвый Арбитр»",
+    "en": "Dead Referee Sticker"
+  },
+  "apiId": "90l0",
+  "apiIdStatus": "inferred"
+}

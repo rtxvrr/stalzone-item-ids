@@ -1,0 +1,11 @@
+{
+  "clientId": 25075,
+  "key": "item.arm.bulat",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Скиф-2м»",
+    "en": "Scythian-2m Armored Suit"
+  },
+  "apiId": "zzyly",
+  "apiIdStatus": "inferred"
+}

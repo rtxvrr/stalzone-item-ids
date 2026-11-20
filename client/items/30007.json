@@ -1,0 +1,11 @@
+{
+  "clientId": 30007,
+  "key": "item.filler.valuable_8",
+  "kind": "item",
+  "name": {
+    "ru": "Блоки навигационных систем",
+    "en": "Navigation System Blocks"
+  },
+  "apiId": "4k7kj",
+  "apiIdStatus": "inferred"
+}

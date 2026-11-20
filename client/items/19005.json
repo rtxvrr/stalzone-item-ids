@@ -1,0 +1,11 @@
+{
+  "clientId": 19005,
+  "key": "item.camo.arm.blue",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Голубая»",
+    "en": "Light Blue Armor Paint"
+  },
+  "apiId": "y3vrk",
+  "apiIdStatus": "inferred"
+}

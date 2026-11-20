@@ -1,0 +1,11 @@
+{
+  "clientId": 8294,
+  "key": "item.quest.crash_scalpels",
+  "kind": "item",
+  "name": {
+    "ru": "Скальпели для Степлера",
+    "en": "Scalpels for Stapler"
+  },
+  "apiId": "7626",
+  "apiIdStatus": "inferred"
+}

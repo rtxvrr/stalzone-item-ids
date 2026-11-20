@@ -1,0 +1,11 @@
+{
+  "clientId": 22769,
+  "key": "item.att.mag_mc55810",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин для МЦ-558",
+    "en": "MTs-558 Extended Magazine"
+  },
+  "apiId": "3gp95",
+  "apiIdStatus": "inferred"
+}

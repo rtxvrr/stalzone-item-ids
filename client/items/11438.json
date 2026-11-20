@@ -1,0 +1,11 @@
+{
+  "clientId": 11438,
+  "key": "item.ravent_yat",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Ять»",
+    "en": "Eti Amulet"
+  },
+  "apiId": "m63k",
+  "apiIdStatus": "inferred"
+}

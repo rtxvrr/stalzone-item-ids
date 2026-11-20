@@ -1,0 +1,11 @@
+{
+  "clientId": 18412,
+  "key": "item.camo.wpn.bf_skin_15",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Сумрачные наросты»",
+    "en": "Dusky growths Paint"
+  },
+  "apiId": "rw93v",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20034,
+  "key": "item.wpn.l85-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный L85A1",
+    "en": "Worn L85A1"
+  },
+  "apiId": "j5l77",
+  "apiIdStatus": "inferred"
+}

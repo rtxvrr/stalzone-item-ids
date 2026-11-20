@@ -1,0 +1,11 @@
+{
+  "clientId": 8184,
+  "key": "item.quest.devil_pda_duty",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА «Рубежника»",
+    "en": "Frontier Member's PDA"
+  },
+  "apiId": "r06l",
+  "apiIdStatus": "inferred"
+}

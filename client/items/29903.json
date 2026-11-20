@@ -1,0 +1,11 @@
+{
+  "clientId": 29903,
+  "key": "item.filler.npc_4",
+  "kind": "item",
+  "name": {
+    "ru": "Зажигалка",
+    "en": "Lighter"
+  },
+  "apiId": "z3kqm",
+  "apiIdStatus": "inferred"
+}

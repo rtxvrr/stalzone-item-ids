@@ -1,0 +1,11 @@
+{
+  "clientId": 9524,
+  "key": "item.abl.anm.woofer",
+  "kind": "item",
+  "name": {
+    "ru": "Динамик Зивкаса",
+    "en": "ZIVCAS Speaker"
+  },
+  "apiId": "9lwy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24687,
+  "key": "item.charm.winter25_pass_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Корпорат»",
+    "en": "Corporate Charm"
+  },
+  "apiId": "ok735",
+  "apiIdStatus": "inferred"
+}

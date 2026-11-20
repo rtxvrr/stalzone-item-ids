@@ -1,0 +1,11 @@
+{
+  "clientId": 21082,
+  "key": "item.melee.katana_tactical",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая катана",
+    "en": "Tactical Katana"
+  },
+  "apiId": "j5v6l",
+  "apiIdStatus": "inferred"
+}

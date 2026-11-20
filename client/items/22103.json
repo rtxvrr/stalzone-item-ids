@@ -1,0 +1,11 @@
+{
+  "clientId": 22103,
+  "key": "item.att.handgrip_regfbh",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка REG Fab Defence, хаки",
+    "en": "REG Fab Defense Tactical Grip, Khaki"
+  },
+  "apiId": "zzpvm",
+  "apiIdStatus": "inferred"
+}

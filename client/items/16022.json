@@ -1,0 +1,11 @@
+{
+  "clientId": 16022,
+  "key": "item.16022",
+  "kind": "item",
+  "name": {
+    "ru": "Клочок бумаги",
+    "en": "Scrap of Paper"
+  },
+  "apiId": "7lwm6",
+  "apiIdStatus": "inferred"
+}

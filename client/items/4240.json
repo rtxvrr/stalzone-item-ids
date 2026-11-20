@@ -1,0 +1,11 @@
+{
+  "clientId": 4240,
+  "key": "item.plc.background.cosplay_legend",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Желтая бумага»",
+    "en": "Yellow Paper Background"
+  },
+  "apiId": "no19",
+  "apiIdStatus": "inferred"
+}

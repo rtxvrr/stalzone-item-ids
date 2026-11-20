@@ -1,0 +1,11 @@
+{
+  "clientId": 16138,
+  "key": "item.16138",
+  "kind": "item",
+  "name": {
+    "ru": "Письмо",
+    "en": "Message"
+  },
+  "apiId": "m0qw2",
+  "apiIdStatus": "inferred"
+}

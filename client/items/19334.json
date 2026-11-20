@@ -1,0 +1,11 @@
+{
+  "clientId": 19334,
+  "key": "item.camo.arm.autumn24_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Черепа и кости»",
+    "en": "Skulls and Bones Paint"
+  },
+  "apiId": "j5916",
+  "apiIdStatus": "inferred"
+}

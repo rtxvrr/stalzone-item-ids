@@ -1,0 +1,11 @@
+{
+  "clientId": 18757,
+  "key": "item.camo.wpn.adaptation",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Адаптация»",
+    "en": "Adaptation Paint"
+  },
+  "apiId": "qj5kk",
+  "apiIdStatus": "inferred"
+}

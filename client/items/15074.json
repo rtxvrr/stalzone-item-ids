@@ -1,0 +1,11 @@
+{
+  "clientId": 15074,
+  "key": "item.pack.camo.blitz_skin_12",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Прорыв»",
+    "en": "Breach Paint Set"
+  },
+  "apiId": "g4n1n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20375,
+  "key": "item.wpn.spas12",
+  "kind": "item",
+  "name": {
+    "ru": "Franchi SPAS-12",
+    "en": "Franchi SPAS-12"
+  },
+  "apiId": "zz2vm",
+  "apiIdStatus": "inferred"
+}

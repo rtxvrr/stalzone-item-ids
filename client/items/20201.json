@@ -1,0 +1,11 @@
+{
+  "clientId": 20201,
+  "key": "item.wpn.mosinkar",
+  "kind": "item",
+  "name": {
+    "ru": "Карабин Мосина",
+    "en": "Mosin's Carbine"
+  },
+  "apiId": "1r7rg",
+  "apiIdStatus": "inferred"
+}

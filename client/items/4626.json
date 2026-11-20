@@ -1,0 +1,11 @@
+{
+  "clientId": 4626,
+  "key": "item.plc.pattern.arena_raven26",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Празднества",
+    "en": "Festivity Pattern"
+  },
+  "apiId": "gjr6",
+  "apiIdStatus": "inferred"
+}

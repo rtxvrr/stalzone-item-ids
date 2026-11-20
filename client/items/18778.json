@@ -1,0 +1,11 @@
+{
+  "clientId": 18778,
+  "key": "item.camo.wpn.shake_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Shake»",
+    "en": "Twitch Shake Camouflage"
+  },
+  "apiId": "wjvpo",
+  "apiIdStatus": "inferred"
+}

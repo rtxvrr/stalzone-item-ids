@@ -1,0 +1,11 @@
+{
+  "clientId": 10282,
+  "key": "item.phonograph.vinyl_operations_sea_alienation",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Море отчуждения»",
+    "en": "Sea of Exclusion Vinyl Record"
+  },
+  "apiId": "jd3l",
+  "apiIdStatus": "inferred"
+}

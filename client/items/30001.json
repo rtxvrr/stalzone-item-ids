@@ -1,0 +1,11 @@
+{
+  "clientId": 30001,
+  "key": "item.filler.valuable_2",
+  "kind": "item",
+  "name": {
+    "ru": "Военный радиопередатчик",
+    "en": "Military Radio Transmitter"
+  },
+  "apiId": "19l9r",
+  "apiIdStatus": "inferred"
+}

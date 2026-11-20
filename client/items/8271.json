@@ -1,0 +1,11 @@
+{
+  "clientId": 8271,
+  "key": "item.wpn.quest_flamethrower",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический усиленный огнемет",
+    "en": "Tactical Reinforced Flamethrower"
+  },
+  "apiId": "6vdp",
+  "apiIdStatus": "inferred"
+}

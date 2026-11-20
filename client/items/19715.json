@@ -1,0 +1,11 @@
+{
+  "clientId": 19715,
+  "key": "item.camo.arm.snowballs",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Снежки»",
+    "en": "Snowballs Paint"
+  },
+  "apiId": "okvzm",
+  "apiIdStatus": "inferred"
+}

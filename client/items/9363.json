@@ -1,0 +1,11 @@
+{
+  "clientId": 9363,
+  "key": "item.wpn.winchester1887_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "1887 Выживших",
+    "en": "1887 Survivors"
+  },
+  "apiId": "o1n4",
+  "apiIdStatus": "inferred"
+}

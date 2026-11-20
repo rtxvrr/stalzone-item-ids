@@ -1,0 +1,11 @@
+{
+  "clientId": 8408,
+  "key": "item.quest.shtennikov_radio_repair_note",
+  "kind": "item",
+  "name": {
+    "ru": "Заметка о ремонте рации",
+    "en": "Note on Radio Repair"
+  },
+  "apiId": "kwwj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19526,
+  "key": "item.camo.unique_arm.likvidator",
+  "kind": "item",
+  "name": {
+    "ru": "«Ликвидатор»",
+    "en": "Liquidator"
+  },
+  "apiId": "g4wlg",
+  "apiIdStatus": "inferred"
+}

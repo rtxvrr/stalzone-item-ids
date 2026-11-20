@@ -1,0 +1,11 @@
+{
+  "clientId": 11437,
+  "key": "item.ravent_otal",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Ойр»",
+    "en": "Ór Amulet"
+  },
+  "apiId": "04nk",
+  "apiIdStatus": "inferred"
+}

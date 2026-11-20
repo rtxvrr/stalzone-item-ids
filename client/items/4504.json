@@ -1,0 +1,11 @@
+{
+  "clientId": 4504,
+  "key": "item.plc.pattern.freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Зари»",
+    "en": "Rise Pattern"
+  },
+  "apiId": "5jr4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17116,
+  "key": "item.style.arm.ghost_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "«Полый охотник»",
+    "en": "Hollow Hunter"
+  },
+  "apiId": "n4gdw",
+  "apiIdStatus": "inferred"
+}

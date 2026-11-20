@@ -1,0 +1,11 @@
+{
+  "clientId": 8003,
+  "key": "item.exp.m381_ffa_napalm",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный «Напалм»",
+    "en": "Napalm Grenade Round"
+  },
+  "apiId": "z5q2",
+  "apiIdStatus": "inferred"
+}

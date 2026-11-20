@@ -1,0 +1,11 @@
+{
+  "clientId": 4320,
+  "key": "item.plc.background.scstore_a26_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Крайний заказ»",
+    "en": "Last Order Background"
+  },
+  "apiId": "2wl6",
+  "apiIdStatus": "inferred"
+}

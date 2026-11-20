@@ -1,0 +1,11 @@
+{
+  "clientId": 15056,
+  "key": "item.lootbox.dmz26_1_personal",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик десантника",
+    "en": "Trooper's Crate"
+  },
+  "apiId": "knr6j",
+  "apiIdStatus": "inferred"
+}

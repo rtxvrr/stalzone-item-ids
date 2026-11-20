@@ -1,0 +1,11 @@
+{
+  "clientId": 31651,
+  "key": "item.blueprint.arm.vorsa",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Ворса»",
+    "en": "Vorsa Armored Suit Blueprint"
+  },
+  "apiId": "z3o1y",
+  "apiIdStatus": "inferred"
+}

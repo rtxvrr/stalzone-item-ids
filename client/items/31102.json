@@ -1,0 +1,11 @@
+{
+  "clientId": 31102,
+  "key": "item.brt.sever.airdrop_add",
+  "kind": "item",
+  "name": {
+    "ru": "Портативный квантовый генератор",
+    "en": "Portable Quantum Generator"
+  },
+  "apiId": "gn975",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22475,
+  "key": "item.att.light_other",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейный фонарь Other",
+    "en": "Other Combat Flashlight"
+  },
+  "apiId": "zz9g2",
+  "apiIdStatus": "inferred"
+}

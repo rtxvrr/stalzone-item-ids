@@ -1,0 +1,11 @@
+{
+  "clientId": 19546,
+  "key": "item.camo.unique_arm.thug_ratcatcher",
+  "kind": "item",
+  "name": {
+    "ru": "«Головорез»",
+    "en": "Thug"
+  },
+  "apiId": "7l29r",
+  "apiIdStatus": "inferred"
+}

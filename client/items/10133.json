@@ -1,0 +1,11 @@
+{
+  "clientId": 10133,
+  "key": "item.quest.operatsii_audiodnevnik2",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из лаборатории Полигона-7",
+    "en": "Cassette from the Laboratory of Area-7"
+  },
+  "apiId": "q6r3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12726,
+  "key": "item.amm.762bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм бронебойный",
+    "en": "7.62 mm Armor-Piercing Round"
+  },
+  "apiId": "g5np",
+  "apiIdStatus": "inferred"
+}

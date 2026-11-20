@@ -1,0 +1,11 @@
+{
+  "clientId": 25445,
+  "key": "item.arm.snowgirl",
+  "kind": "item",
+  "name": {
+    "ru": "Снегурочка",
+    "en": "Snow Maiden"
+  },
+  "apiId": "3gdqz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17541,
+  "key": "item.style.wpn.oc33_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Дедал»",
+    "en": "Daedalus"
+  },
+  "apiId": "p6nr2",
+  "apiIdStatus": "inferred"
+}

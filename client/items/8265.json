@@ -1,0 +1,11 @@
+{
+  "clientId": 8265,
+  "key": "item.quest.provocation_document",
+  "kind": "item",
+  "name": {
+    "ru": "Провокационные документы",
+    "en": "Provocative Documents"
+  },
+  "apiId": "plzw",
+  "apiIdStatus": "inferred"
+}

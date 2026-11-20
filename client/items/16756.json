@@ -1,0 +1,11 @@
+{
+  "clientId": 16756,
+  "key": "item.gachapon.ravent_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Арены Ворона»",
+    "en": "Case with Crow Arena Styles"
+  },
+  "apiId": "kn5rp",
+  "apiIdStatus": "inferred"
+}

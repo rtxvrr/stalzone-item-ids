@@ -1,0 +1,11 @@
+{
+  "clientId": 16221,
+  "key": "item.16221",
+  "kind": "item",
+  "name": {
+    "ru": "Дурная поганка",
+    "en": "Sinister Toadstool"
+  },
+  "apiId": "3gqo1",
+  "apiIdStatus": "inferred"
+}

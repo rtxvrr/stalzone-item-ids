@@ -1,0 +1,11 @@
+{
+  "clientId": 17551,
+  "key": "item.motif.wpn.mk47_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Деконструктор»",
+    "en": "Deconstructor"
+  },
+  "apiId": "zzo2n",
+  "apiIdStatus": "inferred"
+}

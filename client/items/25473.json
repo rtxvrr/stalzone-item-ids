@@ -1,0 +1,11 @@
+{
+  "clientId": 25473,
+  "key": "item.arm.pumpkin",
+  "kind": "item",
+  "name": {
+    "ru": "Одеяние Тыквера",
+    "en": "Pumpker's Garb"
+  },
+  "apiId": "1rp16",
+  "apiIdStatus": "inferred"
+}

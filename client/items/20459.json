@@ -1,0 +1,11 @@
+{
+  "clientId": 20459,
+  "key": "item.wpn.deagle7",
+  "kind": "item",
+  "name": {
+    "ru": "Desert Eagle Mark VII",
+    "en": "Desert Eagle Mark VII"
+  },
+  "apiId": "ly2v2",
+  "apiIdStatus": "inferred"
+}

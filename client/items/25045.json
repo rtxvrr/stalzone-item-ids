@@ -1,0 +1,11 @@
+{
+  "clientId": 25045,
+  "key": "item.arm.smorodina",
+  "kind": "item",
+  "name": {
+    "ru": "Маскировочный костюм «Смородина»",
+    "en": "Currant Ghillie Suit"
+  },
+  "apiId": "3g6nl",
+  "apiIdStatus": "inferred"
+}

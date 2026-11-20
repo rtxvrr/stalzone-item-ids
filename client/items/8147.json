@@ -1,0 +1,11 @@
+{
+  "clientId": 8147,
+  "key": "item.quest.pda_bent_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Погнутый ПДА бойца РХБЗ",
+    "en": "Bent NBCP Soldier's PDA"
+  },
+  "apiId": "6vy6",
+  "apiIdStatus": "inferred"
+}

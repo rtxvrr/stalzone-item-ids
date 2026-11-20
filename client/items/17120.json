@@ -1,0 +1,11 @@
+{
+  "clientId": 17120,
+  "key": "item.style.arm.ao6_wintersoldier",
+  "kind": "item",
+  "name": {
+    "ru": "«Зимний солдат»",
+    "en": "Winter Soldier"
+  },
+  "apiId": "2ogzm",
+  "apiIdStatus": "inferred"
+}

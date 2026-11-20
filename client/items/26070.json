@@ -1,0 +1,11 @@
+{
+  "clientId": 26070,
+  "key": "item.med.inside_wine",
+  "kind": "item",
+  "name": {
+    "ru": "Вино Священника",
+    "en": "Clergyman's Wine"
+  },
+  "apiId": "7ly33",
+  "apiIdStatus": "inferred"
+}

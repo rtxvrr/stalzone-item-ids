@@ -1,0 +1,11 @@
+{
+  "clientId": 22542,
+  "key": "item.att.barrel_venomantidote",
+  "kind": "item",
+  "name": {
+    "ru": "Venom Tactical Antidote",
+    "en": "Venom Tactical Antidote"
+  },
+  "apiId": "vjlog",
+  "apiIdStatus": "inferred"
+}

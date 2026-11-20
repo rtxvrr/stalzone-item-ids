@@ -1,0 +1,11 @@
+{
+  "clientId": 17149,
+  "key": "item.style.arm.saturn_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Одеяние Охотника»",
+    "en": "Hunter's Attire"
+  },
+  "apiId": "1r15q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6125,
+  "key": "item.misc.beans_box",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с фасолью",
+    "en": "Can of Beans"
+  },
+  "apiId": "1d31",
+  "apiIdStatus": "inferred"
+}

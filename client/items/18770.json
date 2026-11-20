@@ -1,0 +1,11 @@
+{
+  "clientId": 18770,
+  "key": "item.camo.wpn.pine_league",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «E-LKA»",
+    "en": "T-REE Paint"
+  },
+  "apiId": "7l067",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16004,
+  "key": "item.16004",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная плазма",
+    "en": "Anomalous Plasma"
+  },
+  "apiId": "5lyk1",
+  "apiIdStatus": "inferred"
+}

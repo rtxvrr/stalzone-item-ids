@@ -1,0 +1,11 @@
+{
+  "clientId": 24314,
+  "key": "item.charm.discoball",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Диско-шар»",
+    "en": "Disco Ball Charm"
+  },
+  "apiId": "m071r",
+  "apiIdStatus": "inferred"
+}

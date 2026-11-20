@@ -1,0 +1,11 @@
+{
+  "clientId": 10169,
+  "key": "item.quest.smotrikov20",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Информация",
+    "en": "Audio Recorder: Information"
+  },
+  "apiId": "35p5",
+  "apiIdStatus": "inferred"
+}

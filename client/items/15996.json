@@ -1,0 +1,11 @@
+{
+  "clientId": 15996,
+  "key": "item.crt.sleeves",
+  "kind": "item",
+  "name": {
+    "ru": "Багровые гильзы",
+    "en": "Crimson Casings"
+  },
+  "apiId": "963rw",
+  "apiIdStatus": "inferred"
+}

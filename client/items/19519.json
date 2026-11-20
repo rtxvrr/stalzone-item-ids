@@ -1,0 +1,11 @@
+{
+  "clientId": 19519,
+  "key": "item.camo.unique_arm.sinner",
+  "kind": "item",
+  "name": {
+    "ru": "«Грешник»",
+    "en": "Sinner"
+  },
+  "apiId": "dmzk9",
+  "apiIdStatus": "inferred"
+}

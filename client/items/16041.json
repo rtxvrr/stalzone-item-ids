@@ -1,0 +1,11 @@
+{
+  "clientId": 16041,
+  "key": "item.16041",
+  "kind": "item",
+  "name": {
+    "ru": "Старый аккумулятор",
+    "en": "Old Battery"
+  },
+  "apiId": "p6v9w",
+  "apiIdStatus": "inferred"
+}

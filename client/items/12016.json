@@ -1,0 +1,11 @@
+{
+  "clientId": 12016,
+  "key": "item.bag.hellboyu",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак «Хелбой-У»",
+    "en": "Hellboy-U Backpack"
+  },
+  "apiId": "n339",
+  "apiIdStatus": "inferred"
+}

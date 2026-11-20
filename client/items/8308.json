@@ -1,0 +1,11 @@
+{
+  "clientId": 8308,
+  "key": "item.quest.the_shock_wave_st_johns_wort",
+  "kind": "item",
+  "name": {
+    "ru": "Зверобой",
+    "en": "Hypericum"
+  },
+  "apiId": "kwlp",
+  "apiIdStatus": "inferred"
+}

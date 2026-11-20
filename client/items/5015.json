@@ -1,0 +1,11 @@
+{
+  "clientId": 5015,
+  "key": "item.plc.sticker.prestige_headshot",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Хедшот»",
+    "en": "Headshot Sticker"
+  },
+  "apiId": "og1o",
+  "apiIdStatus": "inferred"
+}

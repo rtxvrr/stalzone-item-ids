@@ -1,0 +1,11 @@
+{
+  "clientId": 16360,
+  "key": "item.16360",
+  "kind": "item",
+  "name": {
+    "ru": "Измененный хвост кошки",
+    "en": "Altered Cat's Tail"
+  },
+  "apiId": "rwvk5",
+  "apiIdStatus": "inferred"
+}

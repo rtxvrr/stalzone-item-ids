@@ -1,0 +1,11 @@
+{
+  "clientId": 16894,
+  "key": "item.quest.covenant.notes",
+  "kind": "item",
+  "name": {
+    "ru": "Загадочные записи",
+    "en": "Mysterious Notes"
+  },
+  "apiId": "7lod9",
+  "apiIdStatus": "inferred"
+}

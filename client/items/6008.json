@@ -1,0 +1,11 @@
+{
+  "clientId": 6008,
+  "key": "item.misc.azure_minerals",
+  "kind": "item",
+  "name": {
+    "ru": "Лазурные минералы",
+    "en": "Azure Minerals"
+  },
+  "apiId": "kllj",
+  "apiIdStatus": "inferred"
+}

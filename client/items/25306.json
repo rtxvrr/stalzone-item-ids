@@ -1,0 +1,11 @@
+{
+  "clientId": 25306,
+  "key": "item.arm.heavyaltyn",
+  "kind": "item",
+  "name": {
+    "ru": "Тяжелый бронекостюм «Алтын-Т»",
+    "en": "Altyn-T Heavy Armored Suit"
+  },
+  "apiId": "wjg2o",
+  "apiIdStatus": "inferred"
+}

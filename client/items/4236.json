@@ -1,0 +1,11 @@
+{
+  "clientId": 4236,
+  "key": "item.plc.background.mt_field",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Поля»",
+    "en": "Fields Background"
+  },
+  "apiId": "r9yz",
+  "apiIdStatus": "inferred"
+}

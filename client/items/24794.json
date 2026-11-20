@@ -1,0 +1,11 @@
+{
+  "clientId": 24794,
+  "key": "item.charm.winter26_fox",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Дружок»",
+    "en": "Buddy Charm"
+  },
+  "apiId": "7lml7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20233,
+  "key": "item.wpn.skst",
+  "kind": "item",
+  "name": {
+    "ru": "СКС-Т",
+    "en": "SKS-T"
+  },
+  "apiId": "qj2yj",
+  "apiIdStatus": "inferred"
+}

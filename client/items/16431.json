@@ -1,0 +1,11 @@
+{
+  "clientId": 16431,
+  "key": "item.16431",
+  "kind": "item",
+  "name": {
+    "ru": "Модуль данных АУ",
+    "en": "AI Data Module"
+  },
+  "apiId": "4q71p",
+  "apiIdStatus": "inferred"
+}

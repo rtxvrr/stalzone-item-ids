@@ -1,0 +1,11 @@
+{
+  "clientId": 24101,
+  "key": "item.24101",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Холодец»",
+    "en": "Aspic Charm"
+  },
+  "apiId": "1rgp1",
+  "apiIdStatus": "inferred"
+}

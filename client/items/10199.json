@@ -1,0 +1,11 @@
+{
+  "clientId": 10199,
+  "key": "item.quest.breadcrumbs_audiocassette_fundament_7",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Фундамент»",
+    "en": "Foundation Cassette"
+  },
+  "apiId": "z4rm",
+  "apiIdStatus": "inferred"
+}

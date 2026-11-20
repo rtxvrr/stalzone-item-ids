@@ -1,0 +1,11 @@
+{
+  "clientId": 20112,
+  "key": "item.wpn.scarl_egs",
+  "kind": "item",
+  "name": {
+    "ru": "SCAR-L «Служебный»",
+    "en": "Military Issued SCAR-L"
+  },
+  "apiId": "rwrol",
+  "apiIdStatus": "inferred"
+}

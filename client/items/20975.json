@@ -1,0 +1,11 @@
+{
+  "clientId": 20975,
+  "key": "item.wpn.rpg7",
+  "kind": "item",
+  "name": {
+    "ru": "РПГ-7",
+    "en": "RPG-7"
+  },
+  "apiId": "zzl6m",
+  "apiIdStatus": "inferred"
+}

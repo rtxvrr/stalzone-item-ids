@@ -1,0 +1,11 @@
+{
+  "clientId": 15035,
+  "key": "item.lootbox.pathfinder_crate",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс Первопроходцев",
+    "en": "Trailblazers Case"
+  },
+  "apiId": "ly002",
+  "apiIdStatus": "inferred"
+}

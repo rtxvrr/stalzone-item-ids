@@ -1,0 +1,11 @@
+{
+  "clientId": 24522,
+  "key": "item.charm.8ball",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Аномальная восьмерка»",
+    "en": "Anomalous 8 Charm"
+  },
+  "apiId": "7ljgj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26531,
+  "key": "item.food.irp",
+  "kind": "item",
+  "name": {
+    "ru": "Отечественный ИРП",
+    "en": "Domestic MRE"
+  },
+  "apiId": "4qdqn",
+  "apiIdStatus": "inferred"
+}

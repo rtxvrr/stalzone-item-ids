@@ -1,0 +1,11 @@
+{
+  "clientId": 19691,
+  "key": "item.camo.arm.tablet",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Скрижаль»",
+    "en": "Tablet Camouflage"
+  },
+  "apiId": "dmqyj",
+  "apiIdStatus": "inferred"
+}

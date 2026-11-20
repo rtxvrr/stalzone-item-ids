@@ -1,0 +1,11 @@
+{
+  "clientId": 25377,
+  "key": "item.arm.prometheus",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Прометей»",
+    "en": "Prometheus Armored Suit"
+  },
+  "apiId": "y3q3o",
+  "apiIdStatus": "inferred"
+}

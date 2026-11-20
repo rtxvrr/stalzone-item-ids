@@ -1,0 +1,11 @@
+{
+  "clientId": 22352,
+  "key": "item.att.sight_pkas",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «ПК-АС»",
+    "en": "PK-AS Collimator Sight"
+  },
+  "apiId": "5lvr0",
+  "apiIdStatus": "inferred"
+}

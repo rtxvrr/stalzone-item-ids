@@ -1,0 +1,11 @@
+{
+  "clientId": 4838,
+  "key": "item.plc.sticker.cosplay_sign",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Made in Zone»",
+    "en": "Made in Zone Sticker"
+  },
+  "apiId": "m9zk",
+  "apiIdStatus": "inferred"
+}

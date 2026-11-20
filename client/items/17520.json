@@ -1,0 +1,11 @@
+{
+  "clientId": 17520,
+  "key": "item.style.wpn.f2000_summer24",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS «Vortex»",
+    "en": "ZIVCAS «Vortex»"
+  },
+  "apiId": "2o3d6",
+  "apiIdStatus": "inferred"
+}

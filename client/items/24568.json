@@ -1,0 +1,11 @@
+{
+  "clientId": 24568,
+  "key": "item.charm.golden_ticket",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Золотой билет»",
+    "en": "Golden Ticket Charm"
+  },
+  "apiId": "2oy75",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16303,
+  "key": "item.16303",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон группировки Наемники",
+    "en": "Mercenaries Faction Token"
+  },
+  "apiId": "zzwnn",
+  "apiIdStatus": "inferred"
+}

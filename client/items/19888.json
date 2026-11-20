@@ -1,0 +1,11 @@
+{
+  "clientId": 19888,
+  "key": "item.motif.wpn.mk12_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Возгорание»",
+    "en": "Combustion"
+  },
+  "apiId": "n4p29",
+  "apiIdStatus": "inferred"
+}

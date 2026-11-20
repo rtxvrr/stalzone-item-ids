@@ -1,0 +1,11 @@
+{
+  "clientId": 4949,
+  "key": "item.plc.sticker.dmz26_grenade",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Сюрприз»",
+    "en": "Surprise Sticker"
+  },
+  "apiId": "1mv1",
+  "apiIdStatus": "inferred"
+}

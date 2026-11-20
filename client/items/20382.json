@@ -1,0 +1,11 @@
+{
+  "clientId": 20382,
+  "key": "item.wpn.ots62",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-62",
+    "en": "OTs-62"
+  },
+  "apiId": "j5o9g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8233,
+  "key": "item.quest.unnamed_deep_bill_of_loading",
+  "kind": "item",
+  "name": {
+    "ru": "Накладной лист воздушного трансфера Кузни-11",
+    "en": "Air Transfer Manifest of Forge-11"
+  },
+  "apiId": "qrpj",
+  "apiIdStatus": "inferred"
+}

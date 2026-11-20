@@ -1,0 +1,11 @@
+{
+  "clientId": 19816,
+  "key": "item.mtl.wpn.carbon",
+  "kind": "item",
+  "name": {
+    "ru": "«Карбон»",
+    "en": "Carbon"
+  },
+  "apiId": "n4p59",
+  "apiIdStatus": "inferred"
+}

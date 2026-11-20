@@ -1,0 +1,11 @@
+{
+  "clientId": 15965,
+  "key": "item.crt.autumn_26",
+  "kind": "item",
+  "name": {
+    "ru": "Елей",
+    "en": "Balm"
+  },
+  "apiId": "p6vd5",
+  "apiIdStatus": "inferred"
+}

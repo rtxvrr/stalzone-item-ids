@@ -1,0 +1,11 @@
+{
+  "clientId": 11200,
+  "key": "item.art.puh_koluchka",
+  "kind": "item",
+  "name": {
+    "ru": "Репях",
+    "en": "Burr"
+  },
+  "apiId": "9nml",
+  "apiIdStatus": "inferred"
+}

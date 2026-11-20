@@ -1,0 +1,11 @@
+{
+  "clientId": 19774,
+  "key": "item.camo.arm.grid_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Grid»",
+    "en": "Twitch Grid Camouflage"
+  },
+  "apiId": "g40z5",
+  "apiIdStatus": "inferred"
+}

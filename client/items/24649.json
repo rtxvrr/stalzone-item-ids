@@ -1,0 +1,11 @@
+{
+  "clientId": 24649,
+  "key": "item.charm.nina_human",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Человек?»",
+    "en": "Human? Charm"
+  },
+  "apiId": "1r5kr",
+  "apiIdStatus": "inferred"
+}

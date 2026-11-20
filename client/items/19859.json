@@ -1,0 +1,11 @@
+{
+  "clientId": 19859,
+  "key": "item.motif.wpn.ash12_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Погоня»",
+    "en": "Chase"
+  },
+  "apiId": "lyl22",
+  "apiIdStatus": "inferred"
+}

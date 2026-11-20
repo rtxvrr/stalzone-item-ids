@@ -1,0 +1,11 @@
+{
+  "clientId": 16757,
+  "key": "item.gachapon.halloween_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Марафона мертвецов»",
+    "en": "Case with Dead Man's Marathon Styles"
+  },
+  "apiId": "qj303",
+  "apiIdStatus": "inferred"
+}

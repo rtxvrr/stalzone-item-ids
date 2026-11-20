@@ -1,0 +1,11 @@
+{
+  "clientId": 19388,
+  "key": "item.camo.arm.winter25_twitch_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Коррозия металла»",
+    "en": "Metal Corrosion Paint"
+  },
+  "apiId": "n45z3",
+  "apiIdStatus": "inferred"
+}

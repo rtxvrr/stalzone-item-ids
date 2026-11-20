@@ -1,0 +1,11 @@
+{
+  "clientId": 12364,
+  "key": "item.exp.xg1",
+  "kind": "item",
+  "name": {
+    "ru": "ХГ-1 «Поганка»",
+    "en": "Toadstool KG-1"
+  },
+  "apiId": "nvmw",
+  "apiIdStatus": "inferred"
+}

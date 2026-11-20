@@ -1,0 +1,11 @@
+{
+  "clientId": 16023,
+  "key": "item.16023",
+  "kind": "item",
+  "name": {
+    "ru": "Личный дневник",
+    "en": "Personal Diary"
+  },
+  "apiId": "6wy0p",
+  "apiIdStatus": "inferred"
+}

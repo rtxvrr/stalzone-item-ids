@@ -1,0 +1,11 @@
+{
+  "clientId": 16669,
+  "key": "item.lootbox.halloween_2021",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик Проклятого огня",
+    "en": "Cursed Fire Crate"
+  },
+  "apiId": "3gqvl",
+  "apiIdStatus": "inferred"
+}

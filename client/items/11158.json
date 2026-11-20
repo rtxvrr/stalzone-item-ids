@@ -1,0 +1,11 @@
+{
+  "clientId": 11158,
+  "key": "item.art.kisel_plenka",
+  "kind": "item",
+  "name": {
+    "ru": "Ряска",
+    "en": "Lemna"
+  },
+  "apiId": "jkj4",
+  "apiIdStatus": "inferred"
+}

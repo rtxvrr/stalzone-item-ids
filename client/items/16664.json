@@ -1,0 +1,11 @@
+{
+  "clientId": 16664,
+  "key": "item.lootbox.blizzard_2021",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик прошедшего Бурана",
+    "en": "Past Blizzard Crate"
+  },
+  "apiId": "n4wl1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18461,
+  "key": "item.camo.wpn.summer25_skin_16",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Неизвестная материя»",
+    "en": "Unknown Matter Paint"
+  },
+  "apiId": "0rmr9",
+  "apiIdStatus": "inferred"
+}

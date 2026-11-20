@@ -1,0 +1,11 @@
+{
+  "clientId": 27330,
+  "key": "item.misc.inside_rating",
+  "kind": "item",
+  "name": {
+    "ru": "Сожженный оникс",
+    "en": "Burnt Onyx"
+  },
+  "apiId": "wjkod",
+  "apiIdStatus": "inferred"
+}

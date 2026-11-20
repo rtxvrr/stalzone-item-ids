@@ -1,0 +1,11 @@
+{
+  "clientId": 15028,
+  "key": "item.lootbox.summer25_furniture_2",
+  "kind": "item",
+  "name": {
+    "ru": "Второй набор декора для Убежища",
+    "en": "Second set of decor for the Hideout"
+  },
+  "apiId": "5l55o",
+  "apiIdStatus": "inferred"
+}

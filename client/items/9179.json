@@ -1,0 +1,11 @@
+{
+  "clientId": 9179,
+  "key": "item.exp.explosive_pack_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Взрывпакет",
+    "en": "Explosive Parcel"
+  },
+  "apiId": "4pdn",
+  "apiIdStatus": "inferred"
+}

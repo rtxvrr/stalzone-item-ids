@@ -1,0 +1,11 @@
+{
+  "clientId": 10505,
+  "key": "item.device.spsh",
+  "kind": "item",
+  "name": {
+    "ru": "СПШ-44",
+    "en": "SPSh-44"
+  },
+  "apiId": "yd0w",
+  "apiIdStatus": "inferred"
+}

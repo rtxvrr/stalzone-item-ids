@@ -1,0 +1,11 @@
+{
+  "clientId": 30012,
+  "key": "item.filler.valuable_13",
+  "kind": "item",
+  "name": {
+    "ru": "Отчеты экспедиций",
+    "en": "Expedition Reports"
+  },
+  "apiId": "rjvjz",
+  "apiIdStatus": "inferred"
+}

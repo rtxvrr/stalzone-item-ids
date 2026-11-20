@@ -1,0 +1,11 @@
+{
+  "clientId": 8123,
+  "key": "item.quest.operation2025_song1",
+  "kind": "item",
+  "name": {
+    "ru": "Праздник мертвых",
+    "en": "Feast of the Dead"
+  },
+  "apiId": "6vo6",
+  "apiIdStatus": "inferred"
+}

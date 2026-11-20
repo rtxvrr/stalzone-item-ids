@@ -1,0 +1,11 @@
+{
+  "clientId": 16130,
+  "key": "item.misc.blizzard.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Замерзший срачник",
+    "en": "Frozen Crappite"
+  },
+  "apiId": "wjln3",
+  "apiIdStatus": "inferred"
+}

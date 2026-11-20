@@ -1,0 +1,11 @@
+{
+  "clientId": 16048,
+  "key": "item.16048",
+  "kind": "item",
+  "name": {
+    "ru": "Неизвестное устройство",
+    "en": "Unknown Device"
+  },
+  "apiId": "963yl",
+  "apiIdStatus": "inferred"
+}

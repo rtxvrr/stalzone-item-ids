@@ -1,0 +1,11 @@
+{
+  "clientId": 25474,
+  "key": "item.arm.seva_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "«Уран» ящеров",
+    "en": "Lizards' Uranus"
+  },
+  "apiId": "g4390",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10148,
+  "key": "item.quest.audio_diary_dmz_pegas",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета военного с Борали 2",
+    "en": "Military Cassette from Boral 2"
+  },
+  "apiId": "9jvy",
+  "apiIdStatus": "inferred"
+}

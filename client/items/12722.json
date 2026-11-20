@@ -1,0 +1,11 @@
+{
+  "clientId": 12722,
+  "key": "item.amm.556inc",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм зажигательный",
+    "en": "5.56 mm Incendiary Round"
+  },
+  "apiId": "7977",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19386,
+  "key": "item.camo.arm.winter25_twitch_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ядерная пустошь»",
+    "en": "Nuclear Wasteland Paint"
+  },
+  "apiId": "m0zg7",
+  "apiIdStatus": "inferred"
+}

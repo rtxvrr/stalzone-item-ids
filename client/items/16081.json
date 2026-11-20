@@ -1,0 +1,11 @@
+{
+  "clientId": 16081,
+  "key": "item.16081",
+  "kind": "item",
+  "name": {
+    "ru": "Реле",
+    "en": "Relay"
+  },
+  "apiId": "qjymj",
+  "apiIdStatus": "inferred"
+}

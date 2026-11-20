@@ -1,0 +1,11 @@
+{
+  "clientId": 11570,
+  "key": "item.art.lesta_jele",
+  "kind": "item",
+  "name": {
+    "ru": "Желе",
+    "en": "Jelly"
+  },
+  "apiId": "7z77",
+  "apiIdStatus": "inferred"
+}

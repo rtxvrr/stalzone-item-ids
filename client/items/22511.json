@@ -1,0 +1,11 @@
+{
+  "clientId": 22511,
+  "key": "item.att.barrel_alientech556",
+  "kind": "item",
+  "name": {
+    "ru": "AlienTech 5.56",
+    "en": "AlienTech 5.56"
+  },
+  "apiId": "ly1yq",
+  "apiIdStatus": "inferred"
+}

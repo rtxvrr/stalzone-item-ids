@@ -1,0 +1,11 @@
+{
+  "clientId": 12339,
+  "key": "item.exp.zarya",
+  "kind": "item",
+  "name": {
+    "ru": "СЗГ «Заря-3»",
+    "en": "Zarya-3 Flashbang Grenade"
+  },
+  "apiId": "odv4",
+  "apiIdStatus": "inferred"
+}

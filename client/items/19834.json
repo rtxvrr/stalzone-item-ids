@@ -1,0 +1,11 @@
+{
+  "clientId": 19834,
+  "key": "item.camo.unique_wpn.deagle_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Eagle»",
+    "en": "«Twitch Eagle» Paint"
+  },
+  "apiId": "j5lll",
+  "apiIdStatus": "inferred"
+}

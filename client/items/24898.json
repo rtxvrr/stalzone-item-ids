@@ -1,0 +1,11 @@
+{
+  "clientId": 24898,
+  "key": "item.charm.quest_mushroom_3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Атомный рыжик»",
+    "en": "Atomic Saffron Milk Cap Charm"
+  },
+  "apiId": "g4y90",
+  "apiIdStatus": "inferred"
+}

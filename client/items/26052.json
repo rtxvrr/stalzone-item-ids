@@ -1,0 +1,11 @@
+{
+  "clientId": 26052,
+  "key": "item.med.inside_lech_reaction",
+  "kind": "item",
+  "name": {
+    "ru": "Реакция Изнанки",
+    "en": "Inside Out Reaction"
+  },
+  "apiId": "5lz6g",
+  "apiIdStatus": "inferred"
+}

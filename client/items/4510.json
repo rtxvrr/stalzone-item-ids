@@ -1,0 +1,11 @@
+{
+  "clientId": 4510,
+  "key": "item.plc.pattern.spring25",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Назад в Изнанку»",
+    "en": "Back to the Inside Out Season Pattern"
+  },
+  "apiId": "jwk4",
+  "apiIdStatus": "inferred"
+}

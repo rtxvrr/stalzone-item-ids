@@ -1,0 +1,11 @@
+{
+  "clientId": 15043,
+  "key": "item.lootbox.encaged_2",
+  "kind": "item",
+  "name": {
+    "ru": "Сундук Погонщика",
+    "en": "Herdsman's Chest"
+  },
+  "apiId": "dmrrg",
+  "apiIdStatus": "inferred"
+}

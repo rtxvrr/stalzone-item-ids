@@ -1,0 +1,11 @@
+{
+  "clientId": 22110,
+  "key": "item.att.handgrip_fmade",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоять переноса огня FMA DARK EARTH",
+    "en": "FMA DARK EARTH Fire Transfer Grip"
+  },
+  "apiId": "j569g",
+  "apiIdStatus": "inferred"
+}

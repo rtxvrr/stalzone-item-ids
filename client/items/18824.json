@@ -1,0 +1,11 @@
+{
+  "clientId": 18824,
+  "key": "item.dmz2026.calldown_token.helic5",
+  "kind": "item",
+  "name": {
+    "ru": "«Вертолетные C-5»",
+    "en": "Helicopter S-5"
+  },
+  "apiId": "960l0",
+  "apiIdStatus": "inferred"
+}

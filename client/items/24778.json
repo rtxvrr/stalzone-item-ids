@@ -1,0 +1,11 @@
+{
+  "clientId": 24778,
+  "key": "item.charm.winter26_pass_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кровь на снегу»",
+    "en": "Blood on the Snow Charm"
+  },
+  "apiId": "wjgno",
+  "apiIdStatus": "inferred"
+}

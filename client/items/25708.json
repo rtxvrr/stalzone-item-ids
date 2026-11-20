@@ -1,0 +1,11 @@
+{
+  "clientId": 25708,
+  "key": "item.skin.blizzard4",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Посвященный»",
+    "en": "Initiate Skin"
+  },
+  "apiId": "kn39p",
+  "apiIdStatus": "inferred"
+}

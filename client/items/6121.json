@@ -1,0 +1,11 @@
+{
+  "clientId": 6121,
+  "key": "item.misc.fish_rotten",
+  "kind": "item",
+  "name": {
+    "ru": "Полутухлая рыба",
+    "en": "Half-rotten Fish"
+  },
+  "apiId": "3rpg",
+  "apiIdStatus": "inferred"
+}

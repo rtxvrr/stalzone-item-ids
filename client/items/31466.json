@@ -1,0 +1,11 @@
+{
+  "clientId": 31466,
+  "key": "item.case.summer24_exclusive_armory",
+  "kind": "item",
+  "name": {
+    "ru": "Элитный кейс «Корпорации ZIVCAS»",
+    "en": "Elite ZIVCAS Corporation Case"
+  },
+  "apiId": "vngln",
+  "apiIdStatus": "inferred"
+}

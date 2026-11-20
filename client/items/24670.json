@@ -1,0 +1,11 @@
+{
+  "clientId": 24670,
+  "key": "item.charm.welcome_shimoroshow",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «SHIMOROSHOW»",
+    "en": "SHIMOROSHOW Channel Fan Charm"
+  },
+  "apiId": "7ljm9",
+  "apiIdStatus": "inferred"
+}

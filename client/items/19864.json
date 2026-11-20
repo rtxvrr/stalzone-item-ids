@@ -1,0 +1,11 @@
+{
+  "clientId": 19864,
+  "key": "item.motif.wpn.kriss_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Блаженная жатва»",
+    "en": "Blessed Harvest"
+  },
+  "apiId": "n4pm9",
+  "apiIdStatus": "inferred"
+}

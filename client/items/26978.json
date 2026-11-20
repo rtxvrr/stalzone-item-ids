@@ -1,0 +1,11 @@
+{
+  "clientId": 26978,
+  "key": "item.crt.money_1000",
+  "kind": "item",
+  "name": {
+    "ru": "Тысяча рублей",
+    "en": "1,000 rubles"
+  },
+  "apiId": "wj243",
+  "apiIdStatus": "inferred"
+}

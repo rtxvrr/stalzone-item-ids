@@ -1,0 +1,11 @@
+{
+  "clientId": 24750,
+  "key": "item.charm.autumn25_pass_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Амулет Свидетеля»",
+    "en": "Witness Amulet Charm"
+  },
+  "apiId": "g467p",
+  "apiIdStatus": "inferred"
+}

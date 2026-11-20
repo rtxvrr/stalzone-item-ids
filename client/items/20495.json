@@ -1,0 +1,11 @@
+{
+  "clientId": 20495,
+  "key": "item.wpn.fmg9",
+  "kind": "item",
+  "name": {
+    "ru": "Magpul FMG-9",
+    "en": "Magpul FMG-9"
+  },
+  "apiId": "6w61n",
+  "apiIdStatus": "inferred"
+}

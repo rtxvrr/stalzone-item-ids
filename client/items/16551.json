@@ -1,0 +1,11 @@
+{
+  "clientId": 16551,
+  "key": "item.bag.apt_i",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка с индивидуальными аптечками",
+    "en": "Bag of Personal First-Aid Kits"
+  },
+  "apiId": "zzw49",
+  "apiIdStatus": "inferred"
+}

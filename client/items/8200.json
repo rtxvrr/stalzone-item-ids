@@ -1,0 +1,11 @@
+{
+  "clientId": 8200,
+  "key": "item.quest.point_of_no_return_black_box",
+  "kind": "item",
+  "name": {
+    "ru": "Черный ящик",
+    "en": "Black Box"
+  },
+  "apiId": "9vkl",
+  "apiIdStatus": "inferred"
+}

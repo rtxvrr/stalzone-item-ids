@@ -1,0 +1,11 @@
+{
+  "clientId": 16754,
+  "key": "item.gachapon.blizzard_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Аномального Бурана»",
+    "en": "Case with Anomalous Blizzard Styles"
+  },
+  "apiId": "wj033",
+  "apiIdStatus": "inferred"
+}

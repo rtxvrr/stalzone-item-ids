@@ -1,0 +1,11 @@
+{
+  "clientId": 19415,
+  "key": "item.camo.arm.bf_skin_18",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Синие нити»",
+    "en": "Blue threads Paint"
+  },
+  "apiId": "oky1o",
+  "apiIdStatus": "inferred"
+}

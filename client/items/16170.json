@@ -1,0 +1,11 @@
+{
+  "clientId": 16170,
+  "key": "item.16170",
+  "kind": "item",
+  "name": {
+    "ru": "Модуль ретранслятора",
+    "en": "Relay Station Module"
+  },
+  "apiId": "7l1lj",
+  "apiIdStatus": "inferred"
+}

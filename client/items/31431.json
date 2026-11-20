@@ -1,0 +1,11 @@
+{
+  "clientId": 31431,
+  "key": "item.lootbox.faction_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик «Рубежа»",
+    "en": "Frontier Crate"
+  },
+  "apiId": "4k36p",
+  "apiIdStatus": "inferred"
+}

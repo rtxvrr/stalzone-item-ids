@@ -1,0 +1,11 @@
+{
+  "clientId": 8049,
+  "key": "item.quest.brain_infrared",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенный излучением мозг пси-гончей",
+    "en": "A mind of a psy-hound cleaned by irradiation"
+  },
+  "apiId": "1qw6",
+  "apiIdStatus": "inferred"
+}

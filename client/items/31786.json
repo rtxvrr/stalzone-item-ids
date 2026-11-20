@@ -1,0 +1,11 @@
+{
+  "clientId": 31786,
+  "key": "item.part.rpl20_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть РПЛ-20 #2",
+    "en": "RPL-20 Part #2"
+  },
+  "apiId": "mrnq2",
+  "apiIdStatus": "inferred"
+}

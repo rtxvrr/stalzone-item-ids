@@ -1,0 +1,11 @@
+{
+  "clientId": 20305,
+  "key": "item.wpn.obreztoz34",
+  "kind": "item",
+  "name": {
+    "ru": "Обрез ТОЗ-34",
+    "en": "TOZ-34 Sawed-Off"
+  },
+  "apiId": "y32y3",
+  "apiIdStatus": "inferred"
+}

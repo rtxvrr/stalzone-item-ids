@@ -1,0 +1,11 @@
+{
+  "clientId": 8149,
+  "key": "item.quest.pda_weightless_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Невесомый ПДА бойца РХБЗ",
+    "en": "Weightless NBCP Soldier's PDA"
+  },
+  "apiId": "1voq",
+  "apiIdStatus": "inferred"
+}

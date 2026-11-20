@@ -1,0 +1,11 @@
+{
+  "clientId": 20062,
+  "key": "item.wpn.val-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АС «Вал»",
+    "en": "Worn AS Val"
+  },
+  "apiId": "m026j",
+  "apiIdStatus": "inferred"
+}

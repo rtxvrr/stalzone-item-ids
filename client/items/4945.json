@@ -1,0 +1,11 @@
+{
+  "clientId": 4945,
+  "key": "item.plc.sticker.coldline_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Мнение»",
+    "en": "Opinion Sticker"
+  },
+  "apiId": "3m7g",
+  "apiIdStatus": "inferred"
+}

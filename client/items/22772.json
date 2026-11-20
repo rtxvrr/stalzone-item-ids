@@ -1,0 +1,11 @@
+{
+  "clientId": 22772,
+  "key": "item.att.mag_ak30830",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин АК-308",
+    "en": "AK-308 Extended Magazine"
+  },
+  "apiId": "96pwy",
+  "apiIdStatus": "inferred"
+}

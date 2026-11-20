@@ -1,0 +1,11 @@
+{
+  "clientId": 19530,
+  "key": "item.camo.unique_arm.runemaster",
+  "kind": "item",
+  "name": {
+    "ru": "«Магистр рун»",
+    "en": "Rune Master"
+  },
+  "apiId": "wjmwd",
+  "apiIdStatus": "inferred"
+}

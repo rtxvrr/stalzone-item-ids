@@ -1,0 +1,11 @@
+{
+  "clientId": 28707,
+  "key": "item.misc.reich_coin",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой жетон",
+    "en": "Battle Token"
+  },
+  "apiId": "4kq9o",
+  "apiIdStatus": "inferred"
+}

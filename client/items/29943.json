@@ -1,0 +1,11 @@
+{
+  "clientId": 29943,
+  "key": "item.filler.socket",
+  "kind": "item",
+  "name": {
+    "ru": "Тройник",
+    "en": "Three-Way Electrical Splitter"
+  },
+  "apiId": "dr5n2",
+  "apiIdStatus": "inferred"
+}

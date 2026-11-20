@@ -1,0 +1,11 @@
+{
+  "clientId": 4230,
+  "key": "item.plc.background.operations_drone",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Море отчуждения»",
+    "en": "Sea of Exclusion Background"
+  },
+  "apiId": "wyvz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25194,
+  "key": "item.arm.albatros_heavy_pp",
+  "kind": "item",
+  "name": {
+    "ru": "«Штурмовик» Первопроходцев",
+    "en": "Trailblazers Assault Trooper "
+  },
+  "apiId": "7lmkj",
+  "apiIdStatus": "inferred"
+}

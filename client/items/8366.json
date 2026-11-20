@@ -1,0 +1,11 @@
+{
+  "clientId": 8366,
+  "key": "item.quest.zov_vlasov",
+  "kind": "item",
+  "name": {
+    "ru": "Записная книжка Власова",
+    "en": "Vlasov's Notebook"
+  },
+  "apiId": "vp4p",
+  "apiIdStatus": "inferred"
+}

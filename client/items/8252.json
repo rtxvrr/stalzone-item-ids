@@ -1,0 +1,11 @@
+{
+  "clientId": 8252,
+  "key": "item.quest.mushroom_epic_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Дедов суп",
+    "en": "Granddad's Soup"
+  },
+  "apiId": "5vj1",
+  "apiIdStatus": "inferred"
+}

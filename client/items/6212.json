@@ -1,0 +1,11 @@
+{
+  "clientId": 6212,
+  "key": "item.misc.copper",
+  "kind": "item",
+  "name": {
+    "ru": "Медь",
+    "en": "Copper"
+  },
+  "apiId": "rr7g",
+  "apiIdStatus": "inferred"
+}

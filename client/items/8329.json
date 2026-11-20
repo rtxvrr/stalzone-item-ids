@@ -1,0 +1,11 @@
+{
+  "clientId": 8329,
+  "key": "item.quest.ritual_trebnika",
+  "kind": "item",
+  "name": {
+    "ru": "Ритуал Требника",
+    "en": "Trebnik’s Ritual"
+  },
+  "apiId": "yp23",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11417,
+  "key": "item.art.ravent_helmet",
+  "kind": "item",
+  "name": {
+    "ru": "Шлем Черномора",
+    "en": "Chernomor's helmet"
+  },
+  "apiId": "pmmd",
+  "apiIdStatus": "inferred"
+}

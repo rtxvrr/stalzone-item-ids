@@ -1,0 +1,11 @@
+{
+  "clientId": 23303,
+  "key": "item.bolt_gem.orange_red",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Оранжево-красная",
+    "en": "Chromatic Particle: Orange-Red"
+  },
+  "apiId": "zzr7m",
+  "apiIdStatus": "inferred"
+}

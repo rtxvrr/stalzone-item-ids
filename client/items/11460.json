@@ -1,0 +1,11 @@
+{
+  "clientId": 11460,
+  "key": "item.art.blizzard_opal",
+  "kind": "item",
+  "name": {
+    "ru": "Опал",
+    "en": "Opal"
+  },
+  "apiId": "rn1z",
+  "apiIdStatus": "inferred"
+}

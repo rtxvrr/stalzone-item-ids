@@ -1,0 +1,11 @@
+{
+  "clientId": 24766,
+  "key": "item.charm.mobile_camp",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мобильный лагерь»",
+    "en": "Mobile Camp Charm"
+  },
+  "apiId": "vj7wd",
+  "apiIdStatus": "inferred"
+}

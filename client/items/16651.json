@@ -1,0 +1,11 @@
+{
+  "clientId": 16651,
+  "key": "item.16651",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер с артефактом",
+    "en": "Container with an Artifact"
+  },
+  "apiId": "zzwqy",
+  "apiIdStatus": "inferred"
+}

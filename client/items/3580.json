@@ -1,0 +1,11 @@
+{
+  "clientId": 3580,
+  "key": "tile.3580",
+  "kind": "tile",
+  "name": {
+    "ru": "Бревна 2х2",
+    "en": "2x2 Logs"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

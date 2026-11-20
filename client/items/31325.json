@@ -1,0 +1,11 @@
+{
+  "clientId": 31325,
+  "key": "item.ny_toys.setD.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленый диско-шарик",
+    "en": "Green Disco Ball"
+  },
+  "apiId": "19461",
+  "apiIdStatus": "inferred"
+}

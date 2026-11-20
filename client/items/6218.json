@@ -1,0 +1,11 @@
+{
+  "clientId": 6218,
+  "key": "item.misc.blood_plasma",
+  "kind": "item",
+  "name": {
+    "ru": "Плазма крови",
+    "en": "Blood Plasma"
+  },
+  "apiId": "vr1n",
+  "apiIdStatus": "inferred"
+}

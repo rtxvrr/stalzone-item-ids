@@ -1,0 +1,11 @@
+{
+  "clientId": 12130,
+  "key": "item.bag.mbss",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак MBSS",
+    "en": "MBSS Backpack"
+  },
+  "apiId": "wwjo",
+  "apiIdStatus": "inferred"
+}

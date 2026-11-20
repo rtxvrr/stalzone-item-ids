@@ -1,0 +1,11 @@
+{
+  "clientId": 20864,
+  "key": "item.wpn.aug3_a",
+  "kind": "item",
+  "name": {
+    "ru": "AUG A3 (А)",
+    "en": "AUG A3 (A)"
+  },
+  "apiId": "n42g1",
+  "apiIdStatus": "inferred"
+}

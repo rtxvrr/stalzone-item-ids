@@ -1,0 +1,11 @@
+{
+  "clientId": 16481,
+  "key": "item.quest.won_envelope",
+  "kind": "item",
+  "name": {
+    "ru": "Конверт с вонами",
+    "en": "Envelope Full of Won"
+  },
+  "apiId": "qjqr6",
+  "apiIdStatus": "inferred"
+}

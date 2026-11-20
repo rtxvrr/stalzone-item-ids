@@ -1,0 +1,11 @@
+{
+  "clientId": 30000,
+  "key": "item.filler.valuable_1",
+  "kind": "item",
+  "name": {
+    "ru": "Фармпрепарат",
+    "en": "Pharmaceutical Drug"
+  },
+  "apiId": "9dzdq",
+  "apiIdStatus": "inferred"
+}

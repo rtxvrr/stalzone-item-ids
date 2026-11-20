@@ -1,0 +1,11 @@
+{
+  "clientId": 20571,
+  "key": "item.wpn.grizzly",
+  "kind": "item",
+  "name": {
+    "ru": "Grizzly 8.5",
+    "en": "Grizzly 8.5"
+  },
+  "apiId": "6w64y",
+  "apiIdStatus": "inferred"
+}

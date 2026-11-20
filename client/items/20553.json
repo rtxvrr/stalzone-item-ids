@@ -1,0 +1,11 @@
+{
+  "clientId": 20553,
+  "key": "item.wpn.scarl",
+  "kind": "item",
+  "name": {
+    "ru": "FN SCAR-L",
+    "en": "FN SCAR-L"
+  },
+  "apiId": "y32lo",
+  "apiIdStatus": "inferred"
+}

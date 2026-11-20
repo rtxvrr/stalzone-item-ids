@@ -1,0 +1,11 @@
+{
+  "clientId": 22793,
+  "key": "item.att.mag_vss20_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний эргономичный магазин для ВСС/Вал",
+    "en": "New Year's Ergonomic Magazine for VSS/Val"
+  },
+  "apiId": "3gpl5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6802,
+  "key": "item.misc.zeroing_essence",
+  "kind": "item",
+  "name": {
+    "ru": "Очищающий реагент",
+    "en": "Cleaning Reagent"
+  },
+  "apiId": "gmy0",
+  "apiIdStatus": "inferred"
+}

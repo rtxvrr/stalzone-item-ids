@@ -1,0 +1,11 @@
+{
+  "clientId": 4904,
+  "key": "item.plc.sticker.arcade_75",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер 75 ур. сессионных боев",
+    "en": "Level 75 Session Battles Sticker"
+  },
+  "apiId": "50g0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8163,
+  "key": "item.quest.apocalypse_not_today_armor",
+  "kind": "item",
+  "name": {
+    "ru": "Броня Азата",
+    "en": "Azat's Armor"
+  },
+  "apiId": "ojp4",
+  "apiIdStatus": "inferred"
+}

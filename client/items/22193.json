@@ -1,0 +1,11 @@
+{
+  "clientId": 22193,
+  "key": "item.att.handgrip_main",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка из рукояти АК",
+    "en": "Tactical Grip Made from AK Grip"
+  },
+  "apiId": "3g795",
+  "apiIdStatus": "inferred"
+}

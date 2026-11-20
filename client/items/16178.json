@@ -1,0 +1,11 @@
+{
+  "clientId": 16178,
+  "key": "item.16178",
+  "kind": "item",
+  "name": {
+    "ru": "Кокон",
+    "en": "Cocoon"
+  },
+  "apiId": "wjl33",
+  "apiIdStatus": "inferred"
+}

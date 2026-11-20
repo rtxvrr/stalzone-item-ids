@@ -1,0 +1,11 @@
+{
+  "clientId": 19748,
+  "key": "item.camo.arm.zakatoon",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «ZAKATOON»",
+    "en": "«ZAKATOON» Paint"
+  },
+  "apiId": "96m1y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19689,
+  "key": "item.camo.arm.combustion",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Горение»",
+    "en": "Burning Camouflage"
+  },
+  "apiId": "p6rqw",
+  "apiIdStatus": "inferred"
+}

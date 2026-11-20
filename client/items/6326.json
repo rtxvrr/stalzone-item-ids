@@ -1,0 +1,11 @@
+{
+  "clientId": 6326,
+  "key": "item.misc.tirage_liqueur",
+  "kind": "item",
+  "name": {
+    "ru": "Тиражный ликер",
+    "en": "Tirage Liqueur"
+  },
+  "apiId": "g07g",
+  "apiIdStatus": "inferred"
+}

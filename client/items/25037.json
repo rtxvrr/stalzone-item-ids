@@ -1,0 +1,11 @@
+{
+  "clientId": 25037,
+  "key": "item.arm.bover",
+  "kind": "item",
+  "name": {
+    "ru": "Бандитский костюм",
+    "en": "Bandit Suit"
+  },
+  "apiId": "0r429",
+  "apiIdStatus": "inferred"
+}

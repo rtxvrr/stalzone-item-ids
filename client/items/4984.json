@@ -1,0 +1,11 @@
+{
+  "clientId": 4984,
+  "key": "item.plc.sticker.nea_turtle",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Черепаха»",
+    "en": "Turtle Sticker"
+  },
+  "apiId": "ry45",
+  "apiIdStatus": "inferred"
+}

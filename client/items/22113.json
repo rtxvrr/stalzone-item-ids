@@ -1,0 +1,11 @@
+{
+  "clientId": 22113,
+  "key": "item.att.handgrip_viking",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка Viking Tactics UVG",
+    "en": "Viking Tactics UVG Tactical Grip"
+  },
+  "apiId": "0rvyy",
+  "apiIdStatus": "inferred"
+}

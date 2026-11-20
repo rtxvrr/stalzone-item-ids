@@ -1,0 +1,11 @@
+{
+  "clientId": 25179,
+  "key": "item.arm.smog_jelt",
+  "kind": "item",
+  "name": {
+    "ru": "«Туманка» Желтухи",
+    "en": "Jaundice's Mist Hunter"
+  },
+  "apiId": "4qlyo",
+  "apiIdStatus": "inferred"
+}

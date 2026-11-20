@@ -1,0 +1,11 @@
+{
+  "clientId": 31125,
+  "key": "item.brt.limansk.boss",
+  "kind": "item",
+  "name": {
+    "ru": "Лимбоплазма",
+    "en": "Limboplasma"
+  },
+  "apiId": "19402",
+  "apiIdStatus": "inferred"
+}

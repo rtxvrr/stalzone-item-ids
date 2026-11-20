@@ -1,0 +1,11 @@
+{
+  "clientId": 9160,
+  "key": "item.wpn.mosin_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Винтовка Мосина с прицелом",
+    "en": "Mosin's Rifle with a scope"
+  },
+  "apiId": "r415",
+  "apiIdStatus": "inferred"
+}

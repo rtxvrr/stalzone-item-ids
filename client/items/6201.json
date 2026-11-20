@@ -1,0 +1,11 @@
+{
+  "clientId": 6201,
+  "key": "item.misc.chips",
+  "kind": "item",
+  "name": {
+    "ru": "Щепки",
+    "en": "Splinters"
+  },
+  "apiId": "1d56",
+  "apiIdStatus": "inferred"
+}

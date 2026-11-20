@@ -1,0 +1,11 @@
+{
+  "clientId": 4520,
+  "key": "item.plc.pattern.shaman",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Шамана",
+    "en": "Shaman Pattern"
+  },
+  "apiId": "2wvm",
+  "apiIdStatus": "inferred"
+}

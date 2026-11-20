@@ -1,0 +1,11 @@
+{
+  "clientId": 17006,
+  "key": "item.att.launcher_fn2k",
+  "kind": "item",
+  "name": {
+    "ru": "Гранатомет FN F2000",
+    "en": "FN F2000 Grenade Launcher"
+  },
+  "apiId": "wj06p",
+  "apiIdStatus": "inferred"
+}

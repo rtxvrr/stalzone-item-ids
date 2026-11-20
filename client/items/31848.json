@@ -1,0 +1,11 @@
+{
+  "clientId": 31848,
+  "key": "item.blueprint.wpn.ravent_ak103",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж АК-103",
+    "en": "AK-103 Blueprint"
+  },
+  "apiId": "9dooq",
+  "apiIdStatus": "inferred"
+}

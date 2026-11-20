@@ -1,0 +1,11 @@
+{
+  "clientId": 26651,
+  "key": "item.food.bean_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Фасолевый суп",
+    "en": "Bean Soup"
+  },
+  "apiId": "zz1o2",
+  "apiIdStatus": "inferred"
+}

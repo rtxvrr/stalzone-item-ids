@@ -1,0 +1,11 @@
+{
+  "clientId": 24344,
+  "key": "item.charm.kristalik1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ледяные кристаллы»",
+    "en": "Ice Crystals Charm"
+  },
+  "apiId": "2oy3m",
+  "apiIdStatus": "inferred"
+}

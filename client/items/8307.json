@@ -1,0 +1,11 @@
+{
+  "clientId": 8307,
+  "key": "item.quest.the_shock_wave_hells_bird_cherry",
+  "kind": "item",
+  "name": {
+    "ru": "Адова Черемуха",
+    "en": "Hellcherry"
+  },
+  "apiId": "4v0o",
+  "apiIdStatus": "inferred"
+}

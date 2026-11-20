@@ -1,0 +1,11 @@
+{
+  "clientId": 19712,
+  "key": "item.camo.arm.structure",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Структура»",
+    "en": "Structure Paint"
+  },
+  "apiId": "rwr6y",
+  "apiIdStatus": "inferred"
+}

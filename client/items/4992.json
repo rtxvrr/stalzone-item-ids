@@ -1,0 +1,11 @@
+{
+  "clientId": 4992,
+  "key": "item.plc.sticker.prestige_skill_issue",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Тренируйся»",
+    "en": "Train Hard Sticker"
+  },
+  "apiId": "2m56",
+  "apiIdStatus": "inferred"
+}

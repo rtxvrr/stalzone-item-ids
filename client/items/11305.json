@@ -1,0 +1,11 @@
+{
+  "clientId": 11305,
+  "key": "item.art.voronka_kriogen",
+  "kind": "item",
+  "name": {
+    "ru": "Криоген",
+    "en": "Cryogen"
+  },
+  "apiId": "y5m3",
+  "apiIdStatus": "inferred"
+}

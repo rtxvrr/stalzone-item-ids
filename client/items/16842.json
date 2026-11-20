@@ -1,0 +1,11 @@
+{
+  "clientId": 16842,
+  "key": "item.quest.big_configurator_ny24",
+  "kind": "item",
+  "name": {
+    "ru": "Большой Конфигуратор полей Ноосферы",
+    "en": "Large Noosphere Field Configurator"
+  },
+  "apiId": "vj007",
+  "apiIdStatus": "inferred"
+}

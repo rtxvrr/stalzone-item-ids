@@ -1,0 +1,11 @@
+{
+  "clientId": 25688,
+  "key": "item.skin.mist2",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Рубец»",
+    "en": "Scarred Skin"
+  },
+  "apiId": "n43q1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31767,
+  "key": "item.part.gauss",
+  "kind": "item",
+  "name": {
+    "ru": "Часть винтовки Гаусса",
+    "en": "Gauss Rifle Part"
+  },
+  "apiId": "dr952",
+  "apiIdStatus": "inferred"
+}

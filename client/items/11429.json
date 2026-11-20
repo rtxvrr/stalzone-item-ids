@@ -1,0 +1,11 @@
+{
+  "clientId": 11429,
+  "key": "item.ravent_tverdo",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Твердо»",
+    "en": "Tvrido Amulet"
+  },
+  "apiId": "y5q0",
+  "apiIdStatus": "inferred"
+}

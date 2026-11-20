@@ -1,0 +1,11 @@
+{
+  "clientId": 19532,
+  "key": "item.camo.unique_arm.forsworn",
+  "kind": "item",
+  "name": {
+    "ru": "«Отрекшийся»",
+    "en": "Forsaken"
+  },
+  "apiId": "kn1o3",
+  "apiIdStatus": "inferred"
+}

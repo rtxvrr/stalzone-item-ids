@@ -1,0 +1,11 @@
+{
+  "clientId": 31126,
+  "key": "item.brt.limansk.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Темный Лимб",
+    "en": "Dark Limbo"
+  },
+  "apiId": "gnpr5",
+  "apiIdStatus": "inferred"
+}

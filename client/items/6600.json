@@ -1,0 +1,11 @@
+{
+  "clientId": 6600,
+  "key": "item.misc.plate_carrier",
+  "kind": "item",
+  "name": {
+    "ru": "Плитоноска",
+    "en": "Plate Carrier"
+  },
+  "apiId": "999q",
+  "apiIdStatus": "inferred"
+}

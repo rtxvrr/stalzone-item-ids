@@ -1,0 +1,11 @@
+{
+  "clientId": 24651,
+  "key": "item.charm.nina_unknown",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Неизвестная»",
+    "en": "Unknown Charm"
+  },
+  "apiId": "zzdyk",
+  "apiIdStatus": "inferred"
+}

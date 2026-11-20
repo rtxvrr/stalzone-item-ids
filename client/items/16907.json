@@ -1,0 +1,11 @@
+{
+  "clientId": 16907,
+  "key": "item.quest.covenant.donation",
+  "kind": "item",
+  "name": {
+    "ru": "Пожертвование отца Симона",
+    "en": "Donation from Father Simon"
+  },
+  "apiId": "4q5mn",
+  "apiIdStatus": "inferred"
+}

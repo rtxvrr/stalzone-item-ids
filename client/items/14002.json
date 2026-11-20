@@ -1,0 +1,11 @@
+{
+  "clientId": 14002,
+  "key": "item.exp.homemade_flashbang",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный светошум",
+    "en": "Handmade Flashbang Grenade"
+  },
+  "apiId": "g4rz0",
+  "apiIdStatus": "inferred"
+}

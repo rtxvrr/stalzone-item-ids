@@ -1,0 +1,11 @@
+{
+  "clientId": 22596,
+  "key": "item.att.silencer_ash12_mc558_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний глушитель АШ-12/МЦ-558",
+    "en": "New Year's ASh-12/MTs-558 Silencer"
+  },
+  "apiId": "96pkw",
+  "apiIdStatus": "inferred"
+}

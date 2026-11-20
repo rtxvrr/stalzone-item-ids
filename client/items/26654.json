@@ -1,0 +1,11 @@
+{
+  "clientId": 26654,
+  "key": "item.food.garlic_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Чесночный суп",
+    "en": "Garlic Soup"
+  },
+  "apiId": "wj2zp",
+  "apiIdStatus": "inferred"
+}

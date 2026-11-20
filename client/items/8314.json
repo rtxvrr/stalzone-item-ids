@@ -1,0 +1,11 @@
+{
+  "clientId": 8314,
+  "key": "item.quest.the_shock_wave_radio_crate",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с радиостанцией",
+    "en": "Crate With a Radio Station"
+  },
+  "apiId": "mk22",
+  "apiIdStatus": "inferred"
+}

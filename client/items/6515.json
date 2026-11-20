@@ -1,0 +1,11 @@
+{
+  "clientId": 6515,
+  "key": "item.misc.measuring_equipment",
+  "kind": "item",
+  "name": {
+    "ru": "Измерительное оборудование",
+    "en": "Measuring Equipment"
+  },
+  "apiId": "om6m",
+  "apiIdStatus": "inferred"
+}

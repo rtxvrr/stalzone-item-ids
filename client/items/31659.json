@@ -1,0 +1,11 @@
+{
+  "clientId": 31659,
+  "key": "item.blueprint.arm.skat9m",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Скиф-4»",
+    "en": "Scythian-4 Armored Suit Blueprint"
+  },
+  "apiId": "l05qk",
+  "apiIdStatus": "inferred"
+}

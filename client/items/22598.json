@@ -1,0 +1,11 @@
+{
+  "clientId": 22598,
+  "key": "item.att.silencer_atg_f",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель АТГ, зимний",
+    "en": "ATG Silencer, Winter"
+  },
+  "apiId": "g429g",
+  "apiIdStatus": "inferred"
+}

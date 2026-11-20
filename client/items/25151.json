@@ -1,0 +1,11 @@
+{
+  "clientId": 25151,
+  "key": "item.arm.abo",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет «Абориген»",
+    "en": "Aborigine Exoskeleton"
+  },
+  "apiId": "zzy9m",
+  "apiIdStatus": "inferred"
+}

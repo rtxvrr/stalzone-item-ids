@@ -1,0 +1,11 @@
+{
+  "clientId": 16435,
+  "key": "item.16435",
+  "kind": "item",
+  "name": {
+    "ru": "Темпоральный сканер",
+    "en": "Temporal Scanner"
+  },
+  "apiId": "lyrvj",
+  "apiIdStatus": "inferred"
+}

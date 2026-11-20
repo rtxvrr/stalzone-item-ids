@@ -1,0 +1,11 @@
+{
+  "clientId": 16542,
+  "key": "item.bag.556bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка бронебойных 5.56 мм",
+    "en": "Pouch of 5.56 mm Armor-Piercing Rounds"
+  },
+  "apiId": "vj3zg",
+  "apiIdStatus": "inferred"
+}

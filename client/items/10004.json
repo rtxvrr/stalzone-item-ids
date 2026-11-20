@@ -1,0 +1,11 @@
+{
+  "clientId": 10004,
+  "key": "item.device.dud_buryat_broken",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанный «Бурят»",
+    "en": "Broken Buryat"
+  },
+  "apiId": "5w01",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4511,
+  "key": "item.plc.pattern.summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Шепот над Зоной»",
+    "en": "Murmur of the Zone Season Pattern"
+  },
+  "apiId": "lojq",
+  "apiIdStatus": "inferred"
+}

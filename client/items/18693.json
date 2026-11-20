@@ -1,0 +1,11 @@
+{
+  "clientId": 18693,
+  "key": "item.camo.wpn.spring",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Весна»",
+    "en": "Spring Camouflage"
+  },
+  "apiId": "3gmr1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21809,
+  "key": "item.wpn_mod.adv.shrapnel",
+  "kind": "item",
+  "name": {
+    "ru": "«Шрапнель»",
+    "en": "Shrapnel"
+  },
+  "apiId": "qjk16",
+  "apiIdStatus": "inferred"
+}

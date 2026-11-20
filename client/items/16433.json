@@ -1,0 +1,11 @@
+{
+  "clientId": 16433,
+  "key": "item.16433",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта лаборатории",
+    "en": "Laboratory Key Card"
+  },
+  "apiId": "qjqg6",
+  "apiIdStatus": "inferred"
+}

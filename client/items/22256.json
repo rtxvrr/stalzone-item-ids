@@ -1,0 +1,11 @@
+{
+  "clientId": 22256,
+  "key": "item.att.scope_svt",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический ПУ для СВТ",
+    "en": "PU Optical Sight for SVT"
+  },
+  "apiId": "knw9j",
+  "apiIdStatus": "inferred"
+}

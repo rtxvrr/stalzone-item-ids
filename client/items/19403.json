@@ -1,0 +1,11 @@
+{
+  "clientId": 19403,
+  "key": "item.camo.arm.bf_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Токсичная коррозия»",
+    "en": "Toxic corrosion Paint"
+  },
+  "apiId": "zz6r2",
+  "apiIdStatus": "inferred"
+}

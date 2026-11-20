@@ -1,0 +1,11 @@
+{
+  "clientId": 22252,
+  "key": "item.att.scope_1p77",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический 1П77",
+    "en": "1P77 Optical Sight"
+  },
+  "apiId": "5lvpo",
+  "apiIdStatus": "inferred"
+}

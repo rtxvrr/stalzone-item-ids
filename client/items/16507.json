@@ -1,0 +1,11 @@
+{
+  "clientId": 16507,
+  "key": "item.upg.tools_3",
+  "kind": "item",
+  "name": {
+    "ru": "Продвинутые инструменты",
+    "en": "Advanced Tools"
+  },
+  "apiId": "4q7pl",
+  "apiIdStatus": "inferred"
+}

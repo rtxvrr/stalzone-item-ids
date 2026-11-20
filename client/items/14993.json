@@ -1,0 +1,11 @@
+{
+  "clientId": 14993,
+  "key": "item.tool.chain",
+  "kind": "item",
+  "name": {
+    "ru": "Корабельная цепь",
+    "en": "Anchor Chain"
+  },
+  "apiId": "3g405",
+  "apiIdStatus": "inferred"
+}

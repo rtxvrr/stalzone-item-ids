@@ -1,0 +1,11 @@
+{
+  "clientId": 24578,
+  "key": "item.charm.meme_granatus",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Гранатус»",
+    "en": "Garnetus Charm"
+  },
+  "apiId": "wjdq3",
+  "apiIdStatus": "inferred"
+}

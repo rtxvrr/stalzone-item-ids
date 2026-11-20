@@ -1,0 +1,11 @@
+{
+  "clientId": 19757,
+  "key": "item.camo.arm.adaptation",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Адаптация»",
+    "en": "Adaptation Paint"
+  },
+  "apiId": "qjvp3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31757,
+  "key": "item.part.scarssr_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть FN SCAR SSR #3",
+    "en": "FN SCAR SSR Part #3"
+  },
+  "apiId": "q0py3",
+  "apiIdStatus": "inferred"
+}

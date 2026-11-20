@@ -1,0 +1,11 @@
+{
+  "clientId": 31068,
+  "key": "item.brt.mg.signal",
+  "kind": "item",
+  "name": {
+    "ru": "Маячок группы «Бета»",
+    "en": "Beta Group Tracker"
+  },
+  "apiId": "21gpl",
+  "apiIdStatus": "inferred"
+}

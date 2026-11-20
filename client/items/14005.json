@@ -1,0 +1,11 @@
+{
+  "clientId": 14005,
+  "key": "item.exp.m381_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный выстрел M381",
+    "en": "Handmade M381 Round"
+  },
+  "apiId": "y316z",
+  "apiIdStatus": "inferred"
+}

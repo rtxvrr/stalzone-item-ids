@@ -1,0 +1,11 @@
+{
+  "clientId": 10191,
+  "key": "item.quest.zivcas_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Зивкаса»: «Тайфун»",
+    "en": "ZIVCAS Cassette: Typhoon"
+  },
+  "apiId": "ddw2",
+  "apiIdStatus": "inferred"
+}

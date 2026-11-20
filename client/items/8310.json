@@ -1,0 +1,11 @@
+{
+  "clientId": 8310,
+  "key": "item.quest.the_shock_wave_contract_for_neutralizing_the_target",
+  "kind": "item",
+  "name": {
+    "ru": "Контракт на нейтрализацию цели",
+    "en": "Contract to Neutralize a Target"
+  },
+  "apiId": "j6lg",
+  "apiIdStatus": "inferred"
+}

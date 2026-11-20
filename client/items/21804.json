@@ -1,0 +1,11 @@
+{
+  "clientId": 21804,
+  "key": "item.wpn_mod.adv.foam_bullets",
+  "kind": "item",
+  "name": {
+    "ru": "«Монтажник»",
+    "en": "Rigger"
+  },
+  "apiId": "5l91g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31342,
+  "key": "item.ny_toys.setE.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая простая гирлянда",
+    "en": "Simple Purple Tree Lights"
+  },
+  "apiId": "vngmd",
+  "apiIdStatus": "inferred"
+}

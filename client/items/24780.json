@@ -1,0 +1,11 @@
+{
+  "clientId": 24780,
+  "key": "item.charm.winter26_pass_3",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Промерзший карабин»",
+    "en": "Frozen Carabiner Charm"
+  },
+  "apiId": "knqyv",
+  "apiIdStatus": "inferred"
+}

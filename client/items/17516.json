@@ -1,0 +1,11 @@
+{
+  "clientId": 17516,
+  "key": "item.style.wpn.oc33_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Мудрость Перуна»",
+    "en": "Perun's Wisdom"
+  },
+  "apiId": "n4n53",
+  "apiIdStatus": "inferred"
+}

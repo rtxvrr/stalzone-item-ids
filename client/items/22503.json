@@ -1,0 +1,11 @@
+{
+  "clientId": 22503,
+  "key": "item.att.barrel_heracc",
+  "kind": "item",
+  "name": {
+    "ru": "Hera Arms CC Compensator",
+    "en": "Hera Arms CC Compensator"
+  },
+  "apiId": "zz9z9",
+  "apiIdStatus": "inferred"
+}

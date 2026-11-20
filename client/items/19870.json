@@ -1,0 +1,11 @@
+{
+  "clientId": 19870,
+  "key": "item.motif.wpn.pkp_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "«Турист»",
+    "en": "Tourist"
+  },
+  "apiId": "7lrn9",
+  "apiIdStatus": "inferred"
+}

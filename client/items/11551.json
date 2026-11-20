@@ -1,0 +1,11 @@
+{
+  "clientId": 11551,
+  "key": "item.art.scaries_wood",
+  "kind": "item",
+  "name": {
+    "ru": "Полено",
+    "en": "Timber"
+  },
+  "apiId": "zjzn",
+  "apiIdStatus": "inferred"
+}

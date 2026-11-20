@@ -1,0 +1,11 @@
+{
+  "clientId": 4310,
+  "key": "item.plc.background.nea_flower",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Мугунхва»",
+    "en": "Mugunghwa Background"
+  },
+  "apiId": "jwo6",
+  "apiIdStatus": "inferred"
+}

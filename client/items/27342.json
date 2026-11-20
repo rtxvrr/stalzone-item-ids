@@ -1,0 +1,11 @@
+{
+  "clientId": 27342,
+  "key": "item.misc.blizzard_quest_zapiska_partnera",
+  "kind": "item",
+  "name": {
+    "ru": "Документ от П.",
+    "en": "Document from P."
+  },
+  "apiId": "vjw2g",
+  "apiIdStatus": "inferred"
+}

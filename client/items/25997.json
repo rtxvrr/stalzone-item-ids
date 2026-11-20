@@ -1,0 +1,11 @@
+{
+  "clientId": 25997,
+  "key": "item.arm.murmur_technar",
+  "kind": "item",
+  "name": {
+    "ru": "«Параметр»",
+    "en": "Parameter"
+  },
+  "apiId": "1r2o1",
+  "apiIdStatus": "inferred"
+}

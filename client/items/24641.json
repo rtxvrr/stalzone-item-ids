@@ -1,0 +1,11 @@
+{
+  "clientId": 24641,
+  "key": "item.charm.fallen_angel",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Падший ангел»",
+    "en": "Charm Fallen Angel"
+  },
+  "apiId": "p677d",
+  "apiIdStatus": "inferred"
+}

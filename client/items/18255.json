@@ -1,0 +1,11 @@
+{
+  "clientId": 18255,
+  "key": "item.camo.wpn.hexcam_bx",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Hexcam BX»",
+    "en": "Hexcam BX Camouflage"
+  },
+  "apiId": "4qjwp",
+  "apiIdStatus": "inferred"
+}

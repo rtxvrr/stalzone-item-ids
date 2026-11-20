@@ -1,0 +1,11 @@
+{
+  "clientId": 18570,
+  "key": "item.dmz2026.reward_safe_key.safe_common",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от обычного сейфа",
+    "en": "Common Safe Key"
+  },
+  "apiId": "7l0oj",
+  "apiIdStatus": "inferred"
+}

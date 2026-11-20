@@ -1,0 +1,11 @@
+{
+  "clientId": 8208,
+  "key": "item.quest.whirlpool_zeus",
+  "kind": "item",
+  "name": {
+    "ru": "Дубинка \"Зевс\"",
+    "en": "Zeus Club"
+  },
+  "apiId": "kwzy",
+  "apiIdStatus": "inferred"
+}

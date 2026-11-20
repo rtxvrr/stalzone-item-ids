@@ -1,0 +1,11 @@
+{
+  "clientId": 11413,
+  "key": "item.art.ravent_pie",
+  "kind": "item",
+  "name": {
+    "ru": "Чудесный пирожок",
+    "en": "Miracle pie"
+  },
+  "apiId": "044k",
+  "apiIdStatus": "inferred"
+}

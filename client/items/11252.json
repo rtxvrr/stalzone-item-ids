@@ -1,0 +1,11 @@
+{
+  "clientId": 11252,
+  "key": "item.art.trampoline_darkmeduza",
+  "kind": "item",
+  "name": {
+    "ru": "Проклятая роза",
+    "en": "Cursed Rose"
+  },
+  "apiId": "5rg1",
+  "apiIdStatus": "inferred"
+}

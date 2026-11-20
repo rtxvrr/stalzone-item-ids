@@ -1,0 +1,11 @@
+{
+  "clientId": 31101,
+  "key": "item.brt.sever.node_add",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Дигамма»",
+    "en": "Digamma Data Block"
+  },
+  "apiId": "191w2",
+  "apiIdStatus": "inferred"
+}

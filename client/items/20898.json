@@ -1,0 +1,11 @@
+{
+  "clientId": 20898,
+  "key": "item.wpn.hideout_gun_demo",
+  "kind": "item",
+  "name": {
+    "ru": "Демонстрационный «Воздухан»",
+    "en": "Demonstration Capper"
+  },
+  "apiId": "g4vp6",
+  "apiIdStatus": "inferred"
+}

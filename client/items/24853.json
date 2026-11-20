@@ -1,0 +1,11 @@
+{
+  "clientId": 24853,
+  "key": "item.charm.blitz_tank",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Великанчик»",
+    "en": "Little Giant Charm"
+  },
+  "apiId": "y35gz",
+  "apiIdStatus": "inferred"
+}

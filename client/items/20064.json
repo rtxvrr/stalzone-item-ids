@@ -1,0 +1,11 @@
+{
+  "clientId": 20064,
+  "key": "item.wpn.val_kutuzova",
+  "kind": "item",
+  "name": {
+    "ru": "«Вал» Кутузова",
+    "en": "Kutuzov's Val"
+  },
+  "apiId": "n4p36",
+  "apiIdStatus": "inferred"
+}

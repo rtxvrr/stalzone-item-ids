@@ -1,0 +1,11 @@
+{
+  "clientId": 25561,
+  "key": "item.arm.inside_phantom",
+  "kind": "item",
+  "name": {
+    "ru": "Одеяние фантома",
+    "en": "Phantom garment"
+  },
+  "apiId": "0rnyr",
+  "apiIdStatus": "inferred"
+}

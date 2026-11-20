@@ -1,0 +1,11 @@
+{
+  "clientId": 17262,
+  "key": "item.style.melee.kukri_branch_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Фантомное лезвие»",
+    "en": "Phantom Blade"
+  },
+  "apiId": "m01ly",
+  "apiIdStatus": "inferred"
+}

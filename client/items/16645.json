@@ -1,0 +1,11 @@
+{
+  "clientId": 16645,
+  "key": "item.16645",
+  "kind": "item",
+  "name": {
+    "ru": "Обычный контейнер",
+    "en": "Common Container"
+  },
+  "apiId": "3gq1l",
+  "apiIdStatus": "inferred"
+}

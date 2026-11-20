@@ -1,0 +1,11 @@
+{
+  "clientId": 20706,
+  "key": "item.wpn.svt40_mod",
+  "kind": "item",
+  "name": {
+    "ru": "АВТ-40",
+    "en": "AVT-40"
+  },
+  "apiId": "wj72d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6123,
+  "key": "item.misc.tomato",
+  "kind": "item",
+  "name": {
+    "ru": "Помидор",
+    "en": "Tomato"
+  },
+  "apiId": "6rpy",
+  "apiIdStatus": "inferred"
+}

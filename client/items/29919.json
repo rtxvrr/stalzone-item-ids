@@ -1,0 +1,11 @@
+{
+  "clientId": 29919,
+  "key": "item.filler.mob_11",
+  "kind": "item",
+  "name": {
+    "ru": "Лимфа",
+    "en": "Lymph"
+  },
+  "apiId": "dr512",
+  "apiIdStatus": "inferred"
+}

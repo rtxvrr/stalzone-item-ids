@@ -1,0 +1,11 @@
+{
+  "clientId": 22324,
+  "key": "item.att.sight_p320",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Sig Sauer SX",
+    "en": "Sig Sauer SX Collimator sight"
+  },
+  "apiId": "96vrz",
+  "apiIdStatus": "inferred"
+}

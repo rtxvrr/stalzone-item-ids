@@ -1,0 +1,11 @@
+{
+  "clientId": 24804,
+  "key": "item.charm.bureau_jiden",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Степной сок»",
+    "en": "Steppe Juice Charm"
+  },
+  "apiId": "5lrlg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16611,
+  "key": "item.misc.warpcrate",
+  "kind": "item",
+  "name": {
+    "ru": "Странный ящик",
+    "en": "Strange Crate"
+  },
+  "apiId": "lyr3k",
+  "apiIdStatus": "inferred"
+}

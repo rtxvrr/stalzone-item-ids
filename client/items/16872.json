@@ -1,0 +1,11 @@
+{
+  "clientId": 16872,
+  "key": "item.quest.Belyankin_watch",
+  "kind": "item",
+  "name": {
+    "ru": "Часы Белянкина",
+    "en": "Belyankin's Watch"
+  },
+  "apiId": "96koq",
+  "apiIdStatus": "inferred"
+}

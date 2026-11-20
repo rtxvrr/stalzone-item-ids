@@ -1,0 +1,11 @@
+{
+  "clientId": 16921,
+  "key": "item.quest.covenant_commandment7",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 7",
+    "en": "7th Covenant Commandment"
+  },
+  "apiId": "3gzkg",
+  "apiIdStatus": "inferred"
+}

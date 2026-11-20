@@ -1,0 +1,11 @@
+{
+  "clientId": 12034,
+  "key": "item.cont.ksm",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «КСМ»",
+    "en": "SMC Container"
+  },
+  "apiId": "j3ml",
+  "apiIdStatus": "inferred"
+}

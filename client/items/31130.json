@@ -1,0 +1,11 @@
+{
+  "clientId": 31130,
+  "key": "item.brt.limansk.airdrop_add",
+  "kind": "item",
+  "name": {
+    "ru": "Модифицированная аномальная батарея",
+    "en": "Modified Anomalous Battery"
+  },
+  "apiId": "w3zj3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19619,
+  "key": "item.motif.arm.prestige_patches",
+  "kind": "item",
+  "name": {
+    "ru": "Патчи для «Арбитра»",
+    "en": "Patches for the Referee"
+  },
+  "apiId": "dmqmj",
+  "apiIdStatus": "inferred"
+}

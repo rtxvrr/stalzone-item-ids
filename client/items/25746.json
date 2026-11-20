@@ -1,0 +1,11 @@
+{
+  "clientId": 25746,
+  "key": "item.skin.nea_foreman_1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Старшина»",
+    "en": "Sergeant major Skin"
+  },
+  "apiId": "7lzqj",
+  "apiIdStatus": "inferred"
+}

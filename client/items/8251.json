@@ -1,0 +1,11 @@
+{
+  "clientId": 8251,
+  "key": "item.med.injector_mushroom3",
+  "kind": "item",
+  "name": {
+    "ru": "Гриб неваляшка",
+    "en": "Roly-Poly Shroom"
+  },
+  "apiId": "zpny",
+  "apiIdStatus": "inferred"
+}

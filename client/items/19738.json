@@ -1,0 +1,11 @@
+{
+  "clientId": 19738,
+  "key": "item.camo.arm.champion",
+  "kind": "item",
+  "name": {
+    "ru": "Краска Чемпиона Арены",
+    "en": "Arena Champion Paint"
+  },
+  "apiId": "m02y2",
+  "apiIdStatus": "inferred"
+}

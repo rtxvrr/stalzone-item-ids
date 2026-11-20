@@ -1,0 +1,11 @@
+{
+  "clientId": 14203,
+  "key": "item.bag.10sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СБП 10 мм",
+    "en": "Pouch of 10 mm SBP Rounds"
+  },
+  "apiId": "zzg9y",
+  "apiIdStatus": "inferred"
+}

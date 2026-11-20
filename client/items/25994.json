@@ -1,0 +1,11 @@
+{
+  "clientId": 25994,
+  "key": "item.arm.murmur_sglaz",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм Сглаза",
+    "en": "Hex's Armored Suit"
+  },
+  "apiId": "7lyw7",
+  "apiIdStatus": "inferred"
+}

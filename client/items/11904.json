@@ -1,0 +1,11 @@
+{
+  "clientId": 11904,
+  "key": "item.plate.steel5",
+  "kind": "item",
+  "name": {
+    "ru": "Стальная пластина V",
+    "en": "Steel Plate V"
+  },
+  "apiId": "514q",
+  "apiIdStatus": "inferred"
+}

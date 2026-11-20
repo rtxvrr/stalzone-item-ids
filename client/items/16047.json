@@ -1,0 +1,11 @@
+{
+  "clientId": 16047,
+  "key": "item.16047",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты для калибровки",
+    "en": "Tools for Calibration"
+  },
+  "apiId": "6wygp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6520,
+  "key": "item.misc.protective_cover",
+  "kind": "item",
+  "name": {
+    "ru": "Защитное покрытие",
+    "en": "Protective Coating"
+  },
+  "apiId": "2nw5",
+  "apiIdStatus": "inferred"
+}

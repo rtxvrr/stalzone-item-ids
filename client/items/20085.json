@@ -1,0 +1,11 @@
+{
+  "clientId": 20085,
+  "key": "item.wpn.g3a1-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный HK G3A1",
+    "en": "Worn HK G3A1"
+  },
+  "apiId": "0r3nd",
+  "apiIdStatus": "inferred"
+}

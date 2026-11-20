@@ -1,0 +1,11 @@
+{
+  "clientId": 20202,
+  "key": "item.wpn.sks",
+  "kind": "item",
+  "name": {
+    "ru": "СКС",
+    "en": "SKS"
+  },
+  "apiId": "g4m46",
+  "apiIdStatus": "inferred"
+}

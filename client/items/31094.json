@@ -1,0 +1,11 @@
+{
+  "clientId": 31094,
+  "key": "item.brt.sever.airdrop",
+  "kind": "item",
+  "name": {
+    "ru": "Квантовая батарея",
+    "en": "Quantum Battery"
+  },
+  "apiId": "77ov6",
+  "apiIdStatus": "inferred"
+}

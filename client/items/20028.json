@@ -1,0 +1,11 @@
+{
+  "clientId": 20028,
+  "key": "item.wpn.akm",
+  "kind": "item",
+  "name": {
+    "ru": "АКМ",
+    "en": "AKM"
+  },
+  "apiId": "5ldkg",
+  "apiIdStatus": "inferred"
+}

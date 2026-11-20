@@ -1,0 +1,11 @@
+{
+  "clientId": 24755,
+  "key": "item.charm.media_partner",
+  "kind": "item",
+  "name": {
+    "ru": "Пропуск медиа-партнера",
+    "en": "Media Partner Pass"
+  },
+  "apiId": "4q4rn",
+  "apiIdStatus": "inferred"
+}

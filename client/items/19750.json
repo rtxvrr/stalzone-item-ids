@@ -1,0 +1,11 @@
+{
+  "clientId": 19750,
+  "key": "item.camo.arm.remains",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Останки»",
+    "en": "Remains Paint"
+  },
+  "apiId": "g40p5",
+  "apiIdStatus": "inferred"
+}

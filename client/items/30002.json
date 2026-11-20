@@ -1,0 +1,11 @@
+{
+  "clientId": 30002,
+  "key": "item.filler.valuable_3",
+  "kind": "item",
+  "name": {
+    "ru": "Комплект заводских инструментов",
+    "en": "Factory Tool Set"
+  },
+  "apiId": "gn1nn",
+  "apiIdStatus": "inferred"
+}

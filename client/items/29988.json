@@ -1,0 +1,11 @@
+{
+  "clientId": 29988,
+  "key": "item.filler.outpost_4",
+  "kind": "item",
+  "name": {
+    "ru": "Большой ящик с продовольствием",
+    "en": "Big Crate of Rations"
+  },
+  "apiId": "nkw42",
+  "apiIdStatus": "inferred"
+}

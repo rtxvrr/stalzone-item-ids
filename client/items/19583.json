@@ -1,0 +1,11 @@
+{
+  "clientId": 19583,
+  "key": "item.motif.arm.murmur_grenadier_integration",
+  "kind": "item",
+  "name": {
+    "ru": "«Послушание»",
+    "en": "Obedience"
+  },
+  "apiId": "lygqq",
+  "apiIdStatus": "inferred"
+}

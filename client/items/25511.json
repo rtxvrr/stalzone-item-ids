@@ -1,0 +1,11 @@
+{
+  "clientId": 25511,
+  "key": "item.25511",
+  "kind": "item",
+  "name": {
+    "ru": "Пси-устройство",
+    "en": "Psy-device"
+  },
+  "apiId": "ly35q",
+  "apiIdStatus": "inferred"
+}

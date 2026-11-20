@@ -1,0 +1,11 @@
+{
+  "clientId": 16275,
+  "key": "item.misc.flesh_eye_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Глаз сильной хрюши",
+    "en": "Strong Piggy's Eye"
+  },
+  "apiId": "zzwok",
+  "apiIdStatus": "inferred"
+}

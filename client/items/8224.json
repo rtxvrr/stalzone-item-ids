@@ -1,0 +1,11 @@
+{
+  "clientId": 8224,
+  "key": "item.quest.kury_gopro",
+  "kind": "item",
+  "name": {
+    "ru": "Экшн-камера",
+    "en": "Action Camera"
+  },
+  "apiId": "9v1l",
+  "apiIdStatus": "inferred"
+}

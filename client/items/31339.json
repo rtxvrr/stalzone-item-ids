@@ -1,0 +1,11 @@
+{
+  "clientId": 31339,
+  "key": "item.ny_toys.setE.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовый диско-шарик",
+    "en": "Purple Disco Ball"
+  },
+  "apiId": "olny0",
+  "apiIdStatus": "inferred"
+}

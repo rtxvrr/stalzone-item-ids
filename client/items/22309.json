@@ -1,0 +1,11 @@
+{
+  "clientId": 22309,
+  "key": "item.att.sight_samodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный коллиматорный прицел",
+    "en": "Handmade Collimator Sight"
+  },
+  "apiId": "qjr6k",
+  "apiIdStatus": "inferred"
+}

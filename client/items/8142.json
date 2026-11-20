@@ -1,0 +1,11 @@
+{
+  "clientId": 8142,
+  "key": "item.quest.fleshka_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Флешка ССОП",
+    "en": "SSPP Flash Drive"
+  },
+  "apiId": "vpog",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8247,
+  "key": "item.quest.quest_tutorial_fur",
+  "kind": "item",
+  "name": {
+    "ru": "Кабаний подшерсток",
+    "en": "Boar Underfur"
+  },
+  "apiId": "6vjp",
+  "apiIdStatus": "inferred"
+}

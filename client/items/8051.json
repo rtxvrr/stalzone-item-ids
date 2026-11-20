@@ -1,0 +1,11 @@
+{
+  "clientId": 8051,
+  "key": "item.quest.brain_chemical",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенный химикатами мозг пси-гончей",
+    "en": "Brain of a psy-hound, cleaned with chemicals"
+  },
+  "apiId": "z5m2",
+  "apiIdStatus": "inferred"
+}

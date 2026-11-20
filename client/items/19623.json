@@ -1,0 +1,11 @@
+{
+  "clientId": 19623,
+  "key": "item.motif.arm.skat10_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Скорая»",
+    "en": "Ambulance"
+  },
+  "apiId": "6wrwp",
+  "apiIdStatus": "inferred"
+}

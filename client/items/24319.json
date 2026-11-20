@@ -1,0 +1,11 @@
+{
+  "clientId": 24319,
+  "key": "item.24319",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кубик Рубика»",
+    "en": "Rubik's Cube Charm"
+  },
+  "apiId": "dm769",
+  "apiIdStatus": "inferred"
+}

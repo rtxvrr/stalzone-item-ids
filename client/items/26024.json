@@ -1,0 +1,11 @@
+{
+  "clientId": 26024,
+  "key": "item.med.vodka_hw",
+  "kind": "item",
+  "name": {
+    "ru": "Водка «Кривой Коготь»",
+    "en": "Crooked Claw Vodka"
+  },
+  "apiId": "964z0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19842,
+  "key": "item.motif.wpn.aa12_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Дагон»",
+    "en": "Dagon"
+  },
+  "apiId": "vjrr7",
+  "apiIdStatus": "inferred"
+}

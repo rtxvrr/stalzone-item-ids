@@ -1,0 +1,11 @@
+{
+  "clientId": 26308,
+  "key": "item.boost.15c7d",
+  "kind": "item",
+  "name": {
+    "ru": "Усилитель подразделения +15% (7 дней)",
+    "en": "Subdivision Booster +15% (7 days)"
+  },
+  "apiId": "kno0p",
+  "apiIdStatus": "inferred"
+}

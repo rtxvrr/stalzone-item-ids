@@ -1,0 +1,11 @@
+{
+  "clientId": 16929,
+  "key": "item.quest.daily_delivery_box",
+  "kind": "item",
+  "name": {
+    "ru": "Коробка припасов",
+    "en": "Box of Supplies"
+  },
+  "apiId": "y30oo",
+  "apiIdStatus": "inferred"
+}

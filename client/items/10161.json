@@ -1,0 +1,11 @@
+{
+  "clientId": 10161,
+  "key": "item.quest.smotrikov12",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Часть",
+    "en": "Audio Recorder: Part"
+  },
+  "apiId": "01py",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25006,
+  "key": "item.arm.raincoat",
+  "kind": "item",
+  "name": {
+    "ru": "Дождевик",
+    "en": "Raincoat"
+  },
+  "apiId": "wjgm2",
+  "apiIdStatus": "inferred"
+}

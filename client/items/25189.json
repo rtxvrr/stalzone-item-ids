@@ -1,0 +1,11 @@
+{
+  "clientId": 25189,
+  "key": "item.arm.smog_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Туманный охотник» Санитаров",
+    "en": "Orderlies' Fog Hunter"
+  },
+  "apiId": "p6md4",
+  "apiIdStatus": "inferred"
+}

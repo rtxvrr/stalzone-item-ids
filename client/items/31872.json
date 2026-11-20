@@ -1,0 +1,11 @@
+{
+  "clientId": 31872,
+  "key": "item.blueprint.wpn.ravent_skst",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж СКС-Т",
+    "en": "SKS-T Blueprint"
+  },
+  "apiId": "9do0q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15063,
+  "key": "item.case.spring26_cosmetic_mk",
+  "kind": "item",
+  "name": {
+    "ru": "Корабельный кейс эстета",
+    "en": "Ship Aesthete Case"
+  },
+  "apiId": "okl45",
+  "apiIdStatus": "inferred"
+}

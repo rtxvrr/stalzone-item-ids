@@ -1,0 +1,11 @@
+{
+  "clientId": 14229,
+  "key": "item.crate.mini_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик самодельных мини-гранат",
+    "en": "Box of Handmade Mini Grenades"
+  },
+  "apiId": "y31lk",
+  "apiIdStatus": "inferred"
+}

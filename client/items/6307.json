@@ -1,0 +1,11 @@
+{
+  "clientId": 6307,
+  "key": "item.misc.hydrogen",
+  "kind": "item",
+  "name": {
+    "ru": "Водород",
+    "en": "Hydrogen"
+  },
+  "apiId": "40dl",
+  "apiIdStatus": "inferred"
+}

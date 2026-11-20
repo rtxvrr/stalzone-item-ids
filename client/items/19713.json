@@ -1,0 +1,11 @@
+{
+  "clientId": 19713,
+  "key": "item.camo.arm.courage",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Кураж»",
+    "en": "Courage Paint"
+  },
+  "apiId": "0r39y",
+  "apiIdStatus": "inferred"
+}

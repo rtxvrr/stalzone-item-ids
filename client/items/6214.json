@@ -1,0 +1,11 @@
+{
+  "clientId": 6214,
+  "key": "item.misc.amino_acid",
+  "kind": "item",
+  "name": {
+    "ru": "Аминокислота",
+    "en": "Amino Acid"
+  },
+  "apiId": "m27j",
+  "apiIdStatus": "inferred"
+}

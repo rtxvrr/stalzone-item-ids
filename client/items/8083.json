@@ -1,0 +1,11 @@
+{
+  "clientId": 8083,
+  "key": "item.quest.exorcism_hrizm",
+  "kind": "item",
+  "name": {
+    "ru": "Хризма",
+    "en": "Christogram "
+  },
+  "apiId": "l4wj",
+  "apiIdStatus": "inferred"
+}

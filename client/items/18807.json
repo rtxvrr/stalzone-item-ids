@@ -1,0 +1,11 @@
+{
+  "clientId": 18807,
+  "key": "item.mtl.arm.leather",
+  "kind": "item",
+  "name": {
+    "ru": "«Крепкая кожа»",
+    "en": "Thick Skin"
+  },
+  "apiId": "4qmpp",
+  "apiIdStatus": "inferred"
+}

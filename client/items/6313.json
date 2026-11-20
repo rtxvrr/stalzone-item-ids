@@ -1,0 +1,11 @@
+{
+  "clientId": 6313,
+  "key": "item.misc.carbon_dioxide",
+  "kind": "item",
+  "name": {
+    "ru": "Углекислый газ",
+    "en": "Carbon Dioxide"
+  },
+  "apiId": "035r",
+  "apiIdStatus": "inferred"
+}

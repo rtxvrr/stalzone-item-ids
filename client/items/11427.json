@@ -1,0 +1,11 @@
+{
+  "clientId": 11427,
+  "key": "item.ravent_mislite",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Мыслете»",
+    "en": "Myslete Amulet"
+  },
+  "apiId": "zyjk",
+  "apiIdStatus": "inferred"
+}

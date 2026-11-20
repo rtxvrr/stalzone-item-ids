@@ -1,0 +1,11 @@
+{
+  "clientId": 26666,
+  "key": "item.premium.token_7d",
+  "kind": "item",
+  "name": {
+    "ru": "Премиум на 7 дней",
+    "en": "Premium for 7 days"
+  },
+  "apiId": "vjd5n",
+  "apiIdStatus": "inferred"
+}

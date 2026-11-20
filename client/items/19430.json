@@ -1,0 +1,11 @@
+{
+  "clientId": 19430,
+  "key": "item.camo.arm.spring25_skin_10",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Кладбище фантомов»",
+    "en": "Phantom Cemetery Paint"
+  },
+  "apiId": "wjm5p",
+  "apiIdStatus": "inferred"
+}

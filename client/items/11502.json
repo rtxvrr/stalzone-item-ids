@@ -1,0 +1,11 @@
+{
+  "clientId": 11502,
+  "key": "item.art.inside_setchatka",
+  "kind": "item",
+  "name": {
+    "ru": "Сетчатка",
+    "en": "Retina"
+  },
+  "apiId": "gy7p",
+  "apiIdStatus": "inferred"
+}

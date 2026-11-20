@@ -1,0 +1,11 @@
+{
+  "clientId": 16719,
+  "key": "item.art.protoart",
+  "kind": "item",
+  "name": {
+    "ru": "Протоартефакт",
+    "en": "Protoartifact"
+  },
+  "apiId": "dm6l2",
+  "apiIdStatus": "inferred"
+}

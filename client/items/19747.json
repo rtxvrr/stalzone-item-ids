@@ -1,0 +1,11 @@
+{
+  "clientId": 19747,
+  "key": "item.camo.arm.jiden",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Животворящий Жидень»",
+    "en": "Life-Giving Jiden Paint"
+  },
+  "apiId": "6wr70",
+  "apiIdStatus": "inferred"
+}

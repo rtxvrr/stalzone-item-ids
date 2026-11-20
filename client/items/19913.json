@@ -1,0 +1,11 @@
+{
+  "clientId": 19913,
+  "key": "item.mtl.wpn.flesh",
+  "kind": "item",
+  "name": {
+    "ru": "«Трансформация»",
+    "en": "Transformation"
+  },
+  "apiId": "0r3k1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22811,
+  "key": "item.att.forend_spas_bint",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье SPAS-12, обмотанное",
+    "en": "SPAS-12 Handguard, Taped"
+  },
+  "apiId": "ly142",
+  "apiIdStatus": "inferred"
+}

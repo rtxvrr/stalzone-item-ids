@@ -1,0 +1,11 @@
+{
+  "clientId": 24863,
+  "key": "item.charm.mt_bolt",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Чешский еж»",
+    "en": "Czech Hedgehog Charm"
+  },
+  "apiId": "ok04o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26072,
+  "key": "item.med.inside_oblivion",
+  "kind": "item",
+  "name": {
+    "ru": "«Забытье»",
+    "en": "Oblivion"
+  },
+  "apiId": "96410",
+  "apiIdStatus": "inferred"
+}

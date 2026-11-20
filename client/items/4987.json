@@ -1,0 +1,11 @@
+{
+  "clientId": 4987,
+  "key": "item.plc.sticker.nea_leaves",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Летящие лепестки»",
+    "en": "Fluttering Petals Sticker"
+  },
+  "apiId": "og50",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19915,
+  "key": "item.mtl.wpn.thunder",
+  "kind": "item",
+  "name": {
+    "ru": "«Гроза»",
+    "en": "Thunderstorm"
+  },
+  "apiId": "okvw0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19741,
+  "key": "item.camo.arm.hotair",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Горячий воздух»",
+    "en": "Hot Air Paint"
+  },
+  "apiId": "p6rn4",
+  "apiIdStatus": "inferred"
+}

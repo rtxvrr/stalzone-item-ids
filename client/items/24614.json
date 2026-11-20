@@ -1,0 +1,11 @@
+{
+  "clientId": 24614,
+  "key": "item.charm.set_artefact",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Артефактный оберег»",
+    "en": "Artifact Amulet Charm"
+  },
+  "apiId": "m07dk",
+  "apiIdStatus": "inferred"
+}

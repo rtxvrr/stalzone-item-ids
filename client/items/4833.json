@@ -1,0 +1,11 @@
+{
+  "clientId": 4833,
+  "key": "item.plc.sticker.blitz_trucks",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Траки»",
+    "en": "Tracks Sticker"
+  },
+  "apiId": "q544",
+  "apiIdStatus": "inferred"
+}

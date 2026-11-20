@@ -1,0 +1,11 @@
+{
+  "clientId": 20074,
+  "key": "item.wpn.aug9mm_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "Steyr AUG 9mm «Снежок»",
+    "en": "Snowball Steyr AUG 9mm"
+  },
+  "apiId": "g4030",
+  "apiIdStatus": "inferred"
+}

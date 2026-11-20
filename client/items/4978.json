@@ -1,0 +1,11 @@
+{
+  "clientId": 4978,
+  "key": "item.plc.sticker.scstore_murzya",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Помойся»",
+    "en": "Take a Shower Sticker"
+  },
+  "apiId": "wvro",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31873,
+  "key": "item.blueprint.wpn.ravent_mpx",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж SIG MPX",
+    "en": "SIG MPX Blueprint"
+  },
+  "apiId": "19ymr",
+  "apiIdStatus": "inferred"
+}

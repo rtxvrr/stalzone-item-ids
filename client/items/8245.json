@@ -1,0 +1,11 @@
+{
+  "clientId": 8245,
+  "key": "item.quest.quest_tutorial_2_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Брюшина",
+    "en": "Peritoneum"
+  },
+  "apiId": "372l",
+  "apiIdStatus": "inferred"
+}

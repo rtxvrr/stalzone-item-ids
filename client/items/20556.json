@@ -1,0 +1,11 @@
+{
+  "clientId": 20556,
+  "key": "item.wpn.sv98",
+  "kind": "item",
+  "name": {
+    "ru": "СВ-98",
+    "en": "SV-98"
+  },
+  "apiId": "knm0v",
+  "apiIdStatus": "inferred"
+}

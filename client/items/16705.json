@@ -1,0 +1,11 @@
+{
+  "clientId": 16705,
+  "key": "item.art.mod_calibration",
+  "kind": "item",
+  "name": {
+    "ru": "Калибрующий агент",
+    "en": "Calibrating Agent"
+  },
+  "apiId": "y3013",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16432,
+  "key": "item.16432",
+  "kind": "item",
+  "name": {
+    "ru": "Амулет Санитаров",
+    "en": "Orderly Amulet"
+  },
+  "apiId": "knpv0",
+  "apiIdStatus": "inferred"
+}

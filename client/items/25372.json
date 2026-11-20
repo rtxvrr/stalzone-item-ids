@@ -1,0 +1,11 @@
+{
+  "clientId": 25372,
+  "key": "item.arm.missioner",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Миссионер»",
+    "en": "Missionary Exoarmor"
+  },
+  "apiId": "96y6z",
+  "apiIdStatus": "inferred"
+}

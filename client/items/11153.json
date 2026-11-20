@@ -1,0 +1,11 @@
+{
+  "clientId": 11153,
+  "key": "item.art.kisel_sliznyak",
+  "kind": "item",
+  "name": {
+    "ru": "Скорлупа",
+    "en": "Crust"
+  },
+  "apiId": "y5vw",
+  "apiIdStatus": "inferred"
+}

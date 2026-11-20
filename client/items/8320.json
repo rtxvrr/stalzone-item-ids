@@ -1,0 +1,11 @@
+{
+  "clientId": 8320,
+  "key": "item.quest.shock_wave_anomaly",
+  "kind": "item",
+  "name": {
+    "ru": "Обработанная аномальным полем вытяжка",
+    "en": "Anomaly-Field-Treated Extract"
+  },
+  "apiId": "22d5",
+  "apiIdStatus": "inferred"
+}

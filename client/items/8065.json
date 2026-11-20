@@ -1,0 +1,11 @@
+{
+  "clientId": 8065,
+  "key": "item.quest.shard_sound_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенные ультразвуком осколки",
+    "en": "Ultrasound-cleaned shards"
+  },
+  "apiId": "plk6",
+  "apiIdStatus": "inferred"
+}

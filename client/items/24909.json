@@ -1,0 +1,11 @@
+{
+  "clientId": 24909,
+  "key": "item.charm.media_rat",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Проныра»",
+    "en": "Slyboots Charm"
+  },
+  "apiId": "qjo39",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29936,
+  "key": "item.filler.npc_jackpot_1",
+  "kind": "item",
+  "name": {
+    "ru": "Ноутбук с данными",
+    "en": "Laptop with Data"
+  },
+  "apiId": "rjm3y",
+  "apiIdStatus": "inferred"
+}

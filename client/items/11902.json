@@ -1,0 +1,11 @@
+{
+  "clientId": 11902,
+  "key": "item.plate.steel3",
+  "kind": "item",
+  "name": {
+    "ru": "Стальная пластина III",
+    "en": "Steel Plate III"
+  },
+  "apiId": "g325",
+  "apiIdStatus": "inferred"
+}

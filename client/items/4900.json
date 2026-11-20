@@ -1,0 +1,11 @@
+{
+  "clientId": 4900,
+  "key": "item.plc.sticker.arcade_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер 2 ур. сессионных боев",
+    "en": "Sticker for 2nd level session battles"
+  },
+  "apiId": "90wz",
+  "apiIdStatus": "inferred"
+}

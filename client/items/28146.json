@@ -1,0 +1,11 @@
+{
+  "clientId": 28146,
+  "key": "item.28146",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованный PDA сталкера",
+    "en": "Encrypted Stalker's PDA"
+  },
+  "apiId": "774zj",
+  "apiIdStatus": "inferred"
+}

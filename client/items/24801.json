@@ -1,0 +1,11 @@
+{
+  "clientId": 24801,
+  "key": "item.charm.dmz26_trinket_cards",
+  "kind": "item",
+  "name": {
+    "ru": "Четыре дурака",
+    "en": "Four Fools"
+  },
+  "apiId": "1rkr6",
+  "apiIdStatus": "inferred"
+}

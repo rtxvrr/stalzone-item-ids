@@ -1,0 +1,11 @@
+{
+  "clientId": 4208,
+  "key": "item.plc.background.autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Черный Рынок: Интервенция»",
+    "en": "Black Market: Intervention Season Background"
+  },
+  "apiId": "k22j",
+  "apiIdStatus": "inferred"
+}

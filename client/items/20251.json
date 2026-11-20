@@ -1,0 +1,11 @@
+{
+  "clientId": 20251,
+  "key": "item.wpn.vssm",
+  "kind": "item",
+  "name": {
+    "ru": "ВСС-М «Винторез»",
+    "en": "VSS-M Vintorez"
+  },
+  "apiId": "zz2ky",
+  "apiIdStatus": "inferred"
+}

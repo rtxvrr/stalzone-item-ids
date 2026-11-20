@@ -1,0 +1,11 @@
+{
+  "clientId": 8361,
+  "key": "item.quest.zov_petrenko_7",
+  "kind": "item",
+  "name": {
+    "ru": "Запись Петренко 7",
+    "en": "Petrenko’s Note 7"
+  },
+  "apiId": "0vqy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14254,
+  "key": "item.bag.armorpack_composite4",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка композитных пластин IV",
+    "en": "Bag of Composite Plates IV"
+  },
+  "apiId": "wjn52",
+  "apiIdStatus": "inferred"
+}

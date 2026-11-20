@@ -1,0 +1,11 @@
+{
+  "clientId": 22546,
+  "key": "item.att.barrel_titan9long",
+  "kind": "item",
+  "name": {
+    "ru": "Titan-9 Long",
+    "en": "Titan-9 Long"
+  },
+  "apiId": "7lpwr",
+  "apiIdStatus": "inferred"
+}

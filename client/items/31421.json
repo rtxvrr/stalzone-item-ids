@@ -1,0 +1,11 @@
+{
+  "clientId": 31421,
+  "key": "item.lootbox.forgotten",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с забытых времен",
+    "en": "A Crate from the Forgotten Times"
+  },
+  "apiId": "343lz",
+  "apiIdStatus": "inferred"
+}

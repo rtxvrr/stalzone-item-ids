@@ -1,0 +1,11 @@
+{
+  "clientId": 8301,
+  "key": "item.quest.the_shock_wave_spark_plug",
+  "kind": "item",
+  "name": {
+    "ru": "Свеча зажигания",
+    "en": "Spark Plug"
+  },
+  "apiId": "1v62",
+  "apiIdStatus": "inferred"
+}

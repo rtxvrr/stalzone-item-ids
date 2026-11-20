@@ -1,0 +1,11 @@
+{
+  "clientId": 4235,
+  "key": "item.plc.background.mt_map",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Карта»",
+    "en": "Map Background"
+  },
+  "apiId": "lop2",
+  "apiIdStatus": "inferred"
+}

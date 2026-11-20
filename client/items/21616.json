@@ -1,0 +1,11 @@
+{
+  "clientId": 21616,
+  "key": "item.wpn_mod.adv.notches_on_bullets",
+  "kind": "item",
+  "name": {
+    "ru": "«Грызун»",
+    "en": "Rodent"
+  },
+  "apiId": "n4y29",
+  "apiIdStatus": "inferred"
+}

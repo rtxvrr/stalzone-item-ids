@@ -1,0 +1,11 @@
+{
+  "clientId": 17113,
+  "key": "item.style.arm.bear_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Боевой зверь»",
+    "en": "Combat Beast"
+  },
+  "apiId": "0r91r",
+  "apiIdStatus": "inferred"
+}

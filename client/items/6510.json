@@ -1,0 +1,11 @@
+{
+  "clientId": 6510,
+  "key": "item.misc.psychoreagent",
+  "kind": "item",
+  "name": {
+    "ru": "Психореагент",
+    "en": "Psychoreagent"
+  },
+  "apiId": "jowg",
+  "apiIdStatus": "inferred"
+}

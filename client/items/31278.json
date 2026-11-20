@@ -1,0 +1,11 @@
+{
+  "clientId": 31278,
+  "key": "item.ny_toys.setA.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Красный звездный шарик",
+    "en": "Red Star Bauble"
+  },
+  "apiId": "w3zyz",
+  "apiIdStatus": "inferred"
+}

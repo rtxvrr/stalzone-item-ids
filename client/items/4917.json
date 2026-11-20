@@ -1,0 +1,11 @@
+{
+  "clientId": 4917,
+  "key": "item.plc.sticker.blackraid_newbie",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер оперативников Рынка",
+    "en": "Market Operatives Sticker"
+  },
+  "apiId": "pz12",
+  "apiIdStatus": "inferred"
+}

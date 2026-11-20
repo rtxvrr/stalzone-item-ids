@@ -1,0 +1,11 @@
+{
+  "clientId": 17270,
+  "key": "item.style.melee.downrange_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Иван-1»",
+    "en": "Ivan-1"
+  },
+  "apiId": "7lov6",
+  "apiIdStatus": "inferred"
+}

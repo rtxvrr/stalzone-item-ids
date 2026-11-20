@@ -1,0 +1,11 @@
+{
+  "clientId": 6519,
+  "key": "item.misc.kitchen_knives",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кухонных ножей",
+    "en": "Set of Kitchen Knives"
+  },
+  "apiId": "dj92",
+  "apiIdStatus": "inferred"
+}

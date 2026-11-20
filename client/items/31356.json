@@ -1,0 +1,11 @@
+{
+  "clientId": 31356,
+  "key": "item.ny_toys.setF.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая простая гирлянда",
+    "en": "Simple Plush Tree Lights"
+  },
+  "apiId": "krzlv",
+  "apiIdStatus": "inferred"
+}

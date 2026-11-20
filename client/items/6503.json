@@ -1,0 +1,11 @@
+{
+  "clientId": 6503,
+  "key": "item.misc.black_powder",
+  "kind": "item",
+  "name": {
+    "ru": "Дымный порох",
+    "en": "Black Gunpowder"
+  },
+  "apiId": "z2om",
+  "apiIdStatus": "inferred"
+}

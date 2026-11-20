@@ -1,0 +1,11 @@
+{
+  "clientId": 16997,
+  "key": "item.quest.covenant_note",
+  "kind": "item",
+  "name": {
+    "ru": "Справка по «Завету»",
+    "en": "Covenant Note"
+  },
+  "apiId": "1r1j1",
+  "apiIdStatus": "inferred"
+}

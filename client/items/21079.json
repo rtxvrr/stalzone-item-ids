@@ -1,0 +1,11 @@
+{
+  "clientId": 21079,
+  "key": "item.melee.ptrd",
+  "kind": "item",
+  "name": {
+    "ru": "Ручная «петарда»",
+    "en": "PTRD-Melee"
+  },
+  "apiId": "4q1vj",
+  "apiIdStatus": "inferred"
+}

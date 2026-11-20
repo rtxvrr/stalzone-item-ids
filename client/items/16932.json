@@ -1,0 +1,11 @@
+{
+  "clientId": 16932,
+  "key": "item.quest.duty.docs_stack_special",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка секретных документов «Рубежа»",
+    "en": "Stack of Classified Frontier Documents"
+  },
+  "apiId": "kn51v",
+  "apiIdStatus": "inferred"
+}

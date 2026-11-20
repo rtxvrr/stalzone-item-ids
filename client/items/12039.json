@@ -1,0 +1,11 @@
+{
+  "clientId": 12039,
+  "key": "item.cont.honeycombu",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Сота-У»",
+    "en": "Cell-U Container "
+  },
+  "apiId": "o3d5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16274,
+  "key": "item.misc.cat_tail_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост сильной кошки",
+    "en": "Strong Cat's Tail"
+  },
+  "apiId": "g41pn",
+  "apiIdStatus": "inferred"
+}

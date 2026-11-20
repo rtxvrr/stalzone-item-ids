@@ -1,0 +1,11 @@
+{
+  "clientId": 24754,
+  "key": "item.charm.autumn25_pass_5",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мертвая хватка»",
+    "en": "Stranglehold Charm"
+  },
+  "apiId": "wjdko",
+  "apiIdStatus": "inferred"
+}

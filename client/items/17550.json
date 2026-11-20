@@ -1,0 +1,11 @@
+{
+  "clientId": 17550,
+  "key": "item.style.wpn.m1014b_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Прорыв Изнанки»",
+    "en": "Inside Out Breach"
+  },
+  "apiId": "g4pmp",
+  "apiIdStatus": "inferred"
+}

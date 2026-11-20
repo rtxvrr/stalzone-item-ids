@@ -1,0 +1,11 @@
+{
+  "clientId": 25129,
+  "key": "item.arm.murmur_bigboy",
+  "kind": "item",
+  "name": {
+    "ru": "«Принятие»",
+    "en": "Acceptance"
+  },
+  "apiId": "y35m3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26058,
+  "key": "item.med.inside_nootrop_3",
+  "kind": "item",
+  "name": {
+    "ru": "Экспериментальный ноотроп",
+    "en": "Experimental Nootropic"
+  },
+  "apiId": "j5mz7",
+  "apiIdStatus": "inferred"
+}

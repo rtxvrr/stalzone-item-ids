@@ -1,0 +1,11 @@
+{
+  "clientId": 31283,
+  "key": "item.ny_toys.setA.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Красный диско-шарик",
+    "en": "Red Disco Ball"
+  },
+  "apiId": "l05o2",
+  "apiIdStatus": "inferred"
+}

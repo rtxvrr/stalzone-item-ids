@@ -1,0 +1,11 @@
+{
+  "clientId": 31849,
+  "key": "item.blueprint.wpn.ravent_akm",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж АКМ",
+    "en": "AKM Blueprint"
+  },
+  "apiId": "19yyr",
+  "apiIdStatus": "inferred"
+}

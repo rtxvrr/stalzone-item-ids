@@ -1,0 +1,11 @@
+{
+  "clientId": 4804,
+  "key": "item.plc.sticker.freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Зари»",
+    "en": "Rise Sticker"
+  },
+  "apiId": "500o",
+  "apiIdStatus": "inferred"
+}

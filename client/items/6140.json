@@ -1,0 +1,11 @@
+{
+  "clientId": 6140,
+  "key": "item.misc.pot",
+  "kind": "item",
+  "name": {
+    "ru": "Кастрюля",
+    "en": "Saucepan"
+  },
+  "apiId": "npz3",
+  "apiIdStatus": "inferred"
+}

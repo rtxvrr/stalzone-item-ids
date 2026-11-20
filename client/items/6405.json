@@ -1,0 +1,11 @@
+{
+  "clientId": 6405,
+  "key": "item.misc.potassium_iodide",
+  "kind": "item",
+  "name": {
+    "ru": "Йодид калия",
+    "en": "Potassium Iodide"
+  },
+  "apiId": "y24k",
+  "apiIdStatus": "inferred"
+}

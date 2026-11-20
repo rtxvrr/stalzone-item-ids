@@ -1,0 +1,11 @@
+{
+  "clientId": 24674,
+  "key": "item.charm.autumn24_jeton",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Жетон Представителя»",
+    "en": "Representative's Token Charm"
+  },
+  "apiId": "g463n",
+  "apiIdStatus": "inferred"
+}

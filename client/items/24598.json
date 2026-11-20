@@ -1,0 +1,11 @@
+{
+  "clientId": 24598,
+  "key": "item.charm.patch_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шеврон Зари»",
+    "en": "Rise Chevron Charm"
+  },
+  "apiId": "g46q5",
+  "apiIdStatus": "inferred"
+}

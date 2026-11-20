@@ -1,0 +1,11 @@
+{
+  "clientId": 11504,
+  "key": "item.art.inside_key",
+  "kind": "item",
+  "name": {
+    "ru": "Ключик",
+    "en": "Tiny Key"
+  },
+  "apiId": "5rm0",
+  "apiIdStatus": "inferred"
+}

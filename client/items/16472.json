@@ -1,0 +1,11 @@
+{
+  "clientId": 16472,
+  "key": "item.quest.doc_melov",
+  "kind": "item",
+  "name": {
+    "ru": "Документы Мелова",
+    "en": "Melov's Documents"
+  },
+  "apiId": "96zv0",
+  "apiIdStatus": "inferred"
+}

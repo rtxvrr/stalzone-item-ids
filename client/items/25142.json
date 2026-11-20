@@ -1,0 +1,11 @@
+{
+  "clientId": 25142,
+  "key": "item.arm.helper",
+  "kind": "item",
+  "name": {
+    "ru": "«Аврора» PROHelper",
+    "en": "PROHelper's Aurora"
+  },
+  "apiId": "vj1lp",
+  "apiIdStatus": "inferred"
+}

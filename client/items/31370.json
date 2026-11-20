@@ -1,0 +1,11 @@
+{
+  "clientId": 31370,
+  "key": "item.ny_toys.setG.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная простая гирлянда",
+    "en": "Simple Gingerbread Tree Lights"
+  },
+  "apiId": "773n7",
+  "apiIdStatus": "inferred"
+}

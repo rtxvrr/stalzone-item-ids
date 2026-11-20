@@ -1,0 +1,11 @@
+{
+  "clientId": 19709,
+  "key": "item.camo.arm.insanity",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Психоз»",
+    "en": "Psychosis Paint"
+  },
+  "apiId": "qjv33",
+  "apiIdStatus": "inferred"
+}

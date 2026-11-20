@@ -1,0 +1,11 @@
+{
+  "clientId": 26512,
+  "key": "item.food.beans",
+  "kind": "item",
+  "name": {
+    "ru": "Консервированная фасоль",
+    "en": "Canned Beans"
+  },
+  "apiId": "rwol5",
+  "apiIdStatus": "inferred"
+}

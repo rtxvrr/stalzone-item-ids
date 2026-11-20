@@ -1,0 +1,11 @@
+{
+  "clientId": 4902,
+  "key": "item.plc.sticker.arcade_15",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер 15 ур. сессионных боев",
+    "en": "Level 15 Session Battles Sticker"
+  },
+  "apiId": "gjvp",
+  "apiIdStatus": "inferred"
+}

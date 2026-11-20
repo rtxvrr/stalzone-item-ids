@@ -1,0 +1,11 @@
+{
+  "clientId": 17160,
+  "key": "item.style.arm.tank_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Щука»",
+    "en": "Pike"
+  },
+  "apiId": "rw6nl",
+  "apiIdStatus": "inferred"
+}

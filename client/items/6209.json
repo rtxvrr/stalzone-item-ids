@@ -1,0 +1,11 @@
+{
+  "clientId": 6209,
+  "key": "item.misc.nef_coke",
+  "kind": "item",
+  "name": {
+    "ru": "Нефтяной кокс",
+    "en": "Petroleum Coke"
+  },
+  "apiId": "qv76",
+  "apiIdStatus": "inferred"
+}

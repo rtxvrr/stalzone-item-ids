@@ -1,0 +1,11 @@
+{
+  "clientId": 25300,
+  "key": "item.arm.ozk",
+  "kind": "item",
+  "name": {
+    "ru": "Продвинутый ОЗК",
+    "en": "Improved Hazmat Suit"
+  },
+  "apiId": "96ngz",
+  "apiIdStatus": "inferred"
+}

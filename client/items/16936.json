@@ -1,0 +1,11 @@
+{
+  "clientId": 16936,
+  "key": "item.quest.red_plate_special",
+  "kind": "item",
+  "name": {
+    "ru": "Особая красная плата",
+    "en": "Special Red Circuit Board"
+  },
+  "apiId": "rw6k5",
+  "apiIdStatus": "inferred"
+}

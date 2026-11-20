@@ -1,0 +1,11 @@
+{
+  "clientId": 11913,
+  "key": "item.plate.ceramic4",
+  "kind": "item",
+  "name": {
+    "ru": "Керамическая пластина IV",
+    "en": "Ceramic Plate IV"
+  },
+  "apiId": "0ngy",
+  "apiIdStatus": "inferred"
+}

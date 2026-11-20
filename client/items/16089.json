@@ -1,0 +1,11 @@
+{
+  "clientId": 16089,
+  "key": "item.quest.ssop_help_murmur_notes_6",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА бойца “Шепота”",
+    "en": "Murmur Operative's PDA"
+  },
+  "apiId": "p6v0w",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21041,
+  "key": "item.21041",
+  "kind": "item",
+  "name": {
+    "ru": "Шипастая дубинка",
+    "en": "Spiked Club"
+  },
+  "apiId": "p611d",
+  "apiIdStatus": "inferred"
+}

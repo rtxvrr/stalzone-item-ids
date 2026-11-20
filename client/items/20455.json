@@ -1,0 +1,11 @@
+{
+  "clientId": 20455,
+  "key": "item.wpn.beretta_kojemyaka",
+  "kind": "item",
+  "name": {
+    "ru": "Беретта Кожемяки",
+    "en": "Kozhemyaka's Beretta"
+  },
+  "apiId": "4qn1j",
+  "apiIdStatus": "inferred"
+}

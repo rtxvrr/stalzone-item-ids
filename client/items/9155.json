@@ -1,0 +1,11 @@
+{
+  "clientId": 9155,
+  "key": "item.wpn.mg42",
+  "kind": "item",
+  "name": {
+    "ru": "MG 42",
+    "en": "MG 42"
+  },
+  "apiId": "4pgn",
+  "apiIdStatus": "inferred"
+}

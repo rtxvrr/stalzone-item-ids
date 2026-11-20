@@ -1,0 +1,11 @@
+{
+  "clientId": 19616,
+  "key": "item.motif.arm.albatros_interceptor_nea",
+  "kind": "item",
+  "name": {
+    "ru": "«Белый тигр»",
+    "en": "White Tiger"
+  },
+  "apiId": "n4p41",
+  "apiIdStatus": "inferred"
+}

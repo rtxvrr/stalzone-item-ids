@@ -1,0 +1,11 @@
+{
+  "clientId": 19533,
+  "key": "item.camo.unique_arm.anarchy",
+  "kind": "item",
+  "name": {
+    "ru": "«Анархист»",
+    "en": "Anarchist"
+  },
+  "apiId": "qj499",
+  "apiIdStatus": "inferred"
+}

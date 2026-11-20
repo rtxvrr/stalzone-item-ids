@@ -1,0 +1,11 @@
+{
+  "clientId": 31071,
+  "key": "item.brt.pd.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Северный мох",
+    "en": "Northern Moss"
+  },
+  "apiId": "6ol3p",
+  "apiIdStatus": "inferred"
+}

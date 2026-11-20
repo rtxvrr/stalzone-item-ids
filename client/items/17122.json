@@ -1,0 +1,11 @@
+{
+  "clientId": 17122,
+  "key": "item.style.arm.ao6_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Последний богатырь»",
+    "en": "The Last Bogatyr"
+  },
+  "apiId": "7lokr",
+  "apiIdStatus": "inferred"
+}

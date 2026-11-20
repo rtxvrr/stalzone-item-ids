@@ -1,0 +1,11 @@
+{
+  "clientId": 5013,
+  "key": "item.plc.sticker.bureau26_4",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Мертвая хватка»",
+    "en": "Death Grip Sticker"
+  },
+  "apiId": "0mgd",
+  "apiIdStatus": "inferred"
+}

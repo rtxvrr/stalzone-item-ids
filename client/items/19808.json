@@ -1,0 +1,11 @@
+{
+  "clientId": 19808,
+  "key": "item.mtl.wpn.agony",
+  "kind": "item",
+  "name": {
+    "ru": "«Агония»",
+    "en": "Agony"
+  },
+  "apiId": "knl1j",
+  "apiIdStatus": "inferred"
+}

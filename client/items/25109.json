@@ -1,0 +1,11 @@
+{
+  "clientId": 25109,
+  "key": "item.arm.iolit-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Иолит»",
+    "en": "Worn Iolite"
+  },
+  "apiId": "qjor3",
+  "apiIdStatus": "inferred"
+}

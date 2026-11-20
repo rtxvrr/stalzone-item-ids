@@ -1,0 +1,11 @@
+{
+  "clientId": 16818,
+  "key": "item.quest.krasnolist",
+  "kind": "item",
+  "name": {
+    "ru": "Краснолист",
+    "en": "Redleaf"
+  },
+  "apiId": "vj037",
+  "apiIdStatus": "inferred"
+}

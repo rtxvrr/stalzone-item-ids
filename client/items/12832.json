@@ -1,0 +1,11 @@
+{
+  "clientId": 12832,
+  "key": "item.amm.9frs",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм «Сосуля»",
+    "en": "9 mm Icicle Round"
+  },
+  "apiId": "kkz0",
+  "apiIdStatus": "inferred"
+}

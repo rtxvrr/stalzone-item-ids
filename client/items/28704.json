@@ -1,0 +1,11 @@
+{
+  "clientId": 28704,
+  "key": "item.28704",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон эстета",
+    "en": "Aesthete Token"
+  },
+  "apiId": "55l1q",
+  "apiIdStatus": "inferred"
+}

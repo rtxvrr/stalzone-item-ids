@@ -1,0 +1,11 @@
+{
+  "clientId": 24343,
+  "key": "item.charm.12mm_f",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Заледенелый патрон 12 калибра»",
+    "en": "Icy 12 Caliber Round Charm"
+  },
+  "apiId": "dm7p9",
+  "apiIdStatus": "inferred"
+}

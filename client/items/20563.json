@@ -1,0 +1,11 @@
+{
+  "clientId": 20563,
+  "key": "item.wpn.aug9mm",
+  "kind": "item",
+  "name": {
+    "ru": "Steyr AUG 9mm",
+    "en": "Steyr AUG 9mm"
+  },
+  "apiId": "okm10",
+  "apiIdStatus": "inferred"
+}

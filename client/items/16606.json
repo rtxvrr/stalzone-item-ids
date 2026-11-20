@@ -1,0 +1,11 @@
+{
+  "clientId": 16606,
+  "key": "item.lootbox.wpn_camo",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер с оружейным камуфляжем",
+    "en": "Container with Weapon Camouflage"
+  },
+  "apiId": "wjlg2",
+  "apiIdStatus": "inferred"
+}

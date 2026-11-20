@@ -1,0 +1,11 @@
+{
+  "clientId": 8117,
+  "key": "item.quest.morok_anchor",
+  "kind": "item",
+  "name": {
+    "ru": "«Якорь» Морока",
+    "en": "Morphs Anchor"
+  },
+  "apiId": "plj5",
+  "apiIdStatus": "inferred"
+}

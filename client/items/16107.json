@@ -1,0 +1,11 @@
+{
+  "clientId": 16107,
+  "key": "item.16107",
+  "kind": "item",
+  "name": {
+    "ru": "Мозги с Бораля",
+    "en": "Brains from Boral"
+  },
+  "apiId": "4qoro",
+  "apiIdStatus": "inferred"
+}

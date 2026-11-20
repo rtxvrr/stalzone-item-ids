@@ -1,0 +1,11 @@
+{
+  "clientId": 17560,
+  "key": "item.style.wpn.jackhammer_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Живодер»",
+    "en": "Knacker"
+  },
+  "apiId": "rwp25",
+  "apiIdStatus": "inferred"
+}

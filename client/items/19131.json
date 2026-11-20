@@ -1,0 +1,11 @@
+{
+  "clientId": 19131,
+  "key": "item.camo.arm.spad",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Спад»",
+    "en": "Drop Camouflage"
+  },
+  "apiId": "4q25o",
+  "apiIdStatus": "inferred"
+}

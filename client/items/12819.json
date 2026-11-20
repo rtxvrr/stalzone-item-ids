@@ -1,0 +1,11 @@
+{
+  "clientId": 12819,
+  "key": "item.amm.10bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 10 мм бронебойный",
+    "en": "10 mm Armor-Piercing Round"
+  },
+  "apiId": "d1p5",
+  "apiIdStatus": "inferred"
+}

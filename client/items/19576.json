@@ -1,0 +1,11 @@
+{
+  "clientId": 19576,
+  "key": "item.motif.arm.albatros_heavy_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Гвоздодер»",
+    "en": "Claw Hammer"
+  },
+  "apiId": "5l7m4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17567,
+  "key": "item.style.wpn.glock_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "GLK-1",
+    "en": "GLK-1"
+  },
+  "apiId": "dmpjn",
+  "apiIdStatus": "inferred"
+}

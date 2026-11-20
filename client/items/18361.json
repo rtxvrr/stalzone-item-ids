@@ -1,0 +1,11 @@
+{
+  "clientId": 18361,
+  "key": "item.camo.wpn.red_expo_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Презентация»",
+    "en": "Presentation Paint "
+  },
+  "apiId": "0r6dr",
+  "apiIdStatus": "inferred"
+}

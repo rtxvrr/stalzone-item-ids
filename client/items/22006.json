@@ -1,0 +1,11 @@
+{
+  "clientId": 22006,
+  "key": "item.att.forend_sigris4",
+  "kind": "item",
+  "name": {
+    "ru": "SIG SG 550 Handguard 4x NAR",
+    "en": "SIG SG 550 Handguard 4x NAR"
+  },
+  "apiId": "wjpl2",
+  "apiIdStatus": "inferred"
+}

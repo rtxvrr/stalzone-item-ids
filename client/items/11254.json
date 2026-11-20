@@ -1,0 +1,11 @@
+{
+  "clientId": 11254,
+  "key": "item.art.trampoline_nightstar",
+  "kind": "item",
+  "name": {
+    "ru": "Белая роза",
+    "en": "White Rose"
+  },
+  "apiId": "wg62",
+  "apiIdStatus": "inferred"
+}

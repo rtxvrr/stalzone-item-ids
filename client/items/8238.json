@@ -1,0 +1,11 @@
+{
+  "clientId": 8238,
+  "key": "item.quest.fools_day_rails",
+  "kind": "item",
+  "name": {
+    "ru": "Железнодорожная рельса",
+    "en": "Rail"
+  },
+  "apiId": "mkny",
+  "apiIdStatus": "inferred"
+}

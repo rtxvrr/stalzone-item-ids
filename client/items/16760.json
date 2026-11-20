@@ -1,0 +1,11 @@
+{
+  "clientId": 16760,
+  "key": "item.gachapon.summer24",
+  "kind": "item",
+  "name": {
+    "ru": "Кейс с обликами «Корпорации ZIVCAS»",
+    "en": "Case with ZIVCAS Corporation styles"
+  },
+  "apiId": "rw6jy",
+  "apiIdStatus": "inferred"
+}

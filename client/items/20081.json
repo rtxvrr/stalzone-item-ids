@@ -1,0 +1,11 @@
+{
+  "clientId": 20081,
+  "key": "item.wpn.groza-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенная «Гроза»",
+    "en": "Worn Groza"
+  },
+  "apiId": "qjv16",
+  "apiIdStatus": "inferred"
+}

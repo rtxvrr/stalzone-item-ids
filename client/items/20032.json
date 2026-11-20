@@ -1,0 +1,11 @@
+{
+  "clientId": 20032,
+  "key": "item.wpn.aks74_main",
+  "kind": "item",
+  "name": {
+    "ru": "АКС чистильщика",
+    "en": "Cleaner's AKS"
+  },
+  "apiId": "knl70",
+  "apiIdStatus": "inferred"
+}

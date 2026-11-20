@@ -1,0 +1,11 @@
+{
+  "clientId": 10158,
+  "key": "item.quest.smotrikov9",
+  "kind": "item",
+  "name": {
+    "ru": "Белая кассета: Запись",
+    "en": "White Cassette: Recording"
+  },
+  "apiId": "jd2g",
+  "apiIdStatus": "inferred"
+}

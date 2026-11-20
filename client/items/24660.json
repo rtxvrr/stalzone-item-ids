@@ -1,0 +1,11 @@
+{
+  "clientId": 24660,
+  "key": "item.charm.welcome_batya",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «Виталий Орехов»",
+    "en": "Vitaly Orekhov Channel Fan Charm"
+  },
+  "apiId": "rw7nz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27215,
+  "key": "item.27215",
+  "kind": "item",
+  "name": {
+    "ru": "Руда",
+    "en": "Ore"
+  },
+  "apiId": "okozo",
+  "apiIdStatus": "inferred"
+}

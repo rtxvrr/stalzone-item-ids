@@ -1,0 +1,11 @@
+{
+  "clientId": 15862,
+  "key": "item.item_pack.spring25_1",
+  "kind": "item",
+  "name": {
+    "ru": "Сезонный Набор №1",
+    "en": "Season Pack #1"
+  },
+  "apiId": "m04vj",
+  "apiIdStatus": "inferred"
+}

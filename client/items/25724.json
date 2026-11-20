@@ -1,0 +1,11 @@
+{
+  "clientId": 25724,
+  "key": "item.skin.spring24_2",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Гадкий ящер»",
+    "en": "Nasty Lizard Skin"
+  },
+  "apiId": "96ypy",
+  "apiIdStatus": "inferred"
+}

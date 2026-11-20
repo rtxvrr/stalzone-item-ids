@@ -1,0 +1,11 @@
+{
+  "clientId": 28605,
+  "key": "item.28605",
+  "kind": "item",
+  "name": {
+    "ru": "Белая плата",
+    "en": "White Circuit Board"
+  },
+  "apiId": "y43mk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16171,
+  "key": "item.16171",
+  "kind": "item",
+  "name": {
+    "ru": "Свиное яблоко",
+    "en": "Pig Apples"
+  },
+  "apiId": "6w9w0",
+  "apiIdStatus": "inferred"
+}

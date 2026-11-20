@@ -1,0 +1,11 @@
+{
+  "clientId": 16132,
+  "key": "item.misc.limansk.escape",
+  "kind": "item",
+  "name": {
+    "ru": "Ксива",
+    "en": "ID"
+  },
+  "apiId": "knpyp",
+  "apiIdStatus": "inferred"
+}

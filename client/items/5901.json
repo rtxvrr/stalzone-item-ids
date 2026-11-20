@@ -1,0 +1,11 @@
+{
+  "clientId": 5901,
+  "key": "item.hdt.wp.reichstag",
+  "kind": "item",
+  "name": {
+    "ru": "Шрамы войны",
+    "en": "Scars of War"
+  },
+  "apiId": "1d12",
+  "apiIdStatus": "inferred"
+}

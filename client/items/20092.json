@@ -1,0 +1,11 @@
+{
+  "clientId": 20092,
+  "key": "item.wpn.scorpion",
+  "kind": "item",
+  "name": {
+    "ru": "Scorpion EVO III",
+    "en": "Scorpion EVO III"
+  },
+  "apiId": "2od90",
+  "apiIdStatus": "inferred"
+}

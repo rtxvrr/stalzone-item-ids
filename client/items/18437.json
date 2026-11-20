@@ -1,0 +1,11 @@
+{
+  "clientId": 18437,
+  "key": "item.camo.wpn.spring25_twitch_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Чернобыльский ил»",
+    "en": "Chernobyl silt Paint"
+  },
+  "apiId": "0rmw9",
+  "apiIdStatus": "inferred"
+}

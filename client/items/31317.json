@@ -1,0 +1,11 @@
+{
+  "clientId": 31317,
+  "key": "item.ny_toys.setC.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Желтая мишура",
+    "en": "Yellow Tinsel"
+  },
+  "apiId": "pjnz2",
+  "apiIdStatus": "inferred"
+}

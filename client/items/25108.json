@@ -1,0 +1,11 @@
+{
+  "clientId": 25108,
+  "key": "item.arm.topaz-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Топаз»",
+    "en": "Worn Topaz"
+  },
+  "apiId": "knqwp",
+  "apiIdStatus": "inferred"
+}

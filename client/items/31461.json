@@ -1,0 +1,11 @@
+{
+  "clientId": 31461,
+  "key": "item.lootbox.summer24_tickets_small",
+  "kind": "item",
+  "name": {
+    "ru": "Солдатская шкатулка",
+    "en": "Soldier's lockbox"
+  },
+  "apiId": "00jvd",
+  "apiIdStatus": "inferred"
+}

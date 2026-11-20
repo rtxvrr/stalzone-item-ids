@@ -1,0 +1,11 @@
+{
+  "clientId": 20491,
+  "key": "item.wpn.cobra_tt",
+  "kind": "item",
+  "name": {
+    "ru": "Cobra Two-Tone",
+    "en": "Cobra Two-Tone"
+  },
+  "apiId": "dmjog",
+  "apiIdStatus": "inferred"
+}

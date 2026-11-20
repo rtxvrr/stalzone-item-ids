@@ -1,0 +1,11 @@
+{
+  "clientId": 29991,
+  "key": "item.filler.outpost_7",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с запчастями",
+    "en": "Box of Spare Parts"
+  },
+  "apiId": "drym2",
+  "apiIdStatus": "inferred"
+}

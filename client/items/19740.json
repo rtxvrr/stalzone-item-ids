@@ -1,0 +1,11 @@
+{
+  "clientId": 19740,
+  "key": "item.camo.arm.savannaspirit",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Дух саванны»",
+    "en": "Savannah Spirit Paint"
+  },
+  "apiId": "n4pn2",
+  "apiIdStatus": "inferred"
+}

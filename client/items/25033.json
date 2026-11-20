@@ -1,0 +1,11 @@
+{
+  "clientId": 25033,
+  "key": "item.arm.zarya",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Аврора»",
+    "en": "Aurora Jumpsuit"
+  },
+  "apiId": "qjo2j",
+  "apiIdStatus": "inferred"
+}

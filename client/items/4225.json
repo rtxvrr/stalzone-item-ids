@@ -1,0 +1,11 @@
+{
+  "clientId": 4225,
+  "key": "item.plc.background.dmz26_1",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Летняя жара»",
+    "en": "Summer Heat Background"
+  },
+  "apiId": "1ymr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27714,
+  "key": "item.stash_placer.base_master",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон мастера",
+    "en": "Master stash"
+  },
+  "apiId": "mrwr7",
+  "apiIdStatus": "inferred"
+}

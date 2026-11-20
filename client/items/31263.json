@@ -1,0 +1,11 @@
+{
+  "clientId": 31263,
+  "key": "item.ny_toys.setQ.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Советский драгоценный шарик",
+    "en": "Soviet Precious Bauble"
+  },
+  "apiId": "olnn5",
+  "apiIdStatus": "inferred"
+}

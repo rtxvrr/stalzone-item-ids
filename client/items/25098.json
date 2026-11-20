@@ -1,0 +1,11 @@
+{
+  "clientId": 25098,
+  "key": "item.arm.pahan-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Пахан»",
+    "en": "Worn Kingpin"
+  },
+  "apiId": "g4yo6",
+  "apiIdStatus": "inferred"
+}

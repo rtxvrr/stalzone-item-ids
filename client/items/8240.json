@@ -1,0 +1,11 @@
+{
+  "clientId": 8240,
+  "key": "item.quest.fools_day_second_instruments",
+  "kind": "item",
+  "name": {
+    "ru": "Точно те самые инструменты из ящика",
+    "en": "These are the exact tools from the crate"
+  },
+  "apiId": "nqo1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6505,
+  "key": "item.misc.methane",
+  "kind": "item",
+  "name": {
+    "ru": "Метан",
+    "en": "Methane"
+  },
+  "apiId": "y263",
+  "apiIdStatus": "inferred"
+}

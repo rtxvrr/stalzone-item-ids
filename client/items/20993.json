@@ -1,0 +1,11 @@
+{
+  "clientId": 20993,
+  "key": "item.exp.stun_encage",
+  "kind": "item",
+  "name": {
+    "ru": "Светошумовая граната",
+    "en": "Flashbang grenade"
+  },
+  "apiId": "3g9r5",
+  "apiIdStatus": "inferred"
+}

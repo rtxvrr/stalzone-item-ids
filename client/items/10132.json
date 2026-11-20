@@ -1,0 +1,11 @@
+{
+  "clientId": 10132,
+  "key": "item.quest.operatsii_audiodnevnik1",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из администрации Полигона-7",
+    "en": "Cassette from the Administration of Area-7"
+  },
+  "apiId": "kdwp",
+  "apiIdStatus": "inferred"
+}

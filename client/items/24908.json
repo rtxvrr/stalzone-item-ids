@@ -1,0 +1,11 @@
+{
+  "clientId": 24908,
+  "key": "item.charm.media_plant",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Цветок мертвых»",
+    "en": "Flower of the Dead Charm"
+  },
+  "apiId": "knq53",
+  "apiIdStatus": "inferred"
+}

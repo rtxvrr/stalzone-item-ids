@@ -1,0 +1,11 @@
+{
+  "clientId": 16549,
+  "key": "item.pouch.apt_a",
+  "kind": "item",
+  "name": {
+    "ru": "Подсумок с военными аптечками",
+    "en": "Pouch of Military First-Aid Kits"
+  },
+  "apiId": "1rlgq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24335,
+  "key": "item.charm.tepl",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Теплыш»",
+    "en": "Heater Charm"
+  },
+  "apiId": "ly79q",
+  "apiIdStatus": "inferred"
+}

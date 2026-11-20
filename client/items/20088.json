@@ -1,0 +1,11 @@
+{
+  "clientId": 20088,
+  "key": "item.wpn.kriss-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный TDI Kriss Vector",
+    "en": "Damaged TDI KRISS Vector"
+  },
+  "apiId": "n4pv6",
+  "apiIdStatus": "inferred"
+}

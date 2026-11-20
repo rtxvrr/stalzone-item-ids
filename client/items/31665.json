@@ -1,0 +1,11 @@
+{
+  "clientId": 31665,
+  "key": "item.blueprint.arm.ao5",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж УКАЗ АО-5 «Пилигрим»",
+    "en": "RAPS AH-5 Pilgrim Blueprint"
+  },
+  "apiId": "pjnpw",
+  "apiIdStatus": "inferred"
+}

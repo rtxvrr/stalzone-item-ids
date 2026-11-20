@@ -1,0 +1,11 @@
+{
+  "clientId": 8295,
+  "key": "item.quest.crash_bura_ring",
+  "kind": "item",
+  "name": {
+    "ru": "Кольцо Буры",
+    "en": "Borax's Ring"
+  },
+  "apiId": "6v2p",
+  "apiIdStatus": "inferred"
+}

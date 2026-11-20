@@ -1,0 +1,11 @@
+{
+  "clientId": 12380,
+  "key": "item.exp.molotov_quest",
+  "kind": "item",
+  "name": {
+    "ru": "Коктейль Молотова",
+    "en": "Molotov Cocktail"
+  },
+  "apiId": "kom3",
+  "apiIdStatus": "inferred"
+}

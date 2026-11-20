@@ -1,0 +1,11 @@
+{
+  "clientId": 12076,
+  "key": "item.bag.router",
+  "kind": "item",
+  "name": {
+    "ru": "Рюкзак оператора",
+    "en": "Operator's backpack"
+  },
+  "apiId": "51mo",
+  "apiIdStatus": "inferred"
+}

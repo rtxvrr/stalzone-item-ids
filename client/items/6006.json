@@ -1,0 +1,11 @@
+{
+  "clientId": 6006,
+  "key": "item.misc.dimmer_minerals",
+  "kind": "item",
+  "name": {
+    "ru": "Тусклые минералы",
+    "en": "Dim minerals"
+  },
+  "apiId": "wooz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17002,
+  "key": "item.att.launcher_groza",
+  "kind": "item",
+  "name": {
+    "ru": "Гранатомет для ОЦ-14 «Гроза»",
+    "en": "Grenade Launcher for OTs-14 Groza"
+  },
+  "apiId": "g49v0",
+  "apiIdStatus": "inferred"
+}

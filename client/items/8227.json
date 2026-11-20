@@ -1,0 +1,11 @@
+{
+  "clientId": 8227,
+  "key": "item.quest.chertezh_nocturne",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж КИМ-Х «Ноктюрн»",
+    "en": "Nocturne MIS-X Blueprint"
+  },
+  "apiId": "zpoy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11302,
+  "key": "item.art.voronka_goldfish",
+  "kind": "item",
+  "name": {
+    "ru": "Креветка",
+    "en": "Shrimp"
+  },
+  "apiId": "gyg5",
+  "apiIdStatus": "inferred"
+}

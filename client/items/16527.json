@@ -1,0 +1,11 @@
+{
+  "clientId": 16527,
+  "key": "item.bag.939st",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 9x39 СП-5",
+    "en": "Pouch of 9x39 mm SP-5 Rounds"
+  },
+  "apiId": "zzwr9",
+  "apiIdStatus": "inferred"
+}

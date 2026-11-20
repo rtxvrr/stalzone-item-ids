@@ -1,0 +1,11 @@
+{
+  "clientId": 20066,
+  "key": "item.wpn.sr2_kutuzova",
+  "kind": "item",
+  "name": {
+    "ru": "«Вереск» Каплана",
+    "en": "Kaplan's Veresk"
+  },
+  "apiId": "vjr6n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28152,
+  "key": "item.28152",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованная флешка",
+    "en": "Encrypted Flash Drive"
+  },
+  "apiId": "55qzq",
+  "apiIdStatus": "inferred"
+}

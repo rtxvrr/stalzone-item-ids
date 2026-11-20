@@ -1,0 +1,11 @@
+{
+  "clientId": 25350,
+  "key": "item.arm.zivcas",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня JD ZIVCAS 2A",
+    "en": "JD ZIVCAS 2A Exoarmor"
+  },
+  "apiId": "g43rp",
+  "apiIdStatus": "inferred"
+}

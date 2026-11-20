@@ -1,0 +1,11 @@
+{
+  "clientId": 20126,
+  "key": "item.wpn.rpk74",
+  "kind": "item",
+  "name": {
+    "ru": "РПК-74",
+    "en": "RPK-74"
+  },
+  "apiId": "g405g",
+  "apiIdStatus": "inferred"
+}

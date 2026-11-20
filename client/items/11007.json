@@ -1,0 +1,11 @@
+{
+  "clientId": 11007,
+  "key": "item.art.electra_moonlight",
+  "kind": "item",
+  "name": {
+    "ru": "Лампочка Ильича",
+    "en": "Ilyich Lamp"
+  },
+  "apiId": "4lkp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31253,
+  "key": "item.scheme.hp_mod_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #4: «Мечта»",
+    "en": "Schematic #4: Dream"
+  },
+  "apiId": "y4yy0",
+  "apiIdStatus": "inferred"
+}

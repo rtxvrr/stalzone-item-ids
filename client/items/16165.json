@@ -1,0 +1,11 @@
+{
+  "clientId": 16165,
+  "key": "item.16165",
+  "kind": "item",
+  "name": {
+    "ru": "Зубной порошок",
+    "en": "Tooth Powder"
+  },
+  "apiId": "p6q64",
+  "apiIdStatus": "inferred"
+}

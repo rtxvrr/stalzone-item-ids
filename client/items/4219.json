@@ -1,0 +1,11 @@
+{
+  "clientId": 4219,
+  "key": "item.plc.background.morgue",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Морга",
+    "en": "Morgue Background"
+  },
+  "apiId": "d99g",
+  "apiIdStatus": "inferred"
+}

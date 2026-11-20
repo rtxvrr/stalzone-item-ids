@@ -1,0 +1,11 @@
+{
+  "clientId": 14990,
+  "key": "item.tool.tree_toy",
+  "kind": "item",
+  "name": {
+    "ru": "Мурзилка",
+    "en": "Fiendling"
+  },
+  "apiId": "vjnqp",
+  "apiIdStatus": "inferred"
+}

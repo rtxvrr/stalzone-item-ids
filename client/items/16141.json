@@ -1,0 +1,11 @@
+{
+  "clientId": 16141,
+  "key": "item.16141",
+  "kind": "item",
+  "name": {
+    "ru": "Ноутбук «Шепота»",
+    "en": "Murmur Laptop"
+  },
+  "apiId": "p6qk4",
+  "apiIdStatus": "inferred"
+}

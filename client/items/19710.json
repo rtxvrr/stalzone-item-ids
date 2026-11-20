@@ -1,0 +1,11 @@
+{
+  "clientId": 19710,
+  "key": "item.camo.arm.overload",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Перегрузка»",
+    "en": "Overload Paint"
+  },
+  "apiId": "j5lzg",
+  "apiIdStatus": "inferred"
+}

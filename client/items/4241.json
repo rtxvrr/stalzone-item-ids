@@ -1,0 +1,11 @@
+{
+  "clientId": 4241,
+  "key": "item.plc.background.summer26",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Антициклон»",
+    "en": "Anticyclone Season Background"
+  },
+  "apiId": "pozd",
+  "apiIdStatus": "inferred"
+}

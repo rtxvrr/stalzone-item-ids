@@ -1,0 +1,11 @@
+{
+  "clientId": 31419,
+  "key": "item.bag.762fire",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 7.62 мм «Жгучий»",
+    "en": "Pouch of 7.62 mm Fluff Rounds"
+  },
+  "apiId": "drpo5",
+  "apiIdStatus": "inferred"
+}

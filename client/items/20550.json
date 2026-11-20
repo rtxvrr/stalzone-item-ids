@@ -1,0 +1,11 @@
+{
+  "clientId": 20550,
+  "key": "item.wpn.aps",
+  "kind": "item",
+  "name": {
+    "ru": "АПС",
+    "en": "APS"
+  },
+  "apiId": "g4mqp",
+  "apiIdStatus": "inferred"
+}

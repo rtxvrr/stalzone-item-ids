@@ -1,0 +1,11 @@
+{
+  "clientId": 16244,
+  "key": "item.filler.perfcard",
+  "kind": "item",
+  "name": {
+    "ru": "Перфокарта",
+    "en": "Punch Card"
+  },
+  "apiId": "2o00v",
+  "apiIdStatus": "inferred"
+}

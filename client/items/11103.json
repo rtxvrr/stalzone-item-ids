@@ -1,0 +1,11 @@
+{
+  "clientId": 11103,
+  "key": "item.art.karousel_gnilec",
+  "kind": "item",
+  "name": {
+    "ru": "Болотный гнилец",
+    "en": "Swamp Rot"
+  },
+  "apiId": "zyo9",
+  "apiIdStatus": "inferred"
+}

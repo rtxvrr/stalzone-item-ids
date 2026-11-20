@@ -1,0 +1,11 @@
+{
+  "clientId": 10600,
+  "key": "item.keyholder.small",
+  "kind": "item",
+  "name": {
+    "ru": "Маленькая ключница",
+    "en": "Small Key Holder"
+  },
+  "apiId": "9r2l",
+  "apiIdStatus": "inferred"
+}

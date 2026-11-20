@@ -1,0 +1,11 @@
+{
+  "clientId": 25112,
+  "key": "item.arm.berill_plenika",
+  "kind": "item",
+  "name": {
+    "ru": "«Комбат» пленника",
+    "en": "Captive's Combat"
+  },
+  "apiId": "rwn0y",
+  "apiIdStatus": "inferred"
+}

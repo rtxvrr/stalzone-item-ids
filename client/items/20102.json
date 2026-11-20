@@ -1,0 +1,11 @@
+{
+  "clientId": 20102,
+  "key": "item.wpn.microuzi_testers",
+  "kind": "item",
+  "name": {
+    "ru": "Наградной Micro Uzi",
+    "en": "Award Micro Uzi"
+  },
+  "apiId": "g40lg",
+  "apiIdStatus": "inferred"
+}

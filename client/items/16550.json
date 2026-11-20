@@ -1,0 +1,11 @@
+{
+  "clientId": 16550,
+  "key": "item.16550",
+  "kind": "item",
+  "name": {
+    "ru": "Коробка ИРП",
+    "en": "Box of MRE"
+  },
+  "apiId": "g41dg",
+  "apiIdStatus": "inferred"
+}

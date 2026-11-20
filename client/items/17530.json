@@ -1,0 +1,11 @@
+{
+  "clientId": 17530,
+  "key": "item.style.wpn.sr1_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "СР-1-10 Черного Рынка",
+    "en": "Black Market SR-1-10"
+  },
+  "apiId": "wjzoo",
+  "apiIdStatus": "inferred"
+}

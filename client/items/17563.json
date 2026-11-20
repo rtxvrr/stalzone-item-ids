@@ -1,0 +1,11 @@
+{
+  "clientId": 17563,
+  "key": "item.style.wpn.glock_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Точка нуля»",
+    "en": "Zero Point"
+  },
+  "apiId": "oknm0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20180,
+  "key": "item.wpn.rpd_dsa",
+  "kind": "item",
+  "name": {
+    "ru": "DSA RPD",
+    "en": "DSA RPD"
+  },
+  "apiId": "knmy3",
+  "apiIdStatus": "inferred"
+}

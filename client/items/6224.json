@@ -1,0 +1,11 @@
+{
+  "clientId": 6224,
+  "key": "item.misc.fish_cut",
+  "kind": "item",
+  "name": {
+    "ru": "Рыбное филе",
+    "en": "Fish Fillet"
+  },
+  "apiId": "9mn0",
+  "apiIdStatus": "inferred"
+}

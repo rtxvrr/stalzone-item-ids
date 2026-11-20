@@ -1,0 +1,11 @@
+{
+  "clientId": 18004,
+  "key": "item.camo.wpn.green",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Зеленая»",
+    "en": "Green Weapon Paint"
+  },
+  "apiId": "5lj3o",
+  "apiIdStatus": "inferred"
+}

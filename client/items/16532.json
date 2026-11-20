@@ -1,0 +1,11 @@
+{
+  "clientId": 16532,
+  "key": "item.bag.762st",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 7.62 мм",
+    "en": "Pouch of 7.62 mm Rounds"
+  },
+  "apiId": "knp03",
+  "apiIdStatus": "inferred"
+}

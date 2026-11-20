@@ -1,0 +1,11 @@
+{
+  "clientId": 16062,
+  "key": "item.16062",
+  "kind": "item",
+  "name": {
+    "ru": "Старинная монета 1624 года",
+    "en": "Old Coin from 1624"
+  },
+  "apiId": "m04py",
+  "apiIdStatus": "inferred"
+}

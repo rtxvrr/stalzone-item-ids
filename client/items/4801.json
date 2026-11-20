@@ -1,0 +1,11 @@
+{
+  "clientId": 4801,
+  "key": "item.plc.sticker.stalkers",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сталкеров",
+    "en": "Stalker Sticker"
+  },
+  "apiId": "1mmr",
+  "apiIdStatus": "inferred"
+}

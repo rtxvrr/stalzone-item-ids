@@ -1,0 +1,11 @@
+{
+  "clientId": 20404,
+  "key": "item.wpn.colt_walker",
+  "kind": "item",
+  "name": {
+    "ru": "Модифицированный Colt Walker",
+    "en": "Modified Colt Walker"
+  },
+  "apiId": "5lndo",
+  "apiIdStatus": "inferred"
+}

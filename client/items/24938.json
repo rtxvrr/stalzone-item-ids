@@ -1,0 +1,11 @@
+{
+  "clientId": 24938,
+  "key": "item.charm.autumn26_woodface",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мертвые души»",
+    "en": "Dead Souls Charm"
+  },
+  "apiId": "m06nr",
+  "apiIdStatus": "inferred"
+}

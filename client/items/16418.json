@@ -1,0 +1,11 @@
+{
+  "clientId": 16418,
+  "key": "item.16418",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА Военных",
+    "en": "Military's PDA"
+  },
+  "apiId": "vj34n",
+  "apiIdStatus": "inferred"
+}

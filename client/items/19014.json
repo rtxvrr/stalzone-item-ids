@@ -1,0 +1,11 @@
+{
+  "clientId": 19014,
+  "key": "item.camo.arm.grey",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Серая»",
+    "en": "Gray Armor Paint"
+  },
+  "apiId": "m0zwy",
+  "apiIdStatus": "inferred"
+}

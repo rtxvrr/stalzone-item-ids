@@ -1,0 +1,11 @@
+{
+  "clientId": 21617,
+  "key": "item.wpn_mod.adv.long_barrel",
+  "kind": "item",
+  "name": {
+    "ru": "«Лесник»",
+    "en": "Forester"
+  },
+  "apiId": "p641d",
+  "apiIdStatus": "inferred"
+}

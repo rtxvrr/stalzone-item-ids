@@ -1,0 +1,11 @@
+{
+  "clientId": 17000,
+  "key": "item.att.launcher_gp25",
+  "kind": "item",
+  "name": {
+    "ru": "ГП-25 «Костер»",
+    "en": "GP-25 Kostyor"
+  },
+  "apiId": "96kw0",
+  "apiIdStatus": "inferred"
+}

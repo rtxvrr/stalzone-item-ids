@@ -1,0 +1,11 @@
+{
+  "clientId": 26082,
+  "key": "item.food.ny23.champagne_fizzy",
+  "kind": "item",
+  "name": {
+    "ru": "Игристое шампанское",
+    "en": "Sparkling Champagne"
+  },
+  "apiId": "j5mg7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19538,
+  "key": "item.camo.unique_arm.oazis",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель Оазиса»",
+    "en": "Oasis Guardian"
+  },
+  "apiId": "m0zjr",
+  "apiIdStatus": "inferred"
+}

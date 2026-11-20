@@ -1,0 +1,11 @@
+{
+  "clientId": 31457,
+  "key": "item.lootbox.veles_wounds",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Раны Велеса»",
+    "en": "Wounds of Veles Case"
+  },
+  "apiId": "q0nr6",
+  "apiIdStatus": "inferred"
+}

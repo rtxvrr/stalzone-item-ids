@@ -1,0 +1,11 @@
+{
+  "clientId": 24642,
+  "key": "item.charm.twins",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Близнецы»",
+    "en": "Gemini Charm"
+  },
+  "apiId": "vj777",
+  "apiIdStatus": "inferred"
+}

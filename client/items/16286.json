@@ -1,0 +1,11 @@
+{
+  "clientId": 16286,
+  "key": "item.misc.chimera_skin_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Шкура бестии",
+    "en": "Fiend Skin"
+  },
+  "apiId": "m0qyk",
+  "apiIdStatus": "inferred"
+}

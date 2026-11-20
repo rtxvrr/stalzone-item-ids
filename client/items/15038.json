@@ -1,0 +1,11 @@
+{
+  "clientId": 15038,
+  "key": "item.lootbox.ticket_parts",
+  "kind": "item",
+  "name": {
+    "ru": "Случайная часть снаряжения",
+    "en": "Random gear part"
+  },
+  "apiId": "m0rrk",
+  "apiIdStatus": "inferred"
+}

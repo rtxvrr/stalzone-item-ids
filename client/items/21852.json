@@ -1,0 +1,11 @@
+{
+  "clientId": 21852,
+  "key": "item.wpn_mod.adv.rus_strike",
+  "kind": "item",
+  "name": {
+    "ru": "«Богатырский щелбан»",
+    "en": "Bogatyr finger flick"
+  },
+  "apiId": "5l92g",
+  "apiIdStatus": "inferred"
+}

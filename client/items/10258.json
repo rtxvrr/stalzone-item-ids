@@ -1,0 +1,11 @@
+{
+  "clientId": 10258,
+  "key": "item.phonograph.vinyl_location_mogilnik",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Могильник»",
+    "en": "The Graveyard Vinyl Record"
+  },
+  "apiId": "jdkl",
+  "apiIdStatus": "inferred"
+}

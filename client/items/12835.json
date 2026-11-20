@@ -1,0 +1,11 @@
+{
+  "clientId": 12835,
+  "key": "item.amm.9far",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм дальнобойный",
+    "en": "9 mm Long-Range Round"
+  },
+  "apiId": "l65j",
+  "apiIdStatus": "inferred"
+}

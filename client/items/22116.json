@@ -1,0 +1,11 @@
+{
+  "clientId": 22116,
+  "key": "item.att.handgrip_rk5",
+  "kind": "item",
+  "name": {
+    "ru": "РК-5",
+    "en": "RK-5"
+  },
+  "apiId": "n4q52",
+  "apiIdStatus": "inferred"
+}

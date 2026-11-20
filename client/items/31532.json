@@ -1,0 +1,11 @@
+{
+  "clientId": 31532,
+  "key": "item.ny_toys.setL.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Роза",
+    "en": "Rose Artifact Decoration"
+  },
+  "apiId": "krzd3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28715,
+  "key": "item.key.dmz_2026",
+  "kind": "item",
+  "name": {
+    "ru": "Купон на «Ящик десантника»",
+    "en": "Coupon for Trooper's Crate"
+  },
+  "apiId": "olk3m",
+  "apiIdStatus": "inferred"
+}

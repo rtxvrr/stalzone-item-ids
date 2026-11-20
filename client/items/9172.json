@@ -1,0 +1,11 @@
+{
+  "clientId": 9172,
+  "key": "item.exp.rgd33_reich",
+  "kind": "item",
+  "name": {
+    "ru": "РГД-33",
+    "en": "RGD-33"
+  },
+  "apiId": "9pgz",
+  "apiIdStatus": "inferred"
+}

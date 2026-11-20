@@ -1,0 +1,11 @@
+{
+  "clientId": 22004,
+  "key": "item.att.forend_p90ris",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье RIS P90",
+    "en": "RIS P90 Handguard"
+  },
+  "apiId": "5lvo1",
+  "apiIdStatus": "inferred"
+}

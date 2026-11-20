@@ -1,0 +1,11 @@
+{
+  "clientId": 6118,
+  "key": "item.misc.dog_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Мясо шавки",
+    "en": "Mutt Meat"
+  },
+  "apiId": "vrpd",
+  "apiIdStatus": "inferred"
+}

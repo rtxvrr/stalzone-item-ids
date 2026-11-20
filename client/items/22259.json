@@ -1,0 +1,11 @@
+{
+  "clientId": 22259,
+  "key": "item.att.scope_mauser98",
+  "kind": "item",
+  "name": {
+    "ru": "Оптический прицел",
+    "en": "Optical Sight"
+  },
+  "apiId": "ly412",
+  "apiIdStatus": "inferred"
+}

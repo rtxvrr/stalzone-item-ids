@@ -1,0 +1,11 @@
+{
+  "clientId": 11102,
+  "key": "item.art.karousel_jelch",
+  "kind": "item",
+  "name": {
+    "ru": "Плод",
+    "en": "Embryo"
+  },
+  "apiId": "gypg",
+  "apiIdStatus": "inferred"
+}

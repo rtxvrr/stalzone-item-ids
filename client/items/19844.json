@@ -1,0 +1,11 @@
+{
+  "clientId": 19844,
+  "key": "item.motif.wpn.mg3_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Образец S110»",
+    "en": "Model S110"
+  },
+  "apiId": "2oddv",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25427,
+  "key": "item.arm.tuz",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Туз»",
+    "en": "Ace Exoarmor"
+  },
+  "apiId": "zzjk2",
+  "apiIdStatus": "inferred"
+}

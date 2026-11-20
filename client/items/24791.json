@@ -1,0 +1,11 @@
+{
+  "clientId": 24791,
+  "key": "item.charm.media_birthday",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Самый лучший день»",
+    "en": "Best Day Ever Charm"
+  },
+  "apiId": "dmgln",
+  "apiIdStatus": "inferred"
+}

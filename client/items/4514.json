@@ -1,0 +1,11 @@
+{
+  "clientId": 4514,
+  "key": "item.plc.pattern.encaged_2",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Взаперти»",
+    "en": "Encaged Pattern"
+  },
+  "apiId": "mn3r",
+  "apiIdStatus": "inferred"
+}

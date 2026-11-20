@@ -1,0 +1,11 @@
+{
+  "clientId": 31300,
+  "key": "item.ny_toys.setB.garland1",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя простая гирлянда",
+    "en": "Simple Blue Tree Lights"
+  },
+  "apiId": "9d10z",
+  "apiIdStatus": "inferred"
+}

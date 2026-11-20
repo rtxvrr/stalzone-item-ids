@@ -1,0 +1,11 @@
+{
+  "clientId": 19125,
+  "key": "item.camo.arm.burya",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Буря»",
+    "en": "Tempest Camouflage"
+  },
+  "apiId": "1r6l2",
+  "apiIdStatus": "inferred"
+}

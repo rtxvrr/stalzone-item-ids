@@ -1,0 +1,11 @@
+{
+  "clientId": 4996,
+  "key": "item.plc.sticker.prestige_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Квазар»",
+    "en": "Quasar Sticker"
+  },
+  "apiId": "90lz",
+  "apiIdStatus": "inferred"
+}

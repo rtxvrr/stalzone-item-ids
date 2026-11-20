@@ -1,0 +1,11 @@
+{
+  "clientId": 4314,
+  "key": "item.plc.background.prestige_son",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Признание»",
+    "en": "Recognition Background"
+  },
+  "apiId": "mnm7",
+  "apiIdStatus": "inferred"
+}

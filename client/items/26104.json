@@ -1,0 +1,11 @@
+{
+  "clientId": 26104,
+  "key": "item.med.epinephrine_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Импульс»",
+    "en": "Impulse"
+  },
+  "apiId": "5lzj4",
+  "apiIdStatus": "inferred"
+}

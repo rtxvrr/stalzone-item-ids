@@ -1,0 +1,11 @@
+{
+  "clientId": 16774,
+  "key": "item.misc.bet_coin_ravent",
+  "kind": "item",
+  "name": {
+    "ru": "Символ сущего",
+    "en": "Symbol of Being"
+  },
+  "apiId": "g49n5",
+  "apiIdStatus": "inferred"
+}

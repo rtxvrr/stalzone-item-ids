@@ -1,0 +1,11 @@
+{
+  "clientId": 31454,
+  "key": "item.lootbox.spring24",
+  "kind": "item",
+  "name": {
+    "ru": "Благодать Перуна",
+    "en": "Grace of Perun"
+  },
+  "apiId": "w3zpp",
+  "apiIdStatus": "inferred"
+}

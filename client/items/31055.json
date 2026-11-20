@@ -1,0 +1,11 @@
+{
+  "clientId": 31055,
+  "key": "item.brt.bar.node_add",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Альфа»",
+    "en": "Alpha Data Block"
+  },
+  "apiId": "4k5gr",
+  "apiIdStatus": "inferred"
+}

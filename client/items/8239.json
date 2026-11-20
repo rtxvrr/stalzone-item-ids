@@ -1,0 +1,11 @@
+{
+  "clientId": 8239,
+  "key": "item.quest.fools_day_first_instruments",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты из ящика",
+    "en": "Tools from the Crate"
+  },
+  "apiId": "oj66",
+  "apiIdStatus": "inferred"
+}

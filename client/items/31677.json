@@ -1,0 +1,11 @@
+{
+  "clientId": 31677,
+  "key": "item.blueprint.arm.tonga",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Комбинезон «Тонга»",
+    "en": "Tonga Jumpsuit Blueprint"
+  },
+  "apiId": "y4yrk",
+  "apiIdStatus": "inferred"
+}

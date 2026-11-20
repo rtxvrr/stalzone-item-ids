@@ -1,0 +1,11 @@
+{
+  "clientId": 4525,
+  "key": "item.plc.pattern.dmz26_1",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Летняя жара»",
+    "en": "Summer Heat Background"
+  },
+  "apiId": "1ypq",
+  "apiIdStatus": "inferred"
+}

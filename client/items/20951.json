@@ -1,0 +1,11 @@
+{
+  "clientId": 20951,
+  "key": "item.wpn.flamethrower",
+  "kind": "item",
+  "name": {
+    "ru": "Огнемет",
+    "en": "Flamethrower"
+  },
+  "apiId": "zzlvm",
+  "apiIdStatus": "inferred"
+}

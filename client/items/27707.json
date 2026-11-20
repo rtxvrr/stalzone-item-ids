@@ -1,0 +1,11 @@
+{
+  "clientId": 27707,
+  "key": "item.stash_placer.summer24",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон ZIVCAS",
+    "en": "ZIVCAS Stash"
+  },
+  "apiId": "4kzkn",
+  "apiIdStatus": "inferred"
+}

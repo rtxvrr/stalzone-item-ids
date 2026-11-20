@@ -1,0 +1,11 @@
+{
+  "clientId": 19873,
+  "key": "item.motif.wpn.famas_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Якорь»",
+    "en": "Anchor"
+  },
+  "apiId": "1rdjr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31555,
+  "key": "item.ny_toys.setM.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Редкая мишура диггеров",
+    "en": "Rare Digger's Tinsel"
+  },
+  "apiId": "4k34l",
+  "apiIdStatus": "inferred"
+}

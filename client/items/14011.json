@@ -1,0 +1,11 @@
+{
+  "clientId": 14011,
+  "key": "item.exp.craft_flash",
+  "kind": "item",
+  "name": {
+    "ru": "«Искра»",
+    "en": "Spark"
+  },
+  "apiId": "lywoj",
+  "apiIdStatus": "inferred"
+}

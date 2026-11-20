@@ -1,0 +1,11 @@
+{
+  "clientId": 10101,
+  "key": "item.10101",
+  "kind": "item",
+  "name": {
+    "ru": "Гитара",
+    "en": "Guitar"
+  },
+  "apiId": "1gj2",
+  "apiIdStatus": "inferred"
+}

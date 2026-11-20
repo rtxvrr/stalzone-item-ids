@@ -1,0 +1,11 @@
+{
+  "clientId": 25702,
+  "key": "item.skin.halloween4",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Садист»",
+    "en": "Sadist Skin"
+  },
+  "apiId": "g43g5",
+  "apiIdStatus": "inferred"
+}

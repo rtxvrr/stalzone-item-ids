@@ -1,0 +1,11 @@
+{
+  "clientId": 29934,
+  "key": "item.filler.npc_11",
+  "kind": "item",
+  "name": {
+    "ru": "Обломки снаряжения",
+    "en": "Equipment Fragments"
+  },
+  "apiId": "j0nyg",
+  "apiIdStatus": "inferred"
+}

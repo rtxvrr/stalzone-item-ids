@@ -1,0 +1,11 @@
+{
+  "clientId": 31807,
+  "key": "item.part.antares_3",
+  "kind": "item",
+  "name": {
+    "ru": "Часть экзоброни «Антарес» #3",
+    "en": "Antares Exoarmor Part #3"
+  },
+  "apiId": "4kj5j",
+  "apiIdStatus": "inferred"
+}

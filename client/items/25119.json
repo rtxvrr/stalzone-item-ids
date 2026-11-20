@@ -1,0 +1,11 @@
+{
+  "clientId": 25119,
+  "key": "item.arm.klepto-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Клептоман»",
+    "en": "Worn Kleptomaniac"
+  },
+  "apiId": "dmg02",
+  "apiIdStatus": "inferred"
+}

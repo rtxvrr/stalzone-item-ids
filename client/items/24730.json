@@ -1,0 +1,11 @@
+{
+  "clientId": 24730,
+  "key": "item.charm.summer25_ssop_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Научный жетон РХБЗ",
+    "en": "NBCP Science Token"
+  },
+  "apiId": "wjd2o",
+  "apiIdStatus": "inferred"
+}

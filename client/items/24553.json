@@ -1,0 +1,11 @@
+{
+  "clientId": 24553,
+  "key": "item.charm.set_usual_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Красная сосулька»",
+    "en": "Red Icicle Charm"
+  },
+  "apiId": "y3dm3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11056,
+  "key": "item.art.jarka_plamya",
+  "kind": "item",
+  "name": {
+    "ru": "Жар-птица",
+    "en": "Firebird"
+  },
+  "apiId": "kqp0",
+  "apiIdStatus": "inferred"
+}

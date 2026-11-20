@@ -1,0 +1,11 @@
+{
+  "clientId": 31383,
+  "key": "item.ny_toys.setH.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичный Конус",
+    "en": "Futuristic Cone"
+  },
+  "apiId": "l0521",
+  "apiIdStatus": "inferred"
+}

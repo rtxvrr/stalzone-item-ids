@@ -1,0 +1,11 @@
+{
+  "clientId": 19243,
+  "key": "item.camo.arm.flecktarn_frost",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Flecktarn Frost»",
+    "en": "Flecktarn Frost Camouflage"
+  },
+  "apiId": "dmzzg",
+  "apiIdStatus": "inferred"
+}

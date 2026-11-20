@@ -1,0 +1,11 @@
+{
+  "clientId": 19577,
+  "key": "item.motif.arm.exo_mod_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Сотник»",
+    "en": "Sotnik"
+  },
+  "apiId": "y3orw",
+  "apiIdStatus": "inferred"
+}

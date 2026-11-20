@@ -1,0 +1,11 @@
+{
+  "clientId": 25251,
+  "key": "item.arm.kz2",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «КЗ-2»",
+    "en": "CD-2 Armored Suit"
+  },
+  "apiId": "zzyjk",
+  "apiIdStatus": "inferred"
+}

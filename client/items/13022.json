@@ -1,0 +1,11 @@
+{
+  "clientId": 13022,
+  "key": "item.coupon.k2",
+  "kind": "item",
+  "name": {
+    "ru": "Талон на получение штурмовой винтовки K2",
+    "en": "K2 Assault Rifle Ticket"
+  },
+  "apiId": "7966",
+  "apiIdStatus": "inferred"
+}

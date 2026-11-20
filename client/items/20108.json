@@ -1,0 +1,11 @@
+{
+  "clientId": 20108,
+  "key": "item.wpn.sig516",
+  "kind": "item",
+  "name": {
+    "ru": "SIG 516",
+    "en": "SIG 516"
+  },
+  "apiId": "knlo3",
+  "apiIdStatus": "inferred"
+}

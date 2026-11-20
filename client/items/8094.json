@@ -1,0 +1,11 @@
+{
+  "clientId": 8094,
+  "key": "item.quest.subzarya2_usb",
+  "kind": "item",
+  "name": {
+    "ru": "Флешка с вирусом",
+    "en": "Flash drive with a virus"
+  },
+  "apiId": "76l3",
+  "apiIdStatus": "inferred"
+}

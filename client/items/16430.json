@@ -1,0 +1,11 @@
+{
+  "clientId": 16430,
+  "key": "item.16430",
+  "kind": "item",
+  "name": {
+    "ru": "Модуль данных М1",
+    "en": "M1 Data Module"
+  },
+  "apiId": "wjl6p",
+  "apiIdStatus": "inferred"
+}

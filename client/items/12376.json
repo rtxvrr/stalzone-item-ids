@@ -1,0 +1,11 @@
+{
+  "clientId": 12376,
+  "key": "item.exp.lg1_ravent",
+  "kind": "item",
+  "name": {
+    "ru": "«Лекарство гладиатора»",
+    "en": "Gladiator Medicine"
+  },
+  "apiId": "5zn4",
+  "apiIdStatus": "inferred"
+}

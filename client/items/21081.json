@@ -1,0 +1,11 @@
+{
+  "clientId": 21081,
+  "key": "item.melee.battleaxe",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой топор Русов",
+    "en": "Slavs Battle Axe"
+  },
+  "apiId": "qjgr4",
+  "apiIdStatus": "inferred"
+}

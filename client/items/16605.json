@@ -1,0 +1,11 @@
+{
+  "clientId": 16605,
+  "key": "item.16605",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с модулями",
+    "en": "Module Crate"
+  },
+  "apiId": "y3n5k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31274,
+  "key": "item.ny_toys.setQ.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Советская простецкая мишура",
+    "en": "Simple Soviet Tinsel"
+  },
+  "apiId": "gnpzn",
+  "apiIdStatus": "inferred"
+}

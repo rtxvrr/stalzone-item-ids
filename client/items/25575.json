@@ -1,0 +1,11 @@
+{
+  "clientId": 25575,
+  "key": "item.arm.kz2_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Инженер»",
+    "en": "Engineer"
+  },
+  "apiId": "zzj69",
+  "apiIdStatus": "inferred"
+}

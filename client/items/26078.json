@@ -1,0 +1,11 @@
+{
+  "clientId": 26078,
+  "key": "item.food.ny23.champagne_kids",
+  "kind": "item",
+  "name": {
+    "ru": "Детское шампанское",
+    "en": "Children's Champagne"
+  },
+  "apiId": "wjwzp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18712,
+  "key": "item.camo.wpn.structure",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Структура»",
+    "en": "Structure Paint"
+  },
+  "apiId": "rwy25",
+  "apiIdStatus": "inferred"
+}

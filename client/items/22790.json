@@ -1,0 +1,11 @@
+{
+  "clientId": 22790,
+  "key": "item.att.mag_drum6p62",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин 6П62",
+    "en": "6P62 Drum magazine "
+  },
+  "apiId": "vjl9p",
+  "apiIdStatus": "inferred"
+}

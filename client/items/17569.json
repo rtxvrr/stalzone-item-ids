@@ -1,0 +1,11 @@
+{
+  "clientId": 17569,
+  "key": "item.style.wpn.sa58_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "«Директива 10»",
+    "en": "Directive 10"
+  },
+  "apiId": "3g39g",
+  "apiIdStatus": "inferred"
+}

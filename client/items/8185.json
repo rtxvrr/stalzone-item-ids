@@ -1,0 +1,11 @@
+{
+  "clientId": 8185,
+  "key": "item.quest.devil_pda_merc",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА Наемника",
+    "en": "Mercenary's PDA"
+  },
+  "apiId": "0v9r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16540,
+  "key": "item.bag.12dart",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка боевых пуль 12х76 мм",
+    "en": "Pouch of 12x76 mm Slugs"
+  },
+  "apiId": "n4wdw",
+  "apiIdStatus": "inferred"
+}

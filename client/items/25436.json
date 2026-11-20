@@ -1,0 +1,11 @@
+{
+  "clientId": 25436,
+  "key": "item.arm.hound",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Гончий»",
+    "en": "Hounds Exoarmor"
+  },
+  "apiId": "rwgmg",
+  "apiIdStatus": "inferred"
+}

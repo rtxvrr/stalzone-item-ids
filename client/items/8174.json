@@ -1,0 +1,11 @@
+{
+  "clientId": 8174,
+  "key": "item.quest.apocalypse_not_today_solenoid",
+  "kind": "item",
+  "name": {
+    "ru": "Соленоид",
+    "en": "Solenoid"
+  },
+  "apiId": "gg1g",
+  "apiIdStatus": "inferred"
+}

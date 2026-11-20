@@ -1,0 +1,11 @@
+{
+  "clientId": 4312,
+  "key": "item.plc.background.prestige_horror",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Искажение»",
+    "en": "Distortion Background"
+  },
+  "apiId": "r925",
+  "apiIdStatus": "inferred"
+}

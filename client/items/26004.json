@@ -1,0 +1,11 @@
+{
+  "clientId": 26004,
+  "key": "item.med.barvinok",
+  "kind": "item",
+  "name": {
+    "ru": "«Гемостат»",
+    "en": "Hemostat"
+  },
+  "apiId": "5lzyg",
+  "apiIdStatus": "inferred"
+}

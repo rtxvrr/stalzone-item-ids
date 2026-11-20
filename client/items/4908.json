@@ -1,0 +1,11 @@
+{
+  "clientId": 4908,
+  "key": "item.plc.sticker.square",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер-квадрат",
+    "en": "Square Sticker"
+  },
+  "apiId": "kjvv",
+  "apiIdStatus": "inferred"
+}

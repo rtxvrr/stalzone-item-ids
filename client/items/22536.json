@@ -1,0 +1,11 @@
+{
+  "clientId": 22536,
+  "key": "item.att.barrel_jmac762",
+  "kind": "item",
+  "name": {
+    "ru": "Jmac Customs RDC 4C 7.62",
+    "en": "Jmac Customs RDC 4C 7.62"
+  },
+  "apiId": "rw4ml",
+  "apiIdStatus": "inferred"
+}

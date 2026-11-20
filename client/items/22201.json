@@ -1,0 +1,11 @@
+{
+  "clientId": 22201,
+  "key": "item.att.scope_hamr",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Leupold",
+    "en": "Leupold Optical Sight"
+  },
+  "apiId": "1rvqr",
+  "apiIdStatus": "inferred"
+}

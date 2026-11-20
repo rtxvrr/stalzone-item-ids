@@ -1,0 +1,11 @@
+{
+  "clientId": 12710,
+  "key": "item.amm.12kar",
+  "kind": "item",
+  "name": {
+    "ru": "Картечь 12 калибра",
+    "en": "12 Caliber Buckshot"
+  },
+  "apiId": "j456",
+  "apiIdStatus": "inferred"
+}

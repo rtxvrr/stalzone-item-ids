@@ -1,0 +1,11 @@
+{
+  "clientId": 19898,
+  "key": "item.motif.wpn.otl03_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Винтаж»",
+    "en": "Antique"
+  },
+  "apiId": "g40on",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6706,
+  "key": "item.misc.mutagen",
+  "kind": "item",
+  "name": {
+    "ru": "Мутаген",
+    "en": "Mutagen"
+  },
+  "apiId": "w7ro",
+  "apiIdStatus": "inferred"
+}

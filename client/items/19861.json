@@ -1,0 +1,11 @@
+{
+  "clientId": 19861,
+  "key": "item.motif.wpn.mp7_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Взгляд хищника»",
+    "en": "Predator Gaze"
+  },
+  "apiId": "0r32k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 30018,
+  "key": "item.filler.valuable_19",
+  "kind": "item",
+  "name": {
+    "ru": "Прототипы «Шепота»",
+    "en": "Murmur Prototypes"
+  },
+  "apiId": "vn3n7",
+  "apiIdStatus": "inferred"
+}

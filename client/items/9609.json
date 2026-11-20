@@ -1,0 +1,11 @@
+{
+  "clientId": 9609,
+  "key": "item.exp.prestige_speed",
+  "kind": "item",
+  "name": {
+    "ru": "Ускоряющий заряд",
+    "en": "Speed Barrel"
+  },
+  "apiId": "qzz4",
+  "apiIdStatus": "inferred"
+}

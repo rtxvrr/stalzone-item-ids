@@ -1,0 +1,11 @@
+{
+  "clientId": 23201,
+  "key": "item.bolt_gem.shock",
+  "kind": "item",
+  "name": {
+    "ru": "Импульсная частица: Электрическая",
+    "en": "Impulse Particle: Electric"
+  },
+  "apiId": "1rz4g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20994,
+  "key": "item.boost.encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Колба с загадочной синей жидкостью",
+    "en": "Flask with mysterious blue liquid"
+  },
+  "apiId": "7l5rj",
+  "apiIdStatus": "inferred"
+}

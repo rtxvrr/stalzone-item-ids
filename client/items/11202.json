@@ -1,0 +1,11 @@
+{
+  "clientId": 11202,
+  "key": "item.art.puh_ej",
+  "kind": "item",
+  "name": {
+    "ru": "Ершик",
+    "en": "Scrubber"
+  },
+  "apiId": "gy06",
+  "apiIdStatus": "inferred"
+}

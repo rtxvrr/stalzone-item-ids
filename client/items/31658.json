@@ -1,0 +1,11 @@
+{
+  "clientId": 31658,
+  "key": "item.blueprint.arm.bulat",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Скиф-2м»",
+    "en": "Scythian-2m Armored Suit Blueprint"
+  },
+  "apiId": "j0gy0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27250,
+  "key": "item.crt.arena26",
+  "kind": "item",
+  "name": {
+    "ru": "Хризменник",
+    "en": "Chrismite"
+  },
+  "apiId": "g47z0",
+  "apiIdStatus": "inferred"
+}

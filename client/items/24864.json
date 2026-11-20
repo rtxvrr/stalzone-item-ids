@@ -1,0 +1,11 @@
+{
+  "clientId": 24864,
+  "key": "item.charm.mt_barrel",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Горючка»",
+    "en": "Fuel Charm"
+  },
+  "apiId": "n4rw6",
+  "apiIdStatus": "inferred"
+}

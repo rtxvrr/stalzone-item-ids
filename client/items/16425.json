@@ -1,0 +1,11 @@
+{
+  "clientId": 16425,
+  "key": "item.16425",
+  "kind": "item",
+  "name": {
+    "ru": "Странный сверток",
+    "en": "Strange Bundle"
+  },
+  "apiId": "1rlj6",
+  "apiIdStatus": "inferred"
+}

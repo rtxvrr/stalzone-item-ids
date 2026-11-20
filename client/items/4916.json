@@ -1,0 +1,11 @@
+{
+  "clientId": 4916,
+  "key": "item.plc.sticker.blackraid_picklock",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер рекрутов Рынка",
+    "en": "Market Recruits Sticker"
+  },
+  "apiId": "n123",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19008,
+  "key": "item.camo.arm.black",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Черная»",
+    "en": "Black Armor Paint"
+  },
+  "apiId": "kn1yy",
+  "apiIdStatus": "inferred"
+}

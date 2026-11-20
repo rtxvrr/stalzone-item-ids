@@ -1,0 +1,11 @@
+{
+  "clientId": 19817,
+  "key": "item.mtl.wpn.damascus",
+  "kind": "item",
+  "name": {
+    "ru": "«Дамасская сталь»",
+    "en": "Damascus Steel"
+  },
+  "apiId": "p6rwd",
+  "apiIdStatus": "inferred"
+}

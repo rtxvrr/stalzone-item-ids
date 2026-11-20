@@ -1,0 +1,11 @@
+{
+  "clientId": 12402,
+  "key": "item.exp.ops.hunt",
+  "kind": "item",
+  "name": {
+    "ru": "«Провокация»",
+    "en": "Taunt"
+  },
+  "apiId": "glv6",
+  "apiIdStatus": "inferred"
+}

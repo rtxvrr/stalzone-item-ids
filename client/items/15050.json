@@ -1,0 +1,11 @@
+{
+  "clientId": 15050,
+  "key": "item.lootbox.winter26_pass_paint",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Снежная тропа»",
+    "en": "Snow Trail Container "
+  },
+  "apiId": "g4nkn",
+  "apiIdStatus": "inferred"
+}

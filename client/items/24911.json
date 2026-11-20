@@ -1,0 +1,11 @@
+{
+  "clientId": 24911,
+  "key": "item.charm.media_sosal",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Вечный вопрос»",
+    "en": "Eternal Question Charm"
+  },
+  "apiId": "lyj9q",
+  "apiIdStatus": "inferred"
+}

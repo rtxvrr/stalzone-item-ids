@@ -1,0 +1,11 @@
+{
+  "clientId": 22242,
+  "key": "item.att.scope_acog6_hell",
+  "kind": "item",
+  "name": {
+    "ru": "Оскверненный прицел Trijicon ACOG",
+    "en": "Desecrated Trijicon ACOG Optical Sight"
+  },
+  "apiId": "vjpp7",
+  "apiIdStatus": "inferred"
+}

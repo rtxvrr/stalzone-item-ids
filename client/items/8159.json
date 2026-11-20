@@ -1,0 +1,11 @@
+{
+  "clientId": 8159,
+  "key": "item.quest.covenant_repair_tools",
+  "kind": "item",
+  "name": {
+    "ru": "Ремонтный набор",
+    "en": "Repair Kit"
+  },
+  "apiId": "l4kq",
+  "apiIdStatus": "inferred"
+}

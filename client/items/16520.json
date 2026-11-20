@@ -1,0 +1,11 @@
+{
+  "clientId": 16520,
+  "key": "item.16520",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик светошумовых гранат",
+    "en": "Crate of Flashbang Grenades"
+  },
+  "apiId": "2o05m",
+  "apiIdStatus": "inferred"
+}

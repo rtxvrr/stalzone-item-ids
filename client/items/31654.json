@@ -1,0 +1,11 @@
+{
+  "clientId": 31654,
+  "key": "item.blueprint.arm.zveroboi",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Экзоброня «Зверобой»",
+    "en": "Beast Slayer Exoarmor Blueprint"
+  },
+  "apiId": "w3z22",
+  "apiIdStatus": "inferred"
+}

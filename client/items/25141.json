@@ -1,0 +1,11 @@
+{
+  "clientId": 25141,
+  "key": "item.arm.sviter",
+  "kind": "item",
+  "name": {
+    "ru": "Теплый свитер",
+    "en": "Warm Sweater"
+  },
+  "apiId": "p6my4",
+  "apiIdStatus": "inferred"
+}

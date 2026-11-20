@@ -1,0 +1,11 @@
+{
+  "clientId": 22108,
+  "key": "item.att.handgrip_fortiso",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка Fortis SHIFT Vertical, оранжевая",
+    "en": "Fortis SHIFT Vertical Tactical Grip, Orange"
+  },
+  "apiId": "knw1p",
+  "apiIdStatus": "inferred"
+}

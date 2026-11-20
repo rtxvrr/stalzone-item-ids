@@ -1,0 +1,11 @@
+{
+  "clientId": 20866,
+  "key": "item.wpn.ak12_a",
+  "kind": "item",
+  "name": {
+    "ru": "АК-12 (А)",
+    "en": "AK-12 (A)"
+  },
+  "apiId": "vj40r",
+  "apiIdStatus": "inferred"
+}

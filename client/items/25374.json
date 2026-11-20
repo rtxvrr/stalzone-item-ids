@@ -1,0 +1,11 @@
+{
+  "clientId": 25374,
+  "key": "item.arm.ark",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Ковчег»",
+    "en": "Arc Jumpsuit"
+  },
+  "apiId": "g434p",
+  "apiIdStatus": "inferred"
+}

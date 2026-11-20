@@ -1,0 +1,11 @@
+{
+  "clientId": 8074,
+  "key": "item.quest.polygon3_transistor",
+  "kind": "item",
+  "name": {
+    "ru": "Усиленный транзистор",
+    "en": "Reinforced Transistor"
+  },
+  "apiId": "ggr0",
+  "apiIdStatus": "inferred"
+}

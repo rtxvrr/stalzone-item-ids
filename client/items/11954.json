@@ -1,0 +1,11 @@
+{
+  "clientId": 11954,
+  "key": "item.plate.meh5",
+  "kind": "item",
+  "name": {
+    "ru": "Утепленная пластина V",
+    "en": "Insulated Plate V"
+  },
+  "apiId": "w4d3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31438,
+  "key": "item.lootbox.dapper_case",
+  "kind": "item",
+  "name": {
+    "ru": "Dapper's Case",
+    "en": "Dapper's Case"
+  },
+  "apiId": "mry5j",
+  "apiIdStatus": "inferred"
+}

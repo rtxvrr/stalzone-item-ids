@@ -1,0 +1,11 @@
+{
+  "clientId": 18343,
+  "key": "item.camo.wpn.autumn24_skin_12",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Риск»",
+    "en": "Risk Paint"
+  },
+  "apiId": "dm939",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16944,
+  "key": "item.quest.grin_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Суп Грина",
+    "en": "Green's Soup"
+  },
+  "apiId": "2ogd6",
+  "apiIdStatus": "inferred"
+}

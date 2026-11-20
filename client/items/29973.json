@@ -1,0 +1,11 @@
+{
+  "clientId": 29973,
+  "key": "item.filler.npc_limansk_4",
+  "kind": "item",
+  "name": {
+    "ru": "Набор походной посуды",
+    "en": "Set of Hiking Crockery"
+  },
+  "apiId": "19l02",
+  "apiIdStatus": "inferred"
+}

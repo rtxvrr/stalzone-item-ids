@@ -1,0 +1,11 @@
+{
+  "clientId": 24640,
+  "key": "item.charm.streamer_soul",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Душа стримера»",
+    "en": "Streamer's Soul Charm"
+  },
+  "apiId": "n4779",
+  "apiIdStatus": "inferred"
+}

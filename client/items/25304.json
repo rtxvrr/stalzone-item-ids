@@ -1,0 +1,11 @@
+{
+  "clientId": 25304,
+  "key": "item.arm.kz3b",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «КЗ-3б»",
+    "en": "CD-3b Armored Suit"
+  },
+  "apiId": "5lr20",
+  "apiIdStatus": "inferred"
+}

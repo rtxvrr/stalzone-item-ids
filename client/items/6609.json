@@ -1,0 +1,11 @@
+{
+  "clientId": 6609,
+  "key": "item.misc.nitroglycerin",
+  "kind": "item",
+  "name": {
+    "ru": "Нитроглицерин",
+    "en": "Nitroglycerin"
+  },
+  "apiId": "q224",
+  "apiIdStatus": "inferred"
+}

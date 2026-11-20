@@ -1,0 +1,11 @@
+{
+  "clientId": 8104,
+  "key": "item.quest.kaban_meat_rubi",
+  "kind": "item",
+  "name": {
+    "ru": "Кабанье мясо",
+    "en": "Boar Meat"
+  },
+  "apiId": "5vl4",
+  "apiIdStatus": "inferred"
+}

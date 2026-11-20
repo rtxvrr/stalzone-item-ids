@@ -1,0 +1,11 @@
+{
+  "clientId": 8409,
+  "key": "item.quest.porebrik_box",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик для Поребрика",
+    "en": "Crate for Curb"
+  },
+  "apiId": "qrr4",
+  "apiIdStatus": "inferred"
+}

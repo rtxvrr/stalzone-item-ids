@@ -1,0 +1,11 @@
+{
+  "clientId": 6142,
+  "key": "item.misc.tincan",
+  "kind": "item",
+  "name": {
+    "ru": "Консервная банка",
+    "en": "Tin Can"
+  },
+  "apiId": "vrld",
+  "apiIdStatus": "inferred"
+}

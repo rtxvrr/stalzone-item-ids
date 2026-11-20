@@ -1,0 +1,11 @@
+{
+  "clientId": 6508,
+  "key": "item.misc.acetyl_chloride",
+  "kind": "item",
+  "name": {
+    "ru": "Ацетилхлорид",
+    "en": "Acetyl Chloride"
+  },
+  "apiId": "km2p",
+  "apiIdStatus": "inferred"
+}

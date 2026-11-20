@@ -1,0 +1,11 @@
+{
+  "clientId": 24610,
+  "key": "item.charm.ny24_snowflake",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Последняя снежинка»",
+    "en": "Last Snowflake Charm"
+  },
+  "apiId": "j57dl",
+  "apiIdStatus": "inferred"
+}

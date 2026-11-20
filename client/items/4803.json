@@ -1,0 +1,11 @@
+{
+  "clientId": 4803,
+  "key": "item.plc.sticker.duty",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Рубежа»",
+    "en": "Frontier Sticker"
+  },
+  "apiId": "zvvk",
+  "apiIdStatus": "inferred"
+}

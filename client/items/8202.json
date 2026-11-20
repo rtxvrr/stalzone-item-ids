@@ -1,0 +1,11 @@
+{
+  "clientId": 8202,
+  "key": "item.quest.whirlpool_gnosis",
+  "kind": "item",
+  "name": {
+    "ru": "Скверный гнозиc",
+    "en": "Nasty Gnosis"
+  },
+  "apiId": "gg96",
+  "apiIdStatus": "inferred"
+}

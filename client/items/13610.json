@@ -1,0 +1,11 @@
+{
+  "clientId": 13610,
+  "key": "item.camo.arm.stream_battle_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Россыпь»",
+    "en": "Bulk Paint"
+  },
+  "apiId": "jy20",
+  "apiIdStatus": "inferred"
+}

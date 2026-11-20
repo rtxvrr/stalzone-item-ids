@@ -1,0 +1,11 @@
+{
+  "clientId": 27729,
+  "key": "item.firework.rocket_yellow",
+  "kind": "item",
+  "name": {
+    "ru": "Фейерверк (желтый)",
+    "en": "Firework (Yellow)"
+  },
+  "apiId": "y41go",
+  "apiIdStatus": "inferred"
+}

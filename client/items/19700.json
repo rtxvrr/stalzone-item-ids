@@ -1,0 +1,11 @@
+{
+  "clientId": 19700,
+  "key": "item.camo.arm.inei",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Иней»",
+    "en": "Frost Paint"
+  },
+  "apiId": "96mzy",
+  "apiIdStatus": "inferred"
+}

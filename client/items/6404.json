@@ -1,0 +1,11 @@
+{
+  "clientId": 6404,
+  "key": "item.misc.powder",
+  "kind": "item",
+  "name": {
+    "ru": "Порох",
+    "en": "Gunpowder"
+  },
+  "apiId": "5n51",
+  "apiIdStatus": "inferred"
+}

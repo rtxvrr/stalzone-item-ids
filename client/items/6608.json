@@ -1,0 +1,11 @@
+{
+  "clientId": 6608,
+  "key": "item.misc.industrial_solvent",
+  "kind": "item",
+  "name": {
+    "ru": "Промышленный растворитель",
+    "en": "Industrial Solvent"
+  },
+  "apiId": "kmmj",
+  "apiIdStatus": "inferred"
+}

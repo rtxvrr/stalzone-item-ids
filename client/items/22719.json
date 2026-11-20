@@ -1,0 +1,11 @@
+{
+  "clientId": 22719,
+  "key": "item.att.mag_sig40",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин EMAG",
+    "en": "EMAG Magazine"
+  },
+  "apiId": "dm2q2",
+  "apiIdStatus": "inferred"
+}

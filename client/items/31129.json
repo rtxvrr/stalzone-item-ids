@@ -1,0 +1,11 @@
+{
+  "clientId": 31129,
+  "key": "item.brt.limansk.node_add",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Лямбда»",
+    "en": "Lambda Data Block"
+  },
+  "apiId": "y4y33",
+  "apiIdStatus": "inferred"
+}

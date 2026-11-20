@@ -1,0 +1,11 @@
+{
+  "clientId": 19252,
+  "key": "item.camo.arm.volumehex_flake",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «VolumeHex Flake»",
+    "en": "VolumeHex Flake Camouflage"
+  },
+  "apiId": "5l7do",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6406,
+  "key": "item.misc.ammonium_nitrate",
+  "kind": "item",
+  "name": {
+    "ru": "Селитра",
+    "en": "Saltpeter"
+  },
+  "apiId": "w732",
+  "apiIdStatus": "inferred"
+}

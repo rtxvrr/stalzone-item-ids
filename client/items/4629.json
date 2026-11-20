@@ -1,0 +1,11 @@
+{
+  "clientId": 4629,
+  "key": "item.plc.pattern.scstore_a26_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Оковы Зоны»",
+    "en": "Zone Shackles Pattern"
+  },
+  "apiId": "yv1k",
+  "apiIdStatus": "inferred"
+}

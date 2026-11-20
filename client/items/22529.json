@@ -1,0 +1,11 @@
+{
+  "clientId": 22529,
+  "key": "item.att.barrel_citadel",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК Цитадель 5.45",
+    "en": "Citadel 5.45 MBC"
+  },
+  "apiId": "y3m4w",
+  "apiIdStatus": "inferred"
+}

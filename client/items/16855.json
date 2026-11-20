@@ -1,0 +1,11 @@
+{
+  "clientId": 16855,
+  "key": "item.quest.young_apple_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Молодильное яблочко»",
+    "en": "Apple of Youth"
+  },
+  "apiId": "4q53j",
+  "apiIdStatus": "inferred"
+}

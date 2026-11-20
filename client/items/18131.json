@@ -1,0 +1,11 @@
+{
+  "clientId": 18131,
+  "key": "item.camo.wpn.spad",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Спад»",
+    "en": "Drop Camouflage"
+  },
+  "apiId": "4qjnn",
+  "apiIdStatus": "inferred"
+}

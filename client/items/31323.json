@@ -1,0 +1,11 @@
+{
+  "clientId": 31323,
+  "key": "item.ny_toys.setD.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленый шарик",
+    "en": "Green Bauble"
+  },
+  "apiId": "6o72y",
+  "apiIdStatus": "inferred"
+}

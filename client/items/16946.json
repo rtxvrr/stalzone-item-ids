@@ -1,0 +1,11 @@
+{
+  "clientId": 16946,
+  "key": "item.quest.freedom.dossier_Kuraga",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Курага",
+    "en": "Dossier: Apricot"
+  },
+  "apiId": "7lor7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17253,
+  "key": "item.style.melee.iceaxe_newyear24",
+  "kind": "item",
+  "name": {
+    "ru": "«Джомолунгма»",
+    "en": "Chomolungma"
+  },
+  "apiId": "y309k",
+  "apiIdStatus": "inferred"
+}

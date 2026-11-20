@@ -1,0 +1,11 @@
+{
+  "clientId": 19889,
+  "key": "item.motif.wpn.ak12_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Точка кипения»",
+    "en": "Boiling Point"
+  },
+  "apiId": "p6r1d",
+  "apiIdStatus": "inferred"
+}

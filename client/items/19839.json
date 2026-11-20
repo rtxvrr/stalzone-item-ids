@@ -1,0 +1,11 @@
+{
+  "clientId": 19839,
+  "key": "item.motif.wpn.ks1_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Танцор»",
+    "en": "Dancer"
+  },
+  "apiId": "okvv5",
+  "apiIdStatus": "inferred"
+}

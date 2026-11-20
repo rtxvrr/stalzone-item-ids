@@ -1,0 +1,11 @@
+{
+  "clientId": 5011,
+  "key": "item.plc.sticker.bureau26_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Скелеты в шкафу»",
+    "en": "Skeletons in the Closet Sticker"
+  },
+  "apiId": "lpmj",
+  "apiIdStatus": "inferred"
+}

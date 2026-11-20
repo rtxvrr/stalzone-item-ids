@@ -1,0 +1,11 @@
+{
+  "clientId": 31251,
+  "key": "item.scheme.hp_mod_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #2: «Мечта»",
+    "en": "Schematic #2: Dream"
+  },
+  "apiId": "z3ook",
+  "apiIdStatus": "inferred"
+}

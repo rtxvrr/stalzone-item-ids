@@ -1,0 +1,11 @@
+{
+  "clientId": 22578,
+  "key": "item.att.silencer_groza",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель для ОЦ-14 «Гроза»",
+    "en": "Silencer for OTs-14 Groza"
+  },
+  "apiId": "wjrld",
+  "apiIdStatus": "inferred"
+}

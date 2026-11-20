@@ -1,0 +1,11 @@
+{
+  "clientId": 24857,
+  "key": "item.charm.mt_paket",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Хруст и взрывы»",
+    "en": "Crunch and Explosions Charm"
+  },
+  "apiId": "qjoy6",
+  "apiIdStatus": "inferred"
+}

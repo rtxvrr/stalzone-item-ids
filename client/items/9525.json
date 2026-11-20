@@ -1,0 +1,11 @@
+{
+  "clientId": 9525,
+  "key": "item.abl.anm.prestige_stimulator",
+  "kind": "item",
+  "name": {
+    "ru": "Инъектор «Гелиос»",
+    "en": "Helios Injector "
+  },
+  "apiId": "1zj2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 9521,
+  "key": "item.abl.anm.tubus_support",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический Тубус Поддержки",
+    "en": "Support's Tactical Tube"
+  },
+  "apiId": "3y95",
+  "apiIdStatus": "inferred"
+}

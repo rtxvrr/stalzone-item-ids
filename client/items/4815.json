@@ -1,0 +1,11 @@
+{
+  "clientId": 4815,
+  "key": "item.plc.sticker.encaged_lock",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Взаперти»",
+    "en": "Encaged Sticker "
+  },
+  "apiId": "ogg5",
+  "apiIdStatus": "inferred"
+}

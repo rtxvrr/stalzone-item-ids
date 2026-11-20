@@ -1,0 +1,11 @@
+{
+  "clientId": 31372,
+  "key": "item.ny_toys.setG.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная простецкая мишура",
+    "en": "Simple Gingerbread Tinsel"
+  },
+  "apiId": "9d19z",
+  "apiIdStatus": "inferred"
+}

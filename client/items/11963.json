@@ -1,0 +1,11 @@
+{
+  "clientId": 11963,
+  "key": "item.plate.radiator4",
+  "kind": "item",
+  "name": {
+    "ru": "Экспериментальная термопластина IV",
+    "en": "Experimental Thermoplate IV"
+  },
+  "apiId": "o37m",
+  "apiIdStatus": "inferred"
+}

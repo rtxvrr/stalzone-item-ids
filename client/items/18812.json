@@ -1,0 +1,11 @@
+{
+  "clientId": 18812,
+  "key": "item.mtl.arm.magma",
+  "kind": "item",
+  "name": {
+    "ru": "«Магма»",
+    "en": "Magma"
+  },
+  "apiId": "rwy4g",
+  "apiIdStatus": "inferred"
+}

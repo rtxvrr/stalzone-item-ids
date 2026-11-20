@@ -1,0 +1,11 @@
+{
+  "clientId": 28025,
+  "key": "item.28025",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Зажигалка»",
+    "en": "Lighter Artifact"
+  },
+  "apiId": "1903g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18300,
+  "key": "item.camo.wpn.summer24_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Последний штрих»",
+    "en": "Finishing touch Paint"
+  },
+  "apiId": "96orw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24795,
+  "key": "item.charm.dmz26_quest",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пробитый»",
+    "en": "Breached Charm"
+  },
+  "apiId": "6w0wy",
+  "apiIdStatus": "inferred"
+}

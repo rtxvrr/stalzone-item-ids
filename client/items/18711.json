@@ -1,0 +1,11 @@
+{
+  "clientId": 18711,
+  "key": "item.camo.wpn.warning",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Угроза»",
+    "en": "Threat Paint"
+  },
+  "apiId": "lyp21",
+  "apiIdStatus": "inferred"
+}

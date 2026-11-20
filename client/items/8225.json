@@ -1,0 +1,11 @@
+{
+  "clientId": 8225,
+  "key": "item.quest.kury_kapkan",
+  "kind": "item",
+  "name": {
+    "ru": "«Пасть» Егеря",
+    "en": "The Jaw of the Jaeger"
+  },
+  "apiId": "1v4g",
+  "apiIdStatus": "inferred"
+}

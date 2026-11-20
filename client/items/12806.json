@@ -1,0 +1,11 @@
+{
+  "clientId": 12806,
+  "key": "item.amm.12fire",
+  "kind": "item",
+  "name": {
+    "ru": "Крупнокалиберный жгучий патрон",
+    "en": "Large-Caliber Fluff Round"
+  },
+  "apiId": "w20p",
+  "apiIdStatus": "inferred"
+}

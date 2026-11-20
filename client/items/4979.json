@@ -1,0 +1,11 @@
+{
+  "clientId": 4979,
+  "key": "item.plc.sticker.scstore_snegurka",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Лечись»",
+    "en": "Heal Up! Sticker"
+  },
+  "apiId": "4mpn",
+  "apiIdStatus": "inferred"
+}

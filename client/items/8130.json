@@ -1,0 +1,11 @@
+{
+  "clientId": 8130,
+  "key": "item.quest.operation2025_cassette3",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из \"Отдела мутаций\" Полигона-7",
+    "en": "Cassette from the Mutation Department of Area-7"
+  },
+  "apiId": "wp3d",
+  "apiIdStatus": "inferred"
+}

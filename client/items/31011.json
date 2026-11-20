@@ -1,0 +1,11 @@
+{
+  "clientId": 31011,
+  "key": "item.brt.svalka.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Ржавая плесень",
+    "en": "Rusty Mold"
+  },
+  "apiId": "l093k",
+  "apiIdStatus": "inferred"
+}

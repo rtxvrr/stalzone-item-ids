@@ -1,0 +1,11 @@
+{
+  "clientId": 16348,
+  "key": "item.misc.chrono_dust",
+  "kind": "item",
+  "name": {
+    "ru": "Хронопыль",
+    "en": "Chronodust"
+  },
+  "apiId": "96z2z",
+  "apiIdStatus": "inferred"
+}

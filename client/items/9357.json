@@ -1,0 +1,11 @@
+{
+  "clientId": 9357,
+  "key": "item.wpn.r92_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Р-92 Выживших",
+    "en": "Survivors' R-92"
+  },
+  "apiId": "qz39",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24541,
+  "key": "item.charm.inside_onyx_shards",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Осколки Оникса»",
+    "en": "Onyx Shards Charm"
+  },
+  "apiId": "p67l4",
+  "apiIdStatus": "inferred"
+}

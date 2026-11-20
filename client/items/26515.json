@@ -1,0 +1,11 @@
+{
+  "clientId": 26515,
+  "key": "item.food.meat",
+  "kind": "item",
+  "name": {
+    "ru": "Мясные консервы",
+    "en": "Meat Preserves"
+  },
+  "apiId": "okrq0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10275,
+  "key": "item.phonograph.vinyl_event_blizzard",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Аномальный Буран»",
+    "en": "Anomalous Blizzard Vinyl Record"
+  },
+  "apiId": "z4jk",
+  "apiIdStatus": "inferred"
+}

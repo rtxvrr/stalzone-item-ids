@@ -1,0 +1,11 @@
+{
+  "clientId": 4617,
+  "key": "item.plc.pattern.nea_ornament",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Орнамент Тхэгык»",
+    "en": "Taegeuk Ornament Pattern"
+  },
+  "apiId": "pzkw",
+  "apiIdStatus": "inferred"
+}

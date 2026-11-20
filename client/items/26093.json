@@ -1,0 +1,11 @@
+{
+  "clientId": 26093,
+  "key": "item.food.blizzard.roast",
+  "kind": "item",
+  "name": {
+    "ru": "Жаркое из мутантов",
+    "en": "Mutant Roast"
+  },
+  "apiId": "3g12z",
+  "apiIdStatus": "inferred"
+}

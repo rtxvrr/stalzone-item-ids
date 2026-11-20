@@ -1,0 +1,11 @@
+{
+  "clientId": 4311,
+  "key": "item.plc.background.prestige_wall",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Стена»",
+    "en": "Wall Background"
+  },
+  "apiId": "lo21",
+  "apiIdStatus": "inferred"
+}

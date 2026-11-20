@@ -1,0 +1,11 @@
+{
+  "clientId": 24012,
+  "key": "item.24012",
+  "kind": "item",
+  "name": {
+    "ru": "Серебряный жетон бандита",
+    "en": "Silver Bandit Token"
+  },
+  "apiId": "rwd5z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16885,
+  "key": "item.quest.chemicals",
+  "kind": "item",
+  "name": {
+    "ru": "Химикаты Плетнева",
+    "en": "Pletnyov's Chemicals"
+  },
+  "apiId": "0r96k",
+  "apiIdStatus": "inferred"
+}

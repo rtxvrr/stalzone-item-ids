@@ -1,0 +1,11 @@
+{
+  "clientId": 19762,
+  "key": "item.camo.arm.cyclone",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Циклон»",
+    "en": "Cyclone Paint"
+  },
+  "apiId": "m02n2",
+  "apiIdStatus": "inferred"
+}

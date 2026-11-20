@@ -1,0 +1,11 @@
+{
+  "clientId": 31087,
+  "key": "item.brt.armsklad.node_add",
+  "kind": "item",
+  "name": {
+    "ru": "Блок данных «Дельта»",
+    "en": "Delta Data Block"
+  },
+  "apiId": "olzo6",
+  "apiIdStatus": "inferred"
+}

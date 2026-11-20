@@ -1,0 +1,11 @@
+{
+  "clientId": 4619,
+  "key": "item.plc.pattern.prestige_man",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Совместная работа»",
+    "en": "Collaborative Work Pattern"
+  },
+  "apiId": "d4lj",
+  "apiIdStatus": "inferred"
+}

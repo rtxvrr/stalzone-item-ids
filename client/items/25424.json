@@ -1,0 +1,11 @@
+{
+  "clientId": 25424,
+  "key": "item.arm.exo-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный экзоскелет «Самсон»",
+    "en": "Worn Samson Exoskeleton"
+  },
+  "apiId": "96y30",
+  "apiIdStatus": "inferred"
+}

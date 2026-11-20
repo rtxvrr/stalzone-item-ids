@@ -1,0 +1,11 @@
+{
+  "clientId": 8043,
+  "key": "item.quest.bm_keys2",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от сейфа Черного рынка 2",
+    "en": "Black Market safe key 2"
+  },
+  "apiId": "don5",
+  "apiIdStatus": "inferred"
+}

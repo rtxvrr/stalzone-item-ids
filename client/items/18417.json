@@ -1,0 +1,11 @@
+{
+  "clientId": 18417,
+  "key": "item.camo.wpn.bf_skin_20",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Фиолетовые нити»",
+    "en": "Violet threads Paint"
+  },
+  "apiId": "p6opw",
+  "apiIdStatus": "inferred"
+}

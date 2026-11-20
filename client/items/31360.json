@@ -1,0 +1,11 @@
+{
+  "clientId": 31360,
+  "key": "item.ny_toys.setF.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая редкая мишура",
+    "en": "Rare Plush Tinsel"
+  },
+  "apiId": "rjpr5",
+  "apiIdStatus": "inferred"
+}

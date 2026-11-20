@@ -1,0 +1,11 @@
+{
+  "clientId": 14222,
+  "key": "item.crate.homemade",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик кустарных гранат",
+    "en": "Crate of Jury-Rigged Grenades"
+  },
+  "apiId": "7l4q6",
+  "apiIdStatus": "inferred"
+}

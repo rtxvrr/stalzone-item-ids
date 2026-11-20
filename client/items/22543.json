@@ -1,0 +1,11 @@
+{
+  "clientId": 22543,
+  "key": "item.att.barrel_nomad9",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК Кочевник 9",
+    "en": "Nomad 9 MBC"
+  },
+  "apiId": "dm259",
+  "apiIdStatus": "inferred"
+}

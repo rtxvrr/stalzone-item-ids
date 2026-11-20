@@ -1,0 +1,11 @@
+{
+  "clientId": 24673,
+  "key": "item.charm.autumn24_logo",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Прострел»",
+    "en": "Shot Through"
+  },
+  "apiId": "1r5pr",
+  "apiIdStatus": "inferred"
+}

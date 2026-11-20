@@ -1,0 +1,11 @@
+{
+  "clientId": 31096,
+  "key": "item.brt.sever.capture",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная сыворотка",
+    "en": "Anomalous Serum"
+  },
+  "apiId": "9dk7l",
+  "apiIdStatus": "inferred"
+}

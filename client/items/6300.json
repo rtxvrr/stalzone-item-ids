@@ -1,0 +1,11 @@
+{
+  "clientId": 6300,
+  "key": "item.misc.charcoal",
+  "kind": "item",
+  "name": {
+    "ru": "Древесный уголь",
+    "en": "Charcoal"
+  },
+  "apiId": "9mgw",
+  "apiIdStatus": "inferred"
+}

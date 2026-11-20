@@ -1,0 +1,11 @@
+{
+  "clientId": 11000,
+  "key": "item.art.electra_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Призрачный кристалл",
+    "en": "Spectral Crystal"
+  },
+  "apiId": "9nd0",
+  "apiIdStatus": "inferred"
+}

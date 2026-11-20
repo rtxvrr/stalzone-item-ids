@@ -1,0 +1,11 @@
+{
+  "clientId": 29986,
+  "key": "item.filler.outpost_2",
+  "kind": "item",
+  "name": {
+    "ru": "Малый ящик с продовольствием",
+    "en": "Small Crate of Rations"
+  },
+  "apiId": "mrq02",
+  "apiIdStatus": "inferred"
+}

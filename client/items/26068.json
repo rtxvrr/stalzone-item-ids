@@ -1,0 +1,11 @@
+{
+  "clientId": 26068,
+  "key": "item.med.inside_calm",
+  "kind": "item",
+  "name": {
+    "ru": "Покой Поэта",
+    "en": "Poet's Comfort"
+  },
+  "apiId": "2o930",
+  "apiIdStatus": "inferred"
+}

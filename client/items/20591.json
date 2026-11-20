@@ -1,0 +1,11 @@
+{
+  "clientId": 20591,
+  "key": "item.wpn.ak308",
+  "kind": "item",
+  "name": {
+    "ru": "АК-308",
+    "en": "AK-308"
+  },
+  "apiId": "dmjdn",
+  "apiIdStatus": "inferred"
+}

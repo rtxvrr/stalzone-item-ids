@@ -1,0 +1,11 @@
+{
+  "clientId": 14987,
+  "key": "item.tool.bolt",
+  "kind": "item",
+  "name": {
+    "ru": "Болт",
+    "en": "Bolt"
+  },
+  "apiId": "oklqm",
+  "apiIdStatus": "inferred"
+}

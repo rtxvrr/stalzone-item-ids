@@ -1,0 +1,11 @@
+{
+  "clientId": 16607,
+  "key": "item.lootbox.arm_camo",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер с камуфляжем для брони",
+    "en": "Container with Armor Camouflage"
+  },
+  "apiId": "4q7lr",
+  "apiIdStatus": "inferred"
+}

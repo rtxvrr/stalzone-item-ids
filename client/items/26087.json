@@ -1,0 +1,11 @@
+{
+  "clientId": 26087,
+  "key": "item.food.ny23.corn",
+  "kind": "item",
+  "name": {
+    "ru": "Кукуруза «Сладкий декабрь»",
+    "en": "Sweet December Corn"
+  },
+  "apiId": "okdno",
+  "apiIdStatus": "inferred"
+}

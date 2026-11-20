@@ -1,0 +1,11 @@
+{
+  "clientId": 18738,
+  "key": "item.camo.wpn.champion",
+  "kind": "item",
+  "name": {
+    "ru": "Краска Чемпиона Арены",
+    "en": "Arena Champion Paint"
+  },
+  "apiId": "m09v7",
+  "apiIdStatus": "inferred"
+}

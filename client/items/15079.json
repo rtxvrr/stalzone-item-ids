@@ -1,0 +1,11 @@
+{
+  "clientId": 15079,
+  "key": "item.lootbox.reichstag_2",
+  "kind": "item",
+  "name": {
+    "ru": "Штурмовой комплект",
+    "en": "Assault Kit"
+  },
+  "apiId": "4qk7j",
+  "apiIdStatus": "inferred"
+}

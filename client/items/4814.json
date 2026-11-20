@@ -1,0 +1,11 @@
+{
+  "clientId": 4814,
+  "key": "item.plc.sticker.encaged_sucker",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Упырь»",
+    "en": "Ghoul Sticker"
+  },
+  "apiId": "m99k",
+  "apiIdStatus": "inferred"
+}

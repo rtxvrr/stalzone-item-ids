@@ -1,0 +1,11 @@
+{
+  "clientId": 24301,
+  "key": "item.charm.memento",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Memento Mori»",
+    "en": "Memento Mori Charm"
+  },
+  "apiId": "1r5lq",
+  "apiIdStatus": "inferred"
+}

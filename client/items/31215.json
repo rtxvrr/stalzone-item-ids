@@ -1,0 +1,11 @@
+{
+  "clientId": 31215,
+  "key": "item.scheme.kedr_mod_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #1: «Цунами»",
+    "en": "Schematic #1: Tsunami"
+  },
+  "apiId": "olnp5",
+  "apiIdStatus": "inferred"
+}

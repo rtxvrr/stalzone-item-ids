@@ -1,0 +1,11 @@
+{
+  "clientId": 20601,
+  "key": "item.wpn.mp5_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Лягуха»",
+    "en": "Frog"
+  },
+  "apiId": "1r756",
+  "apiIdStatus": "inferred"
+}

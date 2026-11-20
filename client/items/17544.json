@@ -1,0 +1,11 @@
+{
+  "clientId": 17544,
+  "key": "item.style.wpn.oldfal_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "«Холодный FAL»",
+    "en": "Cold FAL"
+  },
+  "apiId": "2o3n6",
+  "apiIdStatus": "inferred"
+}

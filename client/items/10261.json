@@ -1,0 +1,11 @@
+{
+  "clientId": 10261,
+  "key": "item.phonograph.vinyl_location_armsklad",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Полесское»",
+    "en": "Polesskoye Vinyl Record"
+  },
+  "apiId": "014k",
+  "apiIdStatus": "inferred"
+}

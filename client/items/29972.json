@@ -1,0 +1,11 @@
+{
+  "clientId": 29972,
+  "key": "item.filler.npc_limansk_3",
+  "kind": "item",
+  "name": {
+    "ru": "Псалмы «Шепота»",
+    "en": "Psalms of the Murmur"
+  },
+  "apiId": "9dzqy",
+  "apiIdStatus": "inferred"
+}

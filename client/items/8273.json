@@ -1,0 +1,11 @@
+{
+  "clientId": 8273,
+  "key": "item.quest.prestige_session_121274a",
+  "kind": "item",
+  "name": {
+    "ru": "Сеанс 12-12-74а – Клюв",
+    "en": "Session 12-12-74a – Beak"
+  },
+  "apiId": "1vmg",
+  "apiIdStatus": "inferred"
+}

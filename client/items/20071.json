@@ -1,0 +1,11 @@
+{
+  "clientId": 20071,
+  "key": "item.wpn.ak103_blaj",
+  "kind": "item",
+  "name": {
+    "ru": "АК Искателя",
+    "en": "Seeker's AK"
+  },
+  "apiId": "6wrgj",
+  "apiIdStatus": "inferred"
+}

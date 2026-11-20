@@ -1,0 +1,11 @@
+{
+  "clientId": 20153,
+  "key": "item.wpn.rpd_dikobraza",
+  "kind": "item",
+  "name": {
+    "ru": "РПД Дикобраза",
+    "en": "Hystrix's RPD"
+  },
+  "apiId": "y37rw",
+  "apiIdStatus": "inferred"
+}

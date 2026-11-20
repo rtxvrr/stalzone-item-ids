@@ -1,0 +1,11 @@
+{
+  "clientId": 25354,
+  "key": "item.arm.albatros_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "Бронескелет «Альбатрос-Штурмовик»",
+    "en": "Albatross Heavy Assault Armored Exoskeleton"
+  },
+  "apiId": "wj4no",
+  "apiIdStatus": "inferred"
+}

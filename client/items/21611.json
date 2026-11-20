@@ -1,0 +1,11 @@
+{
+  "clientId": 21611,
+  "key": "item.wpn_mod.adv.warmup",
+  "kind": "item",
+  "name": {
+    "ru": "«Нагрев»",
+    "en": "Overheating"
+  },
+  "apiId": "lyzv2",
+  "apiIdStatus": "inferred"
+}

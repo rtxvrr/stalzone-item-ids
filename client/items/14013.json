@@ -1,0 +1,11 @@
+{
+  "clientId": 14013,
+  "key": "item.exp.craft_napalm",
+  "kind": "item",
+  "name": {
+    "ru": "«Напалм»",
+    "en": "Napalm"
+  },
+  "apiId": "0rw6d",
+  "apiIdStatus": "inferred"
+}

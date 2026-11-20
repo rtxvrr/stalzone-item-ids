@@ -1,0 +1,11 @@
+{
+  "clientId": 20089,
+  "key": "item.wpn.f2000-1",
+  "kind": "item",
+  "name": {
+    "ru": "FN F2000",
+    "en": "FN F2000"
+  },
+  "apiId": "p6r26",
+  "apiIdStatus": "inferred"
+}

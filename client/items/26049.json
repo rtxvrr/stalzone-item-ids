@@ -1,0 +1,11 @@
+{
+  "clientId": 26049,
+  "key": "item.med.stomping",
+  "kind": "item",
+  "name": {
+    "ru": "«ТОПОТ»",
+    "en": "STOMP"
+  },
+  "apiId": "1r216",
+  "apiIdStatus": "inferred"
+}

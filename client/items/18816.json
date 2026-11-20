@@ -1,0 +1,11 @@
+{
+  "clientId": 18816,
+  "key": "item.mtl.arm.agony2",
+  "kind": "item",
+  "name": {
+    "ru": "«Ядовитая агония»",
+    "en": "Toxic Agony"
+  },
+  "apiId": "n4196",
+  "apiIdStatus": "inferred"
+}

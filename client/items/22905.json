@@ -1,0 +1,11 @@
+{
+  "clientId": 22905,
+  "key": "item.att.mount_shotgunris",
+  "kind": "item",
+  "name": {
+    "ru": "Направляющая RIS для дробовиков",
+    "en": "Guiding RIS for Shotgun"
+  },
+  "apiId": "y3mdo",
+  "apiIdStatus": "inferred"
+}

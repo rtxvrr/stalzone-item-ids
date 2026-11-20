@@ -1,0 +1,11 @@
+{
+  "clientId": 16175,
+  "key": "item.16175",
+  "kind": "item",
+  "name": {
+    "ru": "Глаза зомби",
+    "en": "Zombie Eyes"
+  },
+  "apiId": "zzwzm",
+  "apiIdStatus": "inferred"
+}

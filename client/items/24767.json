@@ -1,0 +1,11 @@
+{
+  "clientId": 24767,
+  "key": "item.charm.outpost",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Аванпост»",
+    "en": "Outpost Charm"
+  },
+  "apiId": "dm7nn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28608,
+  "key": "item.28608",
+  "kind": "item",
+  "name": {
+    "ru": "Среднее устройство",
+    "en": "Medium-Sized Device"
+  },
+  "apiId": "krn0y",
+  "apiIdStatus": "inferred"
+}

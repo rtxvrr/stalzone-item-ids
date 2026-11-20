@@ -1,0 +1,11 @@
+{
+  "clientId": 14233,
+  "key": "item.crate.craft_flash",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Искра»",
+    "en": "Crate of Spark Grenades"
+  },
+  "apiId": "qjl6j",
+  "apiIdStatus": "inferred"
+}

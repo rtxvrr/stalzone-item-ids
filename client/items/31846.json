@@ -1,0 +1,11 @@
+{
+  "clientId": 31846,
+  "key": "item.blueprint.wpn.ravent_ak15",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж АК-15",
+    "en": "AK-15 Blueprint"
+  },
+  "apiId": "77d39",
+  "apiIdStatus": "inferred"
+}

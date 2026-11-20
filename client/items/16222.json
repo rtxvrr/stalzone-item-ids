@@ -1,0 +1,11 @@
+{
+  "clientId": 16222,
+  "key": "item.16222",
+  "kind": "item",
+  "name": {
+    "ru": "Плазма упыря",
+    "en": "Ghoul's Plasma"
+  },
+  "apiId": "7l1w9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31512,
+  "key": "item.ny_toys.setK.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая мишура",
+    "en": "Crafted Tinsel"
+  },
+  "apiId": "rjpdl",
+  "apiIdStatus": "inferred"
+}

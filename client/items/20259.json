@@ -1,0 +1,11 @@
+{
+  "clientId": 20259,
+  "key": "item.wpn.mc558",
+  "kind": "item",
+  "name": {
+    "ru": "МЦ-558",
+    "en": "MTs-558"
+  },
+  "apiId": "ly2rk",
+  "apiIdStatus": "inferred"
+}

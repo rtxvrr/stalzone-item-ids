@@ -1,0 +1,11 @@
+{
+  "clientId": 16927,
+  "key": "item.quest.duty.docs_stack",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка документов «Рубежа»",
+    "en": "Stack of Frontier Documents"
+  },
+  "apiId": "zz06n",
+  "apiIdStatus": "inferred"
+}

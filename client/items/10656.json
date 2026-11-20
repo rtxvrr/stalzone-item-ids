@@ -1,0 +1,11 @@
+{
+  "clientId": 10656,
+  "key": "item.key.safe_inside",
+  "kind": "item",
+  "name": {
+    "ru": "Фантомный ключ",
+    "en": "Phantom Key"
+  },
+  "apiId": "k7vy",
+  "apiIdStatus": "inferred"
+}

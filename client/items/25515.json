@@ -1,0 +1,11 @@
+{
+  "clientId": 25515,
+  "key": "item.25515",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование",
+    "en": "Anomalous Formation"
+  },
+  "apiId": "ok364",
+  "apiIdStatus": "inferred"
+}

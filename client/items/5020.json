@@ -1,0 +1,11 @@
+{
+  "clientId": 5020,
+  "key": "item.plc.sticker.raven26_heart_4",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Сражение»",
+    "en": "Battle League Sticker"
+  },
+  "apiId": "2mz0",
+  "apiIdStatus": "inferred"
+}

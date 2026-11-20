@@ -1,0 +1,11 @@
+{
+  "clientId": 10180,
+  "key": "item.quest.audio_diary_operation_lesta_main_caliber",
+  "kind": "item",
+  "name": {
+    "ru": "Главный Калибр",
+    "en": "Main Caliber"
+  },
+  "apiId": "kd0p",
+  "apiIdStatus": "inferred"
+}

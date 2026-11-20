@@ -1,0 +1,11 @@
+{
+  "clientId": 16291,
+  "key": "item.misc.chimera_meat",
+  "kind": "item",
+  "name": {
+    "ru": "Едкое мясо бестии",
+    "en": "Corrosive Fiend Meat"
+  },
+  "apiId": "dmypg",
+  "apiIdStatus": "inferred"
+}

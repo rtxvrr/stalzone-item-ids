@@ -1,0 +1,11 @@
+{
+  "clientId": 22062,
+  "key": "item.att.forend_b10m",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье Б-10М (нижняя планка)",
+    "en": "B-10M Handguard (Bottom Rail)"
+  },
+  "apiId": "m0kny",
+  "apiIdStatus": "inferred"
+}

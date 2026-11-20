@@ -1,0 +1,11 @@
+{
+  "clientId": 19515,
+  "key": "item.camo.unique_arm.bake",
+  "kind": "item",
+  "name": {
+    "ru": "«Печь»",
+    "en": "Stove"
+  },
+  "apiId": "okyd4",
+  "apiIdStatus": "inferred"
+}

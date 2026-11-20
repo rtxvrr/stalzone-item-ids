@@ -1,0 +1,11 @@
+{
+  "clientId": 8220,
+  "key": "item.quest.puer_zamer",
+  "kind": "item",
+  "name": {
+    "ru": "Универсальный дозиметр",
+    "en": "Universal Dosimeter"
+  },
+  "apiId": "223l",
+  "apiIdStatus": "inferred"
+}

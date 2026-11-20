@@ -1,0 +1,11 @@
+{
+  "clientId": 23200,
+  "key": "item.bolt_gem.inside",
+  "kind": "item",
+  "name": {
+    "ru": "Импульсная частица: Изнаночная",
+    "en": "Impulse Particle: Inside Out"
+  },
+  "apiId": "96l1l",
+  "apiIdStatus": "inferred"
+}

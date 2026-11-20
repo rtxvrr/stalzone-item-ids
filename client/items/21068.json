@@ -1,0 +1,11 @@
+{
+  "clientId": 21068,
+  "key": "item.melee.kukri_chosen",
+  "kind": "item",
+  "name": {
+    "ru": "«Дар Избранному»",
+    "en": "Gift for the Chosen One"
+  },
+  "apiId": "2oljv",
+  "apiIdStatus": "inferred"
+}

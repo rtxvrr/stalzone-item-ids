@@ -1,0 +1,11 @@
+{
+  "clientId": 15982,
+  "key": "item.crt.autumn_24",
+  "kind": "item",
+  "name": {
+    "ru": "ЧР-чек",
+    "en": "BM-check"
+  },
+  "apiId": "j5nd4",
+  "apiIdStatus": "inferred"
+}

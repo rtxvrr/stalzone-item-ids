@@ -1,0 +1,11 @@
+{
+  "clientId": 26088,
+  "key": "item.food.ny23.mandarin_anomal",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальный мандарин",
+    "en": "Anomalous Mandarin"
+  },
+  "apiId": "n4vo6",
+  "apiIdStatus": "inferred"
+}

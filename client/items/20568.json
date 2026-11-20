@@ -1,0 +1,11 @@
+{
+  "clientId": 20568,
+  "key": "item.wpn.rpk16",
+  "kind": "item",
+  "name": {
+    "ru": "РПК-16",
+    "en": "RPK-16"
+  },
+  "apiId": "2onz6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11452,
+  "key": "item.art.blizzard_crust",
+  "kind": "item",
+  "name": {
+    "ru": "Корка",
+    "en": "Rime"
+  },
+  "apiId": "5rzo",
+  "apiIdStatus": "inferred"
+}

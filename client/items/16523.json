@@ -1,0 +1,11 @@
+{
+  "clientId": 16523,
+  "key": "item.create.box_ammo_spb545",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик патронов 5.45 мм СБП",
+    "en": "Crate of 5.45 mm SBP Rounds"
+  },
+  "apiId": "6w9k6",
+  "apiIdStatus": "inferred"
+}

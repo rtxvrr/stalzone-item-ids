@@ -1,0 +1,11 @@
+{
+  "clientId": 24574,
+  "key": "item.charm.meme_family",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Семейная реликвия»",
+    "en": "Family Heirloom Charm"
+  },
+  "apiId": "g4625",
+  "apiIdStatus": "inferred"
+}

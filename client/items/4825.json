@@ -1,0 +1,11 @@
+{
+  "clientId": 4825,
+  "key": "item.plc.sticker.dmz26_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Летняя жара»",
+    "en": "Summer Heat Pattern"
+  },
+  "apiId": "1m6r",
+  "apiIdStatus": "inferred"
+}

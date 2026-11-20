@@ -1,0 +1,11 @@
+{
+  "clientId": 17131,
+  "key": "item.style.arm.fighter_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Оперативник Черного Рынка",
+    "en": "Black Market Operative"
+  },
+  "apiId": "4q5yl",
+  "apiIdStatus": "inferred"
+}

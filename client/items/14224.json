@@ -1,0 +1,11 @@
+{
+  "clientId": 14224,
+  "key": "item.crate.homemade_flashbang",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик самодельных светошумов",
+    "en": "Box of Handmade Flashbang Grenades"
+  },
+  "apiId": "96qll",
+  "apiIdStatus": "inferred"
+}

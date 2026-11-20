@@ -1,0 +1,11 @@
+{
+  "clientId": 16554,
+  "key": "item.bag.apt_p",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка с аптечками проводника",
+    "en": "Bag of Guide's First-Aid Kits"
+  },
+  "apiId": "wjl5d",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6511,
+  "key": "item.misc.incendiary_coating",
+  "kind": "item",
+  "name": {
+    "ru": "Зажигательное покрытие",
+    "en": "Incendiary Coating"
+  },
+  "apiId": "l2oo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8318,
+  "key": "item.quest.shock_wave_chemistry",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенная химией вытяжка",
+    "en": "Chemically Purified Extract"
+  },
+  "apiId": "vprp",
+  "apiIdStatus": "inferred"
+}

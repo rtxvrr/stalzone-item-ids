@@ -1,0 +1,11 @@
+{
+  "clientId": 15083,
+  "key": "item.case.summer26_functional",
+  "kind": "item",
+  "name": {
+    "ru": "Особый кейс «Антициклона»",
+    "en": "Anticyclone Special Case"
+  },
+  "apiId": "ly0r2",
+  "apiIdStatus": "inferred"
+}

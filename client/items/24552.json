@@ -1,0 +1,11 @@
+{
+  "clientId": 24552,
+  "key": "item.charm.set_quest_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Игрушка-шишка»",
+    "en": "Pine Cone Ornament Charm"
+  },
+  "apiId": "5lkpq",
+  "apiIdStatus": "inferred"
+}

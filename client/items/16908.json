@@ -1,0 +1,11 @@
+{
+  "clientId": 16908,
+  "key": "item.quest.covenant.lockpicktools",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты для взлома",
+    "en": "Lockpicking Tools"
+  },
+  "apiId": "kn5jv",
+  "apiIdStatus": "inferred"
+}

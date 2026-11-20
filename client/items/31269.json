@@ -1,0 +1,11 @@
+{
+  "clientId": 31269,
+  "key": "item.ny_toys.setQ.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Советский полосатый шарик",
+    "en": "Soviet Striped Bauble"
+  },
+  "apiId": "34331",
+  "apiIdStatus": "inferred"
+}

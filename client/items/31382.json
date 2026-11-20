@@ -1,0 +1,11 @@
+{
+  "clientId": 31382,
+  "key": "item.ny_toys.setH.toy8",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичная игрушка-льдинка",
+    "en": "Futuristic Ice Floe Decoration"
+  },
+  "apiId": "j0go6",
+  "apiIdStatus": "inferred"
+}

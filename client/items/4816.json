@@ -1,0 +1,11 @@
+{
+  "clientId": 4816,
+  "key": "item.plc.sticker.master_zone",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Хозяина Зоны",
+    "en": "Master of the Zone Sticker"
+  },
+  "apiId": "n119",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26014,
+  "key": "item.med.protector_2",
+  "kind": "item",
+  "name": {
+    "ru": "Радиопротектор второго класса",
+    "en": "2nd Class Radioprotectant"
+  },
+  "apiId": "m0p4j",
+  "apiIdStatus": "inferred"
+}

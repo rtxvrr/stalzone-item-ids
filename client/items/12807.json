@@ -1,0 +1,11 @@
+{
+  "clientId": 12807,
+  "key": "item.amm.127fire",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12.7 мм жгучий",
+    "en": "12.7 mm Fluff Round"
+  },
+  "apiId": "4d5p",
+  "apiIdStatus": "inferred"
+}

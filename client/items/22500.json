@@ -1,0 +1,11 @@
+{
+  "clientId": 22500,
+  "key": "item.att.barrel_noveske",
+  "kind": "item",
+  "name": {
+    "ru": "Пламегаситель Noveske KX3",
+    "en": "Noveske KX3 Flash Hider"
+  },
+  "apiId": "96p6w",
+  "apiIdStatus": "inferred"
+}

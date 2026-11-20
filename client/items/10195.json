@@ -1,0 +1,11 @@
+{
+  "clientId": 10195,
+  "key": "item.quest.breadcrumbs_audiocassette_paradoxteseya_3",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Парадокс Тесея»",
+    "en": "Ship of Theseus Cassette"
+  },
+  "apiId": "64k0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17576,
+  "key": "item.style.wpn.glock_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Багряный»",
+    "en": "Crimson"
+  },
+  "apiId": "5l3g0",
+  "apiIdStatus": "inferred"
+}

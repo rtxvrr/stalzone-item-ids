@@ -1,0 +1,11 @@
+{
+  "clientId": 5004,
+  "key": "item.plc.sticker.prestige_son",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Боец Колизея»",
+    "en": "Coliseum Fighter Sticker"
+  },
+  "apiId": "504g",
+  "apiIdStatus": "inferred"
+}

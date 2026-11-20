@@ -1,0 +1,11 @@
+{
+  "clientId": 27246,
+  "key": "item.crt.triumph_26_episode",
+  "kind": "item",
+  "name": {
+    "ru": "Монетка Бати",
+    "en": "Pops' Coin"
+  },
+  "apiId": "7lvd3",
+  "apiIdStatus": "inferred"
+}

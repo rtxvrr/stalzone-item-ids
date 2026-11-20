@@ -1,0 +1,11 @@
+{
+  "clientId": 24586,
+  "key": "item.charm.meme_wood",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Деревянный ящик»",
+    "en": "Wooden Crate Charm"
+  },
+  "apiId": "m07o2",
+  "apiIdStatus": "inferred"
+}

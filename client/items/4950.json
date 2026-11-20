@@ -1,0 +1,11 @@
+{
+  "clientId": 4950,
+  "key": "item.plc.sticker.dmz26_pacifist",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Святой Валентин»",
+    "en": "Saint Valentine Sticker"
+  },
+  "apiId": "gjgp",
+  "apiIdStatus": "inferred"
+}

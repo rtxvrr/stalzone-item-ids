@@ -1,0 +1,11 @@
+{
+  "clientId": 8196,
+  "key": "item.quest.sanitars_keys",
+  "kind": "item",
+  "name": {
+    "ru": "Связка ключей",
+    "en": "Set of Keys"
+  },
+  "apiId": "9vkw",
+  "apiIdStatus": "inferred"
+}

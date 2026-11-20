@@ -1,0 +1,11 @@
+{
+  "clientId": 25467,
+  "key": "item.arm.trader_over",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон с жилетом",
+    "en": "Jumpsuit with Vest"
+  },
+  "apiId": "dm365",
+  "apiIdStatus": "inferred"
+}

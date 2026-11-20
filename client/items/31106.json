@@ -1,0 +1,11 @@
+{
+  "clientId": 31106,
+  "key": "item.brt.battlefields",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой жетон",
+    "en": "Battle Token"
+  },
+  "apiId": "w3zn3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24555,
+  "key": "item.charm.set_scifi_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Футуристичная льдинка»",
+    "en": "Futuristic Ice Floe Charm"
+  },
+  "apiId": "4q4po",
+  "apiIdStatus": "inferred"
+}

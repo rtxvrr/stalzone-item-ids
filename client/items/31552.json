@@ -1,0 +1,11 @@
+{
+  "clientId": 31552,
+  "key": "item.ny_toys.setM.garland2",
+  "kind": "item",
+  "name": {
+    "ru": "Хорошая гирлянда диггеров",
+    "en": "Good Digger's Garland"
+  },
+  "apiId": "553k4",
+  "apiIdStatus": "inferred"
+}

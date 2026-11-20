@@ -1,0 +1,11 @@
+{
+  "clientId": 16426,
+  "key": "item.16426",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованный PDA",
+    "en": "Encrypted PDA"
+  },
+  "apiId": "g41v0",
+  "apiIdStatus": "inferred"
+}

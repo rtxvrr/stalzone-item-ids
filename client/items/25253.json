@@ -1,0 +1,11 @@
+{
+  "clientId": 25253,
+  "key": "item.arm.palto",
+  "kind": "item",
+  "name": {
+    "ru": "Пальто со шляпой",
+    "en": "Coat and Hat"
+  },
+  "apiId": "y35q0",
+  "apiIdStatus": "inferred"
+}

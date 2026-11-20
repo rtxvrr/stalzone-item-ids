@@ -1,0 +1,11 @@
+{
+  "clientId": 19881,
+  "key": "item.motif.wpn.mp7_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "Оплавленный MP7",
+    "en": "Melted MP7"
+  },
+  "apiId": "qjvg4",
+  "apiIdStatus": "inferred"
+}

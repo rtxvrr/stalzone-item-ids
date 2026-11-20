@@ -1,0 +1,11 @@
+{
+  "clientId": 31689,
+  "key": "item.blueprint.wpn.ravent_spectre",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Spectre M4",
+    "en": "Spectre M4 Blueprint"
+  },
+  "apiId": "pjokw",
+  "apiIdStatus": "inferred"
+}

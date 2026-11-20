@@ -1,0 +1,11 @@
+{
+  "clientId": 12812,
+  "key": "item.amm.545silver",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм серебряный",
+    "en": "5.45 mm Silver Round"
+  },
+  "apiId": "ro6g",
+  "apiIdStatus": "inferred"
+}

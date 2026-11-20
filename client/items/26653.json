@@ -1,0 +1,11 @@
+{
+  "clientId": 26653,
+  "key": "item.food.peas_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Гороховый суп",
+    "en": "Pea Soup"
+  },
+  "apiId": "y39yz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15788,
+  "key": "item.rep.battlefields",
+  "kind": "item",
+  "name": {
+    "ru": "Репутация Сессионных Боев",
+    "en": "Reputation of Session Battles"
+  },
+  "apiId": "n4j53",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16040,
+  "key": "item.16040",
+  "kind": "item",
+  "name": {
+    "ru": "Видеокамера",
+    "en": "Video Camera"
+  },
+  "apiId": "n4j31",
+  "apiIdStatus": "inferred"
+}

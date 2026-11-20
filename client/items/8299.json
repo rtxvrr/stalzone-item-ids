@@ -1,0 +1,11 @@
+{
+  "clientId": 8299,
+  "key": "item.quest.the_shock_wave_piston_group",
+  "kind": "item",
+  "name": {
+    "ru": "Поршневая группа",
+    "en": "Piston Assembly"
+  },
+  "apiId": "zp6y",
+  "apiIdStatus": "inferred"
+}

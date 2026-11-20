@@ -1,0 +1,11 @@
+{
+  "clientId": 14243,
+  "key": "item.bag.armorpack_steel3",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка стальных пластин III",
+    "en": "Bag of Steel Plates III"
+  },
+  "apiId": "dmldj",
+  "apiIdStatus": "inferred"
+}

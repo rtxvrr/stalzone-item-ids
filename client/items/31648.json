@@ -1,0 +1,11 @@
+{
+  "clientId": 31648,
+  "key": "item.blueprint.arm.centurion",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Центурион»",
+    "en": "Centurion Armored Suit Blueprint"
+  },
+  "apiId": "9d1gl",
+  "apiIdStatus": "inferred"
+}

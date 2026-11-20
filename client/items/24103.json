@@ -1,0 +1,11 @@
+{
+  "clientId": 24103,
+  "key": "item.24103",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Батарейка»",
+    "en": "Battery Charm"
+  },
+  "apiId": "zz4jn",
+  "apiIdStatus": "inferred"
+}

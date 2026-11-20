@@ -1,0 +1,11 @@
+{
+  "clientId": 26042,
+  "key": "item.med.tinfoil_hat",
+  "kind": "item",
+  "name": {
+    "ru": "«Шапочка из фольги»",
+    "en": "Tinfoil Hat"
+  },
+  "apiId": "vjy0n",
+  "apiIdStatus": "inferred"
+}

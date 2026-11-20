@@ -1,0 +1,11 @@
+{
+  "clientId": 10655,
+  "key": "item.key.safe_zivcas",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от сейфа Зивкаса",
+    "en": "ZIVCAS Safe Key"
+  },
+  "apiId": "44nr",
+  "apiIdStatus": "inferred"
+}

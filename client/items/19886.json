@@ -1,0 +1,11 @@
+{
+  "clientId": 19886,
+  "key": "item.motif.wpn.ak15_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Память металла»",
+    "en": "Memory of Metal"
+  },
+  "apiId": "m02vk",
+  "apiIdStatus": "inferred"
+}

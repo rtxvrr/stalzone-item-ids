@@ -1,0 +1,11 @@
+{
+  "clientId": 25493,
+  "key": "item.arm.grenadier_twins",
+  "kind": "item",
+  "name": {
+    "ru": "«Гренадер» Близнецов",
+    "en": "The Twins' Grenadier"
+  },
+  "apiId": "3gd3z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17526,
+  "key": "item.style.wpn.svu_duty",
+  "kind": "item",
+  "name": {
+    "ru": "«Капитанская вахта»",
+    "en": "Captain's Watch"
+  },
+  "apiId": "g4p0p",
+  "apiIdStatus": "inferred"
+}

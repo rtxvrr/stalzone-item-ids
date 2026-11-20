@@ -1,0 +1,11 @@
+{
+  "clientId": 19883,
+  "key": "item.motif.wpn.deagle_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Окалина»",
+    "en": "Mill Scale"
+  },
+  "apiId": "lylv2",
+  "apiIdStatus": "inferred"
+}

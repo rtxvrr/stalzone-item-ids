@@ -1,0 +1,11 @@
+{
+  "clientId": 25046,
+  "key": "item.arm.dogger",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Псарь»",
+    "en": "Houndmaster Jumpsuit"
+  },
+  "apiId": "7lmn6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31273,
+  "key": "item.ny_toys.setQ.garland2",
+  "kind": "item",
+  "name": {
+    "ru": "Советская хорошая гирлянда",
+    "en": "Nice Soviet Tree Lights"
+  },
+  "apiId": "194yr",
+  "apiIdStatus": "inferred"
+}

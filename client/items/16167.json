@@ -1,0 +1,11 @@
+{
+  "clientId": 16167,
+  "key": "item.16167",
+  "kind": "item",
+  "name": {
+    "ru": "Обработанная лимбоплазма",
+    "en": "Processed Limboplasma"
+  },
+  "apiId": "dmym2",
+  "apiIdStatus": "inferred"
+}

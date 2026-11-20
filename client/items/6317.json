@@ -1,0 +1,11 @@
+{
+  "clientId": 6317,
+  "key": "item.misc.purified_fat",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенный жир",
+    "en": "Refined Fat"
+  },
+  "apiId": "prp5",
+  "apiIdStatus": "inferred"
+}

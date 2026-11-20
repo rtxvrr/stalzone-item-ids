@@ -1,0 +1,11 @@
+{
+  "clientId": 18132,
+  "key": "item.camo.wpn.fir",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Ельник»",
+    "en": "Spruce Camouflage"
+  },
+  "apiId": "kn2mv",
+  "apiIdStatus": "inferred"
+}

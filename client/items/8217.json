@@ -1,0 +1,11 @@
+{
+  "clientId": 8217,
+  "key": "item.quest.ford_apparat",
+  "kind": "item",
+  "name": {
+    "ru": "МДИ-9 «Переводчик»",
+    "en": "MDI-9 Translator"
+  },
+  "apiId": "plnw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 27333,
+  "key": "item.misc.inside_glass_1",
+  "kind": "item",
+  "name": {
+    "ru": "Тусклое стекло",
+    "en": "Dim Glass"
+  },
+  "apiId": "qjdv9",
+  "apiIdStatus": "inferred"
+}

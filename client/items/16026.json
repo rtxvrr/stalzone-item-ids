@@ -1,0 +1,11 @@
+{
+  "clientId": 16026,
+  "key": "item.16026",
+  "kind": "item",
+  "name": {
+    "ru": "Пустая колба",
+    "en": "Empty Flask"
+  },
+  "apiId": "g4ky6",
+  "apiIdStatus": "inferred"
+}

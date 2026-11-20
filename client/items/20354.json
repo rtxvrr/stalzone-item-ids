@@ -1,0 +1,11 @@
+{
+  "clientId": 20354,
+  "key": "item.wpn.rmo93",
+  "kind": "item",
+  "name": {
+    "ru": "РМО-93",
+    "en": "RMO-93"
+  },
+  "apiId": "wj7v3",
+  "apiIdStatus": "inferred"
+}

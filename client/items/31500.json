@@ -1,0 +1,11 @@
+{
+  "clientId": 31500,
+  "key": "item.ny_toys.setK.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-рябина",
+    "en": "Crafted Rowan Decoration"
+  },
+  "apiId": "9d1lw",
+  "apiIdStatus": "inferred"
+}

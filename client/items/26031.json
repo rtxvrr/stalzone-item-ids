@@ -1,0 +1,11 @@
+{
+  "clientId": 26031,
+  "key": "item.med.protector_4",
+  "kind": "item",
+  "name": {
+    "ru": "Радиопротектор исследователя",
+    "en": "Researcher's Radioprotectant"
+  },
+  "apiId": "4qg7p",
+  "apiIdStatus": "inferred"
+}

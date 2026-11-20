@@ -1,0 +1,11 @@
+{
+  "clientId": 16939,
+  "key": "item.quest.blue_plate",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя плата",
+    "en": "Blue Circuit Board"
+  },
+  "apiId": "okzy0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16294,
+  "key": "item.quest.pda_Bitok",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА Битка",
+    "en": "Bitok’s PDA"
+  },
+  "apiId": "7l139",
+  "apiIdStatus": "inferred"
+}

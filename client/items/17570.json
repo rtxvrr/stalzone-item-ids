@@ -1,0 +1,11 @@
+{
+  "clientId": 17570,
+  "key": "item.style.wpn.gauss_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "«Око Бури»",
+    "en": "Eye of Tempest"
+  },
+  "apiId": "7l357",
+  "apiIdStatus": "inferred"
+}

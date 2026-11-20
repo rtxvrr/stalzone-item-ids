@@ -1,0 +1,11 @@
+{
+  "clientId": 15978,
+  "key": "item.crt.summer_25",
+  "kind": "item",
+  "name": {
+    "ru": "Вексель",
+    "en": "Bill"
+  },
+  "apiId": "wj95d",
+  "apiIdStatus": "inferred"
+}

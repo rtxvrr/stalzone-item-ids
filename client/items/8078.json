@@ -1,0 +1,11 @@
+{
+  "clientId": 8078,
+  "key": "item.quest.exorcism_candels",
+  "kind": "item",
+  "name": {
+    "ru": "Церковные свечи",
+    "en": "Church candles"
+  },
+  "apiId": "wpnp",
+  "apiIdStatus": "inferred"
+}

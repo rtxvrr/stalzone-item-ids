@@ -1,0 +1,11 @@
+{
+  "clientId": 20254,
+  "key": "item.wpn.alpine",
+  "kind": "item",
+  "name": {
+    "ru": "Alpine TPG-1",
+    "en": "Alpine TPG-1"
+  },
+  "apiId": "wj792",
+  "apiIdStatus": "inferred"
+}

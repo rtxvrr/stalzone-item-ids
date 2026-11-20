@@ -1,0 +1,11 @@
+{
+  "clientId": 18496,
+  "key": "item.camo.wpn.ny26_tree_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска Золотой лиги",
+    "en": "Paint of the Gold League"
+  },
+  "apiId": "960dl",
+  "apiIdStatus": "inferred"
+}

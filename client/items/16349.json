@@ -1,0 +1,11 @@
+{
+  "clientId": 16349,
+  "key": "item.misc.chronosphere",
+  "kind": "item",
+  "name": {
+    "ru": "Хроносфера",
+    "en": "Chronosphere"
+  },
+  "apiId": "1rl61",
+  "apiIdStatus": "inferred"
+}

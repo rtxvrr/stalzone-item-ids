@@ -1,0 +1,11 @@
+{
+  "clientId": 18002,
+  "key": "item.camo.wpn.orange",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Оранжевая»",
+    "en": "Orange Weapon Paint"
+  },
+  "apiId": "g4zpn",
+  "apiIdStatus": "inferred"
+}

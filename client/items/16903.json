@@ -1,0 +1,11 @@
+{
+  "clientId": 16903,
+  "key": "item.quest.covenant.holywater",
+  "kind": "item",
+  "name": {
+    "ru": "«Заряженная» Митрополитом вода",
+    "en": "Metropolite's Charged Water"
+  },
+  "apiId": "zz0vn",
+  "apiIdStatus": "inferred"
+}

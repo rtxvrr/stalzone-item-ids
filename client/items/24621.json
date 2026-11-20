@@ -1,0 +1,11 @@
+{
+  "clientId": 24621,
+  "key": "item.charm.spring24_shield",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Щит руса-дружинника»",
+    "en": "Slav Battle Brother Shield Charm"
+  },
+  "apiId": "3gw51",
+  "apiIdStatus": "inferred"
+}

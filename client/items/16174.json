@@ -1,0 +1,11 @@
+{
+  "clientId": 16174,
+  "key": "item.16174",
+  "kind": "item",
+  "name": {
+    "ru": "Желчь мутанта",
+    "en": "Mutant Bile"
+  },
+  "apiId": "g4145",
+  "apiIdStatus": "inferred"
+}

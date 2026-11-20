@@ -1,0 +1,11 @@
+{
+  "clientId": 16801,
+  "key": "item.16801",
+  "kind": "item",
+  "name": {
+    "ru": "Использованный сканер",
+    "en": "Used Scanner"
+  },
+  "apiId": "1r1lr",
+  "apiIdStatus": "inferred"
+}

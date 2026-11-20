@@ -1,0 +1,11 @@
+{
+  "clientId": 24542,
+  "key": "item.charm.inside_glass",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Закаленное стекло»",
+    "en": "Tempered Glass Charm"
+  },
+  "apiId": "vj7pp",
+  "apiIdStatus": "inferred"
+}

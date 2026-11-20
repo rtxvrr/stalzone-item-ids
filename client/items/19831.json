@@ -1,0 +1,11 @@
+{
+  "clientId": 19831,
+  "key": "item.camo.unique_wpn.alk22_toxin",
+  "kind": "item",
+  "name": {
+    "ru": "«Токсин»",
+    "en": "Toxin"
+  },
+  "apiId": "4q00j",
+  "apiIdStatus": "inferred"
+}

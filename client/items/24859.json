@@ -1,0 +1,11 @@
+{
+  "clientId": 24859,
+  "key": "item.charm.mt_moneta",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Один против всех»",
+    "en": "One Against All Charm"
+  },
+  "apiId": "lyjkj",
+  "apiIdStatus": "inferred"
+}

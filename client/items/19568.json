@@ -1,0 +1,11 @@
+{
+  "clientId": 19568,
+  "key": "item.motif.arm.hound_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Опаленный»",
+    "en": "Scorched"
+  },
+  "apiId": "2o4km",
+  "apiIdStatus": "inferred"
+}

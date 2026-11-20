@@ -1,0 +1,11 @@
+{
+  "clientId": 31528,
+  "key": "item.ny_toys.setL.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Фаренгейт",
+    "en": "Fahrenheit Artifact Decoration"
+  },
+  "apiId": "553w4",
+  "apiIdStatus": "inferred"
+}

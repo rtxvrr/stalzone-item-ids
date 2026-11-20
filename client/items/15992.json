@@ -1,0 +1,11 @@
+{
+  "clientId": 15992,
+  "key": "item.crt.inside_onyx",
+  "kind": "item",
+  "name": {
+    "ru": "Оникс Изнанки",
+    "en": "Inside Out Onyx"
+  },
+  "apiId": "2orym",
+  "apiIdStatus": "inferred"
+}

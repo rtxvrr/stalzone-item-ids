@@ -1,0 +1,11 @@
+{
+  "clientId": 4927,
+  "key": "item.plc.sticker.inside_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Фантома",
+    "en": "Phantom Sticker"
+  },
+  "apiId": "zv5n",
+  "apiIdStatus": "inferred"
+}

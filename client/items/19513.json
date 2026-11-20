@@ -1,0 +1,11 @@
+{
+  "clientId": 19513,
+  "key": "item.camo.unique_arm.kapellan",
+  "kind": "item",
+  "name": {
+    "ru": "«Капеллан»",
+    "en": "Chaplain"
+  },
+  "apiId": "0rydr",
+  "apiIdStatus": "inferred"
+}

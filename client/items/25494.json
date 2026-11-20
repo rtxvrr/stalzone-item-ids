@@ -1,0 +1,11 @@
+{
+  "clientId": 25494,
+  "key": "item.arm.nina",
+  "kind": "item",
+  "name": {
+    "ru": "Нина",
+    "en": "Nina"
+  },
+  "apiId": "7lz33",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12204,
+  "key": "item.misc.tradepack_5",
+  "kind": "item",
+  "name": {
+    "ru": "Торговый кейс",
+    "en": "Trader's Case"
+  },
+  "apiId": "5zog",
+  "apiIdStatus": "inferred"
+}

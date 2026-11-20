@@ -1,0 +1,11 @@
+{
+  "clientId": 13018,
+  "key": "item.coupon.newbie_armor_75",
+  "kind": "item",
+  "name": {
+    "ru": "Бартерный купон (Новичок)",
+    "en": "Barter Coupon (Newbie)"
+  },
+  "apiId": "vdpr",
+  "apiIdStatus": "inferred"
+}

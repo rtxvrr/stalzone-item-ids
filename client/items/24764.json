@@ -1,0 +1,11 @@
+{
+  "clientId": 24764,
+  "key": "item.charm.watch_out_down",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Смотри под ноги!»",
+    "en": "Watch your step! Charm"
+  },
+  "apiId": "n4703",
+  "apiIdStatus": "inferred"
+}

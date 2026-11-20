@@ -1,0 +1,11 @@
+{
+  "clientId": 10159,
+  "key": "item.quest.smotrikov10",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: 105",
+    "en": "Audio Recorder: 105"
+  },
+  "apiId": "ld1o",
+  "apiIdStatus": "inferred"
+}

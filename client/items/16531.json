@@ -1,0 +1,11 @@
+{
+  "clientId": 16531,
+  "key": "item.bag.556st",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 5.56 мм",
+    "en": "Pouch of 5.56 mm Rounds"
+  },
+  "apiId": "4q7wl",
+  "apiIdStatus": "inferred"
+}

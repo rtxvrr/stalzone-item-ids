@@ -1,0 +1,11 @@
+{
+  "clientId": 25096,
+  "key": "item.arm.legion-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Легионер»",
+    "en": "Worn Legionnaire"
+  },
+  "apiId": "96n5l",
+  "apiIdStatus": "inferred"
+}

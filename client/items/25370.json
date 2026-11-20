@@ -1,0 +1,11 @@
+{
+  "clientId": 25370,
+  "key": "item.arm.navigator",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Навигатор»",
+    "en": "Navigator Jumpsuit"
+  },
+  "apiId": "7lzl7",
+  "apiIdStatus": "inferred"
+}

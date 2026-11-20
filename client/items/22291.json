@@ -1,0 +1,11 @@
+{
+  "clientId": 22291,
+  "key": "item.att.scope_psop_f",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический ПОСП, зимний",
+    "en": "POSP Optical Sight, Winter"
+  },
+  "apiId": "dm0wg",
+  "apiIdStatus": "inferred"
+}

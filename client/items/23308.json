@@ -1,0 +1,11 @@
+{
+  "clientId": 23308,
+  "key": "item.bolt_gem.base_violet",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Фиолетовая",
+    "en": "Chromatic Particle: Purple"
+  },
+  "apiId": "kn0mp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19703,
+  "key": "item.camo.arm.media_advanced",
+  "kind": "item",
+  "name": {
+    "ru": "Краска продвинутого партнера",
+    "en": "Advanced Partner Paint"
+  },
+  "apiId": "zz7wm",
+  "apiIdStatus": "inferred"
+}

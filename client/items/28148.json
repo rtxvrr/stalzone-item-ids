@@ -1,0 +1,11 @@
+{
+  "clientId": 28148,
+  "key": "item.28148",
+  "kind": "item",
+  "name": {
+    "ru": "Зашифрованный PDA мастера",
+    "en": "Encrypted Master's PDA"
+  },
+  "apiId": "9dqyy",
+  "apiIdStatus": "inferred"
+}

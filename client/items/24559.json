@@ -1,0 +1,11 @@
+{
+  "clientId": 24559,
+  "key": "item.charm.stalcraft",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «STALCRAFT»",
+    "en": "STALCRAFT Charm"
+  },
+  "apiId": "ly71o",
+  "apiIdStatus": "inferred"
+}

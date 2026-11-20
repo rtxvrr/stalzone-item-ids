@@ -1,0 +1,11 @@
+{
+  "clientId": 16419,
+  "key": "item.16419",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой Пропуск",
+    "en": "Battle Pass"
+  },
+  "apiId": "dmyv5",
+  "apiIdStatus": "inferred"
+}

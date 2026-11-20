@@ -1,0 +1,11 @@
+{
+  "clientId": 9622,
+  "key": "item.wpn.prestige_stun",
+  "kind": "item",
+  "name": {
+    "ru": "ПС-2 «Сомнус»",
+    "en": "PS-2 Somnus"
+  },
+  "apiId": "7qq9",
+  "apiIdStatus": "inferred"
+}

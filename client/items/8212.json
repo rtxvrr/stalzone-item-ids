@@ -1,0 +1,11 @@
+{
+  "clientId": 8212,
+  "key": "item.quest.armor_piercing_sky_detector",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор движения",
+    "en": "Motion Detector"
+  },
+  "apiId": "r0pv",
+  "apiIdStatus": "inferred"
+}

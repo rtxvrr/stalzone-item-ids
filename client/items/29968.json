@@ -1,0 +1,11 @@
+{
+  "clientId": 29968,
+  "key": "item.filler.mob_limansk_9",
+  "kind": "item",
+  "name": {
+    "ru": "Сердце мутанта из Любеча",
+    "en": "Lyubech Mutant's Heart"
+  },
+  "apiId": "21065",
+  "apiIdStatus": "inferred"
+}

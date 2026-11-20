@@ -1,0 +1,11 @@
+{
+  "clientId": 11419,
+  "key": "item.art.ravent_feather",
+  "kind": "item",
+  "name": {
+    "ru": "Перо Жар-птицы",
+    "en": "Firebird Feather"
+  },
+  "apiId": "dggg",
+  "apiIdStatus": "inferred"
+}

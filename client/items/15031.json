@@ -1,0 +1,11 @@
+{
+  "clientId": 15031,
+  "key": "item.lootbox.frontline_3",
+  "kind": "item",
+  "name": {
+    "ru": "Капитанский хабар",
+    "en": "Captain's Loot"
+  },
+  "apiId": "4qkkj",
+  "apiIdStatus": "inferred"
+}

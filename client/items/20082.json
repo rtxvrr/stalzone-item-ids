@@ -1,0 +1,11 @@
+{
+  "clientId": 20082,
+  "key": "item.wpn.aek971",
+  "kind": "item",
+  "name": {
+    "ru": "АЕК-971",
+    "en": "AEK-971"
+  },
+  "apiId": "j5l37",
+  "apiIdStatus": "inferred"
+}

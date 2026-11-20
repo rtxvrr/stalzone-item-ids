@@ -1,0 +1,11 @@
+{
+  "clientId": 4965,
+  "key": "item.plc.sticker.ops_rating_fourth_league",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Аколит»",
+    "en": "Acolyte Sticker"
+  },
+  "apiId": "pzl2",
+  "apiIdStatus": "inferred"
+}

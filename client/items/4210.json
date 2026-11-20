@@ -1,0 +1,11 @@
+{
+  "clientId": 4210,
+  "key": "item.plc.background.spring25",
+  "kind": "item",
+  "name": {
+    "ru": "Фон сезона «Назад в Изнанку»",
+    "en": "Back to the Inside Out Season Background"
+  },
+  "apiId": "jwwl",
+  "apiIdStatus": "inferred"
+}

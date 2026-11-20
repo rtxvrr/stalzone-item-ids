@@ -1,0 +1,11 @@
+{
+  "clientId": 20613,
+  "key": "item.wpn.l85_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Уравнитель»",
+    "en": "Equalizer"
+  },
+  "apiId": "0r2zd",
+  "apiIdStatus": "inferred"
+}

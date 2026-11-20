@@ -1,0 +1,11 @@
+{
+  "clientId": 24671,
+  "key": "item.charm.autumn24_bullet",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Черный треугольник»",
+    "en": "Black Triangle Charm"
+  },
+  "apiId": "6wq0n",
+  "apiIdStatus": "inferred"
+}

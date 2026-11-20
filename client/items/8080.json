@@ -1,0 +1,11 @@
+{
+  "clientId": 8080,
+  "key": "item.quest.exorcism_dope",
+  "kind": "item",
+  "name": {
+    "ru": "Дурман",
+    "en": "Datura"
+  },
+  "apiId": "kwy0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18481,
+  "key": "item.camo.wpn.winter26_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Морозная разметка»",
+    "en": "Frosty Marking Paint"
+  },
+  "apiId": "qj50j",
+  "apiIdStatus": "inferred"
+}

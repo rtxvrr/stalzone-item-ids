@@ -1,0 +1,11 @@
+{
+  "clientId": 24369,
+  "key": "item.charm.snowflake_frostfighter",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон Морозоборцев",
+    "en": "Frost Fighter Token"
+  },
+  "apiId": "3gw2k",
+  "apiIdStatus": "inferred"
+}

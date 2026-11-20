@@ -1,0 +1,11 @@
+{
+  "clientId": 26020,
+  "key": "item.med.vodka_ny",
+  "kind": "item",
+  "name": {
+    "ru": "Водка «Морозная»",
+    "en": "Frosty Vodka"
+  },
+  "apiId": "2o900",
+  "apiIdStatus": "inferred"
+}

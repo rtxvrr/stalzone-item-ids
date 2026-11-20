@@ -1,0 +1,11 @@
+{
+  "clientId": 17523,
+  "key": "item.style.wpn.ak15_summer24",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS «Hornet»",
+    "en": "ZIVCAS «Hornet»"
+  },
+  "apiId": "6w7ry",
+  "apiIdStatus": "inferred"
+}

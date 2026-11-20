@@ -1,0 +1,11 @@
+{
+  "clientId": 16493,
+  "key": "item.quest.tulpainik_note_3",
+  "kind": "item",
+  "name": {
+    "ru": "Записка «3»",
+    "en": "Note #3"
+  },
+  "apiId": "3gqpz",
+  "apiIdStatus": "inferred"
+}

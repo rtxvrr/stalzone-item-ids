@@ -1,0 +1,11 @@
+{
+  "clientId": 6207,
+  "key": "item.misc.thermic_mixture",
+  "kind": "item",
+  "name": {
+    "ru": "Термическая смесь",
+    "en": "Thermal Mixture"
+  },
+  "apiId": "404p",
+  "apiIdStatus": "inferred"
+}

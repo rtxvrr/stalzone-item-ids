@@ -1,0 +1,11 @@
+{
+  "clientId": 21806,
+  "key": "item.wpn_mod.adv.seaker",
+  "kind": "item",
+  "name": {
+    "ru": "«Ищейка»",
+    "en": "Bloodhound"
+  },
+  "apiId": "wj14p",
+  "apiIdStatus": "inferred"
+}

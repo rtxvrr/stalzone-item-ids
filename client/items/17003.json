@@ -1,0 +1,11 @@
+{
+  "clientId": 17003,
+  "key": "item.att.launcher_storm",
+  "kind": "item",
+  "name": {
+    "ru": "Гранатомет «Урагана»",
+    "en": "Hurricane Grenade Launcher"
+  },
+  "apiId": "zz0l2",
+  "apiIdStatus": "inferred"
+}

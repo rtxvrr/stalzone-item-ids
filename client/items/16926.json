@@ -1,0 +1,11 @@
+{
+  "clientId": 16926,
+  "key": "item.quest.freedom.docs_stack",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка документов «Зари»",
+    "en": "Stack of Rise Documents"
+  },
+  "apiId": "g49wp",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15052,
+  "key": "item.case.winter26_functional",
+  "kind": "item",
+  "name": {
+    "ru": "Особый кейс «Зоны ниже нуля»",
+    "en": "Sub-Zero Zone Special Case"
+  },
+  "apiId": "5l5yo",
+  "apiIdStatus": "inferred"
+}

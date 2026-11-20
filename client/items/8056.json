@@ -1,0 +1,11 @@
+{
+  "clientId": 8056,
+  "key": "item.quest.dmz1_zivcas_pda",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА «Зивкаса»",
+    "en": "ZIVCAS PDA"
+  },
+  "apiId": "kg40",
+  "apiIdStatus": "inferred"
+}

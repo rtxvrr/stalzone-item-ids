@@ -1,0 +1,11 @@
+{
+  "clientId": 22207,
+  "key": "item.att.scope_m145",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Elcan M145",
+    "en": "Elcan M145 Optical Sight"
+  },
+  "apiId": "4qv6j",
+  "apiIdStatus": "inferred"
+}

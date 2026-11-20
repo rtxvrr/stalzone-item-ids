@@ -1,0 +1,11 @@
+{
+  "clientId": 4963,
+  "key": "item.plc.sticker.ops_rating_second_league",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Восходящий»",
+    "en": "Ascendant Sticker"
+  },
+  "apiId": "ogj0",
+  "apiIdStatus": "inferred"
+}

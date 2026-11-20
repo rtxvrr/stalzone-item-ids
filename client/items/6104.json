@@ -1,0 +1,11 @@
+{
+  "clientId": 6104,
+  "key": "item.misc.sewing_needles",
+  "kind": "item",
+  "name": {
+    "ru": "Швейные иголки",
+    "en": "Sewing Needles"
+  },
+  "apiId": "5dv0",
+  "apiIdStatus": "inferred"
+}

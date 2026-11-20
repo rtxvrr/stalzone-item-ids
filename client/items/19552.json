@@ -1,0 +1,11 @@
+{
+  "clientId": 19552,
+  "key": "item.camo.unique_arm.mercenary",
+  "kind": "item",
+  "name": {
+    "ru": "«Наемники»",
+    "en": "Mercenaries"
+  },
+  "apiId": "5l724",
+  "apiIdStatus": "inferred"
+}

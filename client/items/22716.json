@@ -1,0 +1,11 @@
+{
+  "clientId": 22716,
+  "key": "item.att.mag_beretta",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин Beretta",
+    "en": "Beretta Extended Magazine"
+  },
+  "apiId": "n4zp2",
+  "apiIdStatus": "inferred"
+}

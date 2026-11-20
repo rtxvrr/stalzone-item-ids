@@ -1,0 +1,11 @@
+{
+  "clientId": 16060,
+  "key": "item.16060",
+  "kind": "item",
+  "name": {
+    "ru": "Старинная монета 1617 года",
+    "en": "Old Coin from 1617"
+  },
+  "apiId": "rwm1v",
+  "apiIdStatus": "inferred"
+}

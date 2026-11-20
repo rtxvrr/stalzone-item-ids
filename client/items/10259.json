@@ -1,0 +1,11 @@
+{
+  "clientId": 10259,
+  "key": "item.phonograph.vinyl_location_mg",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Мертвый город»",
+    "en": "Dead City Vinyl Record"
+  },
+  "apiId": "ldj2",
+  "apiIdStatus": "inferred"
+}

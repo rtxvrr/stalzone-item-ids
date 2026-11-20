@@ -1,0 +1,11 @@
+{
+  "clientId": 25571,
+  "key": "item.arm.puppeteer",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм кукловода",
+    "en": "Puppeteer Suit"
+  },
+  "apiId": "6wg26",
+  "apiIdStatus": "inferred"
+}

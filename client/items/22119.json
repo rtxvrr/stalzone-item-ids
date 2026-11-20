@@ -1,0 +1,11 @@
+{
+  "clientId": 22119,
+  "key": "item.att.handgrip_rk2",
+  "kind": "item",
+  "name": {
+    "ru": "РК-2",
+    "en": "RK-2"
+  },
+  "apiId": "dm0z2",
+  "apiIdStatus": "inferred"
+}

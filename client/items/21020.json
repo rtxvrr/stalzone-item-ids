@@ -1,0 +1,11 @@
+{
+  "clientId": 21020,
+  "key": "item.melee.bate",
+  "kind": "item",
+  "name": {
+    "ru": "Бита с гвоздями",
+    "en": "Nail Bat"
+  },
+  "apiId": "2olnv",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24761,
+  "key": "item.charm.skorp",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мини Scorpion EVO 3»",
+    "en": "Mini Scorpion EVO 3 Charm"
+  },
+  "apiId": "0rz51",
+  "apiIdStatus": "inferred"
+}

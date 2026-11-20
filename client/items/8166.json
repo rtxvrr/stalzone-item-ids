@@ -1,0 +1,11 @@
+{
+  "clientId": 8166,
+  "key": "item.quest.apocalypse_not_today_syringe_brown",
+  "kind": "item",
+  "name": {
+    "ru": "Коричневый шприц",
+    "en": "Brown Syringe"
+  },
+  "apiId": "vp3g",
+  "apiIdStatus": "inferred"
+}

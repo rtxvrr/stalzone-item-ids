@@ -1,0 +1,11 @@
+{
+  "clientId": 22008,
+  "key": "item.att.forend_sigris1",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье с направляющей RIS для SIG SG 550",
+    "en": "Handguard with Guiding RIS for SIG SG 550"
+  },
+  "apiId": "knw5y",
+  "apiIdStatus": "inferred"
+}

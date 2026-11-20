@@ -1,0 +1,11 @@
+{
+  "clientId": 31266,
+  "key": "item.ny_toys.setQ.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Советский розовый шарик",
+    "en": "Soviet Pink Bauble"
+  },
+  "apiId": "vngg7",
+  "apiIdStatus": "inferred"
+}

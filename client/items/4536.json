@@ -1,0 +1,11 @@
+{
+  "clientId": 4536,
+  "key": "item.plc.pattern.mt_rain",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Дождь»",
+    "en": "Rain Pattern"
+  },
+  "apiId": "r91l",
+  "apiIdStatus": "inferred"
+}

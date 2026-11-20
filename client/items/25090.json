@@ -1,0 +1,11 @@
+{
+  "clientId": 25090,
+  "key": "item.arm.zarya_main",
+  "kind": "item",
+  "name": {
+    "ru": "Болотная «Аврора»",
+    "en": "Swamp Aurora"
+  },
+  "apiId": "vj19r",
+  "apiIdStatus": "inferred"
+}

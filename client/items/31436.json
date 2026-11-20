@@ -1,0 +1,11 @@
+{
+  "clientId": 31436,
+  "key": "item.lootbox.wpn_camo_rare",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик ценителя оружия",
+    "en": "Weapons Connoisseur's Crate"
+  },
+  "apiId": "rjpqg",
+  "apiIdStatus": "inferred"
+}

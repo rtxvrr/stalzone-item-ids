@@ -1,0 +1,11 @@
+{
+  "clientId": 31398,
+  "key": "item.bag.127bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка бронебойных 12.7 мм",
+    "en": "Pouch of 12.7 mm Armor-Piercing Rounds"
+  },
+  "apiId": "gnpvp",
+  "apiIdStatus": "inferred"
+}

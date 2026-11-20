@@ -1,0 +1,11 @@
+{
+  "clientId": 16639,
+  "key": "item.16639",
+  "kind": "item",
+  "name": {
+    "ru": "Особый контейнер",
+    "en": "Special Container"
+  },
+  "apiId": "okpd6",
+  "apiIdStatus": "inferred"
+}

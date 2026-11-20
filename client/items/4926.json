@@ -1,0 +1,11 @@
+{
+  "clientId": 4926,
+  "key": "item.plc.sticker.inside_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Искаженного",
+    "en": "Distorted Sticker"
+  },
+  "apiId": "gjop",
+  "apiIdStatus": "inferred"
+}

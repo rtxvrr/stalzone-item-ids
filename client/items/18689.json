@@ -1,0 +1,11 @@
+{
+  "clientId": 18689,
+  "key": "item.camo.wpn.combustion",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Горение»",
+    "en": "Burning Camouflage"
+  },
+  "apiId": "p6zrd",
+  "apiIdStatus": "inferred"
+}

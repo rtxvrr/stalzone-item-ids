@@ -1,0 +1,11 @@
+{
+  "clientId": 16895,
+  "key": "item.quest.covenant_commandment1",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 1",
+    "en": "1st Covenant Commandment"
+  },
+  "apiId": "6wljn",
+  "apiIdStatus": "inferred"
+}

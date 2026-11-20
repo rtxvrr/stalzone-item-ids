@@ -1,0 +1,11 @@
+{
+  "clientId": 24626,
+  "key": "item.charm.summer24_pepe",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Еще зеленый»",
+    "en": "Evergreen charm"
+  },
+  "apiId": "g466n",
+  "apiIdStatus": "inferred"
+}

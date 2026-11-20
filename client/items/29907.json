@@ -1,0 +1,11 @@
+{
+  "clientId": 29907,
+  "key": "item.filler.npc_8",
+  "kind": "item",
+  "name": {
+    "ru": "Дорогие сигареты",
+    "en": "Expensive Cigarettes"
+  },
+  "apiId": "4kodo",
+  "apiIdStatus": "inferred"
+}

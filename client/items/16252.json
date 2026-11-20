@@ -1,0 +1,11 @@
+{
+  "clientId": 16252,
+  "key": "item.misc.cat_tail_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост слабой кошки",
+    "en": "Weak Cat's Tail"
+  },
+  "apiId": "5lo6o",
+  "apiIdStatus": "inferred"
+}

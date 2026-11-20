@@ -1,0 +1,11 @@
+{
+  "clientId": 31046,
+  "key": "item.brt.les.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Остатки сигнального процессора",
+    "en": "Remains of a Signal Processor"
+  },
+  "apiId": "77oy6",
+  "apiIdStatus": "inferred"
+}

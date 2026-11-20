@@ -1,0 +1,11 @@
+{
+  "clientId": 4937,
+  "key": "item.plc.sticker.newyeartree_wooden",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Деревянной лиги",
+    "en": "Wooden League Sticker"
+  },
+  "apiId": "0mk1",
+  "apiIdStatus": "inferred"
+}

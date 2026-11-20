@@ -1,0 +1,11 @@
+{
+  "clientId": 14996,
+  "key": "item.tool.chetki",
+  "kind": "item",
+  "name": {
+    "ru": "Болтуха",
+    "en": "Blabberbolt"
+  },
+  "apiId": "96dqy",
+  "apiIdStatus": "inferred"
+}

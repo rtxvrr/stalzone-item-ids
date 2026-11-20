@@ -1,0 +1,11 @@
+{
+  "clientId": 8036,
+  "key": "item.quest.covenant.military_tag",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон Буслаева",
+    "en": "Buslaev's Token"
+  },
+  "apiId": "rqog",
+  "apiIdStatus": "inferred"
+}

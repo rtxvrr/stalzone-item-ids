@@ -1,0 +1,11 @@
+{
+  "clientId": 24683,
+  "key": "item.charm.autumn24_bm_big",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Оружейный Барон»",
+    "en": "\"Arms Baron\" Charm"
+  },
+  "apiId": "ly732",
+  "apiIdStatus": "inferred"
+}

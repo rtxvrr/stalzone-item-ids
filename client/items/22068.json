@@ -1,0 +1,11 @@
+{
+  "clientId": 22068,
+  "key": "item.att.forend_val",
+  "kind": "item",
+  "name": {
+    "ru": "Крышка ствольной коробки ВАЛ/ВСС",
+    "en": "Val/VSS Receiver Cover"
+  },
+  "apiId": "2o2wl",
+  "apiIdStatus": "inferred"
+}

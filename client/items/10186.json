@@ -1,0 +1,11 @@
+{
+  "clientId": 10186,
+  "key": "item.quest.polygons_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Тайфуна»: Полигоны",
+    "en": "Typhoon Cassette: Areas"
+  },
+  "apiId": "mdo2",
+  "apiIdStatus": "inferred"
+}

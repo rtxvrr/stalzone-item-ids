@@ -1,0 +1,11 @@
+{
+  "clientId": 10252,
+  "key": "item.phonograph.vinyl_location_kordon",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Обочина»",
+    "en": "Roadside Vinyl Record"
+  },
+  "apiId": "5wro",
+  "apiIdStatus": "inferred"
+}

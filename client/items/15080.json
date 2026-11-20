@@ -1,0 +1,11 @@
+{
+  "clientId": 15080,
+  "key": "item.lootbox.reichstag_3",
+  "kind": "item",
+  "name": {
+    "ru": "Тыловой резерв",
+    "en": "Rear Echelon Reserve"
+  },
+  "apiId": "knrpj",
+  "apiIdStatus": "inferred"
+}

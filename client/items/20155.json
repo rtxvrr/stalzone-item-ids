@@ -1,0 +1,11 @@
+{
+  "clientId": 20155,
+  "key": "item.wpn.pkp-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный ПКП",
+    "en": "Worn PKP"
+  },
+  "apiId": "4q0rl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18464,
+  "key": "item.camo.wpn.autumn25_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Тлен»",
+    "en": "Somber Paint"
+  },
+  "apiId": "n4141",
+  "apiIdStatus": "inferred"
+}

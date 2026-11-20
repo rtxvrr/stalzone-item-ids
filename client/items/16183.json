@@ -1,0 +1,11 @@
+{
+  "clientId": 16183,
+  "key": "item.16183",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование из Мертвого города",
+    "en": "Anomalous Formation from the Dead City"
+  },
+  "apiId": "lyr0o",
+  "apiIdStatus": "inferred"
+}

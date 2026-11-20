@@ -1,0 +1,11 @@
+{
+  "clientId": 24884,
+  "key": "item.charm.s12",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «S12»",
+    "en": "S12 Charm"
+  },
+  "apiId": "rwnvg",
+  "apiIdStatus": "inferred"
+}

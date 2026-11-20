@@ -1,0 +1,11 @@
+{
+  "clientId": 16232,
+  "key": "item.16232",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя папка",
+    "en": "Blue Folder"
+  },
+  "apiId": "knppj",
+  "apiIdStatus": "inferred"
+}

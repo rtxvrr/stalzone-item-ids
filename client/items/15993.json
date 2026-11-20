@@ -1,0 +1,11 @@
+{
+  "clientId": 15993,
+  "key": "item.crt.ssop_help_receipt",
+  "kind": "item",
+  "name": {
+    "ru": "Квитанция",
+    "en": "Receipt"
+  },
+  "apiId": "3gowk",
+  "apiIdStatus": "inferred"
+}

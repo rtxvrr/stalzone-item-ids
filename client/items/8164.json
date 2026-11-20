@@ -1,0 +1,11 @@
+{
+  "clientId": 8164,
+  "key": "item.quest.apocalypse_not_today_syringe_yellow",
+  "kind": "item",
+  "name": {
+    "ru": "Желтый шприц",
+    "en": "Yellow Syringe"
+  },
+  "apiId": "nqww",
+  "apiIdStatus": "inferred"
+}

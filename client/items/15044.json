@@ -1,0 +1,11 @@
+{
+  "clientId": 15044,
+  "key": "item.lootbox.encaged_3",
+  "kind": "item",
+  "name": {
+    "ru": "Саркофаг Кукловода",
+    "en": "Puppeteer's Sarcophagus"
+  },
+  "apiId": "2o11v",
+  "apiIdStatus": "inferred"
+}

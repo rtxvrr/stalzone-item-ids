@@ -1,0 +1,11 @@
+{
+  "clientId": 4921,
+  "key": "item.plc.sticker.blackraid_legend",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Гвардии Барона",
+    "en": "Baron's Guard Sticker"
+  },
+  "apiId": "3mlg",
+  "apiIdStatus": "inferred"
+}

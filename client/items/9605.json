@@ -1,0 +1,11 @@
+{
+  "clientId": 9605,
+  "key": "item.prestige.ability.push",
+  "kind": "item",
+  "name": {
+    "ru": "ГС-1 «Червоточина»",
+    "en": "SG-1 Wormhole"
+  },
+  "apiId": "yll0",
+  "apiIdStatus": "inferred"
+}

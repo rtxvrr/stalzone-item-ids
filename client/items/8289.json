@@ -1,0 +1,11 @@
+{
+  "clientId": 8289,
+  "key": "item.quest.crash_pda_research",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА Ученого",
+    "en": "Scientist's PDA"
+  },
+  "apiId": "plww",
+  "apiIdStatus": "inferred"
+}

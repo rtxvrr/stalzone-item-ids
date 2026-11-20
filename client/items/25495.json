@@ -1,0 +1,11 @@
+{
+  "clientId": 25495,
+  "key": "item.arm.zivcas_breaker",
+  "kind": "item",
+  "name": {
+    "ru": "«Хозяин Зоны»",
+    "en": "Master of the Zone"
+  },
+  "apiId": "6wg7j",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31085,
+  "key": "item.brt.armsklad.mob_add",
+  "kind": "item",
+  "name": {
+    "ru": "Дьявольская крапива",
+    "en": "Devil's Nettle"
+  },
+  "apiId": "00959",
+  "apiIdStatus": "inferred"
+}

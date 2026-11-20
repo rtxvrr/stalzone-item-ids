@@ -1,0 +1,11 @@
+{
+  "clientId": 11407,
+  "key": "item.art.ravent_boots",
+  "kind": "item",
+  "name": {
+    "ru": "Сапоги-скороходы",
+    "en": "Seven-league boots"
+  },
+  "apiId": "4llj",
+  "apiIdStatus": "inferred"
+}

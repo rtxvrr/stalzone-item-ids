@@ -1,0 +1,11 @@
+{
+  "clientId": 31652,
+  "key": "item.blueprint.arm.osh",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Ош»",
+    "en": "Osh Heavy Armored Suit Blueprint"
+  },
+  "apiId": "55321",
+  "apiIdStatus": "inferred"
+}

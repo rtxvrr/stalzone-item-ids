@@ -1,0 +1,11 @@
+{
+  "clientId": 19592,
+  "key": "item.motif.arm.punisher_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Сквид»",
+    "en": "Squid"
+  },
+  "apiId": "2od6m",
+  "apiIdStatus": "inferred"
+}

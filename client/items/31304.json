@@ -1,0 +1,11 @@
+{
+  "clientId": 31304,
+  "key": "item.ny_toys.setB.tinsel3",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя редкая мишура",
+    "en": "Rare Blue Tinsel"
+  },
+  "apiId": "55300",
+  "apiIdStatus": "inferred"
+}

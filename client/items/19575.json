@@ -1,0 +1,11 @@
+{
+  "clientId": 19575,
+  "key": "item.motif.arm.vanguard_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Опричник»",
+    "en": "Oprichnik"
+  },
+  "apiId": "zz6m9",
+  "apiIdStatus": "inferred"
+}

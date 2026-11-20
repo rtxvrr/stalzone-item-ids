@@ -1,0 +1,11 @@
+{
+  "clientId": 31860,
+  "key": "item.ops.achievement_giver.rating_patient_zero",
+  "kind": "item",
+  "name": {
+    "ru": "Достижение «Нулевой Пациент»",
+    "en": "Patient Zero Achievement"
+  },
+  "apiId": "rj99z",
+  "apiIdStatus": "inferred"
+}

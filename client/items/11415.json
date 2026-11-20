@@ -1,0 +1,11 @@
+{
+  "clientId": 11415,
+  "key": "item.art.ravent_tail",
+  "kind": "item",
+  "name": {
+    "ru": "Хвост Треклятого Ящера",
+    "en": "Tail of the Damned Lizard"
+  },
+  "apiId": "o005",
+  "apiIdStatus": "inferred"
+}

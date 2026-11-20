@@ -1,0 +1,11 @@
+{
+  "clientId": 6133,
+  "key": "item.misc.glue",
+  "kind": "item",
+  "name": {
+    "ru": "Клей",
+    "en": "Glue"
+  },
+  "apiId": "qvwk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24931,
+  "key": "item.charm.rune_audio_recorder",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Аудиофиксатор»",
+    "en": "Audio Recorder Charm"
+  },
+  "apiId": "4ql3l",
+  "apiIdStatus": "inferred"
+}

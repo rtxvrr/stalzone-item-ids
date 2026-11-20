@@ -1,0 +1,11 @@
+{
+  "clientId": 4303,
+  "key": "item.plc.background.murzya",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Мурзи",
+    "en": "Purrzy Background"
+  },
+  "apiId": "zn2n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22770,
+  "key": "item.att.mag_psg1",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин PSG1",
+    "en": "PSG1 Extended Magazine"
+  },
+  "apiId": "7lp5j",
+  "apiIdStatus": "inferred"
+}

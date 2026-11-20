@@ -1,0 +1,11 @@
+{
+  "clientId": 25190,
+  "key": "item.arm.skat_pp",
+  "kind": "item",
+  "name": {
+    "ru": "«Скиф-4» Первопроходцев",
+    "en": "Trailblazers' Scythian-4"
+  },
+  "apiId": "vj1zp",
+  "apiIdStatus": "inferred"
+}

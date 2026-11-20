@@ -1,0 +1,11 @@
+{
+  "clientId": 12831,
+  "key": "item.amm.762ap",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм «Динозавр»",
+    "en": "7.62 mm Dinosaur Round"
+  },
+  "apiId": "4d3p",
+  "apiIdStatus": "inferred"
+}

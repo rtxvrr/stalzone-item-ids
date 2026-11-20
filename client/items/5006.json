@@ -1,0 +1,11 @@
+{
+  "clientId": 5006,
+  "key": "item.plc.sticker.electroshtorm_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Под напряжением»",
+    "en": "High Voltage Sticker"
+  },
+  "apiId": "wvqp",
+  "apiIdStatus": "inferred"
+}

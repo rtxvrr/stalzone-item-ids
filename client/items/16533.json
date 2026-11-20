@@ -1,0 +1,11 @@
+{
+  "clientId": 16533,
+  "key": "item.bag.12slug",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка охотничьих пуль 12х76 мм",
+    "en": "Pouch of 12x76 Hunting Ammo"
+  },
+  "apiId": "qjqz9",
+  "apiIdStatus": "inferred"
+}

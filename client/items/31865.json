@@ -1,0 +1,11 @@
+{
+  "clientId": 31865,
+  "key": "item.blueprint.wpn.ravent_saiga12",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Сайга-12",
+    "en": "Saiga-12 Blueprint"
+  },
+  "apiId": "pjood",
+  "apiIdStatus": "inferred"
+}

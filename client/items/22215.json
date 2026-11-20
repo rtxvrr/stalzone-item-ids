@@ -1,0 +1,11 @@
+{
+  "clientId": 22215,
+  "key": "item.att.scope_murmur_azimut",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический «Азимут»",
+    "en": "Azimut Optical Sight"
+  },
+  "apiId": "okjw5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15094,
+  "key": "item.lootbox.paint_case",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер прошедших дней",
+    "en": "Container of Days Gone By"
+  },
+  "apiId": "7l719",
+  "apiIdStatus": "inferred"
+}

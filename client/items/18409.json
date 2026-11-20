@@ -1,0 +1,11 @@
+{
+  "clientId": 18409,
+  "key": "item.camo.wpn.bf_skin_12",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Киноварь»",
+    "en": "Cinnabar Paint"
+  },
+  "apiId": "qjpdj",
+  "apiIdStatus": "inferred"
+}

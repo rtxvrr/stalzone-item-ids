@@ -1,0 +1,11 @@
+{
+  "clientId": 4975,
+  "key": "item.plc.sticker.na_cowgirl",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Наездница»",
+    "en": "Сowgirl Sticker"
+  },
+  "apiId": "zv9n",
+  "apiIdStatus": "inferred"
+}

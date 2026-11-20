@@ -1,0 +1,11 @@
+{
+  "clientId": 8374,
+  "key": "item.quest.zov_zapiska_krovi_4",
+  "kind": "item",
+  "name": {
+    "ru": "Окровавленная записка 4",
+    "en": "Bloodstained Note 4"
+  },
+  "apiId": "ggv5",
+  "apiIdStatus": "inferred"
+}

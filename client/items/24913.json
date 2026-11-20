@@ -1,0 +1,11 @@
+{
+  "clientId": 24913,
+  "key": "item.charm.media_zdarova",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Приветствие»",
+    "en": "Greeting Charm"
+  },
+  "apiId": "0r4jr",
+  "apiIdStatus": "inferred"
+}

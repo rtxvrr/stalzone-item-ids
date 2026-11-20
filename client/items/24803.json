@@ -1,0 +1,11 @@
+{
+  "clientId": 24803,
+  "key": "item.charm.stream_battle",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Простыня»",
+    "en": "Bedsheet Charm"
+  },
+  "apiId": "zzyz2",
+  "apiIdStatus": "inferred"
+}

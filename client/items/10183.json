@@ -1,0 +1,11 @@
+{
+  "clientId": 10183,
+  "key": "item.quest.freedom_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «зорьки»",
+    "en": "Rise Member Cassette"
+  },
+  "apiId": "ldmo",
+  "apiIdStatus": "inferred"
+}

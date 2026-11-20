@@ -1,0 +1,11 @@
+{
+  "clientId": 6704,
+  "key": "item.misc.mutated_enzymes",
+  "kind": "item",
+  "name": {
+    "ru": "Мутировавшие ферменты",
+    "en": "Mutated Enzymes"
+  },
+  "apiId": "5np0",
+  "apiIdStatus": "inferred"
+}

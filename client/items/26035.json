@@ -1,0 +1,11 @@
+{
+  "clientId": 26035,
+  "key": "item.med.antidot_3",
+  "kind": "item",
+  "name": {
+    "ru": "Антидот третьего класса",
+    "en": "3rd Class Antidote"
+  },
+  "apiId": "lynrj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20115,
+  "key": "item.wpn.k2c1",
+  "kind": "item",
+  "name": {
+    "ru": "K2C1",
+    "en": "K2C1"
+  },
+  "apiId": "okvr4",
+  "apiIdStatus": "inferred"
+}

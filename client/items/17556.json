@@ -1,0 +1,11 @@
+{
+  "clientId": 17556,
+  "key": "item.motif.wpn.aug3_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Крик»",
+    "en": "Shout"
+  },
+  "apiId": "knzmv",
+  "apiIdStatus": "inferred"
+}

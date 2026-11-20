@@ -1,0 +1,11 @@
+{
+  "clientId": 27711,
+  "key": "item.stash_placer.base_newbie",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон новичка",
+    "en": "Newbie stash"
+  },
+  "apiId": "l0w01",
+  "apiIdStatus": "inferred"
+}

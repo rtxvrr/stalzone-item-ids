@@ -1,0 +1,11 @@
+{
+  "clientId": 25159,
+  "key": "item.arm.ny_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель» группы «Норд»",
+    "en": "Nord Group Guardian"
+  },
+  "apiId": "lyjmo",
+  "apiIdStatus": "inferred"
+}

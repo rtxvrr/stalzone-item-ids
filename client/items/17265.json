@@ -1,0 +1,11 @@
+{
+  "clientId": 17265,
+  "key": "item.style.melee.katana_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Зубец»",
+    "en": "Notch"
+  },
+  "apiId": "p65pw",
+  "apiIdStatus": "inferred"
+}

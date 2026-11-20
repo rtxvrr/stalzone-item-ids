@@ -1,0 +1,11 @@
+{
+  "clientId": 18746,
+  "key": "item.camo.wpn.teamplay",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Командный игрок»",
+    "en": "Team Player Paint"
+  },
+  "apiId": "7l0g7",
+  "apiIdStatus": "inferred"
+}

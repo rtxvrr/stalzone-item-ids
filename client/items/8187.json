@@ -1,0 +1,11 @@
+{
+  "clientId": 8187,
+  "key": "item.quest.exorcism_Simon_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка отца Симона",
+    "en": "Note from Father Simon"
+  },
+  "apiId": "ojz4",
+  "apiIdStatus": "inferred"
+}

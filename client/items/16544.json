@@ -1,0 +1,11 @@
+{
+  "clientId": 16544,
+  "key": "item.bag.939bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка СП-6 9x39 мм",
+    "en": "Pouch of 9x39 mm SP-6 Rounds"
+  },
+  "apiId": "2o0zm",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28713,
+  "key": "item.quest.fractional_coupon",
+  "kind": "item",
+  "name": {
+    "ru": "Фракционный талон",
+    "en": "Clan Voucher"
+  },
+  "apiId": "00rny",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31100,
+  "key": "item.brt.sever.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Пси-маячок",
+    "en": "Psy-Tracker"
+  },
+  "apiId": "9dk7y",
+  "apiIdStatus": "inferred"
+}

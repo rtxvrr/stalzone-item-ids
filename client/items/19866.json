@@ -1,0 +1,11 @@
+{
+  "clientId": 19866,
+  "key": "item.motif.wpn.ks12_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Служба»",
+    "en": "Duty"
+  },
+  "apiId": "vjr27",
+  "apiIdStatus": "inferred"
+}

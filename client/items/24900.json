@@ -1,0 +1,11 @@
+{
+  "clientId": 24900,
+  "key": "item.charm.quest_gribochel",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Грибочел»",
+    "en": "Mushroom Dude Charm"
+  },
+  "apiId": "96nkw",
+  "apiIdStatus": "inferred"
+}

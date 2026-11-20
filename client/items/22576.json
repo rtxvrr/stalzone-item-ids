@@ -1,0 +1,11 @@
+{
+  "clientId": 22576,
+  "key": "item.att.silencer_pbs4",
+  "kind": "item",
+  "name": {
+    "ru": "ПБС-4",
+    "en": "PBS-4"
+  },
+  "apiId": "5lpo4",
+  "apiIdStatus": "inferred"
+}

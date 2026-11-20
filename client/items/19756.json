@@ -1,0 +1,11 @@
+{
+  "clientId": 19756,
+  "key": "item.camo.arm.slip",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Скольжение»",
+    "en": "Slide Paint"
+  },
+  "apiId": "knl2p",
+  "apiIdStatus": "inferred"
+}

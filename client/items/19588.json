@@ -1,0 +1,11 @@
+{
+  "clientId": 19588,
+  "key": "item.motif.arm.murmur_dozer_lmg",
+  "kind": "item",
+  "name": {
+    "ru": "«Рокот»",
+    "en": "Growl"
+  },
+  "apiId": "n4p6w",
+  "apiIdStatus": "inferred"
+}

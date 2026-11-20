@@ -1,0 +1,11 @@
+{
+  "clientId": 6144,
+  "key": "item.misc.bolts_kit",
+  "kind": "item",
+  "name": {
+    "ru": "Набор болтов",
+    "en": "Pack of Bolts"
+  },
+  "apiId": "2d56",
+  "apiIdStatus": "inferred"
+}

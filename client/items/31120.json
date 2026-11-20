@@ -1,0 +1,11 @@
+{
+  "clientId": 31120,
+  "key": "item.brt.limansk.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Лимб",
+    "en": "Limbo"
+  },
+  "apiId": "21365",
+  "apiIdStatus": "inferred"
+}

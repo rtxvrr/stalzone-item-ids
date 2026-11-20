@@ -1,0 +1,11 @@
+{
+  "clientId": 14244,
+  "key": "item.bag.armorpack_steel4",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка стальных пластин IV",
+    "en": "Bag of Steel Plates IV"
+  },
+  "apiId": "2o6zl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22908,
+  "key": "item.att.mount_sks",
+  "kind": "item",
+  "name": {
+    "ru": "Штатный кронштейн СКС",
+    "en": "SKS Standard Bracket"
+  },
+  "apiId": "kn97v",
+  "apiIdStatus": "inferred"
+}

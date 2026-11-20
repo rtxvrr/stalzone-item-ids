@@ -1,0 +1,11 @@
+{
+  "clientId": 24810,
+  "key": "item.charm.media_kreeno",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Сталкот»",
+    "en": "StalCat Charm"
+  },
+  "apiId": "j5k57",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17558,
+  "key": "item.style.wpn.sa58_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Гордыня»",
+    "en": "Hubris"
+  },
+  "apiId": "j5go6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4605,
+  "key": "item.plc.pattern.murzya",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн Мурзи",
+    "en": "Purrzy Pattern"
+  },
+  "apiId": "y6rk",
+  "apiIdStatus": "inferred"
+}

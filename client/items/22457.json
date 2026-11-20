@@ -1,0 +1,11 @@
+{
+  "clientId": 22457,
+  "key": "item.att.lcu_samodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный ЛЦУ",
+    "en": "Handmade LD"
+  },
+  "apiId": "qjrd6",
+  "apiIdStatus": "inferred"
+}

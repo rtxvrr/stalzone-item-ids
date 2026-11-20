@@ -1,0 +1,11 @@
+{
+  "clientId": 21062,
+  "key": "item.melee.boneknife",
+  "kind": "item",
+  "name": {
+    "ru": "Костяной нож",
+    "en": "Bone Knife"
+  },
+  "apiId": "m0v5k",
+  "apiIdStatus": "inferred"
+}

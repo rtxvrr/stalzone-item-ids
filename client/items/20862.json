@@ -1,0 +1,11 @@
+{
+  "clientId": 20862,
+  "key": "item.wpn.invertor_a",
+  "kind": "item",
+  "name": {
+    "ru": "«Инвертор» (А)",
+    "en": "Inverter (A)"
+  },
+  "apiId": "m0v1y",
+  "apiIdStatus": "inferred"
+}

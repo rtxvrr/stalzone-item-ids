@@ -1,0 +1,11 @@
+{
+  "clientId": 31150,
+  "key": "item.clan.resource1",
+  "kind": "item",
+  "name": {
+    "ru": "Ноочастицы",
+    "en": "Nooparticles"
+  },
+  "apiId": "gnp45",
+  "apiIdStatus": "inferred"
+}

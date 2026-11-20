@@ -1,0 +1,11 @@
+{
+  "clientId": 28612,
+  "key": "item.28612",
+  "kind": "item",
+  "name": {
+    "ru": "Кипа бумаг",
+    "en": "Stack of Papers"
+  },
+  "apiId": "rjw5v",
+  "apiIdStatus": "inferred"
+}

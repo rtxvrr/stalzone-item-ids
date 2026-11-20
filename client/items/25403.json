@@ -1,0 +1,11 @@
+{
+  "clientId": 25403,
+  "key": "item.arm.bronj",
+  "kind": "item",
+  "name": {
+    "ru": "Куртка с бронежилетом",
+    "en": "Jacket with Body Armor"
+  },
+  "apiId": "zzj32",
+  "apiIdStatus": "inferred"
+}

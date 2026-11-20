@@ -1,0 +1,11 @@
+{
+  "clientId": 10257,
+  "key": "item.phonograph.vinyl_location_bar",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Первомайский»",
+    "en": "Pervomaisky Vinyl Record"
+  },
+  "apiId": "q6o4",
+  "apiIdStatus": "inferred"
+}

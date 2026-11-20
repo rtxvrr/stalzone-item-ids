@@ -1,0 +1,11 @@
+{
+  "clientId": 22919,
+  "key": "item.att.mount_riselevator",
+  "kind": "item",
+  "name": {
+    "ru": "Повышающая RIS-планка",
+    "en": "Increasing RIS-Rail"
+  },
+  "apiId": "dm27n",
+  "apiIdStatus": "inferred"
+}

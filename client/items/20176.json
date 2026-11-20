@@ -1,0 +1,11 @@
+{
+  "clientId": 20176,
+  "key": "item.wpn.mg3",
+  "kind": "item",
+  "name": {
+    "ru": "MG 3",
+    "en": "MG 3"
+  },
+  "apiId": "5lnq4",
+  "apiIdStatus": "inferred"
+}

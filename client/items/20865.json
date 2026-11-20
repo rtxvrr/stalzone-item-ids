@@ -1,0 +1,11 @@
+{
+  "clientId": 20865,
+  "key": "item.wpn.mk12_a",
+  "kind": "item",
+  "name": {
+    "ru": "Derya MK-12 (А)",
+    "en": "Derya MK-12 (A)"
+  },
+  "apiId": "p615w",
+  "apiIdStatus": "inferred"
+}

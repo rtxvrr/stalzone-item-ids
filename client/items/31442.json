@@ -1,0 +1,11 @@
+{
+  "clientId": 31442,
+  "key": "item.lootbox.ny24_case1",
+  "kind": "item",
+  "name": {
+    "ru": "Старый кейс 1-го уровня",
+    "en": "Old Level 1 Case"
+  },
+  "apiId": "vngpn",
+  "apiIdStatus": "inferred"
+}

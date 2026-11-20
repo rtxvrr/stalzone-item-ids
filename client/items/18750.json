@@ -1,0 +1,11 @@
+{
+  "clientId": 18750,
+  "key": "item.camo.wpn.remains",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Останки»",
+    "en": "Remains Paint"
+  },
+  "apiId": "g4jop",
+  "apiIdStatus": "inferred"
+}

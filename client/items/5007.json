@@ -1,0 +1,11 @@
+{
+  "clientId": 5007,
+  "key": "item.plc.sticker.electroshtorm_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Не влезай»",
+    "en": "Keep Out Sticker"
+  },
+  "apiId": "4mwp",
+  "apiIdStatus": "inferred"
+}

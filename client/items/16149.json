@@ -1,0 +1,11 @@
+{
+  "clientId": 16149,
+  "key": "item.16149",
+  "kind": "item",
+  "name": {
+    "ru": "Офицерский шеврон",
+    "en": "Officer's Chevron"
+  },
+  "apiId": "1rl02",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25429,
+  "key": "item.arm.ao6-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АО-6 «Кочевник»",
+    "en": "Worn AH-6 Nomad"
+  },
+  "apiId": "y3qgz",
+  "apiIdStatus": "inferred"
+}

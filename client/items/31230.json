@@ -1,0 +1,11 @@
+{
+  "clientId": 31230,
+  "key": "item.scheme.svt40_mod_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #1: АВТ-40",
+    "en": "Schematic #1: AVT-40"
+  },
+  "apiId": "w3z0z",
+  "apiIdStatus": "inferred"
+}

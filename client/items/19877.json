@@ -1,0 +1,11 @@
+{
+  "clientId": 19877,
+  "key": "item.motif.wpn.ks1_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Касатка-1»",
+    "en": "Orca-1"
+  },
+  "apiId": "y37j0",
+  "apiIdStatus": "inferred"
+}

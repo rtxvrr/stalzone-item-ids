@@ -1,0 +1,11 @@
+{
+  "clientId": 4237,
+  "key": "item.plc.background.mt_wood",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Сруб»",
+    "en": "Log House Background"
+  },
+  "apiId": "06mk",
+  "apiIdStatus": "inferred"
+}

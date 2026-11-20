@@ -1,0 +1,11 @@
+{
+  "clientId": 26509,
+  "key": "item.food.buter_ikra",
+  "kind": "item",
+  "name": {
+    "ru": "Бутерброд с икрой",
+    "en": "Caviar Sandwich"
+  },
+  "apiId": "qjmlk",
+  "apiIdStatus": "inferred"
+}

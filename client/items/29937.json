@@ -1,0 +1,11 @@
+{
+  "clientId": 29937,
+  "key": "item.filler.mining_8",
+  "kind": "item",
+  "name": {
+    "ru": "Литиевый энергоблок",
+    "en": "Lithium Reactor"
+  },
+  "apiId": "0075y",
+  "apiIdStatus": "inferred"
+}

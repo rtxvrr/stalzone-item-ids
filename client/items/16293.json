@@ -1,0 +1,11 @@
+{
+  "clientId": 16293,
+  "key": "item.quest.ritual_list",
+  "kind": "item",
+  "name": {
+    "ru": "Список вещей для ритуала",
+    "en": "Ritual Item List"
+  },
+  "apiId": "3gq31",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31250,
+  "key": "item.scheme.hp_mod_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #1: «Мечта»",
+    "en": "Schematic #1: Dream"
+  },
+  "apiId": "gnppn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25364,
+  "key": "item.arm.marten",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Куница»",
+    "en": "Marten Exoarmor"
+  },
+  "apiId": "n4363",
+  "apiIdStatus": "inferred"
+}

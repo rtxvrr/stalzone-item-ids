@@ -1,0 +1,11 @@
+{
+  "clientId": 5501,
+  "key": "item.plc.customisation_pack.snegurka",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Sнегурка»",
+    "en": "Snow Maiden Customization Pack"
+  },
+  "apiId": "16q1",
+  "apiIdStatus": "inferred"
+}

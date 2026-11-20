@@ -1,0 +1,11 @@
+{
+  "clientId": 6050,
+  "key": "item.misc.canister_petrol",
+  "kind": "item",
+  "name": {
+    "ru": "Канистра с бензином",
+    "en": "Canister of Gas"
+  },
+  "apiId": "g0vn",
+  "apiIdStatus": "inferred"
+}

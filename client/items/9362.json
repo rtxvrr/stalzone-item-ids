@@ -1,0 +1,11 @@
+{
+  "clientId": 9362,
+  "key": "item.wpn.invertor_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Транквилизатор»",
+    "en": "Tranquilizer"
+  },
+  "apiId": "moyr",
+  "apiIdStatus": "inferred"
+}

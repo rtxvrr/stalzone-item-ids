@@ -1,0 +1,11 @@
+{
+  "clientId": 16973,
+  "key": "item.season_pass.point_token",
+  "kind": "item",
+  "name": {
+    "ru": "Сезонные очки",
+    "en": "Season Points"
+  },
+  "apiId": "1r171",
+  "apiIdStatus": "inferred"
+}

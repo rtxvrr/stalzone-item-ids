@@ -1,0 +1,11 @@
+{
+  "clientId": 21059,
+  "key": "item.21059",
+  "kind": "item",
+  "name": {
+    "ru": "Кулаки",
+    "en": "Fists"
+  },
+  "apiId": "lyvz2",
+  "apiIdStatus": "inferred"
+}

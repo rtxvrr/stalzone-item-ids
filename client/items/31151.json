@@ -1,0 +1,11 @@
+{
+  "clientId": 31151,
+  "key": "item.clan.resource2",
+  "kind": "item",
+  "name": {
+    "ru": "«Светящийся сахар»",
+    "en": "Glowing Sugar"
+  },
+  "apiId": "z3ozm",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31530,
+  "key": "item.ny_toys.setL.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Плод",
+    "en": "Embryo Artifact Decoration"
+  },
+  "apiId": "w3z5d",
+  "apiIdStatus": "inferred"
+}

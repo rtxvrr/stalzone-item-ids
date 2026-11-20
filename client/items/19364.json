@@ -1,0 +1,11 @@
+{
+  "clientId": 19364,
+  "key": "item.camo.arm.red_expo_skin_5",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пространство»",
+    "en": "Space Paint"
+  },
+  "apiId": "n45q3",
+  "apiIdStatus": "inferred"
+}

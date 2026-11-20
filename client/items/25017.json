@@ -1,0 +1,11 @@
+{
+  "clientId": 25017,
+  "key": "item.arm.vorsa-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный защитный костюм «Ворса»",
+    "en": "Worn Vorsa Protective Suit"
+  },
+  "apiId": "p6mrw",
+  "apiIdStatus": "inferred"
+}

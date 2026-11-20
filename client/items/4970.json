@@ -1,0 +1,11 @@
+{
+  "clientId": 4970,
+  "key": "item.plc.sticker.reichstag_scout",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Разведчик»",
+    "en": "Scout Sticker"
+  },
+  "apiId": "70p7",
+  "apiIdStatus": "inferred"
+}

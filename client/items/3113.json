@@ -1,0 +1,11 @@
+{
+  "clientId": 3113,
+  "key": "tile.3113",
+  "kind": "tile",
+  "name": {
+    "ru": "Термическое заражение (уровень 3)",
+    "en": "Thermal Infection (Level 3)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22331,
+  "key": "item.att.sight_fiveseven",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Five-seveN",
+    "en": "Five-seveN Collimator Sight"
+  },
+  "apiId": "4qv4n",
+  "apiIdStatus": "inferred"
+}

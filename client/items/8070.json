@@ -1,0 +1,11 @@
+{
+  "clientId": 8070,
+  "key": "item.quest.shard_saturation_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Обработанные химическим насыщением осколки «Призмы»",
+    "en": "Shards of the Prism processed with chemical saturation"
+  },
+  "apiId": "7643",
+  "apiIdStatus": "inferred"
+}

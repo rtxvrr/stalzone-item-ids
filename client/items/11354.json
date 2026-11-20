@@ -1,0 +1,11 @@
+{
+  "clientId": 11354,
+  "key": "item.art.puzir_atom",
+  "kind": "item",
+  "name": {
+    "ru": "Атом",
+    "en": "Atom"
+  },
+  "apiId": "wg53",
+  "apiIdStatus": "inferred"
+}

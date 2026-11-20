@@ -1,0 +1,11 @@
+{
+  "clientId": 31074,
+  "key": "item.brt.pd.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Камень Жмых-Вжух-Плюх",
+    "en": "Squash-Whoosh-Splat Stone"
+  },
+  "apiId": "gn956",
+  "apiIdStatus": "inferred"
+}

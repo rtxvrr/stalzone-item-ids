@@ -1,0 +1,11 @@
+{
+  "clientId": 20260,
+  "key": "item.wpn.svds",
+  "kind": "item",
+  "name": {
+    "ru": "СВД-С",
+    "en": "SVD-S"
+  },
+  "apiId": "rw2vv",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22521,
+  "key": "item.att.barrel_hipointrazor",
+  "kind": "item",
+  "name": {
+    "ru": "Hi-Point Razor",
+    "en": "Hi-Point Razor"
+  },
+  "apiId": "3gp4k",
+  "apiIdStatus": "inferred"
+}

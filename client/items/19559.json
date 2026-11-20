@@ -1,0 +1,11 @@
+{
+  "clientId": 19559,
+  "key": "item.camo.unique_arm.lich",
+  "kind": "item",
+  "name": {
+    "ru": "«Лич»",
+    "en": "Lich"
+  },
+  "apiId": "lyg6q",
+  "apiIdStatus": "inferred"
+}

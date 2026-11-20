@@ -1,0 +1,11 @@
+{
+  "clientId": 24851,
+  "key": "item.charm.blitz_duck",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Боевая утка»",
+    "en": "Battle Duck Charm"
+  },
+  "apiId": "zzyk2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19535,
+  "key": "item.camo.unique_arm.guardian",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель»",
+    "en": "Guardian"
+  },
+  "apiId": "lygnq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21003,
+  "key": "item.melee.oc04",
+  "kind": "item",
+  "name": {
+    "ru": "ОЦ-04",
+    "en": "OTs-04"
+  },
+  "apiId": "zzl2k",
+  "apiIdStatus": "inferred"
+}

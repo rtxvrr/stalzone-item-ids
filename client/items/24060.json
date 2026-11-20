@@ -1,0 +1,11 @@
+{
+  "clientId": 24060,
+  "key": "item.24060",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Горох»",
+    "en": "Pea Charm"
+  },
+  "apiId": "rwd7z",
+  "apiIdStatus": "inferred"
+}

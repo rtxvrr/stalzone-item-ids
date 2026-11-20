@@ -1,0 +1,11 @@
+{
+  "clientId": 24603,
+  "key": "item.charm.ny24_league_3",
+  "kind": "item",
+  "name": {
+    "ru": "Орден Новогоднего Чемпиона Серебрянной лиги",
+    "en": "Insignia of the Silver League New Year Champion"
+  },
+  "apiId": "zzd4k",
+  "apiIdStatus": "inferred"
+}

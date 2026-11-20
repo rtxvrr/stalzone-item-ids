@@ -1,0 +1,11 @@
+{
+  "clientId": 26018,
+  "key": "item.med.epinephrine",
+  "kind": "item",
+  "name": {
+    "ru": "Эпинефрин",
+    "en": "Epinephrine"
+  },
+  "apiId": "vjy3n",
+  "apiIdStatus": "inferred"
+}

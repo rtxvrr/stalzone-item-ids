@@ -1,0 +1,11 @@
+{
+  "clientId": 28615,
+  "key": "item.28615",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж конструкции Д1",
+    "en": "D1 Structure Blueprint"
+  },
+  "apiId": "olk16",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24837,
+  "key": "item.charm.mk_ship",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Парижская Коммуна»",
+    "en": "Paris Commune Charm"
+  },
+  "apiId": "0r40d",
+  "apiIdStatus": "inferred"
+}

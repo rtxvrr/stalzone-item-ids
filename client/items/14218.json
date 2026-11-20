@@ -1,0 +1,11 @@
+{
+  "clientId": 14218,
+  "key": "item.bag.9far",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка дальнобойных 9 мм",
+    "en": "Pouch of 9 mm Long-Range Rounds"
+  },
+  "apiId": "vjqkr",
+  "apiIdStatus": "inferred"
+}

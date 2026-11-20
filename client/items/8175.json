@@ -1,0 +1,11 @@
+{
+  "clientId": 8175,
+  "key": "item.quest.apocalypse_not_today_scrap",
+  "kind": "item",
+  "name": {
+    "ru": "Лом",
+    "en": "Scrap"
+  },
+  "apiId": "zpw9",
+  "apiIdStatus": "inferred"
+}

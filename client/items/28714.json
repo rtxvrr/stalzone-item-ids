@@ -1,0 +1,11 @@
+{
+  "clientId": 28714,
+  "key": "item.key.halloween_2024",
+  "kind": "item",
+  "name": {
+    "ru": "Купон на «Черный презент»",
+    "en": "Coupon for Black Present"
+  },
+  "apiId": "mr032",
+  "apiIdStatus": "inferred"
+}

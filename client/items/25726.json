@@ -1,0 +1,11 @@
+{
+  "clientId": 25726,
+  "key": "item.skin.twitch4",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Фолловер»",
+    "en": "Follower Skin"
+  },
+  "apiId": "g4325",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17561,
+  "key": "item.style.wpn.gauss_divisions",
+  "kind": "item",
+  "name": {
+    "ru": "EMR-65 «Spark»",
+    "en": "EMR-65 Spark"
+  },
+  "apiId": "0rj21",
+  "apiIdStatus": "inferred"
+}

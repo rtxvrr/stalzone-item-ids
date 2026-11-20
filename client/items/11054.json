@@ -1,0 +1,11 @@
+{
+  "clientId": 11054,
+  "key": "item.art.jarka_mamybusi",
+  "kind": "item",
+  "name": {
+    "ru": "Ветка Калины",
+    "en": "Viburnum Branch"
+  },
+  "apiId": "wglp",
+  "apiIdStatus": "inferred"
+}

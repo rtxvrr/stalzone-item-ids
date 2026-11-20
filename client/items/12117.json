@@ -1,0 +1,11 @@
+{
+  "clientId": 12117,
+  "key": "item.bag.light2",
+  "kind": "item",
+  "name": {
+    "ru": "Подсумок Black Eagle B-33",
+    "en": "Pouch Black Eagle B-33"
+  },
+  "apiId": "p2k2",
+  "apiIdStatus": "inferred"
+}

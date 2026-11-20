@@ -1,0 +1,11 @@
+{
+  "clientId": 15041,
+  "key": "item.lootbox.autumn25_mushroom_episode",
+  "kind": "item",
+  "name": {
+    "ru": "Коллекция кошмаров",
+    "en": "Nightmares Collection"
+  },
+  "apiId": "p6jjd",
+  "apiIdStatus": "inferred"
+}

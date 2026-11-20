@@ -1,0 +1,11 @@
+{
+  "clientId": 26523,
+  "key": "item.food.dogscream",
+  "kind": "item",
+  "name": {
+    "ru": "Консервы «Псиный визг»",
+    "en": "Canine Howl Preserves"
+  },
+  "apiId": "6w3wy",
+  "apiIdStatus": "inferred"
+}

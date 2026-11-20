@@ -1,0 +1,11 @@
+{
+  "clientId": 4800,
+  "key": "item.plc.sticker.bandits",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер бандитов",
+    "en": "Bandit Sticker"
+  },
+  "apiId": "900q",
+  "apiIdStatus": "inferred"
+}

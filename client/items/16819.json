@@ -1,0 +1,11 @@
+{
+  "clientId": 16819,
+  "key": "item.quest.dogmint",
+  "kind": "item",
+  "name": {
+    "ru": "Собачья мята",
+    "en": "Dogmint"
+  },
+  "apiId": "dm6yg",
+  "apiIdStatus": "inferred"
+}

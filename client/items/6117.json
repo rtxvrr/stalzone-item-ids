@@ -1,0 +1,11 @@
+{
+  "clientId": 6117,
+  "key": "item.misc.coffee",
+  "kind": "item",
+  "name": {
+    "ru": "Кофе",
+    "en": "Coffee"
+  },
+  "apiId": "prl2",
+  "apiIdStatus": "inferred"
+}

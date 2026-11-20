@@ -1,0 +1,11 @@
+{
+  "clientId": 26032,
+  "key": "item.med.cider_hw",
+  "kind": "item",
+  "name": {
+    "ru": "Яблочный сидр",
+    "en": "Apple Cider"
+  },
+  "apiId": "knop0",
+  "apiIdStatus": "inferred"
+}

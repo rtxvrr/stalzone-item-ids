@@ -1,0 +1,11 @@
+{
+  "clientId": 8189,
+  "key": "item.quest.wild_north_scientist_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка ученого",
+    "en": "Scientist Note"
+  },
+  "apiId": "pl55",
+  "apiIdStatus": "inferred"
+}

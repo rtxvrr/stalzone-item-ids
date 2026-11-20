@@ -1,0 +1,11 @@
+{
+  "clientId": 8232,
+  "key": "item.quest.unnamed_deep_incident",
+  "kind": "item",
+  "name": {
+    "ru": "Выкладка об инциденте на Полигоне-9",
+    "en": "Report on the incident at Area-9"
+  },
+  "apiId": "kw2y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25040,
+  "key": "item.arm.klepto",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Клептоман»",
+    "en": "Kleptomaniac Suit"
+  },
+  "apiId": "n4rm1",
+  "apiIdStatus": "inferred"
+}

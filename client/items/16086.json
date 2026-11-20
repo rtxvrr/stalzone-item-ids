@@ -1,0 +1,11 @@
+{
+  "clientId": 16086,
+  "key": "item.quest.ssop_help_murmur_notes_3",
+  "kind": "item",
+  "name": {
+    "ru": "Микросхема передатчика “Шепота”",
+    "en": "Murmur Microcircuit Chip"
+  },
+  "apiId": "m04jy",
+  "apiIdStatus": "inferred"
+}

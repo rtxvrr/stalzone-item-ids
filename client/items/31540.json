@@ -1,0 +1,11 @@
+{
+  "clientId": 31540,
+  "key": "item.ny_toys.setL.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Артефактная мишура",
+    "en": "Artifact Tinsel"
+  },
+  "apiId": "nkn7w",
+  "apiIdStatus": "inferred"
+}

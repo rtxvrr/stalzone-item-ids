@@ -1,0 +1,11 @@
+{
+  "clientId": 31455,
+  "key": "item.lootbox.spring24_tickets_small",
+  "kind": "item",
+  "name": {
+    "ru": "Ларец руса",
+    "en": "Slavic Casket"
+  },
+  "apiId": "4k3vp",
+  "apiIdStatus": "inferred"
+}

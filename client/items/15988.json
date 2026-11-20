@@ -1,0 +1,11 @@
+{
+  "clientId": 15988,
+  "key": "item.crt.coupon",
+  "kind": "item",
+  "name": {
+    "ru": "Купон Ворона",
+    "en": "Crow Coupon"
+  },
+  "apiId": "n4j7w",
+  "apiIdStatus": "inferred"
+}

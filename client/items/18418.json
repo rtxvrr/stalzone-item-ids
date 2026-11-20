@@ -1,0 +1,11 @@
+{
+  "clientId": 18418,
+  "key": "item.camo.wpn.bf_skin_21",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Узор хищника»",
+    "en": "Predator pattern Paint"
+  },
+  "apiId": "vj5wr",
+  "apiIdStatus": "inferred"
+}

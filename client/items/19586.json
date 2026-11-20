@@ -1,0 +1,11 @@
+{
+  "clientId": 19586,
+  "key": "item.motif.arm.albatros_interceptor_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Сбой»",
+    "en": "Malfunction"
+  },
+  "apiId": "m02wr",
+  "apiIdStatus": "inferred"
+}

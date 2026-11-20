@@ -1,0 +1,11 @@
+{
+  "clientId": 18718,
+  "key": "item.camo.wpn.snowtraces",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Следы на снегу»",
+    "en": "Tracks in the Snow Paint"
+  },
+  "apiId": "vjv2d",
+  "apiIdStatus": "inferred"
+}

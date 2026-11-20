@@ -1,0 +1,11 @@
+{
+  "clientId": 6053,
+  "key": "item.misc.balon_methane",
+  "kind": "item",
+  "name": {
+    "ru": "Баллон с метаном",
+    "en": "Methane Tank"
+  },
+  "apiId": "y7j0",
+  "apiIdStatus": "inferred"
+}

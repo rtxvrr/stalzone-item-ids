@@ -1,0 +1,11 @@
+{
+  "clientId": 19696,
+  "key": "item.camo.arm.breakdown",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пробой»",
+    "en": "Puncture Paint"
+  },
+  "apiId": "96mzl",
+  "apiIdStatus": "inferred"
+}

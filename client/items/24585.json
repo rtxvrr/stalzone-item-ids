@@ -1,0 +1,11 @@
+{
+  "clientId": 24585,
+  "key": "item.charm.meme_charm",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Брелок»",
+    "en": "Charm Charm"
+  },
+  "apiId": "0rzgy",
+  "apiIdStatus": "inferred"
+}

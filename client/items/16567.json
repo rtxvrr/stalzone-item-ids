@@ -1,0 +1,11 @@
+{
+  "clientId": 16567,
+  "key": "item.bag.armorpack_onyx5",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка ониксовых пластин",
+    "en": "Bag of Onyx Plates"
+  },
+  "apiId": "dmy79",
+  "apiIdStatus": "inferred"
+}

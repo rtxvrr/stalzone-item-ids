@@ -1,0 +1,11 @@
+{
+  "clientId": 8282,
+  "key": "item.quest.the_shock_wave_key_card",
+  "kind": "item",
+  "name": {
+    "ru": "Карточка погибшего",
+    "en": "Dead Man’s Card"
+  },
+  "apiId": "j690",
+  "apiIdStatus": "inferred"
+}

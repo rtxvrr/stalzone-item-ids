@@ -1,0 +1,11 @@
+{
+  "clientId": 25068,
+  "key": "item.arm.eger",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Егерь»",
+    "en": "Jaeger Exoarmor"
+  },
+  "apiId": "2oqll",
+  "apiIdStatus": "inferred"
+}

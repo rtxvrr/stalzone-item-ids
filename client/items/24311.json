@@ -1,0 +1,11 @@
+{
+  "clientId": 24311,
+  "key": "item.charm.mutation",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мутация»",
+    "en": "Mutation Charm"
+  },
+  "apiId": "ly7rq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4203,
+  "key": "item.plc.background.duty",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Рубежа»",
+    "en": "Frontier Background"
+  },
+  "apiId": "znnk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22549,
+  "key": "item.att.barrel_rusamodel",
+  "kind": "item",
+  "name": {
+    "ru": "Отечественный самодельный компенсатор",
+    "en": "Domestic Handmade Compensator"
+  },
+  "apiId": "1r3oq",
+  "apiIdStatus": "inferred"
+}

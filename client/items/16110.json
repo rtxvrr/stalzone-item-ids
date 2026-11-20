@@ -1,0 +1,11 @@
+{
+  "clientId": 16110,
+  "key": "item.16110",
+  "kind": "item",
+  "name": {
+    "ru": "Чистотел",
+    "en": "Chelidonium"
+  },
+  "apiId": "j5nyg",
+  "apiIdStatus": "inferred"
+}

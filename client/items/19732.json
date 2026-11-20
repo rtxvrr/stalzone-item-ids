@@ -1,0 +1,11 @@
+{
+  "clientId": 19732,
+  "key": "item.camo.arm.pxlbattle",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Весенний лес»",
+    "en": "Springtime Forest Paint"
+  },
+  "apiId": "knlzp",
+  "apiIdStatus": "inferred"
+}

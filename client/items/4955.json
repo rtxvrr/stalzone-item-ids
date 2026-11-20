@@ -1,0 +1,11 @@
+{
+  "clientId": 4955,
+  "key": "item.plc.sticker.bureau_jiden_3",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «JIDEN V3»",
+    "en": "JIDEN V3 Sticker"
+  },
+  "apiId": "4mvn",
+  "apiIdStatus": "inferred"
+}

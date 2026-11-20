@@ -1,0 +1,11 @@
+{
+  "clientId": 22002,
+  "key": "item.att.forend_m16ris",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье RIS M16",
+    "en": "RIS M16 Handguard"
+  },
+  "apiId": "g4g16",
+  "apiIdStatus": "inferred"
+}

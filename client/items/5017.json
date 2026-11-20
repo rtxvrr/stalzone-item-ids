@@ -1,0 +1,11 @@
+{
+  "clientId": 5017,
+  "key": "item.plc.sticker.raven26_heart_1",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Покорность»",
+    "en": "Submission League Sticker"
+  },
+  "apiId": "pzd6",
+  "apiIdStatus": "inferred"
+}

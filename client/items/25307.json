@@ -1,0 +1,11 @@
+{
+  "clientId": 25307,
+  "key": "item.arm.tonga",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Тонга»",
+    "en": "Tonga Jumpsuit"
+  },
+  "apiId": "4qldn",
+  "apiIdStatus": "inferred"
+}

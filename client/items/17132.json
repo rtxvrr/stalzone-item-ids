@@ -1,0 +1,11 @@
+{
+  "clientId": 17132,
+  "key": "item.style.arm.combined_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Барыга Черного Рынка",
+    "en": "Black Market Hustler"
+  },
+  "apiId": "kn5d3",
+  "apiIdStatus": "inferred"
+}

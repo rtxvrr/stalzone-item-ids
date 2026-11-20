@@ -1,0 +1,11 @@
+{
+  "clientId": 15060,
+  "key": "item.lootbox.spring26",
+  "kind": "item",
+  "name": {
+    "ru": "Стратегический запас",
+    "en": "Strategic Reserve"
+  },
+  "apiId": "rwjmz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24921,
+  "key": "item.charm.prestige_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Квазар»",
+    "en": "Quasar Charm"
+  },
+  "apiId": "3g63k",
+  "apiIdStatus": "inferred"
+}

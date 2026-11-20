@@ -1,0 +1,11 @@
+{
+  "clientId": 16672,
+  "key": "item.package.referral_arts",
+  "kind": "item",
+  "name": {
+    "ru": "Набор артефактов",
+    "en": "Pack of Artifacts"
+  },
+  "apiId": "96zgl",
+  "apiIdStatus": "inferred"
+}

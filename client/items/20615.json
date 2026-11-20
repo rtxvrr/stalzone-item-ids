@@ -1,0 +1,11 @@
+{
+  "clientId": 20615,
+  "key": "item.wpn.sig_airsoft",
+  "kind": "item",
+  "name": {
+    "ru": "Страйкбольный SIG SG 550",
+    "en": "Airsoft SIG SG 550"
+  },
+  "apiId": "okm7o",
+  "apiIdStatus": "inferred"
+}

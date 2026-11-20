@@ -1,0 +1,11 @@
+{
+  "clientId": 20037,
+  "key": "item.wpn.p90-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный P90",
+    "en": "Worn P90"
+  },
+  "apiId": "0r3zd",
+  "apiIdStatus": "inferred"
+}

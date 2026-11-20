@@ -1,0 +1,11 @@
+{
+  "clientId": 8066,
+  "key": "item.quest.shard_chemical_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Очищенные химией осколки",
+    "en": "Chemically cleaned shards"
+  },
+  "apiId": "vpqn",
+  "apiIdStatus": "inferred"
+}

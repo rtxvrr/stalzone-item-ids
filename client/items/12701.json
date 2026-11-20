@@ -1,0 +1,11 @@
+{
+  "clientId": 12701,
+  "key": "item.amm.9bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм бронебойный",
+    "en": "9 mm Armor-Piercing Round"
+  },
+  "apiId": "1nr1",
+  "apiIdStatus": "inferred"
+}

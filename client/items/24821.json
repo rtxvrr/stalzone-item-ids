@@ -1,0 +1,11 @@
+{
+  "clientId": 24821,
+  "key": "item.charm.media_gosting",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Сыворотка»",
+    "en": "Serum Charm"
+  },
+  "apiId": "3g64z",
+  "apiIdStatus": "inferred"
+}

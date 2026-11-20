@@ -1,0 +1,11 @@
+{
+  "clientId": 16125,
+  "key": "item.16125",
+  "kind": "item",
+  "name": {
+    "ru": "Патч Барбоса",
+    "en": "Rascal's Patch"
+  },
+  "apiId": "1row2",
+  "apiIdStatus": "inferred"
+}

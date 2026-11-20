@@ -1,0 +1,11 @@
+{
+  "clientId": 8190,
+  "key": "item.quest.wild_north_merc_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка наемника",
+    "en": "Mercenary Note"
+  },
+  "apiId": "vp0g",
+  "apiIdStatus": "inferred"
+}

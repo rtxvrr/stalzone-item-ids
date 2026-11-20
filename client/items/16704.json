@@ -1,0 +1,11 @@
+{
+  "clientId": 16704,
+  "key": "item.art.mod_change_2",
+  "kind": "item",
+  "name": {
+    "ru": "Особая сыворотка изменения",
+    "en": "Special Changing Serum"
+  },
+  "apiId": "5l6qq",
+  "apiIdStatus": "inferred"
+}

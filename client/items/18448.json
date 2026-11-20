@@ -1,0 +1,11 @@
+{
+  "clientId": 18448,
+  "key": "item.camo.wpn.summer25_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Черноводье»",
+    "en": "Blackwater Paint"
+  },
+  "apiId": "960ql",
+  "apiIdStatus": "inferred"
+}

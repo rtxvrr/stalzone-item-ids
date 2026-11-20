@@ -1,0 +1,11 @@
+{
+  "clientId": 22128,
+  "key": "item.att.handgrip_rk1_angle_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "Угловая рукоятка РК-1",
+    "en": "Angled Grip RK-1"
+  },
+  "apiId": "5lvdq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20326,
+  "key": "item.wpn.bm16_main",
+  "kind": "item",
+  "name": {
+    "ru": "БМ-16 Хлыща",
+    "en": "Coxcomb's BM-16"
+  },
+  "apiId": "g4mp5",
+  "apiIdStatus": "inferred"
+}

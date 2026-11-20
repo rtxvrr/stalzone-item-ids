@@ -1,0 +1,11 @@
+{
+  "clientId": 22540,
+  "key": "item.att.barrel_spikesdynacomp",
+  "kind": "item",
+  "name": {
+    "ru": "Spikes Tactical Dynacomp",
+    "en": "Spikes Tactical Dynacomp"
+  },
+  "apiId": "n4zjw",
+  "apiIdStatus": "inferred"
+}

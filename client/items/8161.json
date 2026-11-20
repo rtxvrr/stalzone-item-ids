@@ -1,0 +1,11 @@
+{
+  "clientId": 8161,
+  "key": "item.quest.apocalypse_not_today_PDA",
+  "kind": "item",
+  "name": {
+    "ru": "Глючный ПДА",
+    "en": "Glitchy PDA"
+  },
+  "apiId": "0vlr",
+  "apiIdStatus": "inferred"
+}

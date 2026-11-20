@@ -1,0 +1,11 @@
+{
+  "clientId": 26071,
+  "key": "item.med.inside_pricker",
+  "kind": "item",
+  "name": {
+    "ru": "«Шило»",
+    "en": "Awl"
+  },
+  "apiId": "6w57j",
+  "apiIdStatus": "inferred"
+}

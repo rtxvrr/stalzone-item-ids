@@ -1,0 +1,11 @@
+{
+  "clientId": 25049,
+  "key": "item.arm.picklock",
+  "kind": "item",
+  "name": {
+    "ru": "ЗК-1 «Отмычка»",
+    "en": "PS-1 Picklock"
+  },
+  "apiId": "1rk7g",
+  "apiIdStatus": "inferred"
+}

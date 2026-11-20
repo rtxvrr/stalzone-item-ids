@@ -1,0 +1,11 @@
+{
+  "clientId": 4202,
+  "key": "item.plc.background.merc",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Наемников",
+    "en": "Mercenary Background"
+  },
+  "apiId": "gzzn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19782,
+  "key": "item.camo.arm.slaughter",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Сеча»",
+    "en": "Clash Camouflage"
+  },
+  "apiId": "j5ljg",
+  "apiIdStatus": "inferred"
+}

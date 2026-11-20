@@ -1,0 +1,11 @@
+{
+  "clientId": 24868,
+  "key": "item.charm.summer26_tamagochi",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Тамагочи»",
+    "en": "Tamagotchi Charm"
+  },
+  "apiId": "2oq00",
+  "apiIdStatus": "inferred"
+}

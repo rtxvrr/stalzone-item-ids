@@ -1,0 +1,11 @@
+{
+  "clientId": 25309,
+  "key": "item.arm.frostwalker",
+  "kind": "item",
+  "name": {
+    "ru": "Тяжелый бронекостюм «Идущий в метели»",
+    "en": "Blizzard Walker Heavy Armored Suit"
+  },
+  "apiId": "qjomk",
+  "apiIdStatus": "inferred"
+}

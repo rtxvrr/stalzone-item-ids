@@ -1,0 +1,11 @@
+{
+  "clientId": 20557,
+  "key": "item.wpn.aa12",
+  "kind": "item",
+  "name": {
+    "ru": "AA-12",
+    "en": "AA-12"
+  },
+  "apiId": "qj2zk",
+  "apiIdStatus": "inferred"
+}

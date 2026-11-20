@@ -1,0 +1,11 @@
+{
+  "clientId": 4228,
+  "key": "item.plc.background.dmz26_4",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Окопный»",
+    "en": "Trench Background"
+  },
+  "apiId": "5j0o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12738,
+  "key": "item.12738",
+  "kind": "item",
+  "name": {
+    "ru": "Аккумулятор CR-380",
+    "en": "CR-380 Battery"
+  },
+  "apiId": "mjr7",
+  "apiIdStatus": "inferred"
+}

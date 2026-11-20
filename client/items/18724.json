@@ -1,0 +1,11 @@
+{
+  "clientId": 18724,
+  "key": "item.camo.wpn.underice",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Подо льдом»",
+    "en": "Under Ice Paint"
+  },
+  "apiId": "960wz",
+  "apiIdStatus": "inferred"
+}

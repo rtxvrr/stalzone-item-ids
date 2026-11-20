@@ -1,0 +1,11 @@
+{
+  "clientId": 24111,
+  "key": "item.24111",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Спираль»",
+    "en": "Spiral Charm"
+  },
+  "apiId": "lyd31",
+  "apiIdStatus": "inferred"
+}

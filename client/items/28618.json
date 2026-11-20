@@ -1,0 +1,11 @@
+{
+  "clientId": 28618,
+  "key": "item.28618",
+  "kind": "item",
+  "name": {
+    "ru": "Старый вещмешок",
+    "en": "Old Duffel Bag"
+  },
+  "apiId": "vnjkr",
+  "apiIdStatus": "inferred"
+}

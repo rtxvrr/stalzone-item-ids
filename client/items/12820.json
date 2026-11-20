@@ -1,0 +1,11 @@
+{
+  "clientId": 12820,
+  "key": "item.amm.10sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 10 мм СБП",
+    "en": "10 mm SBP Round"
+  },
+  "apiId": "2p30",
+  "apiIdStatus": "inferred"
+}

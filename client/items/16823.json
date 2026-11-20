@@ -1,0 +1,11 @@
+{
+  "clientId": 16823,
+  "key": "item.quest.snares",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничья петля",
+    "en": "Hunter's Noose"
+  },
+  "apiId": "6wl9n",
+  "apiIdStatus": "inferred"
+}

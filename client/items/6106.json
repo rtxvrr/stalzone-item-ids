@@ -1,0 +1,11 @@
+{
+  "clientId": 6106,
+  "key": "item.misc.gloves",
+  "kind": "item",
+  "name": {
+    "ru": "Перчатки",
+    "en": "Gloves"
+  },
+  "apiId": "wopo",
+  "apiIdStatus": "inferred"
+}

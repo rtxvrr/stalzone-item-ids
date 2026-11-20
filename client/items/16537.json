@@ -1,0 +1,11 @@
+{
+  "clientId": 16537,
+  "key": "item.bag.556exp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка экспансивных патронов 5.56 мм",
+    "en": "Pouch of 5.56 mm Expanding Rounds"
+  },
+  "apiId": "0rl1r",
+  "apiIdStatus": "inferred"
+}

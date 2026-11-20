@@ -1,0 +1,11 @@
+{
+  "clientId": 16674,
+  "key": "item.lootbox.blizzard_2022",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик аномальной стужи",
+    "en": "Anomalous Freeze Crate"
+  },
+  "apiId": "g4156",
+  "apiIdStatus": "inferred"
+}

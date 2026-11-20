@@ -1,0 +1,11 @@
+{
+  "clientId": 6305,
+  "key": "item.misc.copper_chips",
+  "kind": "item",
+  "name": {
+    "ru": "Медная крошка",
+    "en": "Copper Chips"
+  },
+  "apiId": "y79w",
+  "apiIdStatus": "inferred"
+}

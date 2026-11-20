@@ -1,0 +1,11 @@
+{
+  "clientId": 9624,
+  "key": "item.prestige.ability.cluster_grenade",
+  "kind": "item",
+  "name": {
+    "ru": "ПС-3 «Консенсус»",
+    "en": "PS-3 Consensus"
+  },
+  "apiId": "9ljq",
+  "apiIdStatus": "inferred"
+}

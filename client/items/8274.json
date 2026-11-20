@@ -1,0 +1,11 @@
+{
+  "clientId": 8274,
+  "key": "item.quest.prestige_negotiations_fragment",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент рабочих переговоров",
+    "en": "Excerpt from Work Communications"
+  },
+  "apiId": "ggj6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 9354,
+  "key": "item.wpn.bm16_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "БМ-16 Выживших",
+    "en": "Survivors' BM-16"
+  },
+  "apiId": "wq0d",
+  "apiIdStatus": "inferred"
+}

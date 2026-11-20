@@ -1,0 +1,11 @@
+{
+  "clientId": 29932,
+  "key": "item.filler.node_6",
+  "kind": "item",
+  "name": {
+    "ru": "Компоненты детекторов",
+    "en": "Detector Components"
+  },
+  "apiId": "kr64p",
+  "apiIdStatus": "inferred"
+}

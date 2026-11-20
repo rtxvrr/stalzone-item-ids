@@ -1,0 +1,11 @@
+{
+  "clientId": 11161,
+  "key": "item.art.kisel_vitok",
+  "kind": "item",
+  "name": {
+    "ru": "Виток",
+    "en": "Cycle"
+  },
+  "apiId": "04yr",
+  "apiIdStatus": "inferred"
+}

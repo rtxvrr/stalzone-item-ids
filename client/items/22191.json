@@ -1,0 +1,11 @@
+{
+  "clientId": 22191,
+  "key": "item.att.handgrip_ots14m",
+  "kind": "item",
+  "name": {
+    "ru": "Базовая рукоятка ОЦ-14М «Разряд»",
+    "en": "Default handle OTs-14M Surge"
+  },
+  "apiId": "dm0v2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19595,
+  "key": "item.motif.arm.centurion_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Непотопляемый»",
+    "en": "Unsinkable"
+  },
+  "apiId": "6wrm6",
+  "apiIdStatus": "inferred"
+}

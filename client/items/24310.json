@@ -1,0 +1,11 @@
+{
+  "clientId": 24310,
+  "key": "item.charm.can_kisel",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Баночка с холодцом»",
+    "en": "Jar of Aspic Charm"
+  },
+  "apiId": "j57q4",
+  "apiIdStatus": "inferred"
+}

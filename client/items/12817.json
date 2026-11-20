@@ -1,0 +1,11 @@
+{
+  "clientId": 12817,
+  "key": "item.amm.127silver",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12.7 мм серебряный",
+    "en": "12.7 mm Silver Round"
+  },
+  "apiId": "p0n6",
+  "apiIdStatus": "inferred"
+}

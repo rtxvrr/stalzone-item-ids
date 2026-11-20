@@ -1,0 +1,11 @@
+{
+  "clientId": 18784,
+  "key": "item.camo.wpn.rus_guardians",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Русы-охранители»",
+    "en": "Slavs Protectors Camouflage"
+  },
+  "apiId": "rwy05",
+  "apiIdStatus": "inferred"
+}

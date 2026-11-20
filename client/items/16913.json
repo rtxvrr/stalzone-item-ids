@@ -1,0 +1,11 @@
+{
+  "clientId": 16913,
+  "key": "item.quest.merc.rickshaw_habar",
+  "kind": "item",
+  "name": {
+    "ru": "Хабар Рикши",
+    "en": "Rickshaw's Loot"
+  },
+  "apiId": "0r9m1",
+  "apiIdStatus": "inferred"
+}

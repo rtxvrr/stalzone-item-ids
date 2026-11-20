@@ -1,0 +1,11 @@
+{
+  "clientId": 24703,
+  "key": "item.charm.winter25_chill_man",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «КубоЧилл»",
+    "en": "CuboChill"
+  },
+  "apiId": "zzdqn",
+  "apiIdStatus": "inferred"
+}

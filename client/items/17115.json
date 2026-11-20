@@ -1,0 +1,11 @@
+{
+  "clientId": 17115,
+  "key": "item.style.arm.skat10_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "«Выживший»",
+    "en": "Survivor"
+  },
+  "apiId": "okz24",
+  "apiIdStatus": "inferred"
+}

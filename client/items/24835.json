@@ -1,0 +1,11 @@
+{
+  "clientId": 24835,
+  "key": "item.charm.mk_sextant",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Секстант»",
+    "en": "Sextant Charm"
+  },
+  "apiId": "lyj0j",
+  "apiIdStatus": "inferred"
+}

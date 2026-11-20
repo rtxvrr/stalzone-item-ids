@@ -1,0 +1,11 @@
+{
+  "clientId": 16024,
+  "key": "item.16024",
+  "kind": "item",
+  "name": {
+    "ru": "Дипломат",
+    "en": "Briefcase"
+  },
+  "apiId": "963nl",
+  "apiIdStatus": "inferred"
+}

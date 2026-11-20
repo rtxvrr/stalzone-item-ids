@@ -1,0 +1,11 @@
+{
+  "clientId": 6107,
+  "key": "item.misc.ammonia",
+  "kind": "item",
+  "name": {
+    "ru": "Аммиак",
+    "en": "Ammonia"
+  },
+  "apiId": "40vn",
+  "apiIdStatus": "inferred"
+}

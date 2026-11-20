@@ -1,0 +1,11 @@
+{
+  "clientId": 31448,
+  "key": "item.lootbox.ny24_case7",
+  "kind": "item",
+  "name": {
+    "ru": "Старый кейс 7-го уровня",
+    "en": "Old Level 7 Case"
+  },
+  "apiId": "9d1v0",
+  "apiIdStatus": "inferred"
+}

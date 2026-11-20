@@ -1,0 +1,11 @@
+{
+  "clientId": 11203,
+  "key": "item.art.puh_kolobok",
+  "kind": "item",
+  "name": {
+    "ru": "Ежик",
+    "en": "Hedgehog"
+  },
+  "apiId": "zy7y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19400,
+  "key": "item.camo.arm.bf_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Красные осколки»",
+    "en": "Red shards Paint"
+  },
+  "apiId": "962l0",
+  "apiIdStatus": "inferred"
+}

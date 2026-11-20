@@ -1,0 +1,11 @@
+{
+  "clientId": 15062,
+  "key": "item.case.spring26_functional",
+  "kind": "item",
+  "name": {
+    "ru": "Особый кейс «Закаленной стали»",
+    "en": "Tempered Steel Special Case"
+  },
+  "apiId": "m0r4k",
+  "apiIdStatus": "inferred"
+}

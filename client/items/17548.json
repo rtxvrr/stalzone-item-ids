@@ -1,0 +1,11 @@
+{
+  "clientId": 17548,
+  "key": "item.style.wpn.rsh12_branch_spring25",
+  "kind": "item",
+  "name": {
+    "ru": "«Возглас Изнанки»",
+    "en": "Cry of the Inside Out"
+  },
+  "apiId": "9619z",
+  "apiIdStatus": "inferred"
+}

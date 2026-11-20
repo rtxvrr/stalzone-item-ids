@@ -1,0 +1,11 @@
+{
+  "clientId": 26023,
+  "key": "item.med.strike",
+  "kind": "item",
+  "name": {
+    "ru": "«УДАР»",
+    "en": "STRIKE"
+  },
+  "apiId": "6w59j",
+  "apiIdStatus": "inferred"
+}

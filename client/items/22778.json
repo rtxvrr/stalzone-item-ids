@@ -1,0 +1,11 @@
+{
+  "clientId": 22778,
+  "key": "item.att.mag_sks",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин СКС",
+    "en": "SKS Extended Magazine"
+  },
+  "apiId": "wjr13",
+  "apiIdStatus": "inferred"
+}

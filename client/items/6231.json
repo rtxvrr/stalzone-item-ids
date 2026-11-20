@@ -1,0 +1,11 @@
+{
+  "clientId": 6231,
+  "key": "item.misc.microelectronics",
+  "kind": "item",
+  "name": {
+    "ru": "Микроэлектроника",
+    "en": "Microelectronics"
+  },
+  "apiId": "40lp",
+  "apiIdStatus": "inferred"
+}

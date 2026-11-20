@@ -1,0 +1,11 @@
+{
+  "clientId": 31292,
+  "key": "item.ny_toys.setB.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Синий звездный шарик",
+    "en": "Blue Star Bauble"
+  },
+  "apiId": "213wv",
+  "apiIdStatus": "inferred"
+}

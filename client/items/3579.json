@@ -1,0 +1,11 @@
+{
+  "clientId": 3579,
+  "key": "tile.3579",
+  "kind": "tile",
+  "name": {
+    "ru": "Доски рассада",
+    "en": "Seedling Boards"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31006,
+  "key": "item.brt.kordon.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Корень-вонючка",
+    "en": "Stinky Root"
+  },
+  "apiId": "w30g2",
+  "apiIdStatus": "inferred"
+}

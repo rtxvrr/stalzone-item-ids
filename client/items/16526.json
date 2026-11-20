@@ -1,0 +1,11 @@
+{
+  "clientId": 16526,
+  "key": "item.crate.box_ammo_spb939",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик патронов 9x39 СБП",
+    "en": "Crate of 9x39 mm SBP Rounds"
+  },
+  "apiId": "g41qg",
+  "apiIdStatus": "inferred"
+}

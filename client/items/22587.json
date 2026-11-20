@@ -1,0 +1,11 @@
+{
+  "clientId": 22587,
+  "key": "item.att.barrel_longdeagle7",
+  "kind": "item",
+  "name": {
+    "ru": "Удлиненный ствол D-Eagle VII",
+    "en": "Extended Barrel D-Eagle VII"
+  },
+  "apiId": "ok5z4",
+  "apiIdStatus": "inferred"
+}

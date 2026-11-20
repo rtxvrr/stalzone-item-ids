@@ -1,0 +1,11 @@
+{
+  "clientId": 16560,
+  "key": "item.bag.9inc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка зажигательных 9 мм",
+    "en": "Pouch of 9 mm Incendiary Rounds"
+  },
+  "apiId": "rwv7l",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25105,
+  "key": "item.arm.eger-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный «Егерь»",
+    "en": "Worn Jaeger"
+  },
+  "apiId": "y35p3",
+  "apiIdStatus": "inferred"
+}

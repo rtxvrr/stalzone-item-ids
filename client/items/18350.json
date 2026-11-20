@@ -1,0 +1,11 @@
+{
+  "clientId": 18350,
+  "key": "item.camo.wpn.autumn24_skin_18",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Осень»",
+    "en": "Autumn Paint"
+  },
+  "apiId": "g4z3g",
+  "apiIdStatus": "inferred"
+}

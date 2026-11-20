@@ -1,0 +1,11 @@
+{
+  "clientId": 20356,
+  "key": "item.wpn.mossberg_hunter",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничий Mossberg",
+    "en": "Hunter's Mossberg"
+  },
+  "apiId": "knmjp",
+  "apiIdStatus": "inferred"
+}

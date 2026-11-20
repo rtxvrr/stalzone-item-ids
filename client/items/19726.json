@@ -1,0 +1,11 @@
+{
+  "clientId": 19726,
+  "key": "item.camo.arm.threads",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Нити»",
+    "en": "Thread Paint"
+  },
+  "apiId": "g4095",
+  "apiIdStatus": "inferred"
+}

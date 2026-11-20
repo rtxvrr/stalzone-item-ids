@@ -1,0 +1,11 @@
+{
+  "clientId": 18362,
+  "key": "item.camo.wpn.red_expo_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Digital RED»",
+    "en": "«Digital RED» Paint "
+  },
+  "apiId": "m0npr",
+  "apiIdStatus": "inferred"
+}

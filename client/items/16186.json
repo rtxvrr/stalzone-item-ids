@@ -1,0 +1,11 @@
+{
+  "clientId": 16186,
+  "key": "item.16186",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование с Могильника",
+    "en": "Anomalous Formation from the Graveyard"
+  },
+  "apiId": "m0qr2",
+  "apiIdStatus": "inferred"
+}

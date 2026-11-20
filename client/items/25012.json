@@ -1,0 +1,11 @@
+{
+  "clientId": 25012,
+  "key": "item.arm.gorka",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Горка-3»",
+    "en": "Gorka-3 Suit"
+  },
+  "apiId": "rwnrv",
+  "apiIdStatus": "inferred"
+}

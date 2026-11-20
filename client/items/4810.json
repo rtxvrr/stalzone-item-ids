@@ -1,0 +1,11 @@
+{
+  "clientId": 4810,
+  "key": "item.plc.sticker.spring25",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «Назад в Изнанку»",
+    "en": "Back to the Inside Out Season Sticker"
+  },
+  "apiId": "jjjl",
+  "apiIdStatus": "inferred"
+}

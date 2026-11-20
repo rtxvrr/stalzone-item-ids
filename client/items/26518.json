@@ -1,0 +1,11 @@
+{
+  "clientId": 26518,
+  "key": "item.food.olivie",
+  "kind": "item",
+  "name": {
+    "ru": "Салат оливье",
+    "en": "Olivier Salad"
+  },
+  "apiId": "vjdqd",
+  "apiIdStatus": "inferred"
+}

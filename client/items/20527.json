@@ -1,0 +1,11 @@
+{
+  "clientId": 20527,
+  "key": "item.wpn.terminator",
+  "kind": "item",
+  "name": {
+    "ru": "Cobray Terminator",
+    "en": "Cobray Terminator"
+  },
+  "apiId": "zz29n",
+  "apiIdStatus": "inferred"
+}

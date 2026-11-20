@@ -1,0 +1,11 @@
+{
+  "clientId": 16305,
+  "key": "item.16305",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон группировки «Шепот»",
+    "en": "Murmur Faction Token"
+  },
+  "apiId": "y3n6o",
+  "apiIdStatus": "inferred"
+}

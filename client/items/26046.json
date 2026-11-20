@@ -1,0 +1,11 @@
+{
+  "clientId": 26046,
+  "key": "item.med.alcobull",
+  "kind": "item",
+  "name": {
+    "ru": "«Алкобык»",
+    "en": "Alcobull"
+  },
+  "apiId": "7lyo3",
+  "apiIdStatus": "inferred"
+}

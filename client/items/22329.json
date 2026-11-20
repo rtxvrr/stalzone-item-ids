@@ -1,0 +1,11 @@
+{
+  "clientId": 22329,
+  "key": "item.att.sight_murmur24",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный «Трапеция»",
+    "en": "Trapezoid Collimator Sight"
+  },
+  "apiId": "y3pdo",
+  "apiIdStatus": "inferred"
+}

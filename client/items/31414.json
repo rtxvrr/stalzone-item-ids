@@ -1,0 +1,11 @@
+{
+  "clientId": 31414,
+  "key": "item.31414",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ для новогоднего контейнера",
+    "en": "Key to a New Year's Container"
+  },
+  "apiId": "mryvj",
+  "apiIdStatus": "inferred"
+}

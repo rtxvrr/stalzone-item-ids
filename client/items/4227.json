@@ -1,0 +1,11 @@
+{
+  "clientId": 4227,
+  "key": "item.plc.background.dmz26_3",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Почти апокалипсис»",
+    "en": "Near Apocalypse Background"
+  },
+  "apiId": "znvk",
+  "apiIdStatus": "inferred"
+}

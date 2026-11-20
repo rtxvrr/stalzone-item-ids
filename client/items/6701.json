@@ -1,0 +1,11 @@
+{
+  "clientId": 6701,
+  "key": "item.misc.kevlar",
+  "kind": "item",
+  "name": {
+    "ru": "Кевлар",
+    "en": "Kevlar"
+  },
+  "apiId": "1731",
+  "apiIdStatus": "inferred"
+}

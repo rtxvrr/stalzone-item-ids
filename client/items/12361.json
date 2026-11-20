@@ -1,0 +1,11 @@
+{
+  "clientId": 12361,
+  "key": "item.12361",
+  "kind": "item",
+  "name": {
+    "ru": "Сигнальная ракета (снаряд)",
+    "en": "Signal Flare (Projectile)"
+  },
+  "apiId": "0d2r",
+  "apiIdStatus": "inferred"
+}

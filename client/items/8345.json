@@ -1,0 +1,11 @@
+{
+  "clientId": 8345,
+  "key": "item.quest.zov_tonnel_4",
+  "kind": "item",
+  "name": {
+    "ru": "Записка сталкера в тоннеле 4",
+    "en": "Stalker's Note in Tunnel 4"
+  },
+  "apiId": "37n5",
+  "apiIdStatus": "inferred"
+}

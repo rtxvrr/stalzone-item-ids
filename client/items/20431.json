@@ -1,0 +1,11 @@
+{
+  "clientId": 20431,
+  "key": "item.wpn.cz75a",
+  "kind": "item",
+  "name": {
+    "ru": "CZ 75 FA",
+    "en": "CZ 75 FA"
+  },
+  "apiId": "4qnnj",
+  "apiIdStatus": "inferred"
+}

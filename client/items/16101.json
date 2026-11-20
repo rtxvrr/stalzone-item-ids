@@ -1,0 +1,11 @@
+{
+  "clientId": 16101,
+  "key": "item.16101",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты для источника токсинов",
+    "en": "Tools for the Source of the Toxin"
+  },
+  "apiId": "1ron2",
+  "apiIdStatus": "inferred"
+}

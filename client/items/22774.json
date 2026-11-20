@@ -1,0 +1,11 @@
+{
+  "clientId": 22774,
+  "key": "item.att.mag_pkp_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Свитер для короба ПКП",
+    "en": "Sweater for PKP Box"
+  },
+  "apiId": "g42v5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26037,
+  "key": "item.med.thermobarier_3",
+  "kind": "item",
+  "name": {
+    "ru": "«Термобарьер» третьего класса",
+    "en": "3rd Class ThermoBlock"
+  },
+  "apiId": "0rdld",
+  "apiIdStatus": "inferred"
+}

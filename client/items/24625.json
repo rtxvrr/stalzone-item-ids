@@ -1,0 +1,11 @@
+{
+  "clientId": 24625,
+  "key": "item.charm.ssz",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «ССЗ»",
+    "en": "SNW Charm"
+  },
+  "apiId": "1r55r",
+  "apiIdStatus": "inferred"
+}

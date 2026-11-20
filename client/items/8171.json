@@ -1,0 +1,11 @@
+{
+  "clientId": 8171,
+  "key": "item.quest.apocalypse_not_today_cryptographer",
+  "kind": "item",
+  "name": {
+    "ru": "Криптошифратор",
+    "en": "Crypto Encoder"
+  },
+  "apiId": "6v96",
+  "apiIdStatus": "inferred"
+}

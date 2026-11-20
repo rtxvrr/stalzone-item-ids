@@ -1,0 +1,11 @@
+{
+  "clientId": 22217,
+  "key": "item.att.scope_steiner46_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Steiner",
+    "en": "Steiner Optical Sight "
+  },
+  "apiId": "p6l4d",
+  "apiIdStatus": "inferred"
+}

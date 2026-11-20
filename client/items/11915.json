@@ -1,0 +1,11 @@
+{
+  "clientId": 11915,
+  "key": "item.plate.experimental",
+  "kind": "item",
+  "name": {
+    "ru": "Экспериментальная пластина",
+    "en": "Experimental plate"
+  },
+  "apiId": "o31m",
+  "apiIdStatus": "inferred"
+}

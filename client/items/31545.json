@@ -1,0 +1,11 @@
+{
+  "clientId": 31545,
+  "key": "item.ny_toys.setM.toy4",
+  "kind": "item",
+  "name": {
+    "ru": "Игрушка-амулет диггеров",
+    "en": "Digger's Amulet Decoration"
+  },
+  "apiId": "343wk",
+  "apiIdStatus": "inferred"
+}

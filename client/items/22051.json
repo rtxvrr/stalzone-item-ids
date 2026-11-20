@@ -1,0 +1,11 @@
+{
+  "clientId": 22051,
+  "key": "item.att.forend_b11",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье Б-11 с верхней планкой",
+    "en": "B-11 Handguard with Upper Rail"
+  },
+  "apiId": "zzpoy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8157,
+  "key": "item.quest.fleshka2_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Кремниевый накопитель аномальной установки",
+    "en": "Anomalous installation's silicon drive"
+  },
+  "apiId": "qry9",
+  "apiIdStatus": "inferred"
+}

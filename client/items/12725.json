@@ -1,0 +1,11 @@
+{
+  "clientId": 12725,
+  "key": "item.amm.762st",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм",
+    "en": "7.62 mm Round"
+  },
+  "apiId": "1n91",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28607,
+  "key": "item.28607",
+  "kind": "item",
+  "name": {
+    "ru": "Маленькое устройство",
+    "en": "Small Device"
+  },
+  "apiId": "4kqpr",
+  "apiIdStatus": "inferred"
+}

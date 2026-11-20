@@ -1,0 +1,11 @@
+{
+  "clientId": 19749,
+  "key": "item.camo.arm.consumer",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Потребитель»",
+    "en": "Consumer Paint"
+  },
+  "apiId": "1rd42",
+  "apiIdStatus": "inferred"
+}

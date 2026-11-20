@@ -1,0 +1,11 @@
+{
+  "clientId": 4940,
+  "key": "item.plc.sticker.newyeartree_golden",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Золотой лиги",
+    "en": "Gold League Sticker"
+  },
+  "apiId": "n1y3",
+  "apiIdStatus": "inferred"
+}

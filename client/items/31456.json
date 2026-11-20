@@ -1,0 +1,11 @@
+{
+  "clientId": 31456,
+  "key": "item.lootbox.spring24_tickets_big",
+  "kind": "item",
+  "name": {
+    "ru": "Ларец руса-боярина",
+    "en": "Slavic boyar Casket"
+  },
+  "apiId": "krzw0",
+  "apiIdStatus": "inferred"
+}

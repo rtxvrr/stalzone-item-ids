@@ -1,0 +1,11 @@
+{
+  "clientId": 5027,
+  "key": "item.plc.sticker.scstore_a26_duty_2",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Очистим мир от угрозы Зоны»",
+    "en": "Let’s Rid the World of the Zone Threat Sticker"
+  },
+  "apiId": "zv42",
+  "apiIdStatus": "inferred"
+}

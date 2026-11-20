@@ -1,0 +1,11 @@
+{
+  "clientId": 19365,
+  "key": "item.camo.arm.winter25_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Холодная кожа»",
+    "en": "Cold Skin Paint"
+  },
+  "apiId": "p6wl2",
+  "apiIdStatus": "inferred"
+}

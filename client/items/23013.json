@@ -1,0 +1,11 @@
+{
+  "clientId": 23013,
+  "key": "item.23013",
+  "kind": "item",
+  "name": {
+    "ru": "Разложенный приклад",
+    "en": "Unfolded Stock"
+  },
+  "apiId": "0rpod",
+  "apiIdStatus": "inferred"
+}

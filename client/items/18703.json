@@ -1,0 +1,11 @@
+{
+  "clientId": 18703,
+  "key": "item.camo.wpn.media_advanced",
+  "kind": "item",
+  "name": {
+    "ru": "Краска продвинутого партнера",
+    "en": "Advanced Partner Paint"
+  },
+  "apiId": "zzv2n",
+  "apiIdStatus": "inferred"
+}

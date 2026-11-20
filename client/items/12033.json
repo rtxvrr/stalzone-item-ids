@@ -1,0 +1,11 @@
+{
+  "clientId": 12033,
+  "key": "item.cont.getter",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Добытчик»",
+    "en": "Forager Container"
+  },
+  "apiId": "q194",
+  "apiIdStatus": "inferred"
+}

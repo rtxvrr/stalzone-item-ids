@@ -1,0 +1,11 @@
+{
+  "clientId": 14223,
+  "key": "item.crate.kustarnik",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Кустарник-1»",
+    "en": "Crate of Shrub-1 Grenades"
+  },
+  "apiId": "6wmkp",
+  "apiIdStatus": "inferred"
+}

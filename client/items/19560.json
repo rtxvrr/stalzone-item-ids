@@ -1,0 +1,11 @@
+{
+  "clientId": 19560,
+  "key": "item.camo.unique_arm.ao5_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Утечка криогена»",
+    "en": "Cryogenic Leak"
+  },
+  "apiId": "rwk3l",
+  "apiIdStatus": "inferred"
+}

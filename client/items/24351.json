@@ -1,0 +1,11 @@
+{
+  "clientId": 24351,
+  "key": "item.charm.elochka",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ёлочка»",
+    "en": "X-mas Tree Charm"
+  },
+  "apiId": "zzdo9",
+  "apiIdStatus": "inferred"
+}

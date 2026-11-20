@@ -1,0 +1,11 @@
+{
+  "clientId": 25712,
+  "key": "item.skin.covenant1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Боевой брат»",
+    "en": "Brother-in-Arms Skin"
+  },
+  "apiId": "rwg4y",
+  "apiIdStatus": "inferred"
+}

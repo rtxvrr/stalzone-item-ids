@@ -1,0 +1,11 @@
+{
+  "clientId": 15065,
+  "key": "item.lootbox.spring26_inside_episode",
+  "kind": "item",
+  "name": {
+    "ru": "Дар Изнанки",
+    "en": "Inside Out Gift"
+  },
+  "apiId": "p6jvd",
+  "apiIdStatus": "inferred"
+}

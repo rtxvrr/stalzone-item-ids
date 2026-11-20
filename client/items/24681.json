@@ -1,0 +1,11 @@
+{
+  "clientId": 24681,
+  "key": "item.charm.autumn24_bm_jeton_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Опытный рейдер»",
+    "en": "\"Experienced Raider\" Charm"
+  },
+  "apiId": "qj714",
+  "apiIdStatus": "inferred"
+}

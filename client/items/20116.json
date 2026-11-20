@@ -1,0 +1,11 @@
+{
+  "clientId": 20116,
+  "key": "item.wpn.gauss_terentii",
+  "kind": "item",
+  "name": {
+    "ru": "Гаусс-винтовка Снайпера",
+    "en": "Sniper's Gauss Rifle"
+  },
+  "apiId": "n4plw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18691,
+  "key": "item.camo.wpn.tablet",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Скрижаль»",
+    "en": "Tablet Camouflage"
+  },
+  "apiId": "dm4qg",
+  "apiIdStatus": "inferred"
+}

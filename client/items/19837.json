@@ -1,0 +1,11 @@
+{
+  "clientId": 19837,
+  "key": "item.motif.wpn.mp7_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Молодчик»",
+    "en": "Hotshot"
+  },
+  "apiId": "0r33k",
+  "apiIdStatus": "inferred"
+}

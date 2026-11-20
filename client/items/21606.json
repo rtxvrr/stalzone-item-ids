@@ -1,0 +1,11 @@
+{
+  "clientId": 21606,
+  "key": "item.wpn_mod.adv.recalibration",
+  "kind": "item",
+  "name": {
+    "ru": "«Перекалибровка»",
+    "en": "Recalibration"
+  },
+  "apiId": "wj16z",
+  "apiIdStatus": "inferred"
+}

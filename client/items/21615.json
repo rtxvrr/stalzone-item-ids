@@ -1,0 +1,11 @@
+{
+  "clientId": 21615,
+  "key": "item.wpn_mod.adv.more_gunpowder",
+  "kind": "item",
+  "name": {
+    "ru": "«Перегрузка»",
+    "en": "Overload"
+  },
+  "apiId": "okw95",
+  "apiIdStatus": "inferred"
+}

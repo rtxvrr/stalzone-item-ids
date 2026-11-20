@@ -1,0 +1,11 @@
+{
+  "clientId": 9355,
+  "key": "item.wpn.obrezbm16_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "Обрез Выжившего",
+    "en": "Survivor's Sawn-off"
+  },
+  "apiId": "4w5l",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21072,
+  "key": "item.melee.old_lopata",
+  "kind": "item",
+  "name": {
+    "ru": "Старая лопата",
+    "en": "Old Shovel"
+  },
+  "apiId": "96wvq",
+  "apiIdStatus": "inferred"
+}

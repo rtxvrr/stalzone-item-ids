@@ -1,0 +1,11 @@
+{
+  "clientId": 20569,
+  "key": "item.wpn.tkb",
+  "kind": "item",
+  "name": {
+    "ru": "ТКБ-0146М",
+    "en": "TKB-0146M"
+  },
+  "apiId": "3gn5g",
+  "apiIdStatus": "inferred"
+}

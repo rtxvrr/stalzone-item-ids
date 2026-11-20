@@ -1,0 +1,11 @@
+{
+  "clientId": 20113,
+  "key": "item.wpn.stg44",
+  "kind": "item",
+  "name": {
+    "ru": "StG-44",
+    "en": "STG-44"
+  },
+  "apiId": "0r3or",
+  "apiIdStatus": "inferred"
+}

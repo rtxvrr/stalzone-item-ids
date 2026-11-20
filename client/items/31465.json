@@ -1,0 +1,11 @@
+{
+  "clientId": 31465,
+  "key": "item.key.charm_head",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта Хозяина",
+    "en": "Master's Key Card"
+  },
+  "apiId": "pjny6",
+  "apiIdStatus": "inferred"
+}

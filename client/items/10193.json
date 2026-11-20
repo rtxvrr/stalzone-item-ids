@@ -1,0 +1,11 @@
+{
+  "clientId": 10193,
+  "key": "item.quest.breadcrumbs_audiocassette_lekciya_1",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Лекция»",
+    "en": "Lecture Cassette"
+  },
+  "apiId": "35y5",
+  "apiIdStatus": "inferred"
+}

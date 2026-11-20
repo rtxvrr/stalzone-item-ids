@@ -1,0 +1,11 @@
+{
+  "clientId": 12711,
+  "key": "item.amm.12drob",
+  "kind": "item",
+  "name": {
+    "ru": "Дробь 12 калибра",
+    "en": "12 Caliber Birdshot"
+  },
+  "apiId": "l6y1",
+  "apiIdStatus": "inferred"
+}

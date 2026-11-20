@@ -1,0 +1,11 @@
+{
+  "clientId": 11416,
+  "key": "item.art.ravent_hat",
+  "kind": "item",
+  "name": {
+    "ru": "Шапка-невидимка",
+    "en": "Invisibility hat"
+  },
+  "apiId": "nrr9",
+  "apiIdStatus": "inferred"
+}

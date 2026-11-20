@@ -1,0 +1,11 @@
+{
+  "clientId": 31553,
+  "key": "item.ny_toys.setM.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Простецкая мишура диггеров",
+    "en": "Simple Digger's Tinsel"
+  },
+  "apiId": "y4ydw",
+  "apiIdStatus": "inferred"
+}

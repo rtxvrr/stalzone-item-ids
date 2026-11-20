@@ -1,0 +1,11 @@
+{
+  "clientId": 16181,
+  "key": "item.16181",
+  "kind": "item",
+  "name": {
+    "ru": "Корешок",
+    "en": "Rootlet"
+  },
+  "apiId": "qjq03",
+  "apiIdStatus": "inferred"
+}

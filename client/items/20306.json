@@ -1,0 +1,11 @@
+{
+  "clientId": 20306,
+  "key": "item.wpn.exorcism.obrez_rus",
+  "kind": "item",
+  "name": {
+    "ru": "Рок",
+    "en": "Doom"
+  },
+  "apiId": "wj7z3",
+  "apiIdStatus": "inferred"
+}

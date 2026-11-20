@@ -1,0 +1,11 @@
+{
+  "clientId": 4622,
+  "key": "item.plc.pattern.prestige_chill",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Заслуженный отдых»",
+    "en": "Well-Earned Rest Pattern"
+  },
+  "apiId": "7046",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31000,
+  "key": "item.brt.bolota.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Болотный камень",
+    "en": "Swamp Stone"
+  },
+  "apiId": "9dknl",
+  "apiIdStatus": "inferred"
+}

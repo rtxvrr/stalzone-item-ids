@@ -1,0 +1,11 @@
+{
+  "clientId": 20258,
+  "key": "item.wpn.fg42",
+  "kind": "item",
+  "name": {
+    "ru": "FG-42 «Хлыст»",
+    "en": "FG-42 Whip"
+  },
+  "apiId": "j5oq0",
+  "apiIdStatus": "inferred"
+}

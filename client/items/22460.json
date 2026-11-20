@@ -1,0 +1,11 @@
+{
+  "clientId": 22460,
+  "key": "item.att.lcu_lowp",
+  "kind": "item",
+  "name": {
+    "ru": "HQ ISSUE Low-Profile Laser Sight (красный лазер)",
+    "en": "HQ ISSUE Low-Profile Laser Sight (Red Laser)"
+  },
+  "apiId": "rw03g",
+  "apiIdStatus": "inferred"
+}

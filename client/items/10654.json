@@ -1,0 +1,11 @@
+{
+  "clientId": 10654,
+  "key": "item.key.safe_science",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от научного сейфа",
+    "en": "Scientific Safe Key"
+  },
+  "apiId": "wd72",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24777,
+  "key": "item.charm.autumn25_mantrap",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Капкан»",
+    "en": "Trap Charm"
+  },
+  "apiId": "y351o",
+  "apiIdStatus": "inferred"
+}

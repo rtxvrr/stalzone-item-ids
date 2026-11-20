@@ -1,0 +1,11 @@
+{
+  "clientId": 16825,
+  "key": "item.quest.preparat",
+  "kind": "item",
+  "name": {
+    "ru": "Препарат Краснова",
+    "en": "Krasnov's Remedy"
+  },
+  "apiId": "1r11r",
+  "apiIdStatus": "inferred"
+}

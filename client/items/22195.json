@@ -1,0 +1,11 @@
+{
+  "clientId": 22195,
+  "key": "item.att.handgrip_aksamodel",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоятка из рукоятки АК",
+    "en": "Grip Made from AK Grip"
+  },
+  "apiId": "6wvz0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16341,
+  "key": "item.clan.black_regaliy",
+  "kind": "item",
+  "name": {
+    "ru": "Черный Регалий",
+    "en": "Black Regalia"
+  },
+  "apiId": "p6qz2",
+  "apiIdStatus": "inferred"
+}

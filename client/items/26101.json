@@ -1,0 +1,11 @@
+{
+  "clientId": 26101,
+  "key": "item.med.stimulyator",
+  "kind": "item",
+  "name": {
+    "ru": "Силовой стимулятор",
+    "en": "Strength Stimulator"
+  },
+  "apiId": "1r2yq",
+  "apiIdStatus": "inferred"
+}

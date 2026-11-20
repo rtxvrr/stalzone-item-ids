@@ -1,0 +1,11 @@
+{
+  "clientId": 17501,
+  "key": "item.style.wpn.saiga_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Непоколебимый»",
+    "en": "Unshakable"
+  },
+  "apiId": "1r461",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11353,
+  "key": "item.art.puzir_prisma",
+  "kind": "item",
+  "name": {
+    "ru": "Призма",
+    "en": "Prism"
+  },
+  "apiId": "y5w3",
+  "apiIdStatus": "inferred"
+}

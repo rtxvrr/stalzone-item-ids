@@ -1,0 +1,11 @@
+{
+  "clientId": 21033,
+  "key": "item.melee.iceaxe_f",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяной ледоруб",
+    "en": "Frozen Ice Pick"
+  },
+  "apiId": "qjgg4",
+  "apiIdStatus": "inferred"
+}

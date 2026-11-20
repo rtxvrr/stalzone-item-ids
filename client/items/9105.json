@@ -1,0 +1,11 @@
+{
+  "clientId": 9105,
+  "key": "item.wpn.saiga_inc",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничья Сайга",
+    "en": "Hunter's Saiga"
+  },
+  "apiId": "ym5o",
+  "apiIdStatus": "inferred"
+}

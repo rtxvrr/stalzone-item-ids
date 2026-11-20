@@ -1,0 +1,11 @@
+{
+  "clientId": 19614,
+  "key": "item.motif.arm.armor_triumph26",
+  "kind": "item",
+  "name": {
+    "ru": "«Триумфатор»",
+    "en": "Triumphator"
+  },
+  "apiId": "m020y",
+  "apiIdStatus": "inferred"
+}

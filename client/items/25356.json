@@ -1,0 +1,11 @@
+{
+  "clientId": 25356,
+  "key": "item.arm.rigel",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Ригель»",
+    "en": "Rigel Exoarmor"
+  },
+  "apiId": "kn3yv",
+  "apiIdStatus": "inferred"
+}

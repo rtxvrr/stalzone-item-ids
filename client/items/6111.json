@@ -1,0 +1,11 @@
+{
+  "clientId": 6111,
+  "key": "item.misc.insulating_tape",
+  "kind": "item",
+  "name": {
+    "ru": "Изолента",
+    "en": "Duct Tape"
+  },
+  "apiId": "ll41",
+  "apiIdStatus": "inferred"
+}

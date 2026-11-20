@@ -1,0 +1,11 @@
+{
+  "clientId": 16092,
+  "key": "item.16092",
+  "kind": "item",
+  "name": {
+    "ru": "«Царская водка»",
+    "en": "Royal Vodka"
+  },
+  "apiId": "2orpl",
+  "apiIdStatus": "inferred"
+}

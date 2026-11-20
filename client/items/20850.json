@@ -1,0 +1,11 @@
+{
+  "clientId": 20850,
+  "key": "item.wpn.vsk94_a",
+  "kind": "item",
+  "name": {
+    "ru": "ВСК-94 (А)",
+    "en": "VSK-94 (A)"
+  },
+  "apiId": "g4v16",
+  "apiIdStatus": "inferred"
+}

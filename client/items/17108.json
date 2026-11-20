@@ -1,0 +1,11 @@
+{
+  "clientId": 17108,
+  "key": "item.style.arm.zivcas_hors",
+  "kind": "item",
+  "name": {
+    "ru": "«Разведчик» группы «Хорс»",
+    "en": "Khors Group Scout"
+  },
+  "apiId": "kn503",
+  "apiIdStatus": "inferred"
+}

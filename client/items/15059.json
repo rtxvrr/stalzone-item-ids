@@ -1,0 +1,11 @@
+{
+  "clientId": 15059,
+  "key": "item.lootbox.bureau_jiden_acc",
+  "kind": "item",
+  "name": {
+    "ru": "Коробка с брелком",
+    "en": "Box with charm"
+  },
+  "apiId": "ly0k2",
+  "apiIdStatus": "inferred"
+}

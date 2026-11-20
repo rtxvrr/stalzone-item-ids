@@ -1,0 +1,11 @@
+{
+  "clientId": 19518,
+  "key": "item.camo.unique_arm.spectre",
+  "kind": "item",
+  "name": {
+    "ru": "«Spectre»",
+    "en": "Spectre"
+  },
+  "apiId": "vjmyg",
+  "apiIdStatus": "inferred"
+}

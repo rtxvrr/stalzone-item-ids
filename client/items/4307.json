@@ -1,0 +1,11 @@
+{
+  "clientId": 4307,
+  "key": "item.plc.background.na_flag",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Звезднополосатый»",
+    "en": "Stars and Stripes Background"
+  },
+  "apiId": "4jnn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29944,
+  "key": "item.filler.watch",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанные часы",
+    "en": "Broken Watch"
+  },
+  "apiId": "21rk5",
+  "apiIdStatus": "inferred"
+}

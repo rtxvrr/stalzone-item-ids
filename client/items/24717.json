@@ -1,0 +1,11 @@
+{
+  "clientId": 24717,
+  "key": "item.charm.stalphone",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «STALPHONE»",
+    "en": "STALPHONE Charm"
+  },
+  "apiId": "p6722",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16055,
+  "key": "item.misc.ssop_help_tip_5",
+  "kind": "item",
+  "name": {
+    "ru": "Агентурная наводка на РЛС",
+    "en": "Intelligence Lead for the Radar Station"
+  },
+  "apiId": "4qo9r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12054,
+  "key": "item.cont.overtone",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Овертон»",
+    "en": "Overton Container"
+  },
+  "apiId": "w42z",
+  "apiIdStatus": "inferred"
+}

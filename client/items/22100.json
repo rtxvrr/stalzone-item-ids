@@ -1,0 +1,11 @@
+{
+  "clientId": 22100,
+  "key": "item.att.handgrip_magpul",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка KAC Vertical Foregrip",
+    "en": "KAC Vertical Foregrip Tactical Grip"
+  },
+  "apiId": "96v0y",
+  "apiIdStatus": "inferred"
+}

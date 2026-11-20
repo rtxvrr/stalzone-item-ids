@@ -1,0 +1,11 @@
+{
+  "clientId": 18695,
+  "key": "item.camo.wpn.pacifist",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Пацифист»",
+    "en": "Pacifist Camouflage"
+  },
+  "apiId": "6wdrn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4319,
+  "key": "item.plc.background.arena_raven26",
+  "kind": "item",
+  "name": {
+    "ru": "Фон Празднества",
+    "en": "Festivity Backrgound"
+  },
+  "apiId": "d9jn",
+  "apiIdStatus": "inferred"
+}

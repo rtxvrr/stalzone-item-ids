@@ -1,0 +1,11 @@
+{
+  "clientId": 18745,
+  "key": "item.camo.wpn.ztrip",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Зомби-трип»",
+    "en": "Zombie Trip Paint"
+  },
+  "apiId": "3gmlg",
+  "apiIdStatus": "inferred"
+}

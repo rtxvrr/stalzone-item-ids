@@ -1,0 +1,11 @@
+{
+  "clientId": 16053,
+  "key": "item.misc.ssop_help_tip_3",
+  "kind": "item",
+  "name": {
+    "ru": "Секретная наводка",
+    "en": "Secret Lead"
+  },
+  "apiId": "y3gqk",
+  "apiIdStatus": "inferred"
+}

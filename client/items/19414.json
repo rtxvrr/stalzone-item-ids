@@ -1,0 +1,11 @@
+{
+  "clientId": 19414,
+  "key": "item.camo.arm.bf_skin_17",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Красные нити»",
+    "en": "Red threads Paint"
+  },
+  "apiId": "m0zoj",
+  "apiIdStatus": "inferred"
+}

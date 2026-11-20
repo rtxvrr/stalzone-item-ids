@@ -1,0 +1,11 @@
+{
+  "clientId": 22552,
+  "key": "item.att.silencer_scarsd",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель SCAR-SD",
+    "en": "SCAR-SD Silencer"
+  },
+  "apiId": "5lpy4",
+  "apiIdStatus": "inferred"
+}

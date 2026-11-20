@@ -1,0 +1,11 @@
+{
+  "clientId": 26055,
+  "key": "item.med.inside_extract",
+  "kind": "item",
+  "name": {
+    "ru": "Экстракт Мемории",
+    "en": "Memoria Extract"
+  },
+  "apiId": "4qg5p",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24675,
+  "key": "item.charm.perekur",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок :perekur:",
+    "en": ":perekur: Charm"
+  },
+  "apiId": "zzdjk",
+  "apiIdStatus": "inferred"
+}

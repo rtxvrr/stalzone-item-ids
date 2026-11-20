@@ -1,0 +1,11 @@
+{
+  "clientId": 24104,
+  "key": "item.24104",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удовольствие за 100 рублей»",
+    "en": "Fun for 100 Rubles Charm"
+  },
+  "apiId": "5lw10",
+  "apiIdStatus": "inferred"
+}

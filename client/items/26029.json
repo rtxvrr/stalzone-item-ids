@@ -1,0 +1,11 @@
+{
+  "clientId": 26029,
+  "key": "item.med.painblocker",
+  "kind": "item",
+  "name": {
+    "ru": "«Убийца Боли»",
+    "en": "Pain Killer"
+  },
+  "apiId": "y3knz",
+  "apiIdStatus": "inferred"
+}

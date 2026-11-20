@@ -1,0 +1,11 @@
+{
+  "clientId": 11004,
+  "key": "item.art.electra_snowflake",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяной ежик",
+    "en": "Ice Hedgehog"
+  },
+  "apiId": "5r5g",
+  "apiIdStatus": "inferred"
+}

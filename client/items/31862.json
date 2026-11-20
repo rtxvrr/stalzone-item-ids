@@ -1,0 +1,11 @@
+{
+  "clientId": 31862,
+  "key": "item.blueprint.wpn.ravent_pkp",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж ПКП «Печенег»",
+    "en": "PKP Pecheneg Blueprint"
+  },
+  "apiId": "mrnnk",
+  "apiIdStatus": "inferred"
+}

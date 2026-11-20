@@ -1,0 +1,11 @@
+{
+  "clientId": 31866,
+  "key": "item.blueprint.wpn.ravent_komrad",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж KS-12 Komrad",
+    "en": "KS-12 Komrad Blueprint"
+  },
+  "apiId": "vn557",
+  "apiIdStatus": "inferred"
+}

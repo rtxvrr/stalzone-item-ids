@@ -1,0 +1,11 @@
+{
+  "clientId": 22697,
+  "key": "item.att.butt_samodel",
+  "kind": "item",
+  "name": {
+    "ru": "Самодельный приклад АК",
+    "en": "AK Handmade Stock"
+  },
+  "apiId": "1r36g",
+  "apiIdStatus": "inferred"
+}

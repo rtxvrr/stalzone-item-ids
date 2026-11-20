@@ -1,0 +1,11 @@
+{
+  "clientId": 29918,
+  "key": "item.filler.mob_10",
+  "kind": "item",
+  "name": {
+    "ru": "Безоар",
+    "en": "Bezoar"
+  },
+  "apiId": "vnodp",
+  "apiIdStatus": "inferred"
+}

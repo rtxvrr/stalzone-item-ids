@@ -1,0 +1,11 @@
+{
+  "clientId": 26500,
+  "key": "item.food.bread_w",
+  "kind": "item",
+  "name": {
+    "ru": "Кусок белого хлеба",
+    "en": "Piece of White Bread"
+  },
+  "apiId": "96gqz",
+  "apiIdStatus": "inferred"
+}

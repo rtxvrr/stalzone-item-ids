@@ -1,0 +1,11 @@
+{
+  "clientId": 26066,
+  "key": "item.med.inside_stimulator",
+  "kind": "item",
+  "name": {
+    "ru": "Стимулятор Профессора",
+    "en": "Professor's Stimulant"
+  },
+  "apiId": "vjygn",
+  "apiIdStatus": "inferred"
+}

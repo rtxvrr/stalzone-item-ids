@@ -1,0 +1,11 @@
+{
+  "clientId": 19887,
+  "key": "item.motif.wpn.a545_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Две полоски»",
+    "en": "Two Stripes"
+  },
+  "apiId": "okv95",
+  "apiIdStatus": "inferred"
+}

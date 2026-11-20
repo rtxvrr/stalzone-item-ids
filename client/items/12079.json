@@ -1,0 +1,11 @@
+{
+  "clientId": 12079,
+  "key": "item.bag.corpse_small",
+  "kind": "item",
+  "name": {
+    "ru": "Небольшой подозрительный мешок",
+    "en": "Small Suspicious Bag"
+  },
+  "apiId": "49rj",
+  "apiIdStatus": "inferred"
+}

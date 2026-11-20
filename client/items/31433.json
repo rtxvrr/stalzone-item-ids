@@ -1,0 +1,11 @@
+{
+  "clientId": 31433,
+  "key": "item.lootbox.faction_top",
+  "kind": "item",
+  "name": {
+    "ru": "Рейтинговый ящик",
+    "en": "Ratings Crate"
+  },
+  "apiId": "q0nk6",
+  "apiIdStatus": "inferred"
+}

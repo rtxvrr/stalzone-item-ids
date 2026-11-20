@@ -1,0 +1,11 @@
+{
+  "clientId": 16716,
+  "key": "item.16716",
+  "kind": "item",
+  "name": {
+    "ru": "Протоартефакт «Застоя»",
+    "en": "Stasis Protoartifact"
+  },
+  "apiId": "n4g62",
+  "apiIdStatus": "inferred"
+}

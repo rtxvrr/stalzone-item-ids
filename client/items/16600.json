@@ -1,0 +1,11 @@
+{
+  "clientId": 16600,
+  "key": "item.16600",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с валютой",
+    "en": "Crate of Currency"
+  },
+  "apiId": "96znl",
+  "apiIdStatus": "inferred"
+}

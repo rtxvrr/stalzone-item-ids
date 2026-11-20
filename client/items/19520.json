@@ -1,0 +1,11 @@
+{
+  "clientId": 19520,
+  "key": "item.camo.unique_arm.agent",
+  "kind": "item",
+  "name": {
+    "ru": "«Агент»",
+    "en": "Agent"
+  },
+  "apiId": "2o49m",
+  "apiIdStatus": "inferred"
+}

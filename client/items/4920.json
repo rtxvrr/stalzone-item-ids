@@ -1,0 +1,11 @@
+{
+  "clientId": 4920,
+  "key": "item.plc.sticker.blackraid_master",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Элиты Рынка",
+    "en": "Market Elite Sticker"
+  },
+  "apiId": "2mj6",
+  "apiIdStatus": "inferred"
+}

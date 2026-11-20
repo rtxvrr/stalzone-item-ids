@@ -1,0 +1,11 @@
+{
+  "clientId": 16621,
+  "key": "item.bag.23kar",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка картечи 23х75 мм",
+    "en": "Pouch of 23x75 mm Buckshot"
+  },
+  "apiId": "3gqdl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25992,
+  "key": "item.arm.atlas_old",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-Х «АТЛАС»",
+    "en": "MIS-X \"ATLAS\""
+  },
+  "apiId": "2o9r6",
+  "apiIdStatus": "inferred"
+}

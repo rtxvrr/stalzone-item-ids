@@ -1,0 +1,11 @@
+{
+  "clientId": 4932,
+  "key": "item.plc.sticker.scstore_jiden",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Жидень»",
+    "en": "Jiden Sticker"
+  },
+  "apiId": "kjgv",
+  "apiIdStatus": "inferred"
+}

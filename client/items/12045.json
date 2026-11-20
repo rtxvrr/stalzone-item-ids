@@ -1,0 +1,11 @@
+{
+  "clientId": 12045,
+  "key": "item.cont.cold",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Холодок»",
+    "en": "Cool Container"
+  },
+  "apiId": "3d11",
+  "apiIdStatus": "inferred"
+}

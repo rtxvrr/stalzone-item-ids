@@ -1,0 +1,11 @@
+{
+  "clientId": 15064,
+  "key": "item.case.spring26_cosmetic_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "Оплавленный кейс эстета",
+    "en": "Melted Aesthete Case"
+  },
+  "apiId": "n4kj9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31491,
+  "key": "item.lootbox.winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Старый Скарб",
+    "en": "Old Stuff"
+  },
+  "apiId": "drpw5",
+  "apiIdStatus": "inferred"
+}

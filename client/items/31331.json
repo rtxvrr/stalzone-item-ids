@@ -1,0 +1,11 @@
+{
+  "clientId": 31331,
+  "key": "item.ny_toys.setD.tinsel2",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая мишура",
+    "en": "Green Tinsel"
+  },
+  "apiId": "4k32n",
+  "apiIdStatus": "inferred"
+}

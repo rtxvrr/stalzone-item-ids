@@ -1,0 +1,11 @@
+{
+  "clientId": 31293,
+  "key": "item.ny_toys.setB.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя игрушка-шишка",
+    "en": "Blue Pine Cone Ornament"
+  },
+  "apiId": "34321",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8068,
+  "key": "item.quest.shard_plasma_botwin3",
+  "kind": "item",
+  "name": {
+    "ru": "Обработанные плазмой осколки «Призмы»",
+    "en": "Plasma-treated shards of Prisma"
+  },
+  "apiId": "2260",
+  "apiIdStatus": "inferred"
+}

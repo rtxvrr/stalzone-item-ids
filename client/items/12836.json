@@ -1,0 +1,11 @@
+{
+  "clientId": 12836,
+  "key": "item.amm.939far",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9x39 мм дальнобойный",
+    "en": "9x39 mm Long-Range Round"
+  },
+  "apiId": "ropg",
+  "apiIdStatus": "inferred"
+}

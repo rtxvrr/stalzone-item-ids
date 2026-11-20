@@ -1,0 +1,11 @@
+{
+  "clientId": 25376,
+  "key": "item.arm.orion",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Орион»",
+    "en": "Orion Jumpsuit"
+  },
+  "apiId": "5l1l0",
+  "apiIdStatus": "inferred"
+}

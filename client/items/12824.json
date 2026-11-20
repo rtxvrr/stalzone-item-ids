@@ -1,0 +1,11 @@
+{
+  "clientId": 12824,
+  "key": "item.amm.545sep",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм СЭП",
+    "en": "5.45 mm SEP Round"
+  },
+  "apiId": "9g10",
+  "apiIdStatus": "inferred"
+}

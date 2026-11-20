@@ -1,0 +1,11 @@
+{
+  "clientId": 23301,
+  "key": "item.bolt_gem.white_gold",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Белое золото",
+    "en": "Chromatic Particle: White Gold"
+  },
+  "apiId": "1rzd2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22554,
+  "key": "item.att.silencer_salvo12",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель Salvo 12",
+    "en": "Salvo 12 Silencer"
+  },
+  "apiId": "wjr9d",
+  "apiIdStatus": "inferred"
+}

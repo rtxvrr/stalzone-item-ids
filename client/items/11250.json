@@ -1,0 +1,11 @@
+{
+  "clientId": 11250,
+  "key": "item.art.trampoline_kamencvet",
+  "kind": "item",
+  "name": {
+    "ru": "Роза",
+    "en": "Rose"
+  },
+  "apiId": "gyv6",
+  "apiIdStatus": "inferred"
+}

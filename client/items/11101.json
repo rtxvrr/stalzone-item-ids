@@ -1,0 +1,11 @@
+{
+  "clientId": 11101,
+  "key": "item.art.karousel_lomot",
+  "kind": "item",
+  "name": {
+    "ru": "Сало",
+    "en": "Lard"
+  },
+  "apiId": "1k4q",
+  "apiIdStatus": "inferred"
+}

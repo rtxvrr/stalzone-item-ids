@@ -1,0 +1,11 @@
+{
+  "clientId": 22241,
+  "key": "item.att.scope_hamr_hell",
+  "kind": "item",
+  "name": {
+    "ru": "Когтистый Leupold",
+    "en": "Clawed Leupold"
+  },
+  "apiId": "p6lld",
+  "apiIdStatus": "inferred"
+}

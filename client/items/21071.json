@@ -1,0 +1,11 @@
+{
+  "clientId": 21071,
+  "key": "item.melee.fluorite",
+  "kind": "item",
+  "name": {
+    "ru": "«Флюорит»",
+    "en": "Fluorite"
+  },
+  "apiId": "6wz1n",
+  "apiIdStatus": "inferred"
+}

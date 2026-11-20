@@ -1,0 +1,11 @@
+{
+  "clientId": 28000,
+  "key": "item.28000",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Катушка тесла»",
+    "en": "Tesla Coil Artifact"
+  },
+  "apiId": "9dqvl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11701,
+  "key": "item.wpn_mod.base",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейный модуль",
+    "en": "Weapon Module"
+  },
+  "apiId": "1pyq",
+  "apiIdStatus": "inferred"
+}

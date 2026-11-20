@@ -1,0 +1,11 @@
+{
+  "clientId": 18752,
+  "key": "item.camo.wpn.golden_dust",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Золотая пыль»",
+    "en": "Gold Dust Paint"
+  },
+  "apiId": "5l090",
+  "apiIdStatus": "inferred"
+}

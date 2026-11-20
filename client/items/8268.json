@@ -1,0 +1,11 @@
+{
+  "clientId": 8268,
+  "key": "item.quest.field_trials_girya",
+  "kind": "item",
+  "name": {
+    "ru": "Система термоизоляции",
+    "en": "Thermal insulation system"
+  },
+  "apiId": "22ml",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8168,
+  "key": "item.quest.apocalypse_not_today_syringe_pink",
+  "kind": "item",
+  "name": {
+    "ru": "Розовый шприц",
+    "en": "Pink Syringe"
+  },
+  "apiId": "220m",
+  "apiIdStatus": "inferred"
+}

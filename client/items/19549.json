@@ -1,0 +1,11 @@
+{
+  "clientId": 19549,
+  "key": "item.camo.unique_arm.military_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«ССОП»",
+    "en": "SSPP"
+  },
+  "apiId": "1r6nq",
+  "apiIdStatus": "inferred"
+}

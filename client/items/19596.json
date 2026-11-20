@@ -1,0 +1,11 @@
+{
+  "clientId": 19596,
+  "key": "item.motif.arm.vanguard_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "«Ледяной великан»",
+    "en": "Grimturs"
+  },
+  "apiId": "96mqw",
+  "apiIdStatus": "inferred"
+}

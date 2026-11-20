@@ -1,0 +1,11 @@
+{
+  "clientId": 17571,
+  "key": "item.style.wpn.ak15_prestige",
+  "kind": "item",
+  "name": {
+    "ru": "«Протокол 0»",
+    "en": "Protocol 0"
+  },
+  "apiId": "6w7zy",
+  "apiIdStatus": "inferred"
+}

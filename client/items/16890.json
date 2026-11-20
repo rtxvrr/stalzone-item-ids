@@ -1,0 +1,11 @@
+{
+  "clientId": 16890,
+  "key": "item.quest.freedom_chevron",
+  "kind": "item",
+  "name": {
+    "ru": "Шеврон офицера «Зари»",
+    "en": "Rise Officer Chevron"
+  },
+  "apiId": "vj057",
+  "apiIdStatus": "inferred"
+}

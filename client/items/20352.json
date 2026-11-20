@@ -1,0 +1,11 @@
+{
+  "clientId": 20352,
+  "key": "item.wpn.shorty",
+  "kind": "item",
+  "name": {
+    "ru": "Shorty 590",
+    "en": "Shorty 590"
+  },
+  "apiId": "5ln0q",
+  "apiIdStatus": "inferred"
+}

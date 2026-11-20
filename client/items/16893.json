@@ -1,0 +1,11 @@
+{
+  "clientId": 16893,
+  "key": "item.quest.duty_chevron",
+  "kind": "item",
+  "name": {
+    "ru": "Шеврон офицера «Рубежа»",
+    "en": "Frontier Officer Chevron"
+  },
+  "apiId": "3gz21",
+  "apiIdStatus": "inferred"
+}

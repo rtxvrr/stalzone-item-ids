@@ -1,0 +1,11 @@
+{
+  "clientId": 16871,
+  "key": "item.quest.pda_Zivkas",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА мертвого «зивкасовца»",
+    "en": "PDA of a Dead ZIVCASer"
+  },
+  "apiId": "6wl7n",
+  "apiIdStatus": "inferred"
+}

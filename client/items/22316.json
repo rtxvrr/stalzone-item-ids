@@ -1,0 +1,11 @@
+{
+  "clientId": 22316,
+  "key": "item.att.sight_1x42",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел коллиматорный Trijicon",
+    "en": "Trijicon Collimator Sight (Red)"
+  },
+  "apiId": "n4qd3",
+  "apiIdStatus": "inferred"
+}

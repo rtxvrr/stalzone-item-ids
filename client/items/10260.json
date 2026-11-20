@@ -1,0 +1,11 @@
+{
+  "clientId": 10260,
+  "key": "item.phonograph.vinyl_location_pd",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Путь Дураков»",
+    "en": "The Path of Fools Vinyl Record"
+  },
+  "apiId": "rdnz",
+  "apiIdStatus": "inferred"
+}

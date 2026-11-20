@@ -1,0 +1,11 @@
+{
+  "clientId": 25128,
+  "key": "item.arm.murmur_electra",
+  "kind": "item",
+  "name": {
+    "ru": "«Инверсия»",
+    "en": "Inversion"
+  },
+  "apiId": "5lrpq",
+  "apiIdStatus": "inferred"
+}

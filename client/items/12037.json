@@ -1,0 +1,11 @@
+{
+  "clientId": 12037,
+  "key": "item.bag.tasche",
+  "kind": "item",
+  "name": {
+    "ru": "Ягдташ",
+    "en": "Jagdtasche"
+  },
+  "apiId": "0ndk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19521,
+  "key": "item.camo.unique_arm.odin",
+  "kind": "item",
+  "name": {
+    "ru": "«Один»",
+    "en": "Odin"
+  },
+  "apiId": "3gk1k",
+  "apiIdStatus": "inferred"
+}

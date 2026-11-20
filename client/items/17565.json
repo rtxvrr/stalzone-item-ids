@@ -1,0 +1,11 @@
+{
+  "clientId": 17565,
+  "key": "item.style.wpn.m60_spring26",
+  "kind": "item",
+  "name": {
+    "ru": "«Рэмбо»",
+    "en": "Rambo"
+  },
+  "apiId": "p6n32",
+  "apiIdStatus": "inferred"
+}

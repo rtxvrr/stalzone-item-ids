@@ -1,0 +1,11 @@
+{
+  "clientId": 18050,
+  "key": "item.camo.wpn.stalker",
+  "kind": "item",
+  "name": {
+    "ru": "«Сталкерская олива»",
+    "en": "Stalker Olive"
+  },
+  "apiId": "g4zjn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16238,
+  "key": "item.16238",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальный маячок",
+    "en": "Anomalous Tracker"
+  },
+  "apiId": "m0qqk",
+  "apiIdStatus": "inferred"
+}

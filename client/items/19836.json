@@ -1,0 +1,11 @@
+{
+  "clientId": 19836,
+  "key": "item.mtl.wpn.murmur",
+  "kind": "item",
+  "name": {
+    "ru": "Материалы «Шепота»",
+    "en": "Murmur Materials"
+  },
+  "apiId": "rwrrz",
+  "apiIdStatus": "inferred"
+}

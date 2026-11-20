@@ -1,0 +1,11 @@
+{
+  "clientId": 20600,
+  "key": "item.wpn.kedr_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Цунами»",
+    "en": "Tsunami"
+  },
+  "apiId": "969r0",
+  "apiIdStatus": "inferred"
+}

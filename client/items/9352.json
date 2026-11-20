@@ -1,0 +1,11 @@
+{
+  "clientId": 9352,
+  "key": "item.wpn.mosin_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Мосинка»",
+    "en": "Mosin's"
+  },
+  "apiId": "5464",
+  "apiIdStatus": "inferred"
+}

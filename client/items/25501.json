@@ -1,0 +1,11 @@
+{
+  "clientId": 25501,
+  "key": "item.device.nvd1",
+  "kind": "item",
+  "name": {
+    "ru": "Прибор ночного видения",
+    "en": "Night-Vision Goggles"
+  },
+  "apiId": "1rp4q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18723,
+  "key": "item.camo.wpn.needles",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Хвоя»",
+    "en": "Pine Cones Paint"
+  },
+  "apiId": "6wdzy",
+  "apiIdStatus": "inferred"
+}

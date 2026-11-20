@@ -1,0 +1,11 @@
+{
+  "clientId": 22504,
+  "key": "item.att.barrel_lonewolf",
+  "kind": "item",
+  "name": {
+    "ru": "Пламегаситель LoneWolf",
+    "en": "LoneWolf Flash Hider"
+  },
+  "apiId": "5lpl4",
+  "apiIdStatus": "inferred"
+}

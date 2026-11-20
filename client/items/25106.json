@@ -1,0 +1,11 @@
+{
+  "clientId": 25106,
+  "key": "item.arm.centurion-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный «Центурион»",
+    "en": "Damaged Centurion"
+  },
+  "apiId": "wjgp3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20300,
+  "key": "item.wpn.obrezbm16",
+  "kind": "item",
+  "name": {
+    "ru": "Обрез БМ-16",
+    "en": "BM-16 Sawed-Off"
+  },
+  "apiId": "969ky",
+  "apiIdStatus": "inferred"
+}

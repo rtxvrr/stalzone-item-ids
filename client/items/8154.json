@@ -1,0 +1,11 @@
+{
+  "clientId": 8154,
+  "key": "item.quest.fleshka_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Флеш-карта РХБЗ",
+    "en": "NBCP flash card"
+  },
+  "apiId": "wp9d",
+  "apiIdStatus": "inferred"
+}

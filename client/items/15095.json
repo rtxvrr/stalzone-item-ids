@@ -1,0 +1,11 @@
+{
+  "clientId": 15095,
+  "key": "item.lootbox.arena26",
+  "kind": "item",
+  "name": {
+    "ru": "Утварь",
+    "en": "Implements"
+  },
+  "apiId": "6wo9n",
+  "apiIdStatus": "inferred"
+}

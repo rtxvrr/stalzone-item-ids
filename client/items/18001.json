@@ -1,0 +1,11 @@
+{
+  "clientId": 18001,
+  "key": "item.camo.wpn.red",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Красная»",
+    "en": "Red Weapon Paint"
+  },
+  "apiId": "1ry4r",
+  "apiIdStatus": "inferred"
+}

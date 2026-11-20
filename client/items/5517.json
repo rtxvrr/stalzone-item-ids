@@ -1,0 +1,11 @@
+{
+  "clientId": 5517,
+  "key": "item.plc.customisation_pack.prestige_skill_issue",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Тренируйся»",
+    "en": "Train Hard Customization Pack"
+  },
+  "apiId": "pw42",
+  "apiIdStatus": "inferred"
+}

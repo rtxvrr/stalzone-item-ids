@@ -1,0 +1,11 @@
+{
+  "clientId": 11914,
+  "key": "item.plate.ceramic5",
+  "kind": "item",
+  "name": {
+    "ru": "Керамическая пластина V",
+    "en": "Ceramic Plate V"
+  },
+  "apiId": "m3o2",
+  "apiIdStatus": "inferred"
+}

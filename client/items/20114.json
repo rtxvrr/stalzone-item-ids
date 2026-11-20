@@ -1,0 +1,11 @@
+{
+  "clientId": 20114,
+  "key": "item.wpn.honeybadger",
+  "kind": "item",
+  "name": {
+    "ru": "AAC Honey Badger",
+    "en": "AAC Honey Badger"
+  },
+  "apiId": "m02jr",
+  "apiIdStatus": "inferred"
+}

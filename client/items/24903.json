@@ -1,0 +1,11 @@
+{
+  "clientId": 24903,
+  "key": "item.charm.media_cat",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кицунэ»",
+    "en": "Kitsune Charm"
+  },
+  "apiId": "zzy09",
+  "apiIdStatus": "inferred"
+}

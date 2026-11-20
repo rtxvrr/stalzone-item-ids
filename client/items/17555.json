@@ -1,0 +1,11 @@
+{
+  "clientId": 17555,
+  "key": "item.style.wpn.rsh12_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Инфразвук»",
+    "en": "Infrasound"
+  },
+  "apiId": "4q3nn",
+  "apiIdStatus": "inferred"
+}

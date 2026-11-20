@@ -1,0 +1,11 @@
+{
+  "clientId": 4969,
+  "key": "item.plc.sticker.reichstag_gunner",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Пулеметчик»",
+    "en": "Machine Gunner Sticker"
+  },
+  "apiId": "3mpg",
+  "apiIdStatus": "inferred"
+}

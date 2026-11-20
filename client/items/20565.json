@@ -1,0 +1,11 @@
+{
+  "clientId": 20565,
+  "key": "item.wpn.aug",
+  "kind": "item",
+  "name": {
+    "ru": "Steyr AUG A1",
+    "en": "Steyr AUG A1"
+  },
+  "apiId": "p63g2",
+  "apiIdStatus": "inferred"
+}

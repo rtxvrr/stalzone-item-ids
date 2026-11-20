@@ -1,0 +1,11 @@
+{
+  "clientId": 25130,
+  "key": "item.arm.murmur_explosion",
+  "kind": "item",
+  "name": {
+    "ru": "«Стремление»",
+    "en": "Aspiration"
+  },
+  "apiId": "wjgr3",
+  "apiIdStatus": "inferred"
+}

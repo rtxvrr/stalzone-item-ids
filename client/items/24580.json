@@ -1,0 +1,11 @@
+{
+  "clientId": 24580,
+  "key": "item.charm.meme_sevus",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Уранус»",
+    "en": "Uranus Charm"
+  },
+  "apiId": "kn70p",
+  "apiIdStatus": "inferred"
+}

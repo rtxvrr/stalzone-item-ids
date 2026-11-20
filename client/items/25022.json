@@ -1,0 +1,11 @@
+{
+  "clientId": 25022,
+  "key": "item.arm.trapper",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Траппер»",
+    "en": "Trapper Suit"
+  },
+  "apiId": "7lmr6",
+  "apiIdStatus": "inferred"
+}

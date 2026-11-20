@@ -1,0 +1,11 @@
+{
+  "clientId": 8241,
+  "key": "item.quest.fools_day_third_instruments",
+  "kind": "item",
+  "name": {
+    "ru": "Мамой клянусь, реально те самые инструменты из ящика",
+    "en": "Cross my heart, these are the exact same tools from the crate"
+  },
+  "apiId": "plow",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16980,
+  "key": "item.crt.season_pass_charge_sealed",
+  "kind": "item",
+  "name": {
+    "ru": "Деактивированная перегрузка",
+    "en": "Deactivated Overdrive"
+  },
+  "apiId": "kn5mv",
+  "apiIdStatus": "inferred"
+}

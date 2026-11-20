@@ -1,0 +1,11 @@
+{
+  "clientId": 28616,
+  "key": "item.28616",
+  "kind": "item",
+  "name": {
+    "ru": "Зубная щетка",
+    "en": "Toothbrush"
+  },
+  "apiId": "nk491",
+  "apiIdStatus": "inferred"
+}

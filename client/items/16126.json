@@ -1,0 +1,11 @@
+{
+  "clientId": 16126,
+  "key": "item.16126",
+  "kind": "item",
+  "name": {
+    "ru": "Инъектор",
+    "en": "Injector"
+  },
+  "apiId": "g4k75",
+  "apiIdStatus": "inferred"
+}

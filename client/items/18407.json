@@ -1,0 +1,11 @@
+{
+  "clientId": 18407,
+  "key": "item.camo.wpn.bf_skin_10",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Blood Grid»",
+    "en": "«Blood Grid» Paint"
+  },
+  "apiId": "4qjdr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15024,
+  "key": "item.lootbox.summer25_tickets_big",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический контейнер",
+    "en": "Tactical Container"
+  },
+  "apiId": "96ddq",
+  "apiIdStatus": "inferred"
+}

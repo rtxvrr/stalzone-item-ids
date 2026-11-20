@@ -1,0 +1,11 @@
+{
+  "clientId": 25145,
+  "key": "item.arm.dash",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Штрих»",
+    "en": "Dash Suit"
+  },
+  "apiId": "3g6p5",
+  "apiIdStatus": "inferred"
+}

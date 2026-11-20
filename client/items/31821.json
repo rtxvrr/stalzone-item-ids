@@ -1,0 +1,11 @@
+{
+  "clientId": 31821,
+  "key": "item.part.cr72",
+  "kind": "item",
+  "name": {
+    "ru": "Часть CR-72",
+    "en": "CR-72 Part"
+  },
+  "apiId": "342z1",
+  "apiIdStatus": "inferred"
+}

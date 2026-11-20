@@ -1,0 +1,11 @@
+{
+  "clientId": 18422,
+  "key": "item.camo.wpn.spring25_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пустотные метки»",
+    "en": "Void Marks Paint"
+  },
+  "apiId": "7ldv6",
+  "apiIdStatus": "inferred"
+}

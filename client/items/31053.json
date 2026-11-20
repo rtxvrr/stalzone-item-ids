@@ -1,0 +1,11 @@
+{
+  "clientId": 31053,
+  "key": "item.brt.bar.npc_add",
+  "kind": "item",
+  "name": {
+    "ru": "Крупный рассольник",
+    "en": "Large Pickle"
+  },
+  "apiId": "y40kk",
+  "apiIdStatus": "inferred"
+}

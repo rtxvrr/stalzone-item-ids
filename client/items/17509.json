@@ -1,0 +1,11 @@
+{
+  "clientId": 17509,
+  "key": "item.style.wpn.a545_newyear24",
+  "kind": "item",
+  "name": {
+    "ru": "«Таежный ветер»",
+    "en": "Taiga Wind"
+  },
+  "apiId": "qjn4k",
+  "apiIdStatus": "inferred"
+}

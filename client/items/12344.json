@@ -1,0 +1,11 @@
+{
+  "clientId": 12344,
+  "key": "item.exp.f1",
+  "kind": "item",
+  "name": {
+    "ru": "Ф-1",
+    "en": "F-1"
+  },
+  "apiId": "29dm",
+  "apiIdStatus": "inferred"
+}

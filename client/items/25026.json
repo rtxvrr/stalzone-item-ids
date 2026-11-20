@@ -1,0 +1,11 @@
+{
+  "clientId": 25026,
+  "key": "item.arm.striker-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный бронекостюм «Страйкер»",
+    "en": "Worn Striker Armored Suit"
+  },
+  "apiId": "g4y06",
+  "apiIdStatus": "inferred"
+}

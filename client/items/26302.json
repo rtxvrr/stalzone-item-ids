@@ -1,0 +1,11 @@
+{
+  "clientId": 26302,
+  "key": "item.boost.25fd4h",
+  "kind": "item",
+  "name": {
+    "ru": "Усилитель +25% (4 часа)",
+    "en": "+25% Booster (4 Hours)"
+  },
+  "apiId": "g4l25",
+  "apiIdStatus": "inferred"
+}

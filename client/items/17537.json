@@ -1,0 +1,11 @@
+{
+  "clientId": 17537,
+  "key": "item.style.wpn.oc33_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Пернач Майора",
+    "en": "Major's Pernach"
+  },
+  "apiId": "0rj31",
+  "apiIdStatus": "inferred"
+}

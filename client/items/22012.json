@@ -1,0 +1,11 @@
+{
+  "clientId": 22012,
+  "key": "item.att.forend_g3",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье Fab Defence G3-RS",
+    "en": "Fab Defense G3-RS Handguard"
+  },
+  "apiId": "rw06v",
+  "apiIdStatus": "inferred"
+}

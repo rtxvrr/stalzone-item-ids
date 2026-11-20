@@ -1,0 +1,11 @@
+{
+  "clientId": 26063,
+  "key": "item.med.inside_treat",
+  "kind": "item",
+  "name": {
+    "ru": "Лекарство Профессора",
+    "en": "Professor's Medicine"
+  },
+  "apiId": "okdzo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 7403,
+  "key": "item.quest.stalboy_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Эротические журналы",
+    "en": "Erotic Magazines"
+  },
+  "apiId": "zlj2",
+  "apiIdStatus": "inferred"
+}

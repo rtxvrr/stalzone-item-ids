@@ -1,0 +1,11 @@
+{
+  "clientId": 10135,
+  "key": "item.quest.operatsii_audiodnevnik4",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из реакторной Полигона-7",
+    "en": "Cassette from the Reactor Room of Area-7"
+  },
+  "apiId": "ld4o",
+  "apiIdStatus": "inferred"
+}

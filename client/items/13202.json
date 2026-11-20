@@ -1,0 +1,11 @@
+{
+  "clientId": 13202,
+  "key": "item.camo.wpn.winter26_skin_15",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Изумрудная жила»",
+    "en": "Emerald Vein Paint"
+  },
+  "apiId": "g55n",
+  "apiIdStatus": "inferred"
+}

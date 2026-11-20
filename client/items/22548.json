@@ -1,0 +1,11 @@
+{
+  "clientId": 22548,
+  "key": "item.att.barrel_arsenal_roll",
+  "kind": "item",
+  "name": {
+    "ru": "Пламегаситель «Крен»",
+    "en": "Roll Flash Hider"
+  },
+  "apiId": "96p3w",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18791,
+  "key": "item.camo.wpn.ornament_stribog",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Дыхание Стрибога»",
+    "en": "Breathing of Stribog Camouflage"
+  },
+  "apiId": "dm40n",
+  "apiIdStatus": "inferred"
+}

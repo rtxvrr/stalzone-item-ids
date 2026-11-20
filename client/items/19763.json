@@ -1,0 +1,11 @@
+{
+  "clientId": 19763,
+  "key": "item.camo.arm.digital_crust",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Digital Crust»",
+    "en": "«Digital Crust» Paint"
+  },
+  "apiId": "okv6m",
+  "apiIdStatus": "inferred"
+}

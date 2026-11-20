@@ -1,0 +1,11 @@
+{
+  "clientId": 8334,
+  "key": "item.quest.rezonator_sitnikova",
+  "kind": "item",
+  "name": {
+    "ru": "Стохастический резонатор",
+    "en": "Stochastic Resonator"
+  },
+  "apiId": "j6og",
+  "apiIdStatus": "inferred"
+}

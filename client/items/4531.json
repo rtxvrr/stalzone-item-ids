@@ -1,0 +1,11 @@
+{
+  "clientId": 4531,
+  "key": "item.plc.pattern.mk_burelom",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Морской бурелом»",
+    "en": "Sea Behemoth Pattern"
+  },
+  "apiId": "4j9l",
+  "apiIdStatus": "inferred"
+}

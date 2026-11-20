@@ -1,0 +1,11 @@
+{
+  "clientId": 6223,
+  "key": "item.misc.flour",
+  "kind": "item",
+  "name": {
+    "ru": "Мука",
+    "en": "Flour"
+  },
+  "apiId": "6r0j",
+  "apiIdStatus": "inferred"
+}

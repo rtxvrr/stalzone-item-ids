@@ -1,0 +1,11 @@
+{
+  "clientId": 18820,
+  "key": "item.mtl.arm.scorched",
+  "kind": "item",
+  "name": {
+    "ru": "«Выгорание»",
+    "en": "Embers"
+  },
+  "apiId": "2om50",
+  "apiIdStatus": "inferred"
+}

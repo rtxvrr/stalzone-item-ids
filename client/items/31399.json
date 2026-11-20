@@ -1,0 +1,11 @@
+{
+  "clientId": 31399,
+  "key": "item.bag.127snp",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка снайперских 12.7 мм",
+    "en": "Pouch of 12.7 mm Sniper Rifle Rounds"
+  },
+  "apiId": "z3oln",
+  "apiIdStatus": "inferred"
+}

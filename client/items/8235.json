@@ -1,0 +1,11 @@
+{
+  "clientId": 8235,
+  "key": "item.quest.unnamed_deep_mine_transfer_order",
+  "kind": "item",
+  "name": {
+    "ru": "Распоряжение о передачи Шахты \"Радищев\" в управление проекта \"Полигоны\"",
+    "en": "Order on the transfer of Radishchev Mine to the management of the Areas project"
+  },
+  "apiId": "l4ok",
+  "apiIdStatus": "inferred"
+}

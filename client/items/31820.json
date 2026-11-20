@@ -1,0 +1,11 @@
+{
+  "clientId": 31820,
+  "key": "item.part.pzb38",
+  "kind": "item",
+  "name": {
+    "ru": "Часть PzB 38",
+    "en": "PzB 38 Part"
+  },
+  "apiId": "21wgv",
+  "apiIdStatus": "inferred"
+}

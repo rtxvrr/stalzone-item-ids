@@ -1,0 +1,11 @@
+{
+  "clientId": 24877,
+  "key": "item.charm.scstore_boss_zivcas",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Модель Хозяина Зоны»",
+    "en": "The Master of the Zone Miniature Charm"
+  },
+  "apiId": "y35nz",
+  "apiIdStatus": "inferred"
+}

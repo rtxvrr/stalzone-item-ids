@@ -1,0 +1,11 @@
+{
+  "clientId": 16864,
+  "key": "item.quest.Bitsadze_device",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство Бицадзе",
+    "en": "Bitsadze's Device"
+  },
+  "apiId": "n4gn9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13000,
+  "key": "item.coupon.stalker_armor_30",
+  "kind": "item",
+  "name": {
+    "ru": "Бартерный купон (Сталкер)",
+    "en": "Barter Coupon (Stalker)"
+  },
+  "apiId": "9g5l",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22779,
+  "key": "item.att.mag_ash12",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин АШ-12",
+    "en": "ASh-12 Extended Magazine"
+  },
+  "apiId": "4qp6o",
+  "apiIdStatus": "inferred"
+}

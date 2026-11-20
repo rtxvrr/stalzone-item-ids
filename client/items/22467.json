@@ -1,0 +1,11 @@
+{
+  "clientId": 22467,
+  "key": "item.att.lcu_compact_nord",
+  "kind": "item",
+  "name": {
+    "ru": "ЛЦУ Compact Nord",
+    "en": "Compact Nord LD"
+  },
+  "apiId": "dm2l5",
+  "apiIdStatus": "inferred"
+}

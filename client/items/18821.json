@@ -1,0 +1,11 @@
+{
+  "clientId": 18821,
+  "key": "item.mtl.arm.thunder",
+  "kind": "item",
+  "name": {
+    "ru": "«Гроза»",
+    "en": "Thunderstorm"
+  },
+  "apiId": "3gmyz",
+  "apiIdStatus": "inferred"
+}

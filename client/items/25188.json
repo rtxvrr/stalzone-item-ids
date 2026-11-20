@@ -1,0 +1,11 @@
+{
+  "clientId": 25188,
+  "key": "item.arm.voshod_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "«Восход» Санитаров",
+    "en": "Orderlies' Voshod"
+  },
+  "apiId": "n4rd2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13208,
+  "key": "item.camo.wpn.dmz26_skin_26",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Пис»",
+    "en": "Peace Paint"
+  },
+  "apiId": "kkkj",
+  "apiIdStatus": "inferred"
+}

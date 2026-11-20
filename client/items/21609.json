@@ -1,0 +1,11 @@
+{
+  "clientId": 21609,
+  "key": "item.wpn_mod.adv.punch_in_the_gut",
+  "kind": "item",
+  "name": {
+    "ru": "«Ударник»",
+    "en": "Striker"
+  },
+  "apiId": "qjkg4",
+  "apiIdStatus": "inferred"
+}

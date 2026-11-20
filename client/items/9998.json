@@ -1,0 +1,11 @@
+{
+  "clientId": 9998,
+  "key": "item.device.dud_beluga_broken",
+  "kind": "item",
+  "name": {
+    "ru": "Сломанная «Белуха»",
+    "en": "Broken Beluga"
+  },
+  "apiId": "gdjg",
+  "apiIdStatus": "inferred"
+}

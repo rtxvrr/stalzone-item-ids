@@ -1,0 +1,11 @@
+{
+  "clientId": 12826,
+  "key": "item.amm.762sep",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм СЭП",
+    "en": "7.62 mm SEP Round"
+  },
+  "apiId": "g5p0",
+  "apiIdStatus": "inferred"
+}

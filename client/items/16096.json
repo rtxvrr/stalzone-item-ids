@@ -1,0 +1,11 @@
+{
+  "clientId": 16096,
+  "key": "item.16096",
+  "kind": "item",
+  "name": {
+    "ru": "Ионистор",
+    "en": "Supercapacitor"
+  },
+  "apiId": "963gl",
+  "apiIdStatus": "inferred"
+}

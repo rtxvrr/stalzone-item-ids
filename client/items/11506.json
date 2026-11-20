@@ -1,0 +1,11 @@
+{
+  "clientId": 11506,
+  "key": "item.art.inside_rose",
+  "kind": "item",
+  "name": {
+    "ru": "Роза Изнанки",
+    "en": "Inside Out Rose"
+  },
+  "apiId": "wgko",
+  "apiIdStatus": "inferred"
+}

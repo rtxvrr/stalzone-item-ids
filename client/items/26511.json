@@ -1,0 +1,11 @@
+{
+  "clientId": 26511,
+  "key": "item.food.buter_b_kolbasa",
+  "kind": "item",
+  "name": {
+    "ru": "Бутерброд с колбасой",
+    "en": "Salami Sandwich"
+  },
+  "apiId": "ly6w1",
+  "apiIdStatus": "inferred"
+}

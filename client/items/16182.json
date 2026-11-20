@@ -1,0 +1,11 @@
+{
+  "clientId": 16182,
+  "key": "item.16182",
+  "kind": "item",
+  "name": {
+    "ru": "Боровик",
+    "en": "Boletus"
+  },
+  "apiId": "j5q0g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25064,
+  "key": "item.arm.atlas",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-Х «АТЛАС»",
+    "en": "MIS-X ATLAS"
+  },
+  "apiId": "n4r21",
+  "apiIdStatus": "inferred"
+}

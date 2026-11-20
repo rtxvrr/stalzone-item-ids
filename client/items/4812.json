@@ -1,0 +1,11 @@
+{
+  "clientId": 4812,
+  "key": "item.plc.sticker.autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер сезона «Ужасы Зоны»",
+    "en": "Horrors of the Zone Season Sticker "
+  },
+  "apiId": "ryyz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16714,
+  "key": "item.16714",
+  "kind": "item",
+  "name": {
+    "ru": "Протоартефакт «Батута»",
+    "en": "Trampoline Protoartifact"
+  },
+  "apiId": "m01w2",
+  "apiIdStatus": "inferred"
+}

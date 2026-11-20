@@ -1,0 +1,11 @@
+{
+  "clientId": 8060,
+  "key": "item.quest.dmz2_indulgence",
+  "kind": "item",
+  "name": {
+    "ru": "Черная «индульгенция»",
+    "en": "Black indulgence"
+  },
+  "apiId": "rq3g",
+  "apiIdStatus": "inferred"
+}

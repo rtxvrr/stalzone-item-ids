@@ -1,0 +1,11 @@
+{
+  "clientId": 27712,
+  "key": "item.stash_placer.base_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон сталкера",
+    "en": "Stalker stash"
+  },
+  "apiId": "rjlj5",
+  "apiIdStatus": "inferred"
+}

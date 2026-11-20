@@ -1,0 +1,11 @@
+{
+  "clientId": 8262,
+  "key": "item.quest.note_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Записка бойца «Тайфуна»",
+    "en": "Typhoon Fighter Note"
+  },
+  "apiId": "mk9y",
+  "apiIdStatus": "inferred"
+}

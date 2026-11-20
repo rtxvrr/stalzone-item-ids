@@ -1,0 +1,11 @@
+{
+  "clientId": 16042,
+  "key": "item.16042",
+  "kind": "item",
+  "name": {
+    "ru": "Аккумулятор «Колокольчик»",
+    "en": "Bell Battery"
+  },
+  "apiId": "vjo6r",
+  "apiIdStatus": "inferred"
+}

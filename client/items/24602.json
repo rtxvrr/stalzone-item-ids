@@ -1,0 +1,11 @@
+{
+  "clientId": 24602,
+  "key": "item.charm.ny24_league_4",
+  "kind": "item",
+  "name": {
+    "ru": "Орден Новогоднего Чемпиона Бронзовой лиги",
+    "en": "Insignia of the Bronze League New Year Champion"
+  },
+  "apiId": "g46dn",
+  "apiIdStatus": "inferred"
+}

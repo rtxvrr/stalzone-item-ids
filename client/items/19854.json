@@ -1,0 +1,11 @@
+{
+  "clientId": 19854,
+  "key": "item.motif.wpn.arsenal",
+  "kind": "item",
+  "name": {
+    "ru": "«Искусство Арсенала»",
+    "en": "Art of Arsenal"
+  },
+  "apiId": "wjo7z",
+  "apiIdStatus": "inferred"
+}

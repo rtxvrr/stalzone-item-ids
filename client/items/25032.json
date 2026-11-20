@@ -1,0 +1,11 @@
+{
+  "clientId": 25032,
+  "key": "item.arm.longcoat_bandit",
+  "kind": "item",
+  "name": {
+    "ru": "Бандитский плащ",
+    "en": "Bandit Cloak"
+  },
+  "apiId": "knqmy",
+  "apiIdStatus": "inferred"
+}

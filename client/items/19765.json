@@ -1,0 +1,11 @@
+{
+  "clientId": 19765,
+  "key": "item.camo.arm.kryptek_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Kryptek Yellow»",
+    "en": "Kryptek Yellow Camouflage"
+  },
+  "apiId": "p6ro4",
+  "apiIdStatus": "inferred"
+}

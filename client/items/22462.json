@@ -1,0 +1,11 @@
+{
+  "clientId": 22462,
+  "key": "item.att.lcu_perst3_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "«Стримерская указка»",
+    "en": "Streamer Pointer"
+  },
+  "apiId": "m0klj",
+  "apiIdStatus": "inferred"
+}

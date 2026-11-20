@@ -1,0 +1,11 @@
+{
+  "clientId": 25684,
+  "key": "item.skin.newyear2",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Морозоборец»",
+    "en": "Frost Fighter Skin"
+  },
+  "apiId": "rwg0v",
+  "apiIdStatus": "inferred"
+}

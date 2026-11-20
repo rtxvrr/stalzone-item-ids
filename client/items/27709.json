@@ -1,0 +1,11 @@
+{
+  "clientId": 27709,
+  "key": "item.stash_placer.winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Схрон диггеров",
+    "en": "Digger's Stash"
+  },
+  "apiId": "q0l0k",
+  "apiIdStatus": "inferred"
+}

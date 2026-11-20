@@ -1,0 +1,11 @@
+{
+  "clientId": 24592,
+  "key": "item.charm.hw23_zombhead",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Не забудь дома!»",
+    "en": "Don't forget at home! Charm"
+  },
+  "apiId": "2oy55",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8315,
+  "key": "item.quest.shock_wave_atom",
+  "kind": "item",
+  "name": {
+    "ru": "Вытяжка Атома",
+    "en": "Atom’s Extract"
+  },
+  "apiId": "ojvm",
+  "apiIdStatus": "inferred"
+}

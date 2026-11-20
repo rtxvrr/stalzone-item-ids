@@ -1,0 +1,11 @@
+{
+  "clientId": 3501,
+  "key": "tile.3501",
+  "kind": "tile",
+  "name": {
+    "ru": "Плитка тускло-желтая",
+    "en": "dull yellow tile"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

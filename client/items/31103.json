@@ -1,0 +1,11 @@
+{
+  "clientId": 31103,
+  "key": "item.brt.sever.capture_add",
+  "kind": "item",
+  "name": {
+    "ru": "Записи майора Д.",
+    "en": "Notes of Major D."
+  },
+  "apiId": "z30mm",
+  "apiIdStatus": "inferred"
+}

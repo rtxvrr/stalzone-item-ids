@@ -1,0 +1,11 @@
+{
+  "clientId": 16444,
+  "key": "item.16444",
+  "kind": "item",
+  "name": {
+    "ru": "Серебряное кольцо",
+    "en": "Silver Ring"
+  },
+  "apiId": "2o0j0",
+  "apiIdStatus": "inferred"
+}

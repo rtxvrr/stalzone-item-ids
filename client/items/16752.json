@@ -1,0 +1,11 @@
+{
+  "clientId": 16752,
+  "key": "item.16752",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик ветерана",
+    "en": "Veteran Crate"
+  },
+  "apiId": "5l65q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24665,
+  "key": "item.charm.welcome_exileshow",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «ExileShow»",
+    "en": "ExileShow Channel Fan Charm"
+  },
+  "apiId": "p67md",
+  "apiIdStatus": "inferred"
+}

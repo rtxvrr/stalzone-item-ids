@@ -1,0 +1,11 @@
+{
+  "clientId": 4021,
+  "key": "tile.4021",
+  "kind": "tile",
+  "name": {
+    "ru": "Радиационная вода (уровень 3)",
+    "en": "Radiation Water (Level 3)"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

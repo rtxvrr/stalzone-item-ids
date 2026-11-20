@@ -1,0 +1,11 @@
+{
+  "clientId": 9999,
+  "key": "item.device.dud_beluga",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор узкого диапазона «Белуха»",
+    "en": "Beluga Short Range Detector"
+  },
+  "apiId": "z4v9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6328,
+  "key": "item.misc.controller",
+  "kind": "item",
+  "name": {
+    "ru": "Контрольная плата",
+    "en": "Control Board"
+  },
+  "apiId": "5dm4",
+  "apiIdStatus": "inferred"
+}

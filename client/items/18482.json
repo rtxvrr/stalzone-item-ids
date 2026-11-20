@@ -1,0 +1,11 @@
+{
+  "clientId": 18482,
+  "key": "item.camo.wpn.winter26_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Норд 2.0»",
+    "en": "Nord 2.0 Paint"
+  },
+  "apiId": "j5j00",
+  "apiIdStatus": "inferred"
+}

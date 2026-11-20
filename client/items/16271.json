@@ -1,0 +1,11 @@
+{
+  "clientId": 16271,
+  "key": "item.misc.chimera_claw_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Коготь бестии",
+    "en": "Fiend's Claw"
+  },
+  "apiId": "6w9ln",
+  "apiIdStatus": "inferred"
+}

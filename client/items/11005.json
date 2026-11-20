@@ -1,0 +1,11 @@
+{
+  "clientId": 11005,
+  "key": "item.art.electra_pustishka",
+  "kind": "item",
+  "name": {
+    "ru": "Гиря",
+    "en": "Kettlebell"
+  },
+  "apiId": "y54z",
+  "apiIdStatus": "inferred"
+}

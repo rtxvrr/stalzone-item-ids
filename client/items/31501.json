@@ -1,0 +1,11 @@
+{
+  "clientId": 31501,
+  "key": "item.ny_toys.setK.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая игрушка-яблоко",
+    "en": "Crafted Apple Decoration"
+  },
+  "apiId": "194zq",
+  "apiIdStatus": "inferred"
+}

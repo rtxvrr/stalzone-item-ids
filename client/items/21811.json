@@ -1,0 +1,11 @@
+{
+  "clientId": 21811,
+  "key": "item.wpn_mod.adv.pyromaniac",
+  "kind": "item",
+  "name": {
+    "ru": "«Зажигательные патроны»",
+    "en": "Incendiary rounds"
+  },
+  "apiId": "lyz3j",
+  "apiIdStatus": "inferred"
+}

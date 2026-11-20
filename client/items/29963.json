@@ -1,0 +1,11 @@
+{
+  "clientId": 29963,
+  "key": "item.filler.mob_limansk_4",
+  "kind": "item",
+  "name": {
+    "ru": "Кожа мутанта из Любеча",
+    "en": "Lyubech Mutant's Skin"
+  },
+  "apiId": "olpqm",
+  "apiIdStatus": "inferred"
+}

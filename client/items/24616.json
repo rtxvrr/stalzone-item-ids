@@ -1,0 +1,11 @@
+{
+  "clientId": 24616,
+  "key": "item.charm.spring24_cherpak",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Черпак руса»",
+    "en": "Slav Ladle Charm"
+  },
+  "apiId": "n47d9",
+  "apiIdStatus": "inferred"
+}

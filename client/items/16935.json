@@ -1,0 +1,11 @@
+{
+  "clientId": 16935,
+  "key": "item.quest.red_plate",
+  "kind": "item",
+  "name": {
+    "ru": "Красная плата",
+    "en": "Red Circuit Board"
+  },
+  "apiId": "ly9g1",
+  "apiIdStatus": "inferred"
+}

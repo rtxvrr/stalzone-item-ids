@@ -1,0 +1,11 @@
+{
+  "clientId": 24763,
+  "key": "item.charm.team_work",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Командная работа»",
+    "en": "Teamwork Charm"
+  },
+  "apiId": "ok7o0",
+  "apiIdStatus": "inferred"
+}

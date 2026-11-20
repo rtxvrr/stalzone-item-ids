@@ -1,0 +1,11 @@
+{
+  "clientId": 12801,
+  "key": "item.amm.12slugfire",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12 калибра жгучий",
+    "en": "12 Caliber Fluff Round"
+  },
+  "apiId": "1n16",
+  "apiIdStatus": "inferred"
+}

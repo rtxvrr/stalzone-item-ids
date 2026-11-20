@@ -1,0 +1,11 @@
+{
+  "clientId": 16847,
+  "key": "item.quest.head_tall",
+  "kind": "item",
+  "name": {
+    "ru": "Голова Высокого",
+    "en": "Tall's Head"
+  },
+  "apiId": "6wlln",
+  "apiIdStatus": "inferred"
+}

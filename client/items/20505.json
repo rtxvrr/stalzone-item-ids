@@ -1,0 +1,11 @@
+{
+  "clientId": 20505,
+  "key": "item.wpn.mac10",
+  "kind": "item",
+  "name": {
+    "ru": "Ingram MAC-10",
+    "en": "Ingram MAC-10"
+  },
+  "apiId": "y32po",
+  "apiIdStatus": "inferred"
+}

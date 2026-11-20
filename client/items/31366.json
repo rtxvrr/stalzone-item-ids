@@ -1,0 +1,11 @@
+{
+  "clientId": 31366,
+  "key": "item.ny_toys.setG.toy6",
+  "kind": "item",
+  "name": {
+    "ru": "Пряничная игрушка-упырь",
+    "en": "Gingerbread Ghoul Decoration"
+  },
+  "apiId": "vngrd",
+  "apiIdStatus": "inferred"
+}

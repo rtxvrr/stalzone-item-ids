@@ -1,0 +1,11 @@
+{
+  "clientId": 24684,
+  "key": "item.charm.red_expo_star",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Звезда RED»",
+    "en": "REDStar Charm"
+  },
+  "apiId": "rw7gz",
+  "apiIdStatus": "inferred"
+}

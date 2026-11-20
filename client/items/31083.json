@@ -1,0 +1,11 @@
+{
+  "clientId": 31083,
+  "key": "item.brt.armsklad.node",
+  "kind": "item",
+  "name": {
+    "ru": "Фрагмент данных «Дельта»",
+    "en": "Delta Data Fragment"
+  },
+  "apiId": "l09qk",
+  "apiIdStatus": "inferred"
+}

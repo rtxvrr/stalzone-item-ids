@@ -1,0 +1,11 @@
+{
+  "clientId": 25186,
+  "key": "item.arm.bover_gas_sanitar",
+  "kind": "item",
+  "name": {
+    "ru": "RS-32 Санитаров",
+    "en": "Orderlies' RS-32"
+  },
+  "apiId": "m06d2",
+  "apiIdStatus": "inferred"
+}

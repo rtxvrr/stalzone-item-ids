@@ -1,0 +1,11 @@
+{
+  "clientId": 19698,
+  "key": "item.camo.arm.cinder",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Зола»",
+    "en": "Cinder Paint"
+  },
+  "apiId": "g4016",
+  "apiIdStatus": "inferred"
+}

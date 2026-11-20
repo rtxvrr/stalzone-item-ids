@@ -1,0 +1,11 @@
+{
+  "clientId": 16192,
+  "key": "item.16192",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование из Шахт",
+    "en": "Anomalous Formation from the Mines"
+  },
+  "apiId": "2o015",
+  "apiIdStatus": "inferred"
+}

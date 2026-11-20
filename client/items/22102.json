@@ -1,0 +1,11 @@
+{
+  "clientId": 22102,
+  "key": "item.att.handgrip_ang4",
+  "kind": "item",
+  "name": {
+    "ru": "Вертикальная рукоятка ANG4",
+    "en": "ANG4 Vertical Grip"
+  },
+  "apiId": "g4gj5",
+  "apiIdStatus": "inferred"
+}

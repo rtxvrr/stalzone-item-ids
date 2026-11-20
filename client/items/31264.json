@@ -1,0 +1,11 @@
+{
+  "clientId": 31264,
+  "key": "item.ny_toys.setQ.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Советская игрушка-«конфетка»",
+    "en": "Soviet Candy Decoration"
+  },
+  "apiId": "nknn9",
+  "apiIdStatus": "inferred"
+}

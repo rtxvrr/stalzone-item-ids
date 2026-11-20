@@ -1,0 +1,11 @@
+{
+  "clientId": 19009,
+  "key": "item.camo.arm.white",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Белая»",
+    "en": "White Armor Paint"
+  },
+  "apiId": "qj4lj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20049,
+  "key": "item.wpn.akm9",
+  "kind": "item",
+  "name": {
+    "ru": "АК-9М «Койот»",
+    "en": "AK-9M Coyote"
+  },
+  "apiId": "1rdk6",
+  "apiIdStatus": "inferred"
+}

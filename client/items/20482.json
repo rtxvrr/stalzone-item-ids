@@ -1,0 +1,11 @@
+{
+  "clientId": 20482,
+  "key": "item.wpn.glock_monolit",
+  "kind": "item",
+  "name": {
+    "ru": "Глок «Шепота»",
+    "en": "Murmur Glock"
+  },
+  "apiId": "j5o1l",
+  "apiIdStatus": "inferred"
+}

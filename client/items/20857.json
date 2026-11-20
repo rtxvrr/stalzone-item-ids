@@ -1,0 +1,11 @@
+{
+  "clientId": 20857,
+  "key": "item.wpn.dsa58_a",
+  "kind": "item",
+  "name": {
+    "ru": "DSA-58 (А)",
+    "en": "DSA-58 (A)"
+  },
+  "apiId": "qjg3j",
+  "apiIdStatus": "inferred"
+}

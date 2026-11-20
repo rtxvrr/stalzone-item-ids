@@ -1,0 +1,11 @@
+{
+  "clientId": 6702,
+  "key": "item.misc.igniting_gelatin",
+  "kind": "item",
+  "name": {
+    "ru": "Нитрожелатин",
+    "en": "Nitrogelatin"
+  },
+  "apiId": "gm2p",
+  "apiIdStatus": "inferred"
+}

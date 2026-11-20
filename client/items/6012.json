@@ -1,0 +1,11 @@
+{
+  "clientId": 6012,
+  "key": "item.misc.pale_leaf",
+  "kind": "item",
+  "name": {
+    "ru": "Бледнолист",
+    "en": "Pale-Leaf"
+  },
+  "apiId": "rrrz",
+  "apiIdStatus": "inferred"
+}

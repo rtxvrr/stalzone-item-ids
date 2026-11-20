@@ -1,0 +1,11 @@
+{
+  "clientId": 20378,
+  "key": "item.wpn.mr153hell",
+  "kind": "item",
+  "name": {
+    "ru": "«Жнец»",
+    "en": "Reaper"
+  },
+  "apiId": "wj7m3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20050,
+  "key": "item.wpn.abakan-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АН-94 «Абакан»",
+    "en": "Worn AN-94 Abakan"
+  },
+  "apiId": "g40y0",
+  "apiIdStatus": "inferred"
+}

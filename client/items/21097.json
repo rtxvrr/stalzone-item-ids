@@ -1,0 +1,11 @@
+{
+  "clientId": 21097,
+  "key": "item.wpn.ppsh2_terentii",
+  "kind": "item",
+  "name": {
+    "ru": "ПП ША Терентия",
+    "en": "Terenty's PP Shhh"
+  },
+  "apiId": "1rj3r",
+  "apiIdStatus": "inferred"
+}

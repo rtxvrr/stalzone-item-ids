@@ -1,0 +1,11 @@
+{
+  "clientId": 24302,
+  "key": "item.charm.veshestvo",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Неизвестное Вещество»",
+    "en": "Unknown Substance Charm"
+  },
+  "apiId": "g461g",
+  "apiIdStatus": "inferred"
+}

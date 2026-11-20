@@ -1,0 +1,11 @@
+{
+  "clientId": 6700,
+  "key": "item.misc.polyethylene_suspension",
+  "kind": "item",
+  "name": {
+    "ru": "Полиэтиленовая основа",
+    "en": "Polyethylene Base"
+  },
+  "apiId": "99pz",
+  "apiIdStatus": "inferred"
+}

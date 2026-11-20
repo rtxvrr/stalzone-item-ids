@@ -1,0 +1,11 @@
+{
+  "clientId": 21045,
+  "key": "item.21045",
+  "kind": "item",
+  "name": {
+    "ru": "Мясницкий нож",
+    "en": "Butcher's Knife"
+  },
+  "apiId": "3g991",
+  "apiIdStatus": "inferred"
+}

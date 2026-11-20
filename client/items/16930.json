@@ -1,0 +1,11 @@
+{
+  "clientId": 16930,
+  "key": "item.quest.merc.docs_stack_special",
+  "kind": "item",
+  "name": {
+    "ru": "Пачка секретных документов наемников",
+    "en": "Stack of Classified Mercenary Documents"
+  },
+  "apiId": "wj0mo",
+  "apiIdStatus": "inferred"
+}

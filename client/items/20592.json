@@ -1,0 +1,11 @@
+{
+  "clientId": 20592,
+  "key": "item.wpn.x95",
+  "kind": "item",
+  "name": {
+    "ru": "IWI Tavor X95",
+    "en": "IWI Tavor X95"
+  },
+  "apiId": "2ony6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11503,
+  "key": "item.art.inside_smalets",
+  "kind": "item",
+  "name": {
+    "ru": "Смалец",
+    "en": "Tallow"
+  },
+  "apiId": "zymn",
+  "apiIdStatus": "inferred"
+}

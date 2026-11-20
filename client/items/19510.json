@@ -1,0 +1,11 @@
+{
+  "clientId": 19510,
+  "key": "item.camo.unique_arm.uss",
+  "kind": "item",
+  "name": {
+    "ru": "«USS-01»",
+    "en": "USS-01"
+  },
+  "apiId": "j5934",
+  "apiIdStatus": "inferred"
+}

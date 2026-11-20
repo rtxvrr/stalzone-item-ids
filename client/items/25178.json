@@ -1,0 +1,11 @@
+{
+  "clientId": 25178,
+  "key": "item.arm.falcon",
+  "kind": "item",
+  "name": {
+    "ru": "Броня Фалькона",
+    "en": "Falcon's Armor"
+  },
+  "apiId": "wjg53",
+  "apiIdStatus": "inferred"
+}

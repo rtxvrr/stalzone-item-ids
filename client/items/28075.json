@@ -1,0 +1,11 @@
+{
+  "clientId": 28075,
+  "key": "item.28075",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт «Токсикоз»",
+    "en": "Toxicosis Artifact"
+  },
+  "apiId": "z3g4y",
+  "apiIdStatus": "inferred"
+}

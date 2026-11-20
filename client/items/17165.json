@@ -1,0 +1,11 @@
+{
+  "clientId": 17165,
+  "key": "item.style.arm.saturn_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Одинокий охотник»",
+    "en": "The Lone Hunter"
+  },
+  "apiId": "p65m5",
+  "apiIdStatus": "inferred"
+}

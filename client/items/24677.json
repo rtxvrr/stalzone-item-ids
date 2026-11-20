@@ -1,0 +1,11 @@
+{
+  "clientId": 24677,
+  "key": "item.charm.autumn24_pepe_shot",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «ПепеЦ»",
+    "en": "Charm PepeCas"
+  },
+  "apiId": "y3dq0",
+  "apiIdStatus": "inferred"
+}

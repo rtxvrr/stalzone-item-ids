@@ -1,0 +1,11 @@
+{
+  "clientId": 25408,
+  "key": "item.arm.murmur_2",
+  "kind": "item",
+  "name": {
+    "ru": "«Зодиак»",
+    "en": "Zodiac"
+  },
+  "apiId": "kn3r0",
+  "apiIdStatus": "inferred"
+}

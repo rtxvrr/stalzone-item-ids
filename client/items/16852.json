@@ -1,0 +1,11 @@
+{
+  "clientId": 16852,
+  "key": "item.quest.humpbacked_horses_horseshoe_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Подкова Конька-Горбунка»",
+    "en": "The Little Humpbacked Horse's Shoe!"
+  },
+  "apiId": "5l63o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15076,
+  "key": "item.lootbox.free_nonbuyer_daily",
+  "kind": "item",
+  "name": {
+    "ru": "Ежедневая поставка",
+    "en": "Daily Delivery"
+  },
+  "apiId": "5l5oo",
+  "apiIdStatus": "inferred"
+}

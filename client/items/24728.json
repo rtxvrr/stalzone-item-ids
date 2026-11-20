@@ -1,0 +1,11 @@
+{
+  "clientId": 24728,
+  "key": "item.charm.summer25_ssop_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон офицера ССОП",
+    "en": "SSPP Officer's token"
+  },
+  "apiId": "5lk20",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10264,
+  "key": "item.phonograph.vinyl_location_hrop",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Храмовая топь»",
+    "en": "Temple Swamp Vinyl Record"
+  },
+  "apiId": "ndr9",
+  "apiIdStatus": "inferred"
+}

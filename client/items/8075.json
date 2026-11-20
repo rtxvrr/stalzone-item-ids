@@ -1,0 +1,11 @@
+{
+  "clientId": 8075,
+  "key": "item.quest.polygon3_resonator",
+  "kind": "item",
+  "name": {
+    "ru": "Кварцевый резонатор",
+    "en": "Quartz Resonator"
+  },
+  "apiId": "zpg2",
+  "apiIdStatus": "inferred"
+}

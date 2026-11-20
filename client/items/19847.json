@@ -1,0 +1,11 @@
+{
+  "clientId": 19847,
+  "key": "item.motif.wpn.sa58_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Посейдон»",
+    "en": "Poseidon"
+  },
+  "apiId": "6wrrn",
+  "apiIdStatus": "inferred"
+}

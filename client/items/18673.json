@@ -1,0 +1,11 @@
+{
+  "clientId": 18673,
+  "key": "item.camo.wpn.red_threat",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Красная угроза»",
+    "en": "Red Threat Camouflage"
+  },
+  "apiId": "1rmdr",
+  "apiIdStatus": "inferred"
+}

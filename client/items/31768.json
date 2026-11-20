@@ -1,0 +1,11 @@
+{
+  "clientId": 31768,
+  "key": "item.part.albatros_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "Часть бронескелета «Альбатрос-Штурмовик»",
+    "en": "Albatross Heavy Assault Armored Exoskeleton Part"
+  },
+  "apiId": "21wr5",
+  "apiIdStatus": "inferred"
+}

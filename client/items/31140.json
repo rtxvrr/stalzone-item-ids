@@ -1,0 +1,11 @@
+{
+  "clientId": 31140,
+  "key": "item.misc.arsenal_box",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с ресурсами",
+    "en": "A crate with resources"
+  },
+  "apiId": "nkn42",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16115,
+  "key": "item.16115",
+  "kind": "item",
+  "name": {
+    "ru": "Выкуп",
+    "en": "Ransom"
+  },
+  "apiId": "ok4om",
+  "apiIdStatus": "inferred"
+}

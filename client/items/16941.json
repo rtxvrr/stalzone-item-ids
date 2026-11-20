@@ -1,0 +1,11 @@
+{
+  "clientId": 16941,
+  "key": "item.quest.godun_package",
+  "kind": "item",
+  "name": {
+    "ru": "Посылка для Годуна",
+    "en": "Package for Godun"
+  },
+  "apiId": "p65w2",
+  "apiIdStatus": "inferred"
+}

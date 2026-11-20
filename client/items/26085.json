@@ -1,0 +1,11 @@
+{
+  "clientId": 26085,
+  "key": "item.food.ny23.icecream_chocolate",
+  "kind": "item",
+  "name": {
+    "ru": "Шоколадный пломбир",
+    "en": "Chocolate Ice Cream"
+  },
+  "apiId": "0rdjd",
+  "apiIdStatus": "inferred"
+}

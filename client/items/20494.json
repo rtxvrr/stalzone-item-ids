@@ -1,0 +1,11 @@
+{
+  "clientId": 20494,
+  "key": "item.wpn.fiveseven",
+  "kind": "item",
+  "name": {
+    "ru": "FN Five-seveN",
+    "en": "FN Five-seveN"
+  },
+  "apiId": "7lng9",
+  "apiIdStatus": "inferred"
+}

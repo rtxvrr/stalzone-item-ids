@@ -1,0 +1,11 @@
+{
+  "clientId": 10602,
+  "key": "item.keyholder.big",
+  "kind": "item",
+  "name": {
+    "ru": "Большая ключница",
+    "en": "Large Key Holder"
+  },
+  "apiId": "g6w6",
+  "apiIdStatus": "inferred"
+}

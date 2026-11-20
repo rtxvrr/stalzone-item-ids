@@ -1,0 +1,11 @@
+{
+  "clientId": 29951,
+  "key": "item.filler.airdrop_2",
+  "kind": "item",
+  "name": {
+    "ru": "Обычная поставка торговцу",
+    "en": "Common Merchant Delivery"
+  },
+  "apiId": "z3kmm",
+  "apiIdStatus": "inferred"
+}

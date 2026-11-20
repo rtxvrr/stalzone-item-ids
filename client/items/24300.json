@@ -1,0 +1,11 @@
+{
+  "clientId": 24300,
+  "key": "item.charm.metal_sun",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Металлическое солнце»",
+    "en": "Metal Sun Charm"
+  },
+  "apiId": "96rzw",
+  "apiIdStatus": "inferred"
+}

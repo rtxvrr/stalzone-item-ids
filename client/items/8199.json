@@ -1,0 +1,11 @@
+{
+  "clientId": 8199,
+  "key": "item.quest.point_of_no_return_radan_instructions",
+  "kind": "item",
+  "name": {
+    "ru": "Инструкция для устройства Фила",
+    "en": "Instructions for Phil Device"
+  },
+  "apiId": "zp09",
+  "apiIdStatus": "inferred"
+}

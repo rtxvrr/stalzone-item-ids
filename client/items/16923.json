@@ -1,0 +1,11 @@
+{
+  "clientId": 16923,
+  "key": "item.quest.covenant_usb",
+  "kind": "item",
+  "name": {
+    "ru": "Флешка с вирусом «Слово Господа»",
+    "en": "Flash Drive with the \"Word of the Lord\" Virus"
+  },
+  "apiId": "6wl2y",
+  "apiIdStatus": "inferred"
+}

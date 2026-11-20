@@ -1,0 +1,11 @@
+{
+  "clientId": 25076,
+  "key": "item.arm.pahan",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Пахан»",
+    "en": "Kingpin Armored Suit"
+  },
+  "apiId": "5lrg1",
+  "apiIdStatus": "inferred"
+}

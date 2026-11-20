@@ -1,0 +1,11 @@
+{
+  "clientId": 31429,
+  "key": "item.lootbox.faction_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик «Завета»",
+    "en": "Covenant Crate"
+  },
+  "apiId": "y4yzz",
+  "apiIdStatus": "inferred"
+}

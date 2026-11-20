@@ -1,0 +1,11 @@
+{
+  "clientId": 16084,
+  "key": "item.quest.ssop_help_murmur_notes_1",
+  "kind": "item",
+  "name": {
+    "ru": "Детали устройств “Шепота”",
+    "en": "Murmur Device Parts"
+  },
+  "apiId": "rwmov",
+  "apiIdStatus": "inferred"
+}

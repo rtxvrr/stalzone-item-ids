@@ -1,0 +1,11 @@
+{
+  "clientId": 12028,
+  "key": "item.cont.pouch_hunter",
+  "kind": "item",
+  "name": {
+    "ru": "«Вьюк»",
+    "en": "Saddlebag"
+  },
+  "apiId": "51zo",
+  "apiIdStatus": "inferred"
+}

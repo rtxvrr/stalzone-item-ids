@@ -1,0 +1,11 @@
+{
+  "clientId": 14225,
+  "key": "item.crate.vog25_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик кустарных ВОГ-25",
+    "en": "Crate of Jury-Rigged VOG-25s"
+  },
+  "apiId": "1r0zg",
+  "apiIdStatus": "inferred"
+}

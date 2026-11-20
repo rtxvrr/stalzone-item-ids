@@ -1,0 +1,11 @@
+{
+  "clientId": 25995,
+  "key": "item.arm.kia_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "КИА-ТМ ССОП",
+    "en": "IATMS SSPP"
+  },
+  "apiId": "6w5yy",
+  "apiIdStatus": "inferred"
+}

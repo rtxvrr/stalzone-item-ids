@@ -1,0 +1,11 @@
+{
+  "clientId": 14017,
+  "key": "item.exp.craft_sickness",
+  "kind": "item",
+  "name": {
+    "ru": "«Хворь»",
+    "en": "Sickness"
+  },
+  "apiId": "p6kz6",
+  "apiIdStatus": "inferred"
+}

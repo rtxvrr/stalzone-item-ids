@@ -1,0 +1,11 @@
+{
+  "clientId": 24597,
+  "key": "item.charm.patch_duty",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шеврон Рубежа»",
+    "en": "Frontier Chevron Charm"
+  },
+  "apiId": "1r5z2",
+  "apiIdStatus": "inferred"
+}

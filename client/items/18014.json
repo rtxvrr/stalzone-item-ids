@@ -1,0 +1,11 @@
+{
+  "clientId": 18014,
+  "key": "item.camo.wpn.grey",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Серая»",
+    "en": "Gray Weapon Paint"
+  },
+  "apiId": "m0nyk",
+  "apiIdStatus": "inferred"
+}

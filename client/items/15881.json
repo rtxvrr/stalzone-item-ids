@@ -1,0 +1,11 @@
+{
+  "clientId": 15881,
+  "key": "item.item_pack.bundle_free_abc_experiment",
+  "kind": "item",
+  "name": {
+    "ru": "Подарок от Дзена",
+    "en": "A Gift from Zen"
+  },
+  "apiId": "qjyk6",
+  "apiIdStatus": "inferred"
+}

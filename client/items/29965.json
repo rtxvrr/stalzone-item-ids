@@ -1,0 +1,11 @@
+{
+  "clientId": 29965,
+  "key": "item.filler.mob_limansk_6",
+  "kind": "item",
+  "name": {
+    "ru": "Кишка мутанта из Любеча",
+    "en": "Lyubech Mutant's Intestines"
+  },
+  "apiId": "pjqk4",
+  "apiIdStatus": "inferred"
+}

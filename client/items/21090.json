@@ -1,0 +1,11 @@
+{
+  "clientId": 21090,
+  "key": "item.melee.big_baton",
+  "kind": "item",
+  "name": {
+    "ru": "Посох Шторма",
+    "en": "Storm Staff"
+  },
+  "apiId": "vj4p7",
+  "apiIdStatus": "inferred"
+}

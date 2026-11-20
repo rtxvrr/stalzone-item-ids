@@ -1,0 +1,11 @@
+{
+  "clientId": 19423,
+  "key": "item.camo.arm.spring25_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Тень Фантома»",
+    "en": "Phantom Shadow Paint"
+  },
+  "apiId": "6w24j",
+  "apiIdStatus": "inferred"
+}

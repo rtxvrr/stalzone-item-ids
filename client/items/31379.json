@@ -1,0 +1,11 @@
+{
+  "clientId": 31379,
+  "key": "item.ny_toys.setH.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Футуристичная игрушка-капсула",
+    "en": "Futuristic Capsule Decoration"
+  },
+  "apiId": "4k3nn",
+  "apiIdStatus": "inferred"
+}

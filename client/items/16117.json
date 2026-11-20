@@ -1,0 +1,11 @@
+{
+  "clientId": 16117,
+  "key": "item.16117",
+  "kind": "item",
+  "name": {
+    "ru": "Гипофиз мертвеца",
+    "en": "Dead Person's Pituitary Gland"
+  },
+  "apiId": "p6vp4",
+  "apiIdStatus": "inferred"
+}

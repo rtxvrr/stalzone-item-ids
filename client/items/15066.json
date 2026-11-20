@@ -1,0 +1,11 @@
+{
+  "clientId": 15066,
+  "key": "item.pack.camo.blitz_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Фольга 10 мм»",
+    "en": "10 mm Foil Paint Set"
+  },
+  "apiId": "vjno7",
+  "apiIdStatus": "inferred"
+}

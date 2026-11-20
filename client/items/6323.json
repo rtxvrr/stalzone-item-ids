@@ -1,0 +1,11 @@
+{
+  "clientId": 6323,
+  "key": "item.misc.dough",
+  "kind": "item",
+  "name": {
+    "ru": "Тесто",
+    "en": "Dough"
+  },
+  "apiId": "6rn6",
+  "apiIdStatus": "inferred"
+}

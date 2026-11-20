@@ -1,0 +1,11 @@
+{
+  "clientId": 15051,
+  "key": "item.plc.customisation_pack.winter26",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Зона ниже нуля»",
+    "en": "Sub-Zero Zone Customization Pack"
+  },
+  "apiId": "zz3kk",
+  "apiIdStatus": "inferred"
+}

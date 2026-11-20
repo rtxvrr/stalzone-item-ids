@@ -1,0 +1,11 @@
+{
+  "clientId": 21064,
+  "key": "item.melee.steeltiger",
+  "kind": "item",
+  "name": {
+    "ru": "Керамбит Steel Tiger",
+    "en": "Steel Tiger Karambit"
+  },
+  "apiId": "n42y9",
+  "apiIdStatus": "inferred"
+}

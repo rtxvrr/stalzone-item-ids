@@ -1,0 +1,11 @@
+{
+  "clientId": 25717,
+  "key": "item.skin.inside1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Бездушный»",
+    "en": "Soulless Skin"
+  },
+  "apiId": "p69y4",
+  "apiIdStatus": "inferred"
+}

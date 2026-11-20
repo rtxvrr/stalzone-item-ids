@@ -1,0 +1,11 @@
+{
+  "clientId": 25050,
+  "key": "item.arm.seva",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Уран»",
+    "en": "Uranus Jumpsuit"
+  },
+  "apiId": "g4ym6",
+  "apiIdStatus": "inferred"
+}

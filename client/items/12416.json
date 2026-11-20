@@ -1,0 +1,11 @@
+{
+  "clientId": 12416,
+  "key": "item.exp.eg1_ravent",
+  "kind": "item",
+  "name": {
+    "ru": "«Щит гладиатора»",
+    "en": "Gladiator's Shield"
+  },
+  "apiId": "nvy1",
+  "apiIdStatus": "inferred"
+}

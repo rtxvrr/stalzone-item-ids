@@ -1,0 +1,11 @@
+{
+  "clientId": 4998,
+  "key": "item.plc.sticker.prestige_legend",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Горизонт»",
+    "en": "Horizon Sticker"
+  },
+  "apiId": "gjqp",
+  "apiIdStatus": "inferred"
+}

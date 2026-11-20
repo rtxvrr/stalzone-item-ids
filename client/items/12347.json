@@ -1,0 +1,11 @@
+{
+  "clientId": 12347,
+  "key": "item.exp.vog25",
+  "kind": "item",
+  "name": {
+    "ru": "Выстрел гранатометный ВОГ-25",
+    "en": "VOG-25 Grenade Round"
+  },
+  "apiId": "65r6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26007,
+  "key": "item.med.antirad_3",
+  "kind": "item",
+  "name": {
+    "ru": "Антирад Б-393",
+    "en": "Antirad B-393"
+  },
+  "apiId": "4qgop",
+  "apiIdStatus": "inferred"
+}

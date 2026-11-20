@@ -1,0 +1,11 @@
+{
+  "clientId": 19882,
+  "key": "item.motif.wpn.valm_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "Оплавленный «Cервал»",
+    "en": "Melted Serval"
+  },
+  "apiId": "j5lvl",
+  "apiIdStatus": "inferred"
+}

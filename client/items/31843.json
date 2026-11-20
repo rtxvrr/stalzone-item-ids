@@ -1,0 +1,11 @@
+{
+  "clientId": 31843,
+  "key": "item.blueprint.wpn.ravent_l85",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж L85A1",
+    "en": "L85A1 Blueprint"
+  },
+  "apiId": "dr9pg",
+  "apiIdStatus": "inferred"
+}

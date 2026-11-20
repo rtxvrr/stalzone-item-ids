@@ -1,0 +1,11 @@
+{
+  "clientId": 31463,
+  "key": "item.lootbox.northnebula",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Северная Туманность»",
+    "en": "Northern Nebula Container"
+  },
+  "apiId": "olnjo",
+  "apiIdStatus": "inferred"
+}

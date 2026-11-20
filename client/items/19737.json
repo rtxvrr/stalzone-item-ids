@@ -1,0 +1,11 @@
+{
+  "clientId": 19737,
+  "key": "item.camo.arm.puncture",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Прокол»",
+    "en": "Puncture Paint"
+  },
+  "apiId": "0r3jy",
+  "apiIdStatus": "inferred"
+}

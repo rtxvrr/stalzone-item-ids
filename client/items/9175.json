@@ -1,0 +1,11 @@
+{
+  "clientId": 9175,
+  "key": "item.med.apt_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Военная аптечка",
+    "en": "Military First-Aid Kit"
+  },
+  "apiId": "z91n",
+  "apiIdStatus": "inferred"
+}

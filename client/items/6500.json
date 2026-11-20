@@ -1,0 +1,11 @@
+{
+  "clientId": 6500,
+  "key": "item.misc.prepared_sleeve",
+  "kind": "item",
+  "name": {
+    "ru": "Прессованная заготовка гильзы",
+    "en": "Pressed Casing Blank"
+  },
+  "apiId": "991y",
+  "apiIdStatus": "inferred"
+}

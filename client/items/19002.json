@@ -1,0 +1,11 @@
+{
+  "clientId": 19002,
+  "key": "item.camo.arm.orange",
+  "kind": "item",
+  "name": {
+    "ru": "Краска для брони «Оранжевая»",
+    "en": "Orange Armor Paint"
+  },
+  "apiId": "g4j76",
+  "apiIdStatus": "inferred"
+}

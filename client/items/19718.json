@@ -1,0 +1,11 @@
+{
+  "clientId": 19718,
+  "key": "item.camo.arm.snowtraces",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Следы на снегу»",
+    "en": "Tracks in the Snow Paint"
+  },
+  "apiId": "vjr0p",
+  "apiIdStatus": "inferred"
+}

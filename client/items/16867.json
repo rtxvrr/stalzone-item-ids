@@ -1,0 +1,11 @@
+{
+  "clientId": 16867,
+  "key": "item.quest.mutant_solyanka",
+  "kind": "item",
+  "name": {
+    "ru": "«Мутантская солянка»",
+    "en": "\"Mutant Grab Bag\""
+  },
+  "apiId": "dm6pg",
+  "apiIdStatus": "inferred"
+}

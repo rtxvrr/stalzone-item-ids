@@ -1,0 +1,11 @@
+{
+  "clientId": 18383,
+  "key": "item.camo.wpn.winter25_skin_19",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Garland Fragments»",
+    "en": "«Garland Fragments» Paint"
+  },
+  "apiId": "lyonq",
+  "apiIdStatus": "inferred"
+}

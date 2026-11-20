@@ -1,0 +1,11 @@
+{
+  "clientId": 25157,
+  "key": "item.arm.bear",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Медведь»",
+    "en": "Bear Exoarmor"
+  },
+  "apiId": "qjoz3",
+  "apiIdStatus": "inferred"
+}

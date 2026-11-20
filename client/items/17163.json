@@ -1,0 +1,11 @@
+{
+  "clientId": 17163,
+  "key": "item.style.arm.zarya_na",
+  "kind": "item",
+  "name": {
+    "ru": "«Рейнджер Зоны»",
+    "en": "Zone Ranger"
+  },
+  "apiId": "okz04",
+  "apiIdStatus": "inferred"
+}

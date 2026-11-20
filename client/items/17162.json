@@ -1,0 +1,11 @@
+{
+  "clientId": 17162,
+  "key": "item.style.arm.speedster_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "CCA-Zephyr",
+    "en": "CCA-Zephyr"
+  },
+  "apiId": "m016r",
+  "apiIdStatus": "inferred"
+}

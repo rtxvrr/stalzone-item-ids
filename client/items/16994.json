@@ -1,0 +1,11 @@
+{
+  "clientId": 16994,
+  "key": "item.quest.summer24_mite2",
+  "kind": "item",
+  "name": {
+    "ru": "Зрелый клещ",
+    "en": "Mature tick"
+  },
+  "apiId": "7lo57",
+  "apiIdStatus": "inferred"
+}

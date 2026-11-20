@@ -1,0 +1,11 @@
+{
+  "clientId": 8210,
+  "key": "item.quest.runa_key_from_tech",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от техника",
+    "en": "Technician's Key"
+  },
+  "apiId": "j6g0",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 14211,
+  "key": "item.bag.545psy",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка 5.45 «Ши-3»",
+    "en": "Pouch of 5.45 Shi-3 Rounds"
+  },
+  "apiId": "lywmk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 23300,
+  "key": "item.bolt_gem.golden",
+  "kind": "item",
+  "name": {
+    "ru": "Хроматическая частица: Золотая",
+    "en": "Chromatic Particle: Golden"
+  },
+  "apiId": "96lmy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11451,
+  "key": "item.art.blizzard_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Хрусталь",
+    "en": "Leaded Glass"
+  },
+  "apiId": "zyqk",
+  "apiIdStatus": "inferred"
+}

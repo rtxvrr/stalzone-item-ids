@@ -1,0 +1,11 @@
+{
+  "clientId": 16045,
+  "key": "item.16045",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты для грубой работы",
+    "en": "Tools for Rough Work"
+  },
+  "apiId": "3godl",
+  "apiIdStatus": "inferred"
+}

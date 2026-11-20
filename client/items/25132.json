@@ -1,0 +1,11 @@
+{
+  "clientId": 25132,
+  "key": "item.arm.skat9b",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Скиф-4б»",
+    "en": "Scythian-4b Armored Suit"
+  },
+  "apiId": "knq9p",
+  "apiIdStatus": "inferred"
+}

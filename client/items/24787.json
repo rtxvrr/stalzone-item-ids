@@ -1,0 +1,11 @@
+{
+  "clientId": 24787,
+  "key": "item.charm.scstore_remove_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удалить перед Страданием»",
+    "en": "Remove Before Suffering Charm"
+  },
+  "apiId": "ok0q0",
+  "apiIdStatus": "inferred"
+}

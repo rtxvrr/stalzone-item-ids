@@ -1,0 +1,11 @@
+{
+  "clientId": 22732,
+  "key": "item.att.mag_rumag54545_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин 5.45",
+    "en": "5.45 Extended Magazine"
+  },
+  "apiId": "kn9mp",
+  "apiIdStatus": "inferred"
+}

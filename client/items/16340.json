@@ -1,0 +1,11 @@
+{
+  "clientId": 16340,
+  "key": "item.clan.regaliy",
+  "kind": "item",
+  "name": {
+    "ru": "Регалий",
+    "en": "Regalia"
+  },
+  "apiId": "n4w13",
+  "apiIdStatus": "inferred"
+}

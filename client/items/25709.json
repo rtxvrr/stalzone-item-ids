@@ -1,0 +1,11 @@
+{
+  "clientId": 25709,
+  "key": "item.skin.blizzard5",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Бывалый»",
+    "en": "Experienced Skin"
+  },
+  "apiId": "qj1w3",
+  "apiIdStatus": "inferred"
+}

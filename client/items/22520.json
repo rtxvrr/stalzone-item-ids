@@ -1,0 +1,11 @@
+{
+  "clientId": 22520,
+  "key": "item.att.barrel_vr09",
+  "kind": "item",
+  "name": {
+    "ru": "VR-09",
+    "en": "VR-09"
+  },
+  "apiId": "2o71m",
+  "apiIdStatus": "inferred"
+}

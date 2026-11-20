@@ -1,0 +1,11 @@
+{
+  "clientId": 4224,
+  "key": "item.plc.background.coldline",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Coldline»",
+    "en": "Coldline Background"
+  },
+  "apiId": "9o0q",
+  "apiIdStatus": "inferred"
+}

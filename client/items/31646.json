@@ -1,0 +1,11 @@
+{
+  "clientId": 31646,
+  "key": "item.blueprint.arm.goplit",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж Бронекостюм «Гоплит»",
+    "en": "Hoplite Armored Suit Blueprint"
+  },
+  "apiId": "77396",
+  "apiIdStatus": "inferred"
+}

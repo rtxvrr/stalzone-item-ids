@@ -1,0 +1,11 @@
+{
+  "clientId": 24529,
+  "key": "item.charm.s4",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «S4»",
+    "en": "S4 Charm"
+  },
+  "apiId": "y3dp3",
+  "apiIdStatus": "inferred"
+}

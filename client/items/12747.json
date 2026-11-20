@@ -1,0 +1,11 @@
+{
+  "clientId": 12747,
+  "key": "item.amm.127snp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 12.7 мм снайперский",
+    "en": "12.7 mm Sniper Round"
+  },
+  "apiId": "63yy",
+  "apiIdStatus": "inferred"
+}

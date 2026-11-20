@@ -1,0 +1,11 @@
+{
+  "clientId": 8229,
+  "key": "item.quest.leviatan_hard_disk",
+  "kind": "item",
+  "name": {
+    "ru": "Жесткий диск с Полигона-9",
+    "en": "The hard drive from Area-9"
+  },
+  "apiId": "ypyk",
+  "apiIdStatus": "inferred"
+}

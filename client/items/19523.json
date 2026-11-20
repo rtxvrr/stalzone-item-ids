@@ -1,0 +1,11 @@
+{
+  "clientId": 19523,
+  "key": "item.camo.unique_arm.lancelot",
+  "kind": "item",
+  "name": {
+    "ru": "«Ланцелот»",
+    "en": "Lancelot"
+  },
+  "apiId": "6w256",
+  "apiIdStatus": "inferred"
+}

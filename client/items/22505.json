@@ -1,0 +1,11 @@
+{
+  "clientId": 22505,
+  "key": "item.att.barrel_3port",
+  "kind": "item",
+  "name": {
+    "ru": "3 Port Mini Compensator",
+    "en": "3 Port Mini Compensator"
+  },
+  "apiId": "y3m3w",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26530,
+  "key": "item.food.irp_usa",
+  "kind": "item",
+  "name": {
+    "ru": "Американский ИРП",
+    "en": "American MRE"
+  },
+  "apiId": "wj2jo",
+  "apiIdStatus": "inferred"
+}

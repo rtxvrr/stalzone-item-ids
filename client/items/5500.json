@@ -1,0 +1,11 @@
+{
+  "clientId": 5500,
+  "key": "item.plc.customisation_pack.coldline",
+  "kind": "item",
+  "name": {
+    "ru": "Набор кастомизации «Coldline»",
+    "en": "Coldline Customization Pack"
+  },
+  "apiId": "925z",
+  "apiIdStatus": "inferred"
+}

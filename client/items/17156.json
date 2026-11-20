@@ -1,0 +1,11 @@
+{
+  "clientId": 17156,
+  "key": "item.style.arm.albatros_heavy_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "«Кореш»",
+    "en": "Dude"
+  },
+  "apiId": "kn573",
+  "apiIdStatus": "inferred"
+}

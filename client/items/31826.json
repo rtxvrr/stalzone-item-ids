@@ -1,0 +1,11 @@
+{
+  "clientId": 31826,
+  "key": "item.part.famas_ny",
+  "kind": "item",
+  "name": {
+    "ru": "Часть новогоднего FAMAS",
+    "en": "New Year FAMAS Part"
+  },
+  "apiId": "gnzpn",
+  "apiIdStatus": "inferred"
+}

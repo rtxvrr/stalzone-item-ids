@@ -1,0 +1,11 @@
+{
+  "clientId": 24543,
+  "key": "item.charm.navm_boar",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «NAV Кабан»",
+    "en": "NAV Boar Charm"
+  },
+  "apiId": "dm702",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19618,
+  "key": "item.motif.arm.forest_owner",
+  "kind": "item",
+  "name": {
+    "ru": "Хозяин Леса",
+    "en": "Master of the Forest"
+  },
+  "apiId": "vjrjr",
+  "apiIdStatus": "inferred"
+}

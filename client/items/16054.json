@@ -1,0 +1,11 @@
+{
+  "clientId": 16054,
+  "key": "item.misc.ssop_help_tip_4",
+  "kind": "item",
+  "name": {
+    "ru": "Оперативная наводка на Любеч-3",
+    "en": "Operational Lead for Lyubech-3"
+  },
+  "apiId": "wj942",
+  "apiIdStatus": "inferred"
+}

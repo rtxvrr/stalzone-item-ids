@@ -1,0 +1,11 @@
+{
+  "clientId": 20256,
+  "key": "item.wpn.vss",
+  "kind": "item",
+  "name": {
+    "ru": "ВСС «Винторез»",
+    "en": "VSS Vintorez"
+  },
+  "apiId": "knmpy",
+  "apiIdStatus": "inferred"
+}

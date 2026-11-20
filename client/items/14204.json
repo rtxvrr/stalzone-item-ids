@@ -1,0 +1,11 @@
+{
+  "clientId": 14204,
+  "key": "item.bag.939inc",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка зажигательных 9x39 мм",
+    "en": "Pouch of 9x39 mm Incendiary Rounds"
+  },
+  "apiId": "5lqp1",
+  "apiIdStatus": "inferred"
+}

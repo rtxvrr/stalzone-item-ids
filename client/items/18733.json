@@ -1,0 +1,11 @@
+{
+  "clientId": 18733,
+  "key": "item.camo.wpn.barrier",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Барьер»",
+    "en": "Barrier Paint"
+  },
+  "apiId": "qj5gk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 3515,
+  "key": "tile.3515",
+  "kind": "tile",
+  "name": {
+    "ru": "Доски красные",
+    "en": "Red Boards"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24102,
+  "key": "item.24102",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Polaroid»",
+    "en": "Polaroid Charm"
+  },
+  "apiId": "g4d3p",
+  "apiIdStatus": "inferred"
+}

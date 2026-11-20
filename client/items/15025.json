@@ -1,0 +1,11 @@
+{
+  "clientId": 15025,
+  "key": "item.lootbox.summer25_pass_paint",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Мантра»",
+    "en": "Mantra Container"
+  },
+  "apiId": "1r99r",
+  "apiIdStatus": "inferred"
+}

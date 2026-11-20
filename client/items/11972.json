@@ -1,0 +1,11 @@
+{
+  "clientId": 11972,
+  "key": "item.plate.ops.scientist",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальная пластина",
+    "en": "Anomalous Plate"
+  },
+  "apiId": "9yry",
+  "apiIdStatus": "inferred"
+}

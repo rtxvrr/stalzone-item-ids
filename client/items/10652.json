@@ -1,0 +1,11 @@
+{
+  "clientId": 10652,
+  "key": "item.key.safe_military",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от военного сейфа",
+    "en": "Military Safe Key"
+  },
+  "apiId": "5kn1",
+  "apiIdStatus": "inferred"
+}

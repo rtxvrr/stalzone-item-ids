@@ -1,0 +1,11 @@
+{
+  "clientId": 8028,
+  "key": "item.quest.synthesized_substance",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка с синтезированным веществом",
+    "en": "Test Tube with Synthesized Substance"
+  },
+  "apiId": "592g",
+  "apiIdStatus": "inferred"
+}

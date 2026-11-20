@@ -1,0 +1,11 @@
+{
+  "clientId": 19832,
+  "key": "item.camo.unique_wpn.deagle_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Морозная сталь»",
+    "en": "Frost Steel"
+  },
+  "apiId": "knllj",
+  "apiIdStatus": "inferred"
+}

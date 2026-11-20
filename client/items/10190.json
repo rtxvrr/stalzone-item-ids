@@ -1,0 +1,11 @@
+{
+  "clientId": 10190,
+  "key": "item.quest.unknown_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета неизвестного",
+    "en": "Unknown Stalker Cassette"
+  },
+  "apiId": "vzkp",
+  "apiIdStatus": "inferred"
+}

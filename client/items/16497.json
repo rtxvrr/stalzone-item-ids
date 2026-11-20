@@ -1,0 +1,11 @@
+{
+  "clientId": 16497,
+  "key": "item.16497",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон исследователя (cтарый)",
+    "en": "Researcher Token (old)"
+  },
+  "apiId": "1rl36",
+  "apiIdStatus": "inferred"
+}

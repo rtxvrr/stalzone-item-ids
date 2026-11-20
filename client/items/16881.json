@@ -1,0 +1,11 @@
+{
+  "clientId": 16881,
+  "key": "item.quest.latin_dictionary",
+  "kind": "item",
+  "name": {
+    "ru": "Словарь латинских выражений",
+    "en": "Dictionary of Latin Expressions"
+  },
+  "apiId": "qj3p4",
+  "apiIdStatus": "inferred"
+}

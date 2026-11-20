@@ -1,0 +1,11 @@
+{
+  "clientId": 27238,
+  "key": "item.case_token.cosmetic",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон кейса Эстета",
+    "en": "Aesthete Case Token"
+  },
+  "apiId": "m0lyj",
+  "apiIdStatus": "inferred"
+}

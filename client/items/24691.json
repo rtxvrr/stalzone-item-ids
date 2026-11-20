@@ -1,0 +1,11 @@
+{
+  "clientId": 24691,
+  "key": "item.charm.winter25_marketing_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Зов»",
+    "en": "Call Charm"
+  },
+  "apiId": "dm73g",
+  "apiIdStatus": "inferred"
+}

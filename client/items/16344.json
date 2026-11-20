@@ -1,0 +1,11 @@
+{
+  "clientId": 16344,
+  "key": "item.misc.anomal_battery_ny",
+  "kind": "item",
+  "name": {
+    "ru": "Морозостойкая аномальная батарея",
+    "en": "Frostproof Anomalous Battery"
+  },
+  "apiId": "2o046",
+  "apiIdStatus": "inferred"
+}

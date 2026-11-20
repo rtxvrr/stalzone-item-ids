@@ -1,0 +1,11 @@
+{
+  "clientId": 14001,
+  "key": "item.exp.kustarnik",
+  "kind": "item",
+  "name": {
+    "ru": "Ручная граната «Кустарник-1»",
+    "en": "Shrub-1 Hand Grenade"
+  },
+  "apiId": "1r0y6",
+  "apiIdStatus": "inferred"
+}

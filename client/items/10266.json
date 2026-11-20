@@ -1,0 +1,11 @@
+{
+  "clientId": 10266,
+  "key": "item.phonograph.vinyl_location_inflow",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Приток»",
+    "en": "Inflow Vinyl Record"
+  },
+  "apiId": "vz17",
+  "apiIdStatus": "inferred"
+}

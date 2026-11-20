@@ -1,0 +1,11 @@
+{
+  "clientId": 12209,
+  "key": "item.misc.tradepack_10",
+  "kind": "item",
+  "name": {
+    "ru": "Торговый сверток",
+    "en": "Trader's Bundle"
+  },
+  "apiId": "q9q6",
+  "apiIdStatus": "inferred"
+}

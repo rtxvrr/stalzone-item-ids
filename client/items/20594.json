@@ -1,0 +1,11 @@
+{
+  "clientId": 20594,
+  "key": "item.wpn.sa58",
+  "kind": "item",
+  "name": {
+    "ru": "SA-58 CTC",
+    "en": "SA-58 CTC"
+  },
+  "apiId": "7lnj7",
+  "apiIdStatus": "inferred"
+}

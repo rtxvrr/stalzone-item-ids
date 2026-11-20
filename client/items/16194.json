@@ -1,0 +1,11 @@
+{
+  "clientId": 16194,
+  "key": "item.16194",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование с РЛС",
+    "en": "Anomalous Formation from the Radar Station"
+  },
+  "apiId": "7l17j",
+  "apiIdStatus": "inferred"
+}

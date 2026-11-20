@@ -1,0 +1,11 @@
+{
+  "clientId": 17264,
+  "key": "item.style.melee.kukri_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Падальщик»",
+    "en": "Scavenger"
+  },
+  "apiId": "n4g01",
+  "apiIdStatus": "inferred"
+}

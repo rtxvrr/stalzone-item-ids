@@ -1,0 +1,11 @@
+{
+  "clientId": 16918,
+  "key": "item.quest.covenant.frontier_stash",
+  "kind": "item",
+  "name": {
+    "ru": "Хабар «Рубежа»",
+    "en": "Frontier Loot"
+  },
+  "apiId": "vj0vd",
+  "apiIdStatus": "inferred"
+}

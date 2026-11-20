@@ -1,0 +1,11 @@
+{
+  "clientId": 31460,
+  "key": "item.lootbox.summer24",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический Запас",
+    "en": "Tactical reserve"
+  },
+  "apiId": "rjp0g",
+  "apiIdStatus": "inferred"
+}

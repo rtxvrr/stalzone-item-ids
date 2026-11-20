@@ -1,0 +1,11 @@
+{
+  "clientId": 24735,
+  "key": "item.charm.frontline_shell_c5",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Грифель»",
+    "en": "Graphite Charm"
+  },
+  "apiId": "ly761",
+  "apiIdStatus": "inferred"
+}

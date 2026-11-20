@@ -1,0 +1,11 @@
+{
+  "clientId": 24566,
+  "key": "item.charm.navm_pseudo",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «NAV Бурелом»",
+    "en": "NAV Behemoth Charm"
+  },
+  "apiId": "vj7lp",
+  "apiIdStatus": "inferred"
+}

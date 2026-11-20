@@ -1,0 +1,11 @@
+{
+  "clientId": 22725,
+  "key": "item.att.mag_ergo762nato",
+  "kind": "item",
+  "name": {
+    "ru": "Эргономичный магазин 7.62 NATO",
+    "en": "Ergonomic Magazine 7.62 NATO"
+  },
+  "apiId": "1r3d2",
+  "apiIdStatus": "inferred"
+}

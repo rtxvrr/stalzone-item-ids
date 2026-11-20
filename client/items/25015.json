@@ -1,0 +1,11 @@
+{
+  "clientId": 25015,
+  "key": "item.arm.sokol-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный бронекостюм «Сокол»",
+    "en": "Worn Falcon Armored Suit"
+  },
+  "apiId": "ok0v6",
+  "apiIdStatus": "inferred"
+}

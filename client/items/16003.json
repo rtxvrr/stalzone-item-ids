@@ -1,0 +1,11 @@
+{
+  "clientId": 16003,
+  "key": "item.16003",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон исследователя",
+    "en": "Researcher Tokens"
+  },
+  "apiId": "zzkdy",
+  "apiIdStatus": "inferred"
+}

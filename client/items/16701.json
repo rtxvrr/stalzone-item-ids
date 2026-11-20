@@ -1,0 +1,11 @@
+{
+  "clientId": 16701,
+  "key": "item.art.mod_reroll",
+  "kind": "item",
+  "name": {
+    "ru": "Эссенция сброса",
+    "en": "Reset Essence"
+  },
+  "apiId": "1rlw2",
+  "apiIdStatus": "inferred"
+}

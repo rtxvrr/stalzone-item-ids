@@ -1,0 +1,11 @@
+{
+  "clientId": 22101,
+  "key": "item.att.handgrip_pclrs",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка Magpul AFG",
+    "en": "Magpul AFG Tactical Grip"
+  },
+  "apiId": "1rvm2",
+  "apiIdStatus": "inferred"
+}

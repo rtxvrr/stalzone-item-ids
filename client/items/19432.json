@@ -1,0 +1,11 @@
+{
+  "clientId": 19432,
+  "key": "item.camo.arm.spring25_skin_12",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Торобоан»",
+    "en": "wardsBack Paint"
+  },
+  "apiId": "kn1d0",
+  "apiIdStatus": "inferred"
+}

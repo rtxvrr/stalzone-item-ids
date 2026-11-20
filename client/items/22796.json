@@ -1,0 +1,11 @@
+{
+  "clientId": 22796,
+  "key": "item.att.mag_vss20_f",
+  "kind": "item",
+  "name": {
+    "ru": "Магазин эргономичный для ВСС/Вал, обмотанный",
+    "en": "Ergonomic Magazine for VSS/Val, Coiled"
+  },
+  "apiId": "96p5y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26053,
+  "key": "item.med.inside_lech_regeneration",
+  "kind": "item",
+  "name": {
+    "ru": "Живучесть Изнанки",
+    "en": "Inside Out Vitality"
+  },
+  "apiId": "y3k0z",
+  "apiIdStatus": "inferred"
+}

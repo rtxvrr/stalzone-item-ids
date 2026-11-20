@@ -1,0 +1,11 @@
+{
+  "clientId": 11944,
+  "key": "item.plate.onyx5",
+  "kind": "item",
+  "name": {
+    "ru": "Ониксовая пластина V",
+    "en": "Onyx Plate V"
+  },
+  "apiId": "2vz5",
+  "apiIdStatus": "inferred"
+}

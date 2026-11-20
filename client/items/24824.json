@@ -1,0 +1,11 @@
+{
+  "clientId": 24824,
+  "key": "item.charm.media_karfagen",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Чемпион»",
+    "en": "Champion Charm"
+  },
+  "apiId": "96nd0",
+  "apiIdStatus": "inferred"
+}

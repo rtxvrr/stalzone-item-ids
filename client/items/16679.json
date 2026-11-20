@@ -1,0 +1,11 @@
+{
+  "clientId": 16679,
+  "key": "item.lootbox.convertation_large_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Большой ящик конвертации (Наемники)",
+    "en": "Large Conversion Crate (Mercenaries)"
+  },
+  "apiId": "4q7dr",
+  "apiIdStatus": "inferred"
+}

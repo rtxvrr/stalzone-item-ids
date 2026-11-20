@@ -1,0 +1,11 @@
+{
+  "clientId": 20288,
+  "key": "item.wpn.m1a_marlen",
+  "kind": "item",
+  "name": {
+    "ru": "M1A «Марлен»",
+    "en": "Marlene M1A"
+  },
+  "apiId": "n4mg1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 23100,
+  "key": "item.att.handle_rk3",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоять РК-3",
+    "en": "RK-3 Grip"
+  },
+  "apiId": "96ldw",
+  "apiIdStatus": "inferred"
+}

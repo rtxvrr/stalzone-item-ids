@@ -1,0 +1,11 @@
+{
+  "clientId": 16618,
+  "key": "item.package.clan_supply",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с припасами",
+    "en": "Supply crate"
+  },
+  "apiId": "vj36r",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31086,
+  "key": "item.brt.armsklad.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Целые микросхемы",
+    "en": "Intact Microchips"
+  },
+  "apiId": "mr1ly",
+  "apiIdStatus": "inferred"
+}

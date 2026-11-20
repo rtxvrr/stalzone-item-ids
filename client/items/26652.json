@@ -1,0 +1,11 @@
+{
+  "clientId": 26652,
+  "key": "item.food.hot_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Солянка",
+    "en": "Solyanka"
+  },
+  "apiId": "5l23g",
+  "apiIdStatus": "inferred"
+}

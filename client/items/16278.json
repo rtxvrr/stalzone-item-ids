@@ -1,0 +1,11 @@
+{
+  "clientId": 16278,
+  "key": "item.misc.snork_hand_t3",
+  "kind": "item",
+  "name": {
+    "ru": "Рука сильного шныря",
+    "en": "Strong Skitter's Hand"
+  },
+  "apiId": "wjlzz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19570,
+  "key": "item.motif.arm.punisher_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Стервятник»",
+    "en": "Vulture"
+  },
+  "apiId": "7l2vr",
+  "apiIdStatus": "inferred"
+}

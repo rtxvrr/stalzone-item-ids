@@ -1,0 +1,11 @@
+{
+  "clientId": 8019,
+  "key": "item.quest.trophy_cache",
+  "kind": "item",
+  "name": {
+    "ru": "Трофейный хабар",
+    "en": "Trophy Loot"
+  },
+  "apiId": "do15",
+  "apiIdStatus": "inferred"
+}

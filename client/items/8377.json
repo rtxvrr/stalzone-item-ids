@@ -1,0 +1,11 @@
+{
+  "clientId": 8377,
+  "key": "item.quest.save_and_protect_hrizm",
+  "kind": "item",
+  "name": {
+    "ru": "Хризма",
+    "en": "Christogram "
+  },
+  "apiId": "ypz3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22061,
+  "key": "item.att.forend_b21m",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье Б-21М",
+    "en": "B-21M Handguard"
+  },
+  "apiId": "0rv69",
+  "apiIdStatus": "inferred"
+}

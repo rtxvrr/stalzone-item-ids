@@ -1,0 +1,11 @@
+{
+  "clientId": 16998,
+  "key": "item.quest.duty_scaner",
+  "kind": "item",
+  "name": {
+    "ru": "Военный сканер",
+    "en": "Military Scanner"
+  },
+  "apiId": "g49vp",
+  "apiIdStatus": "inferred"
+}

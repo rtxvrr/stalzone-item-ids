@@ -1,0 +1,11 @@
+{
+  "clientId": 6301,
+  "key": "item.misc.fabric_bag",
+  "kind": "item",
+  "name": {
+    "ru": "Тканевая сумка",
+    "en": "Fabric Bag"
+  },
+  "apiId": "1dnq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8331,
+  "key": "item.quest.hellroot_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Едкий чертоцвет",
+    "en": "Caustic Hellroot"
+  },
+  "apiId": "4vno",
+  "apiIdStatus": "inferred"
+}

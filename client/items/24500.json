@@ -1,0 +1,11 @@
+{
+  "clientId": 24500,
+  "key": "item.24500",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Флаг России»",
+    "en": "Russian Flag Charm"
+  },
+  "apiId": "96rwy",
+  "apiIdStatus": "inferred"
+}

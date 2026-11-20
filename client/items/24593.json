@@ -1,0 +1,11 @@
+{
+  "clientId": 24593,
+  "key": "item.charm.hw23_stonks",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Stonks»",
+    "en": "Stonks Charm"
+  },
+  "apiId": "3gwy5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11457,
+  "key": "item.art.blizzard_chickengod",
+  "kind": "item",
+  "name": {
+    "ru": "Куриный бог",
+    "en": "Chicken God"
+  },
+  "apiId": "qo94",
+  "apiIdStatus": "inferred"
+}

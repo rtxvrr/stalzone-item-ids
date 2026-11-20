@@ -1,0 +1,11 @@
+{
+  "clientId": 6322,
+  "key": "item.misc.boar_meat_ground",
+  "kind": "item",
+  "name": {
+    "ru": "Фарш из кабана",
+    "en": "Ground Boar Meat"
+  },
+  "apiId": "7rvr",
+  "apiIdStatus": "inferred"
+}

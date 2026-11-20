@@ -1,0 +1,11 @@
+{
+  "clientId": 15970,
+  "key": "item.crt.winter_26",
+  "kind": "item",
+  "name": {
+    "ru": "Термоблок",
+    "en": "Thermal Block"
+  },
+  "apiId": "7lwkr",
+  "apiIdStatus": "inferred"
+}

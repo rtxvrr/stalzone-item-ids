@@ -1,0 +1,11 @@
+{
+  "clientId": 6413,
+  "key": "item.misc.compact_transformer",
+  "kind": "item",
+  "name": {
+    "ru": "Автотрансформатор",
+    "en": "Autotransformer"
+  },
+  "apiId": "0279",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16947,
+  "key": "item.quest.freedom.dossier_Chechil",
+  "kind": "item",
+  "name": {
+    "ru": "Досье: Чечил",
+    "en": "Dossier: Chechil"
+  },
+  "apiId": "6wlry",
+  "apiIdStatus": "inferred"
+}

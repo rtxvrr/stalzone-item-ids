@@ -1,0 +1,11 @@
+{
+  "clientId": 26074,
+  "key": "item.med.inside_cider",
+  "kind": "item",
+  "name": {
+    "ru": "Измененный сидр",
+    "en": "Altered Cider"
+  },
+  "apiId": "g4lp0",
+  "apiIdStatus": "inferred"
+}

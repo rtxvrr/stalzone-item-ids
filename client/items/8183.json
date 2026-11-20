@@ -1,0 +1,11 @@
+{
+  "clientId": 8183,
+  "key": "item.quest.you_cant_come_here_papper",
+  "kind": "item",
+  "name": {
+    "ru": "Записка мертвеца",
+    "en": "Dead Man's Note"
+  },
+  "apiId": "l4rq",
+  "apiIdStatus": "inferred"
+}

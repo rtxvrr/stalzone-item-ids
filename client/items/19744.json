@@ -1,0 +1,11 @@
+{
+  "clientId": 19744,
+  "key": "item.camo.arm.bhumus",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Боральский чернозем»",
+    "en": "Black Earth of Boral Paint"
+  },
+  "apiId": "2od35",
+  "apiIdStatus": "inferred"
+}

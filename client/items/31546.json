@@ -1,0 +1,11 @@
+{
+  "clientId": 31546,
+  "key": "item.ny_toys.setM.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Зеркальная игрушка-перья диггеров",
+    "en": "Digger's Mirror Feathers Decoration"
+  },
+  "apiId": "773jr",
+  "apiIdStatus": "inferred"
+}

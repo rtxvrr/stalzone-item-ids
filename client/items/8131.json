@@ -1,0 +1,11 @@
+{
+  "clientId": 8131,
+  "key": "item.quest.operation2025_cassette4",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из реакторной Полигона-7",
+    "en": "Cassette from the Reactor Room of Area-7"
+  },
+  "apiId": "4vkl",
+  "apiIdStatus": "inferred"
+}

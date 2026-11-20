@@ -1,0 +1,11 @@
+{
+  "clientId": 16663,
+  "key": "item.16663",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с инструментами",
+    "en": "Toolbox"
+  },
+  "apiId": "okpr6",
+  "apiIdStatus": "inferred"
+}

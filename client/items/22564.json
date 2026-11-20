@@ -1,0 +1,11 @@
+{
+  "clientId": 22564,
+  "key": "item.att.barrel_ks23short",
+  "kind": "item",
+  "name": {
+    "ru": "Короткий ствол КС-23",
+    "en": "KS-23 Short Barrel"
+  },
+  "apiId": "n4zww",
+  "apiIdStatus": "inferred"
+}

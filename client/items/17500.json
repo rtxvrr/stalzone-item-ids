@@ -1,0 +1,11 @@
+{
+  "clientId": 17500,
+  "key": "item.style.wpn.val_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Морозная кость»",
+    "en": "Frost Bone"
+  },
+  "apiId": "9612z",
+  "apiIdStatus": "inferred"
+}

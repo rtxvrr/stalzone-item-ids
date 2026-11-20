@@ -1,0 +1,11 @@
+{
+  "clientId": 6222,
+  "key": "item.misc.boar_meat_fried",
+  "kind": "item",
+  "name": {
+    "ru": "Жареное мясо кабана",
+    "en": "Fried Boar Meat"
+  },
+  "apiId": "7rm3",
+  "apiIdStatus": "inferred"
+}

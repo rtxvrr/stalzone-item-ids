@@ -1,0 +1,11 @@
+{
+  "clientId": 26057,
+  "key": "item.med.inside_nootrop_2",
+  "kind": "item",
+  "name": {
+    "ru": "Ноотроп-тирозин",
+    "en": "Nootropic-Tyrosine"
+  },
+  "apiId": "qj936",
+  "apiIdStatus": "inferred"
+}

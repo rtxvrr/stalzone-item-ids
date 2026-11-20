@@ -1,0 +1,11 @@
+{
+  "clientId": 31511,
+  "key": "item.ny_toys.setK.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая простецкая мишура",
+    "en": "Simple Crafted Tinsel"
+  },
+  "apiId": "l05mq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24797,
+  "key": "item.charm.dmz26_mines",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «С любовью»",
+    "en": "With Love Charm"
+  },
+  "apiId": "1rkr1",
+  "apiIdStatus": "inferred"
+}

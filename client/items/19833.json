@@ -1,0 +1,11 @@
+{
+  "clientId": 19833,
+  "key": "item.camo.unique_wpn.m16a3_halloween23",
+  "kind": "item",
+  "name": {
+    "ru": "«Ствол Большого Мальчика»",
+    "en": "Big Boy Gun"
+  },
+  "apiId": "qjvv4",
+  "apiIdStatus": "inferred"
+}

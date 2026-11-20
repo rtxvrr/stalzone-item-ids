@@ -1,0 +1,11 @@
+{
+  "clientId": 9351,
+  "key": "item.wpn.ptrd_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Петарда»",
+    "en": "Petard"
+  },
+  "apiId": "zr09",
+  "apiIdStatus": "inferred"
+}

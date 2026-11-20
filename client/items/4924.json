@@ -1,0 +1,11 @@
+{
+  "clientId": 4924,
+  "key": "item.plc.sticker.inside_picklock",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Тени",
+    "en": "Shadow Sticker"
+  },
+  "apiId": "905z",
+  "apiIdStatus": "inferred"
+}

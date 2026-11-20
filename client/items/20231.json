@@ -1,0 +1,11 @@
+{
+  "clientId": 20231,
+  "key": "item.wpn.scout",
+  "kind": "item",
+  "name": {
+    "ru": "Steyr Scout",
+    "en": "Steyr Scout"
+  },
+  "apiId": "4qnkr",
+  "apiIdStatus": "inferred"
+}

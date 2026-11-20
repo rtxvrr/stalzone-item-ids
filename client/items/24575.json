@@ -1,0 +1,11 @@
+{
+  "clientId": 24575,
+  "key": "item.charm.meme_capybara",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Карбюратор»",
+    "en": "Carburetor Charm"
+  },
+  "apiId": "zzd9m",
+  "apiIdStatus": "inferred"
+}

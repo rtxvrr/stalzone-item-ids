@@ -1,0 +1,11 @@
+{
+  "clientId": 26010,
+  "key": "item.med.thermobarier_2",
+  "kind": "item",
+  "name": {
+    "ru": "«Термобарьер» второго класса",
+    "en": "2nd Class ThermoBlock"
+  },
+  "apiId": "j5mn7",
+  "apiIdStatus": "inferred"
+}

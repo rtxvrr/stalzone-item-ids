@@ -1,0 +1,11 @@
+{
+  "clientId": 21013,
+  "key": "item.melee.iceaxe",
+  "kind": "item",
+  "name": {
+    "ru": "Ледоруб",
+    "en": "Ice Pick"
+  },
+  "apiId": "0rq2k",
+  "apiIdStatus": "inferred"
+}

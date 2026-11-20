@@ -1,0 +1,11 @@
+{
+  "clientId": 31152,
+  "key": "item.clan.resource3",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик с продовольствием",
+    "en": "Crate of Rations"
+  },
+  "apiId": "5535q",
+  "apiIdStatus": "inferred"
+}

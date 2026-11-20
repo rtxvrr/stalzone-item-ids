@@ -1,0 +1,11 @@
+{
+  "clientId": 4980,
+  "key": "item.plc.sticker.triumph26_bubble",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Мысль»",
+    "en": "Thought Sticker"
+  },
+  "apiId": "kj9v",
+  "apiIdStatus": "inferred"
+}

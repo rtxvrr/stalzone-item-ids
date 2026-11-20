@@ -1,0 +1,11 @@
+{
+  "clientId": 16892,
+  "key": "item.quest.covenant_chevron",
+  "kind": "item",
+  "name": {
+    "ru": "Шеврон офицера «Завета»",
+    "en": "Covenant Officer Chevron"
+  },
+  "apiId": "2ogwv",
+  "apiIdStatus": "inferred"
+}

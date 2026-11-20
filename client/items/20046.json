@@ -1,0 +1,11 @@
+{
+  "clientId": 20046,
+  "key": "item.wpn.fal_old",
+  "kind": "item",
+  "name": {
+    "ru": "Старый FN FAL",
+    "en": "Old FN FAL"
+  },
+  "apiId": "7lrm3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 6134,
+  "key": "item.misc.polymers",
+  "kind": "item",
+  "name": {
+    "ru": "Полимеры",
+    "en": "Polymers"
+  },
+  "apiId": "jl26",
+  "apiIdStatus": "inferred"
+}

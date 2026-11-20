@@ -1,0 +1,11 @@
+{
+  "clientId": 22810,
+  "key": "item.att.forend_mr133_bint",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье MP-133, обмотанное",
+    "en": "MP-133 Handguard, Taped"
+  },
+  "apiId": "j526l",
+  "apiIdStatus": "inferred"
+}

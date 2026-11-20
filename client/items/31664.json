@@ -1,0 +1,11 @@
+{
+  "clientId": 31664,
+  "key": "item.blueprint.arm.ao4",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж УКАЗ АО-4 «Рейдер»",
+    "en": "RAPS AH-4 Raider Blueprint"
+  },
+  "apiId": "nkn01",
+  "apiIdStatus": "inferred"
+}

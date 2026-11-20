@@ -1,0 +1,11 @@
+{
+  "clientId": 12051,
+  "key": "item.cont.kega",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Кега»",
+    "en": "Kega Container"
+  },
+  "apiId": "zj1k",
+  "apiIdStatus": "inferred"
+}

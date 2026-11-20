@@ -1,0 +1,11 @@
+{
+  "clientId": 19767,
+  "key": "item.camo.arm.kryptek_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Kryptek Violet»",
+    "en": "Kryptek Violet Camouflage"
+  },
+  "apiId": "dmq92",
+  "apiIdStatus": "inferred"
+}

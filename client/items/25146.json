@@ -1,0 +1,11 @@
+{
+  "clientId": 25146,
+  "key": "item.arm.bully",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Хулиган»",
+    "en": "Hooligan Suit"
+  },
+  "apiId": "7lmpj",
+  "apiIdStatus": "inferred"
+}

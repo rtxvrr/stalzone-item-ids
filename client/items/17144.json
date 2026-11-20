@@ -1,0 +1,11 @@
+{
+  "clientId": 17144,
+  "key": "item.style.arm.exomod_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "«Белый шум»",
+    "en": "White noise"
+  },
+  "apiId": "2ogym",
+  "apiIdStatus": "inferred"
+}

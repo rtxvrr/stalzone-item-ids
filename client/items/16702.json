@@ -1,0 +1,11 @@
+{
+  "clientId": 16702,
+  "key": "item.art.mod_shuffle",
+  "kind": "item",
+  "name": {
+    "ru": "Дестабилизатор",
+    "en": "Destabilizer"
+  },
+  "apiId": "g4175",
+  "apiIdStatus": "inferred"
+}

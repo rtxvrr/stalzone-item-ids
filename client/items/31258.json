@@ -1,0 +1,11 @@
+{
+  "clientId": 31258,
+  "key": "item.scheme.yorsh_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #4: «Йорш»",
+    "en": "Schematic #4: Yorsh"
+  },
+  "apiId": "j0ggl",
+  "apiIdStatus": "inferred"
+}

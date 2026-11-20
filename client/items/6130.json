@@ -1,0 +1,11 @@
+{
+  "clientId": 6130,
+  "key": "item.misc.dead_bladder",
+  "kind": "item",
+  "name": {
+    "ru": "Опухоль мертвеца",
+    "en": "Corpse Tumor"
+  },
+  "apiId": "woro",
+  "apiIdStatus": "inferred"
+}

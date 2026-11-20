@@ -1,0 +1,11 @@
+{
+  "clientId": 18256,
+  "key": "item.camo.wpn.hexcam_blizzard",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Hexcam Blizzard»",
+    "en": "Hexcam Blizzard Camouflage"
+  },
+  "apiId": "kn200",
+  "apiIdStatus": "inferred"
+}

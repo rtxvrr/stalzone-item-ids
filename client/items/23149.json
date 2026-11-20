@@ -1,0 +1,11 @@
+{
+  "clientId": 23149,
+  "key": "item.att.handle_rk3_f",
+  "kind": "item",
+  "name": {
+    "ru": "Рукоять РК-3, зимняя",
+    "en": "RK-3 Grip, Winter"
+  },
+  "apiId": "1rzlq",
+  "apiIdStatus": "inferred"
+}

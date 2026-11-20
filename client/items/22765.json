@@ -1,0 +1,11 @@
+{
+  "clientId": 22765,
+  "key": "item.att.mag_fort12",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин Форт-12",
+    "en": "Fort-12 Extended Magazine"
+  },
+  "apiId": "p6y14",
+  "apiIdStatus": "inferred"
+}

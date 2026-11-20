@@ -1,0 +1,11 @@
+{
+  "clientId": 11934,
+  "key": "item.plate.glass5",
+  "kind": "item",
+  "name": {
+    "ru": "Стеклянная пластина V",
+    "en": "Glass Plate V"
+  },
+  "apiId": "j3dg",
+  "apiIdStatus": "inferred"
+}

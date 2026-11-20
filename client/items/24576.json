@@ -1,0 +1,11 @@
+{
+  "clientId": 24576,
+  "key": "item.charm.meme_question",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Созрел вопроссольник»",
+    "en": "I Have A Picky Question Charm"
+  },
+  "apiId": "5lk4q",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16750,
+  "key": "item.16750",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик со снаряжением",
+    "en": "Crate of Gear"
+  },
+  "apiId": "g4945",
+  "apiIdStatus": "inferred"
+}

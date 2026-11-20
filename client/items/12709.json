@@ -1,0 +1,11 @@
+{
+  "clientId": 12709,
+  "key": "item.amm.12inc",
+  "kind": "item",
+  "name": {
+    "ru": "Зажигательные 12 калибра",
+    "en": "12 Caliber Incendiary"
+  },
+  "apiId": "qmjk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4999,
+  "key": "item.plc.sticker.prestige_damn",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Черт...»",
+    "en": "Damn... Sticker"
+  },
+  "apiId": "zvrn",
+  "apiIdStatus": "inferred"
+}

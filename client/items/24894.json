@@ -1,0 +1,11 @@
+{
+  "clientId": 24894,
+  "key": "item.charm.nea_flag",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Флаг Южной Кореи»",
+    "en": "South Korean Flag Charm"
+  },
+  "apiId": "7lmo3",
+  "apiIdStatus": "inferred"
+}

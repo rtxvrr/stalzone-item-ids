@@ -1,0 +1,11 @@
+{
+  "clientId": 11702,
+  "key": "item.wpn_mod.remover",
+  "kind": "item",
+  "name": {
+    "ru": "Квазидеструктор",
+    "en": "Quasi-Destructor"
+  },
+  "apiId": "g3zg",
+  "apiIdStatus": "inferred"
+}

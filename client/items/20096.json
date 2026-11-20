@@ -1,0 +1,11 @@
+{
+  "clientId": 20096,
+  "key": "item.wpn.scarl_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "SCAR-L Twitch",
+    "en": "SCAR-L Twitch"
+  },
+  "apiId": "96m40",
+  "apiIdStatus": "inferred"
+}

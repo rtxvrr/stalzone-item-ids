@@ -1,0 +1,11 @@
+{
+  "clientId": 24679,
+  "key": "item.charm.autumn24_bm_skull_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Оскал Twitch»",
+    "en": "\"Twitch Grin\" Charm"
+  },
+  "apiId": "4q49j",
+  "apiIdStatus": "inferred"
+}

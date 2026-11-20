@@ -1,0 +1,11 @@
+{
+  "clientId": 31417,
+  "key": "item.bag.545fire",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 5.45 мм «Жгучий»",
+    "en": "Pouch of 5.45 mm Fluff Rounds"
+  },
+  "apiId": "pjn46",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4936,
+  "key": "item.plc.sticker.newyeartree_snow",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Снежной лиги",
+    "en": "Snow League Sticker"
+  },
+  "apiId": "ryq5",
+  "apiIdStatus": "inferred"
+}

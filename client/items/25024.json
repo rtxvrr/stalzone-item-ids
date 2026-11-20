@@ -1,0 +1,11 @@
+{
+  "clientId": 25024,
+  "key": "item.arm.ao2-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АО-2 «Странник»",
+    "en": "Worn AH-2 Rover"
+  },
+  "apiId": "96nml",
+  "apiIdStatus": "inferred"
+}

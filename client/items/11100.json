@@ -1,0 +1,11 @@
+{
+  "clientId": 11100,
+  "key": "item.art.karousel_bloodstone",
+  "kind": "item",
+  "name": {
+    "ru": "Ягодка",
+    "en": "Berry"
+  },
+  "apiId": "9n1w",
+  "apiIdStatus": "inferred"
+}

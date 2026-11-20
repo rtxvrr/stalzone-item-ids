@@ -1,0 +1,11 @@
+{
+  "clientId": 16938,
+  "key": "item.quest.white_plate_special",
+  "kind": "item",
+  "name": {
+    "ru": "Особая белая плата",
+    "en": "Special White Circuit Board"
+  },
+  "apiId": "m01z7",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 13221,
+  "key": "item.camo.wpn.spring26_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Темная звезда»",
+    "en": "Dark Star Paint"
+  },
+  "apiId": "3vv1",
+  "apiIdStatus": "inferred"
+}

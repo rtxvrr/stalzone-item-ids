@@ -1,0 +1,11 @@
+{
+  "clientId": 8222,
+  "key": "item.quest.puer_scaner",
+  "kind": "item",
+  "name": {
+    "ru": "Анализатор почвы",
+    "en": "Soil Analyzer"
+  },
+  "apiId": "7636",
+  "apiIdStatus": "inferred"
+}

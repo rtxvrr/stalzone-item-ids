@@ -1,0 +1,11 @@
+{
+  "clientId": 24765,
+  "key": "item.charm.dismantling",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Демонтаж»",
+    "en": "Demolition Charm"
+  },
+  "apiId": "p67p2",
+  "apiIdStatus": "inferred"
+}

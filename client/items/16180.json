@@ -1,0 +1,11 @@
+{
+  "clientId": 16180,
+  "key": "item.16180",
+  "kind": "item",
+  "name": {
+    "ru": "Сухарь",
+    "en": "Cracker"
+  },
+  "apiId": "knprp",
+  "apiIdStatus": "inferred"
+}

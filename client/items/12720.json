@@ -1,0 +1,11 @@
+{
+  "clientId": 12720,
+  "key": "item.amm.556bb",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм бронебойный",
+    "en": "5.56 mm Armor-Piercing Round"
+  },
+  "apiId": "2p16",
+  "apiIdStatus": "inferred"
+}

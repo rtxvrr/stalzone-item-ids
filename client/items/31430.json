@@ -1,0 +1,11 @@
+{
+  "clientId": 31430,
+  "key": "item.lootbox.faction_merc",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик Наемников",
+    "en": "Mercenary Crate"
+  },
+  "apiId": "w3z1p",
+  "apiIdStatus": "inferred"
+}

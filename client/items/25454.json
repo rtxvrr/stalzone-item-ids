@@ -1,0 +1,11 @@
+{
+  "clientId": 25454,
+  "key": "item.arm.peresvet",
+  "kind": "item",
+  "name": {
+    "ru": "Комбинезон «Пересвет»",
+    "en": "Peresvet Jumpsuit"
+  },
+  "apiId": "wj4lp",
+  "apiIdStatus": "inferred"
+}

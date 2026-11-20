@@ -1,0 +1,11 @@
+{
+  "clientId": 19551,
+  "key": "item.camo.unique_arm.freedom",
+  "kind": "item",
+  "name": {
+    "ru": "«Заря»",
+    "en": "Rise"
+  },
+  "apiId": "zz619",
+  "apiIdStatus": "inferred"
+}

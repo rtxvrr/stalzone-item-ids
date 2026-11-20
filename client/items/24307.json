@@ -1,0 +1,11 @@
+{
+  "clientId": 24307,
+  "key": "item.charm.wrongway",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Неверный путь»",
+    "en": "Wrong Way Charm"
+  },
+  "apiId": "4q47l",
+  "apiIdStatus": "inferred"
+}

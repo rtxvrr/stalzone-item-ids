@@ -1,0 +1,11 @@
+{
+  "clientId": 29989,
+  "key": "item.filler.outpost_5",
+  "kind": "item",
+  "name": {
+    "ru": "Нашивка офицера",
+    "en": "Officer's Patch"
+  },
+  "apiId": "pjq64",
+  "apiIdStatus": "inferred"
+}

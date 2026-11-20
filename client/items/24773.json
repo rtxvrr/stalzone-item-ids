@@ -1,0 +1,11 @@
+{
+  "clientId": 24773,
+  "key": "item.charm.autumn25_encaged_medic",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Выживший медик»",
+    "en": "Survivor Medic Charm"
+  },
+  "apiId": "1rk01",
+  "apiIdStatus": "inferred"
+}

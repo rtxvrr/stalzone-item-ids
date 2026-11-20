@@ -1,0 +1,11 @@
+{
+  "clientId": 19716,
+  "key": "item.camo.arm.snowfall",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Снегопад»",
+    "en": "Snowfall Paint"
+  },
+  "apiId": "n4pg2",
+  "apiIdStatus": "inferred"
+}

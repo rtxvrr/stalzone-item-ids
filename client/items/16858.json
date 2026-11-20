@@ -1,0 +1,11 @@
+{
+  "clientId": 16858,
+  "key": "item.quest.joke_book_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "Сборник анекдотов",
+    "en": "Collection of anecdotes"
+  },
+  "apiId": "j5zgl",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11157,
+  "key": "item.art.kisel_puzir",
+  "kind": "item",
+  "name": {
+    "ru": "Жвачка",
+    "en": "Gum"
+  },
+  "apiId": "qo59",
+  "apiIdStatus": "inferred"
+}

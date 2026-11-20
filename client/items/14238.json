@@ -1,0 +1,11 @@
+{
+  "clientId": 14238,
+  "key": "item.crate.craft_heal",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Подорожник»",
+    "en": "Crate of Plantain Grenades"
+  },
+  "apiId": "m0wdy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8054,
+  "key": "item.quest.synthesized_composition",
+  "kind": "item",
+  "name": {
+    "ru": "Синтезированный состав",
+    "en": "Synthesized composition"
+  },
+  "apiId": "w1kp",
+  "apiIdStatus": "inferred"
+}

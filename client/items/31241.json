@@ -1,0 +1,11 @@
+{
+  "clientId": 31241,
+  "key": "item.scheme.pm_mod_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #2: ПМ вечного новичка",
+    "en": "Schematic #2: Eternal Novice's PM"
+  },
+  "apiId": "pjn5d",
+  "apiIdStatus": "inferred"
+}

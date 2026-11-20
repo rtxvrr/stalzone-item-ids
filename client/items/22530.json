@@ -1,0 +1,11 @@
+{
+  "clientId": 22530,
+  "key": "item.att.barrel_extension9mm",
+  "kind": "item",
+  "name": {
+    "ru": "Удлиненный ствол 9 мм",
+    "en": "9 mm Barrel Extension"
+  },
+  "apiId": "wjr3d",
+  "apiIdStatus": "inferred"
+}

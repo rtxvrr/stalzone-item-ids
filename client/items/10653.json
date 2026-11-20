@@ -1,0 +1,11 @@
+{
+  "clientId": 10653,
+  "key": "item.key.safe_murmur",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ от сейфа «Шепота»",
+    "en": "Murmur Safe Key"
+  },
+  "apiId": "yd2k",
+  "apiIdStatus": "inferred"
+}

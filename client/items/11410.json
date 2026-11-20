@@ -1,0 +1,11 @@
+{
+  "clientId": 11410,
+  "key": "item.art.ravent_tablecloth",
+  "kind": "item",
+  "name": {
+    "ru": "Скатерть-самобранка",
+    "en": "Magic Tablecloth"
+  },
+  "apiId": "jkkl",
+  "apiIdStatus": "inferred"
+}

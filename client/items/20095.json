@@ -1,0 +1,11 @@
+{
+  "clientId": 20095,
+  "key": "item.wpn.ak15",
+  "kind": "item",
+  "name": {
+    "ru": "АК-15",
+    "en": "AK-15"
+  },
+  "apiId": "6wr5j",
+  "apiIdStatus": "inferred"
+}

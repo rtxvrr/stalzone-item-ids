@@ -1,0 +1,11 @@
+{
+  "clientId": 24833,
+  "key": "item.charm.mk_sphere",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Астролябия»",
+    "en": "Astrolabe Charm"
+  },
+  "apiId": "qjo06",
+  "apiIdStatus": "inferred"
+}

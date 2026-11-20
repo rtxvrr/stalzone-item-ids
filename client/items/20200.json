@@ -1,0 +1,11 @@
+{
+  "clientId": 20200,
+  "key": "item.wpn.sks-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный СКС",
+    "en": "Worn SKS"
+  },
+  "apiId": "9696l",
+  "apiIdStatus": "inferred"
+}

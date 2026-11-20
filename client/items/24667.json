@@ -1,0 +1,11 @@
+{
+  "clientId": 24667,
+  "key": "item.charm.welcome_myneosha",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок фаната канала «MyNeosha»",
+    "en": "MyNeosha Channel Fan Charm"
+  },
+  "apiId": "dm7gg",
+  "apiIdStatus": "inferred"
+}

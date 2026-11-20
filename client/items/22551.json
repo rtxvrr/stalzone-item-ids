@@ -1,0 +1,11 @@
+{
+  "clientId": 22551,
+  "key": "item.att.silencer_osprey",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель Osprey",
+    "en": "Osprey Silencer"
+  },
+  "apiId": "zz9k9",
+  "apiIdStatus": "inferred"
+}

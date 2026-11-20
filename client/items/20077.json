@@ -1,0 +1,11 @@
+{
+  "clientId": 20077,
+  "key": "item.wpn.kriss",
+  "kind": "item",
+  "name": {
+    "ru": "TDI KRISS Vector",
+    "en": "TDI KRISS Vector"
+  },
+  "apiId": "y37qz",
+  "apiIdStatus": "inferred"
+}

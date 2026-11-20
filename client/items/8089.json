@@ -1,0 +1,11 @@
+{
+  "clientId": 8089,
+  "key": "item.quest.hookah_tabacco",
+  "kind": "item",
+  "name": {
+    "ru": "Табак Полонского",
+    "en": "Polonsky Tobacco"
+  },
+  "apiId": "pl66",
+  "apiIdStatus": "inferred"
+}

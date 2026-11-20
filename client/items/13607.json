@@ -1,0 +1,11 @@
+{
+  "clientId": 13607,
+  "key": "item.camo.arm.dmz26_skin_25",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Слякоть»",
+    "en": "Slush Paint"
+  },
+  "apiId": "4rvr",
+  "apiIdStatus": "inferred"
+}

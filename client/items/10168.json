@@ -1,0 +1,11 @@
+{
+  "clientId": 10168,
+  "key": "item.quest.smotrikov19",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Работа",
+    "en": "Audio recorder: Work"
+  },
+  "apiId": "2z75",
+  "apiIdStatus": "inferred"
+}

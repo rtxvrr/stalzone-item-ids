@@ -1,0 +1,11 @@
+{
+  "clientId": 8261,
+  "key": "item.quest.pismo_dla_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Письмо бойцу «Тайфуна»",
+    "en": "Letter to Typhoon Fighter"
+  },
+  "apiId": "0vm9",
+  "apiIdStatus": "inferred"
+}

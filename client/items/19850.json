@@ -1,0 +1,11 @@
+{
+  "clientId": 19850,
+  "key": "item.motif.wpn.vssm_branch_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Серия «Служивый»",
+    "en": "Series: Bravo"
+  },
+  "apiId": "g40mn",
+  "apiIdStatus": "inferred"
+}

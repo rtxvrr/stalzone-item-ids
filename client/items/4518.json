@@ -1,0 +1,11 @@
+{
+  "clientId": 4518,
+  "key": "item.plc.pattern.operations_sniper",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Фокусировка»",
+    "en": "Focus Pattern"
+  },
+  "apiId": "v56g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28621,
+  "key": "item.med.bandage_a",
+  "kind": "item",
+  "name": {
+    "ru": "Бинт Армейский",
+    "en": "Army Bandage"
+  },
+  "apiId": "34gyl",
+  "apiIdStatus": "inferred"
+}

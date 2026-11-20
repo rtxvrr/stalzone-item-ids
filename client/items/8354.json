@@ -1,0 +1,11 @@
+{
+  "clientId": 8354,
+  "key": "item.quest.zov_brodyaga_3",
+  "kind": "item",
+  "name": {
+    "ru": "Дневник Бродяги 3",
+    "en": "Wanderer's Journal 3"
+  },
+  "apiId": "wp63",
+  "apiIdStatus": "inferred"
+}

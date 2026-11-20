@@ -1,0 +1,11 @@
+{
+  "clientId": 22567,
+  "key": "item.att.barrel_2ax3_dmz26",
+  "kind": "item",
+  "name": {
+    "ru": "2A Armament X3 Compensator",
+    "en": "2A Armament X3 Compensator"
+  },
+  "apiId": "dm2y9",
+  "apiIdStatus": "inferred"
+}

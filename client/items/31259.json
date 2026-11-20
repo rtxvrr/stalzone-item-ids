@@ -1,0 +1,11 @@
+{
+  "clientId": 31259,
+  "key": "item.scheme.spanner_1",
+  "kind": "item",
+  "name": {
+    "ru": "Часть схемы #1: «Спаннер»",
+    "en": "Schematic #1: Spanner"
+  },
+  "apiId": "l0552",
+  "apiIdStatus": "inferred"
+}

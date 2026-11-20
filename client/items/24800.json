@@ -1,0 +1,11 @@
+{
+  "clientId": 24800,
+  "key": "item.charm.dmz26_bullets",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ротация»",
+    "en": "Rotation Charm"
+  },
+  "apiId": "96n60",
+  "apiIdStatus": "inferred"
+}

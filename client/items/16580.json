@@ -1,0 +1,11 @@
+{
+  "clientId": 16580,
+  "key": "item.16580",
+  "kind": "item",
+  "name": {
+    "ru": "Купон на 1000 очков Боевого Пропуска",
+    "en": "Coupon for 1,000 Battle Pass points"
+  },
+  "apiId": "knp73",
+  "apiIdStatus": "inferred"
+}

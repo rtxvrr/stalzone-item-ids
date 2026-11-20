@@ -1,0 +1,11 @@
+{
+  "clientId": 31081,
+  "key": "item.brt.armsklad.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Кислотная крапива",
+    "en": "Acid Nettle"
+  },
+  "apiId": "q03dj",
+  "apiIdStatus": "inferred"
+}

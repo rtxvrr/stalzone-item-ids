@@ -1,0 +1,11 @@
+{
+  "clientId": 11421,
+  "key": "item.art.ravent_apple_quest",
+  "kind": "item",
+  "name": {
+    "ru": "Молодильное яблоко",
+    "en": "Youth-giving Apple"
+  },
+  "apiId": "3661",
+  "apiIdStatus": "inferred"
+}

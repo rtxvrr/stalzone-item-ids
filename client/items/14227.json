@@ -1,0 +1,11 @@
+{
+  "clientId": 14227,
+  "key": "item.crate.m381_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик самодельных M381",
+    "en": "Crate of Handmade M381s"
+  },
+  "apiId": "zzgry",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28705,
+  "key": "item.key.halloween_2022",
+  "kind": "item",
+  "name": {
+    "ru": "Фантомный ящик",
+    "en": "Phantom Crate"
+  },
+  "apiId": "y43q3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8311,
+  "key": "item.quest.the_shock_wave_hunting_contract",
+  "kind": "item",
+  "name": {
+    "ru": "Контракт на охоту",
+    "en": "Hunting Contract"
+  },
+  "apiId": "l4lo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18771,
+  "key": "item.camo.wpn.burlap",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Мешковина»",
+    "en": "Burlap Paint"
+  },
+  "apiId": "6wdvy",
+  "apiIdStatus": "inferred"
+}

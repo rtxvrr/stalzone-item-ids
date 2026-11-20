@@ -1,0 +1,11 @@
+{
+  "clientId": 25103,
+  "key": "item.arm.ao5-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный АО-5 «Пилигрим»",
+    "en": "Worn AH-5 Pilgrim"
+  },
+  "apiId": "zzy5m",
+  "apiIdStatus": "inferred"
+}

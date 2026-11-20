@@ -1,0 +1,11 @@
+{
+  "clientId": 18318,
+  "key": "item.camo.wpn.dayx_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ночное видение»",
+    "en": "Night Vision Paint"
+  },
+  "apiId": "vj51g",
+  "apiIdStatus": "inferred"
+}

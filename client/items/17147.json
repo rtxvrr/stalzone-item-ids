@@ -1,0 +1,11 @@
+{
+  "clientId": 17147,
+  "key": "item.style.arm.heavy_autumn25",
+  "kind": "item",
+  "name": {
+    "ru": "«Погонщик»",
+    "en": "Herdsman"
+  },
+  "apiId": "6wlq6",
+  "apiIdStatus": "inferred"
+}

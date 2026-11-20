@@ -1,0 +1,11 @@
+{
+  "clientId": 22292,
+  "key": "item.att.scope_pu",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический ПУ на боковой кронштейн",
+    "en": "PU Optical Sight on Side Bracket"
+  },
+  "apiId": "2o25v",
+  "apiIdStatus": "inferred"
+}

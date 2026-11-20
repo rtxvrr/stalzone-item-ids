@@ -1,0 +1,11 @@
+{
+  "clientId": 15975,
+  "key": "item.crt.autumn_25_mushroom_episode",
+  "kind": "item",
+  "name": {
+    "ru": "Мицелиты",
+    "en": "Mycelits"
+  },
+  "apiId": "zzk49",
+  "apiIdStatus": "inferred"
+}

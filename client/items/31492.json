@@ -1,0 +1,11 @@
+{
+  "clientId": 31492,
+  "key": "item.case.winter25_exclusive_armory",
+  "kind": "item",
+  "name": {
+    "ru": "Элитный кейс «Операции Криостазис»",
+    "en": "Elite Operation Cryostasis Case "
+  },
+  "apiId": "21350",
+  "apiIdStatus": "inferred"
+}

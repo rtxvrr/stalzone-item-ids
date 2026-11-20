@@ -1,0 +1,11 @@
+{
+  "clientId": 31079,
+  "key": "item.brt.pd.signal_add",
+  "kind": "item",
+  "name": {
+    "ru": "Ретранслятор «Гамма»",
+    "en": "Gamma Relay Station"
+  },
+  "apiId": "4k5dr",
+  "apiIdStatus": "inferred"
+}

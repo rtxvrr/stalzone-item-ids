@@ -1,0 +1,11 @@
+{
+  "clientId": 4935,
+  "key": "item.plc.sticker.scstore_sosal",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Ну было и было»",
+    "en": "It Is What It Is Sticker"
+  },
+  "apiId": "lpz1",
+  "apiIdStatus": "inferred"
+}

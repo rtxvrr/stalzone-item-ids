@@ -1,0 +1,11 @@
+{
+  "clientId": 16912,
+  "key": "item.quest.merc.defectors_list",
+  "kind": "item",
+  "name": {
+    "ru": "Список перебежчиков",
+    "en": "List of Defectors"
+  },
+  "apiId": "rw6y5",
+  "apiIdStatus": "inferred"
+}

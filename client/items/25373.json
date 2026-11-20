@@ -1,0 +1,11 @@
+{
+  "clientId": 25373,
+  "key": "item.arm.templar",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Храмовник»",
+    "en": "Templar Armored Suit"
+  },
+  "apiId": "1rpr1",
+  "apiIdStatus": "inferred"
+}

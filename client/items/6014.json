@@ -1,0 +1,11 @@
+{
+  "clientId": 6014,
+  "key": "item.misc.water_carrier",
+  "kind": "item",
+  "name": {
+    "ru": "Водонос",
+    "en": "Water Carrier"
+  },
+  "apiId": "m22k",
+  "apiIdStatus": "inferred"
+}

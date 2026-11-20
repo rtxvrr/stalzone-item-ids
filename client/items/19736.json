@@ -1,0 +1,11 @@
+{
+  "clientId": 19736,
+  "key": "item.camo.arm.metamorphosis",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Метаморфоз»",
+    "en": "Metamorphosis Paint"
+  },
+  "apiId": "rwrpy",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12884,
+  "key": "item.amm.545test4",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм",
+    "en": "5.45 mm Round"
+  },
+  "apiId": "royg",
+  "apiIdStatus": "inferred"
+}

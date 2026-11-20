@@ -1,0 +1,11 @@
+{
+  "clientId": 13212,
+  "key": "item.camo.wpn.stream_battle_skin_3",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Тяжеловесы»",
+    "en": "Heavies Paint"
+  },
+  "apiId": "rooz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24920,
+  "key": "item.charm.prestige_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пульсар»",
+    "en": "Pulsar Charm"
+  },
+  "apiId": "2oq3m",
+  "apiIdStatus": "inferred"
+}

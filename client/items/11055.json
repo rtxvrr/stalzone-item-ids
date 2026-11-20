@@ -1,0 +1,11 @@
+{
+  "clientId": 11055,
+  "key": "item.art.jarka_glaz",
+  "kind": "item",
+  "name": {
+    "ru": "Гребешок",
+    "en": "Scallop"
+  },
+  "apiId": "4l7p",
+  "apiIdStatus": "inferred"
+}

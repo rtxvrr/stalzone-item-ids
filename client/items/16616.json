@@ -1,0 +1,11 @@
+{
+  "clientId": 16616,
+  "key": "item.16616",
+  "kind": "item",
+  "name": {
+    "ru": "Пресс-пакет",
+    "en": "Press Pack"
+  },
+  "apiId": "n4w31",
+  "apiIdStatus": "inferred"
+}

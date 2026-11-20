@@ -1,0 +1,11 @@
+{
+  "clientId": 27339,
+  "key": "item.misc.blizzard_quest_transistor",
+  "kind": "item",
+  "name": {
+    "ru": "Морозостойкий транзистор",
+    "en": "Frostproof Transistor"
+  },
+  "apiId": "okom4",
+  "apiIdStatus": "inferred"
+}

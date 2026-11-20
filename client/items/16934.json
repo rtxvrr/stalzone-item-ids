@@ -1,0 +1,11 @@
+{
+  "clientId": 16934,
+  "key": "item.quest.daily_delivery_box_special",
+  "kind": "item",
+  "name": {
+    "ru": "Особая коробка припасов",
+    "en": "Special Box of Supplies"
+  },
+  "apiId": "j5z96",
+  "apiIdStatus": "inferred"
+}

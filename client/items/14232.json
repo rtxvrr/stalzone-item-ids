@@ -1,0 +1,11 @@
+{
+  "clientId": 14232,
+  "key": "item.crate.craft_smoke",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик гранат «Завеса»",
+    "en": "Crate of Haze Grenades"
+  },
+  "apiId": "knydy",
+  "apiIdStatus": "inferred"
+}

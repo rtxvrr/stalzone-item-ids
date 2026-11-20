@@ -1,0 +1,11 @@
+{
+  "clientId": 24609,
+  "key": "item.charm.ny24_watch",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Часы Sнегурочки»",
+    "en": "Snow Maiden's Clock Charm"
+  },
+  "apiId": "qj764",
+  "apiIdStatus": "inferred"
+}

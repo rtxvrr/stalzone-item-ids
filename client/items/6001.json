@@ -1,0 +1,11 @@
+{
+  "clientId": 6001,
+  "key": "item.misc.mintfruit",
+  "kind": "item",
+  "name": {
+    "ru": "Мякоть мятноплода",
+    "en": "Mintfruit Pulp"
+  },
+  "apiId": "1ddr",
+  "apiIdStatus": "inferred"
+}

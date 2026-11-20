@@ -1,0 +1,11 @@
+{
+  "clientId": 19884,
+  "key": "item.motif.wpn.pkp_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Бронебойный»",
+    "en": "Armor-Piercing"
+  },
+  "apiId": "rwrzz",
+  "apiIdStatus": "inferred"
+}

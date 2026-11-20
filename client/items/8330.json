@@ -1,0 +1,11 @@
+{
+  "clientId": 8330,
+  "key": "item.quest.potir_tulpa",
+  "kind": "item",
+  "name": {
+    "ru": "Потир",
+    "en": "Chalice"
+  },
+  "apiId": "wp73",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 26551,
+  "key": "item.26551",
+  "kind": "item",
+  "name": {
+    "ru": "Какао",
+    "en": "Cacao"
+  },
+  "apiId": "zz13n",
+  "apiIdStatus": "inferred"
+}

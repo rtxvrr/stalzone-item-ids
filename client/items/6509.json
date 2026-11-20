@@ -1,0 +1,11 @@
+{
+  "clientId": 6509,
+  "key": "item.misc.polypropylene",
+  "kind": "item",
+  "name": {
+    "ru": "Полипропилен",
+    "en": "Polypropylene"
+  },
+  "apiId": "q2p3",
+  "apiIdStatus": "inferred"
+}

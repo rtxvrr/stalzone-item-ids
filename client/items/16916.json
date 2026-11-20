@@ -1,0 +1,11 @@
+{
+  "clientId": 16916,
+  "key": "item.quest.merc.phil_zombie_device_charged",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство для контроля зомбированных (заряжено)",
+    "en": "Zombie Control Device (Charged)"
+  },
+  "apiId": "n4g13",
+  "apiIdStatus": "inferred"
+}

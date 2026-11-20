@@ -1,0 +1,11 @@
+{
+  "clientId": 26054,
+  "key": "item.med.inside_lech_stamina",
+  "kind": "item",
+  "name": {
+    "ru": "Тонус Изнанки",
+    "en": "Inside Out Vigor"
+  },
+  "apiId": "wjw0p",
+  "apiIdStatus": "inferred"
+}

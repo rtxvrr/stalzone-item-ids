@@ -1,0 +1,11 @@
+{
+  "clientId": 20001,
+  "key": "item.wpn.mp5",
+  "kind": "item",
+  "name": {
+    "ru": "HK MP5",
+    "en": "HK MP5"
+  },
+  "apiId": "1rdg6",
+  "apiIdStatus": "inferred"
+}

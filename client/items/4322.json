@@ -1,0 +1,11 @@
+{
+  "clientId": 4322,
+  "key": "item.plc.background.scstore_a26_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Оковы Зоны»",
+    "en": "Zone Shackles Background"
+  },
+  "apiId": "7d57",
+  "apiIdStatus": "inferred"
+}

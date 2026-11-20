@@ -1,0 +1,11 @@
+{
+  "clientId": 24647,
+  "key": "item.charm.nina_hidden",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Скрытая угроза»",
+    "en": "Phantom Menace Charm"
+  },
+  "apiId": "6wqqn",
+  "apiIdStatus": "inferred"
+}

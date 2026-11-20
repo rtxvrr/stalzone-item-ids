@@ -1,0 +1,11 @@
+{
+  "clientId": 22526,
+  "key": "item.att.barrel_kosoi",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК «Косой»",
+    "en": "Kosoi MBC"
+  },
+  "apiId": "g42ng",
+  "apiIdStatus": "inferred"
+}

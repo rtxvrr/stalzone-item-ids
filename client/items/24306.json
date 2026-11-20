@@ -1,0 +1,11 @@
+{
+  "clientId": 24306,
+  "key": "item.charm.dar_oazis",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Дар Оазиса»",
+    "en": "Oasis Gift Charm"
+  },
+  "apiId": "wjdld",
+  "apiIdStatus": "inferred"
+}

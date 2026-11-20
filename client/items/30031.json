@@ -1,0 +1,11 @@
+{
+  "clientId": 30031,
+  "key": "item.filler.wild_mining_2",
+  "kind": "item",
+  "name": {
+    "ru": "Армированный шланг",
+    "en": "Reinforced Hose"
+  },
+  "apiId": "4k7oj",
+  "apiIdStatus": "inferred"
+}

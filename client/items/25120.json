@@ -1,0 +1,11 @@
+{
+  "clientId": 25120,
+  "key": "item.arm.murmur_dozer",
+  "kind": "item",
+  "name": {
+    "ru": "«Сопротивление»",
+    "en": "Resistance"
+  },
+  "apiId": "2oq25",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19528,
+  "key": "item.camo.unique_arm.joe",
+  "kind": "item",
+  "name": {
+    "ru": "«Одноглазый Джо»",
+    "en": "One-Eyed Joe"
+  },
+  "apiId": "5l7z4",
+  "apiIdStatus": "inferred"
+}

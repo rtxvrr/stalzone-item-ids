@@ -1,0 +1,11 @@
+{
+  "clientId": 16711,
+  "key": "item.16711",
+  "kind": "item",
+  "name": {
+    "ru": "Протоартефакт «Зажигалки»/Мороза",
+    "en": "Lighter/Frost Protoartifact"
+  },
+  "apiId": "ly9wo",
+  "apiIdStatus": "inferred"
+}

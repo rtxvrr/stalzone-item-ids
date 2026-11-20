@@ -1,0 +1,11 @@
+{
+  "clientId": 31833,
+  "key": "item.part.exomod",
+  "kind": "item",
+  "name": {
+    "ru": "Часть экзоскелета «Гектор»",
+    "en": "Hector Exoskeleton Part"
+  },
+  "apiId": "q0pn4",
+  "apiIdStatus": "inferred"
+}

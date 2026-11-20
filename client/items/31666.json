@@ -1,0 +1,11 @@
+{
+  "clientId": 31666,
+  "key": "item.blueprint.arm.ao6",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж УКАЗ АО-6 «Кочевник»",
+    "en": "RAPS AH-6 Nomad Blueprint"
+  },
+  "apiId": "vngwr",
+  "apiIdStatus": "inferred"
+}

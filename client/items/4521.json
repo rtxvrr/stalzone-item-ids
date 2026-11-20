@@ -1,0 +1,11 @@
+{
+  "clientId": 4521,
+  "key": "item.plc.pattern.winter26",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн сезона «Зона ниже нуля»",
+    "en": "Sub-Zero Zone Season Pattern"
+  },
+  "apiId": "32dk",
+  "apiIdStatus": "inferred"
+}

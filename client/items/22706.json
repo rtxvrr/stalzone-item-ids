@@ -1,0 +1,11 @@
+{
+  "clientId": 22706,
+  "key": "item.att.mag_cmag100h",
+  "kind": "item",
+  "name": {
+    "ru": "Барабанный магазин 5.56 NATO, хаки",
+    "en": "5.56 NATO Drum Magazine, Khaki"
+  },
+  "apiId": "wjro3",
+  "apiIdStatus": "inferred"
+}

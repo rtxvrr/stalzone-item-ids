@@ -1,0 +1,11 @@
+{
+  "clientId": 31669,
+  "key": "item.blueprint.arm.yantar",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж КИМ-99 «Янтарь»",
+    "en": "MIS-99 Amber Blueprint"
+  },
+  "apiId": "343jl",
+  "apiIdStatus": "inferred"
+}

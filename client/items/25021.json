@@ -1,0 +1,11 @@
+{
+  "clientId": 25021,
+  "key": "item.arm.goplit",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Гоплит»",
+    "en": "Hoplite Armored Suit"
+  },
+  "apiId": "3g6rl",
+  "apiIdStatus": "inferred"
+}

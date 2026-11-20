@@ -1,0 +1,11 @@
+{
+  "clientId": 24648,
+  "key": "item.charm.nina_unshakable",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Незыблемая»",
+    "en": "Charm Unyielding"
+  },
+  "apiId": "96rnq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31496,
+  "key": "item.lootbox.winter25_tickets_big",
+  "kind": "item",
+  "name": {
+    "ru": "Хабарчик",
+    "en": "Looty"
+  },
+  "apiId": "9d1l0",
+  "apiIdStatus": "inferred"
+}

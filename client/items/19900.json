@@ -1,0 +1,11 @@
+{
+  "clientId": 19900,
+  "key": "item.motif.wpn.vsk94_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Шипы»",
+    "en": "Thorns"
+  },
+  "apiId": "96m5z",
+  "apiIdStatus": "inferred"
+}

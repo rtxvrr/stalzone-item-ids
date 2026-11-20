@@ -1,0 +1,11 @@
+{
+  "clientId": 25382,
+  "key": "item.arm.zivcas_heavy",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм ZIVCAS M2-T",
+    "en": "ZIVCAS M2-T Armored Suit"
+  },
+  "apiId": "j5356",
+  "apiIdStatus": "inferred"
+}

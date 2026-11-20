@@ -1,0 +1,11 @@
+{
+  "clientId": 16753,
+  "key": "item.16753",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик мастера",
+    "en": "Master Crate"
+  },
+  "apiId": "y3043",
+  "apiIdStatus": "inferred"
+}

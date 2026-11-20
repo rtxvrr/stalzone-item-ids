@@ -1,0 +1,11 @@
+{
+  "clientId": 16241,
+  "key": "item.16241",
+  "kind": "item",
+  "name": {
+    "ru": "Аккумулятор",
+    "en": "Battery"
+  },
+  "apiId": "p6qqd",
+  "apiIdStatus": "inferred"
+}

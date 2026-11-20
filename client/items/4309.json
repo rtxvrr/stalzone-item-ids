@@ -1,0 +1,11 @@
+{
+  "clientId": 4309,
+  "key": "item.plc.background.nea_flag",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Поток тхэгыка»",
+    "en": "Taegeuk Flow Background"
+  },
+  "apiId": "qp2k",
+  "apiIdStatus": "inferred"
+}

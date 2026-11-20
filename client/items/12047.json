@@ -1,0 +1,11 @@
+{
+  "clientId": 12047,
+  "key": "item.cont.bidonu",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Бидон-У»",
+    "en": "Canister-U Container"
+  },
+  "apiId": "6g5n",
+  "apiIdStatus": "inferred"
+}

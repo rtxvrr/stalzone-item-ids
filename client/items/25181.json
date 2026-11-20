@@ -1,0 +1,11 @@
+{
+  "clientId": 25181,
+  "key": "item.arm.zarya_lipa",
+  "kind": "item",
+  "name": {
+    "ru": "«Аврора» Липы",
+    "en": "Linden's Aurora"
+  },
+  "apiId": "qjo63",
+  "apiIdStatus": "inferred"
+}

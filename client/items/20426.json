@@ -1,0 +1,11 @@
+{
+  "clientId": 20426,
+  "key": "item.wpn.p99",
+  "kind": "item",
+  "name": {
+    "ru": "Walther P99",
+    "en": "Walther P99"
+  },
+  "apiId": "g4mmn",
+  "apiIdStatus": "inferred"
+}

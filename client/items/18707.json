@@ -1,0 +1,11 @@
+{
+  "clientId": 18707,
+  "key": "item.camo.wpn.glitter",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Блеск»",
+    "en": "Shine Paint"
+  },
+  "apiId": "4qmnn",
+  "apiIdStatus": "inferred"
+}

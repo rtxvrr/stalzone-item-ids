@@ -1,0 +1,11 @@
+{
+  "clientId": 25732,
+  "key": "item.skin.summer25_2",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Биомеханика»",
+    "en": "Biomech Skin"
+  },
+  "apiId": "kn30p",
+  "apiIdStatus": "inferred"
+}

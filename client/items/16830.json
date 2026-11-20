@@ -1,0 +1,11 @@
+{
+  "clientId": 16830,
+  "key": "item.quest.bible",
+  "kind": "item",
+  "name": {
+    "ru": "Книга «Завета»",
+    "en": "Covenant Book"
+  },
+  "apiId": "wj00z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19124,
+  "key": "item.camo.arm.butan_snow",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Бутан - Снег»",
+    "en": "Bhutan—Snow Camouflage"
+  },
+  "apiId": "962zy",
+  "apiIdStatus": "inferred"
+}

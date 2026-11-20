@@ -1,0 +1,11 @@
+{
+  "clientId": 8109,
+  "key": "item.inside25_mrkovrik_beacon_empty",
+  "kind": "item",
+  "name": {
+    "ru": "«Фантомный маяк» Ковровского (не заряжен)",
+    "en": "Carpetsky Phantom Beacon (Not Charged)"
+  },
+  "apiId": "qrj9",
+  "apiIdStatus": "inferred"
+}

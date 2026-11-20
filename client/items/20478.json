@@ -1,0 +1,11 @@
+{
+  "clientId": 20478,
+  "key": "item.wpn.sr1",
+  "kind": "item",
+  "name": {
+    "ru": "СР-1 «Гюрза»",
+    "en": "SR-1 Gyurza"
+  },
+  "apiId": "wj71z",
+  "apiIdStatus": "inferred"
+}

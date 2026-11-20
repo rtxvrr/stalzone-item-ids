@@ -1,0 +1,11 @@
+{
+  "clientId": 22715,
+  "key": "item.att.mag_colt",
+  "kind": "item",
+  "name": {
+    "ru": "Увеличенный магазин Colt",
+    "en": "Colt Extended Magazine"
+  },
+  "apiId": "ok5vm",
+  "apiIdStatus": "inferred"
+}

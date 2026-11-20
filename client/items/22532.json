@@ -1,0 +1,11 @@
+{
+  "clientId": 22532,
+  "key": "item.att.barrel_dtk2",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК-2",
+    "en": "MBC-2"
+  },
+  "apiId": "kn9r3",
+  "apiIdStatus": "inferred"
+}

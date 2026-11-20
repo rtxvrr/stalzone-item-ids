@@ -1,0 +1,11 @@
+{
+  "clientId": 8309,
+  "key": "item.quest.the_shock_wave_decontaminating_composition",
+  "kind": "item",
+  "name": {
+    "ru": "Дезактивирующий состав",
+    "en": "Decontamination Compound"
+  },
+  "apiId": "qrv3",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12026,
+  "key": "item.cont.fridge",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Холодильник»",
+    "en": "Fridge Container"
+  },
+  "apiId": "g3ln",
+  "apiIdStatus": "inferred"
+}

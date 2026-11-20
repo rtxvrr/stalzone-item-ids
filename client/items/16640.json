@@ -1,0 +1,11 @@
+{
+  "clientId": 16640,
+  "key": "item.16640",
+  "kind": "item",
+  "name": {
+    "ru": "Редкий контейнер",
+    "en": "Rare Container"
+  },
+  "apiId": "n4wv1",
+  "apiIdStatus": "inferred"
+}

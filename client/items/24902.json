@@ -1,0 +1,11 @@
+{
+  "clientId": 24902,
+  "key": "item.charm.media_bee",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Пчелка»",
+    "en": "Honeybee Charm"
+  },
+  "apiId": "g4y9g",
+  "apiIdStatus": "inferred"
+}

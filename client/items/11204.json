@@ -1,0 +1,11 @@
+{
+  "clientId": 11204,
+  "key": "item.art.puh_steelkolobok",
+  "kind": "item",
+  "name": {
+    "ru": "Стальной Ежик",
+    "en": "Steel Hedgehog"
+  },
+  "apiId": "5rd1",
+  "apiIdStatus": "inferred"
+}

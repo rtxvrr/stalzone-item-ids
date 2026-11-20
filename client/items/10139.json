@@ -1,0 +1,11 @@
+{
+  "clientId": 10139,
+  "key": "item.quest.wild_north_audio_bunker",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета из бункера",
+    "en": "Cassette From Bunker"
+  },
+  "apiId": "o2jm",
+  "apiIdStatus": "inferred"
+}

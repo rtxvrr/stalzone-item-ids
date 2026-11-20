@@ -1,0 +1,11 @@
+{
+  "clientId": 19759,
+  "key": "item.camo.arm.transition",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Переход»",
+    "en": "Transition Paint"
+  },
+  "apiId": "lyloo",
+  "apiIdStatus": "inferred"
+}

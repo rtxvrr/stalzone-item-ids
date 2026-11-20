@@ -1,0 +1,11 @@
+{
+  "clientId": 31508,
+  "key": "item.ny_toys.setK.toy_main",
+  "kind": "item",
+  "name": {
+    "ru": "Крафтовая Звезда",
+    "en": "Crafted Star"
+  },
+  "apiId": "krz03",
+  "apiIdStatus": "inferred"
+}

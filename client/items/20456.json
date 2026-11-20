@@ -1,0 +1,11 @@
+{
+  "clientId": 20456,
+  "key": "item.wpn.hp_blizzard",
+  "kind": "item",
+  "name": {
+    "ru": "Вестник Бурана",
+    "en": "Blizzard Harbinger"
+  },
+  "apiId": "knmvj",
+  "apiIdStatus": "inferred"
+}

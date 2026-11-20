@@ -1,0 +1,11 @@
+{
+  "clientId": 17577,
+  "key": "item.style.wpn.qbu191_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Гибельный звон»",
+    "en": "Death Knell"
+  },
+  "apiId": "y3yjo",
+  "apiIdStatus": "inferred"
+}

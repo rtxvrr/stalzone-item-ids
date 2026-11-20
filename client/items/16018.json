@@ -1,0 +1,11 @@
+{
+  "clientId": 16018,
+  "key": "item.16018",
+  "kind": "item",
+  "name": {
+    "ru": "Документы",
+    "en": "Documents"
+  },
+  "apiId": "vjo1r",
+  "apiIdStatus": "inferred"
+}

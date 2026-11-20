@@ -1,0 +1,11 @@
+{
+  "clientId": 8132,
+  "key": "item.quest.operation2025_cassette5",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета с пометкой \"Инцидент\"",
+    "en": "Cassette marked \"Incident\""
+  },
+  "apiId": "kwr3",
+  "apiIdStatus": "inferred"
+}

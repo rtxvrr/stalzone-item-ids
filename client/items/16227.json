@@ -1,0 +1,11 @@
+{
+  "clientId": 16227,
+  "key": "item.papka_kislyak",
+  "kind": "item",
+  "name": {
+    "ru": "Документы Кисляка",
+    "en": "Kislyak's Documents"
+  },
+  "apiId": "zzwwk",
+  "apiIdStatus": "inferred"
+}

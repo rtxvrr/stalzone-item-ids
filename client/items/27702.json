@@ -1,0 +1,11 @@
+{
+  "clientId": 27702,
+  "key": "item.stash_placer.large_1",
+  "kind": "item",
+  "name": {
+    "ru": "Объемный схрон",
+    "en": "Spacious Stash"
+  },
+  "apiId": "gnrnp",
+  "apiIdStatus": "inferred"
+}

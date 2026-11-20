@@ -1,0 +1,11 @@
+{
+  "clientId": 24378,
+  "key": "item.charm.head_tank",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Громила»",
+    "en": "Thug Charm"
+  },
+  "apiId": "wjdyd",
+  "apiIdStatus": "inferred"
+}

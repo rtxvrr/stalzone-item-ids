@@ -1,0 +1,11 @@
+{
+  "clientId": 24584,
+  "key": "item.charm.meme_blinder",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Козырек как раз»",
+    "en": "Nice Blinder Charm"
+  },
+  "apiId": "rw75y",
+  "apiIdStatus": "inferred"
+}

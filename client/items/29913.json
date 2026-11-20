@@ -1,0 +1,11 @@
+{
+  "clientId": 29913,
+  "key": "item.filler.mob_5",
+  "kind": "item",
+  "name": {
+    "ru": "Кость мутанта",
+    "en": "Mutant's Bone"
+  },
+  "apiId": "007oy",
+  "apiIdStatus": "inferred"
+}

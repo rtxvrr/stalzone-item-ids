@@ -1,0 +1,11 @@
+{
+  "clientId": 22070,
+  "key": "item.att.forend_sr1",
+  "kind": "item",
+  "name": {
+    "ru": "Крепление для СР-1",
+    "en": "Mount for SR-1"
+  },
+  "apiId": "7l6d6",
+  "apiIdStatus": "inferred"
+}

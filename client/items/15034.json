@@ -1,0 +1,11 @@
+{
+  "clientId": 15034,
+  "key": "item.case.summer25_cosmetic",
+  "kind": "item",
+  "name": {
+    "ru": "Визуальный кейс «Шепота над Зоной»",
+    "en": "Murmur of the Zone Visual Case"
+  },
+  "apiId": "j500l",
+  "apiIdStatus": "inferred"
+}

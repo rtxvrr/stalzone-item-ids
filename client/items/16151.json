@@ -1,0 +1,11 @@
+{
+  "clientId": 16151,
+  "key": "item.16151",
+  "kind": "item",
+  "name": {
+    "ru": "Подозрительный ПДА",
+    "en": "Suspicious PDA"
+  },
+  "apiId": "zzwgm",
+  "apiIdStatus": "inferred"
+}

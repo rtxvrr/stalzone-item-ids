@@ -1,0 +1,11 @@
+{
+  "clientId": 9353,
+  "key": "item.wpn.mts255_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "МЦ-255 Выживших",
+    "en": "Survivors' MTs-255"
+  },
+  "apiId": "yl0w",
+  "apiIdStatus": "inferred"
+}

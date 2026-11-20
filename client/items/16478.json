@@ -1,0 +1,11 @@
+{
+  "clientId": 16478,
+  "key": "item.quest.mac_device",
+  "kind": "item",
+  "name": {
+    "ru": "Устройство Мака",
+    "en": "Max's Device"
+  },
+  "apiId": "wjlpp",
+  "apiIdStatus": "inferred"
+}

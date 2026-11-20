@@ -1,0 +1,11 @@
+{
+  "clientId": 19876,
+  "key": "item.motif.wpn.ash12_mk",
+  "kind": "item",
+  "name": {
+    "ru": "«Буксир»",
+    "en": "Tugboat"
+  },
+  "apiId": "5ldgo",
+  "apiIdStatus": "inferred"
+}

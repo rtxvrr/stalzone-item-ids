@@ -1,0 +1,11 @@
+{
+  "clientId": 16120,
+  "key": "item.16120",
+  "kind": "item",
+  "name": {
+    "ru": "Ухо с тремя сережками",
+    "en": "Ear with Three Earrings"
+  },
+  "apiId": "2ork5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24350,
+  "key": "item.charm.coldblood",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Ледяная кровь»",
+    "en": "Icy Blood Charm"
+  },
+  "apiId": "g46pg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31066,
+  "key": "item.brt.mg.mining_add",
+  "kind": "item",
+  "name": {
+    "ru": "Жесткие диски",
+    "en": "Hard Drives"
+  },
+  "apiId": "vn0dr",
+  "apiIdStatus": "inferred"
+}

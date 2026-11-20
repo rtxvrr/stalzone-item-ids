@@ -1,0 +1,11 @@
+{
+  "clientId": 25121,
+  "key": "item.arm.murmur_grenadier",
+  "kind": "item",
+  "name": {
+    "ru": "«Становление»",
+    "en": "Embrace"
+  },
+  "apiId": "3g675",
+  "apiIdStatus": "inferred"
+}

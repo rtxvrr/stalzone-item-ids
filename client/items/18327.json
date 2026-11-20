@@ -1,0 +1,11 @@
+{
+  "clientId": 18327,
+  "key": "item.camo.wpn.dayx_twitch_skin_7",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Осколки Twitch»",
+    "en": "Twitch Shards Paint"
+  },
+  "apiId": "zzny9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17109,
+  "key": "item.style.arm.tank_hors",
+  "kind": "item",
+  "name": {
+    "ru": "«Танк» группы «Хорс»",
+    "en": "Khors Group Tank"
+  },
+  "apiId": "qj3z9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17533,
+  "key": "item.style.wpn.deagle_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "«Деловой подход»",
+    "en": "Business Approach"
+  },
+  "apiId": "qjnvk",
+  "apiIdStatus": "inferred"
+}

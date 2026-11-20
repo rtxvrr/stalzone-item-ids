@@ -1,0 +1,11 @@
+{
+  "clientId": 22124,
+  "key": "item.att.handgrip_arsenal_blitz",
+  "kind": "item",
+  "name": {
+    "ru": "Тактическая рукоятка «Блиц»",
+    "en": "Blitz Tactical Grip"
+  },
+  "apiId": "96v2y",
+  "apiIdStatus": "inferred"
+}

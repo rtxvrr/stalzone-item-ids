@@ -1,0 +1,11 @@
+{
+  "clientId": 21083,
+  "key": "item.melee.baton",
+  "kind": "item",
+  "name": {
+    "ru": "ZIVCAS Zeus-77",
+    "en": "ZIVCAS Zeus-77"
+  },
+  "apiId": "lyv42",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18728,
+  "key": "item.camo.wpn.whitenoise",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Белый шум»",
+    "en": "White Noise Paint"
+  },
+  "apiId": "5l0g0",
+  "apiIdStatus": "inferred"
+}

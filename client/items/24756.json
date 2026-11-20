@@ -1,0 +1,11 @@
+{
+  "clientId": 24756,
+  "key": "item.charm.crimson_token",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Багровый жетон»",
+    "en": "Crimson Token Charm"
+  },
+  "apiId": "kn74v",
+  "apiIdStatus": "inferred"
+}

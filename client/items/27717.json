@@ -1,0 +1,11 @@
+{
+  "clientId": 27717,
+  "key": "item.stash_placer.protected_veteran",
+  "kind": "item",
+  "name": {
+    "ru": "Экранированный схрон ветерана",
+    "en": "Veteran shielded cache"
+  },
+  "apiId": "pjkj2",
+  "apiIdStatus": "inferred"
+}

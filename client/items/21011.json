@@ -1,0 +1,11 @@
+{
+  "clientId": 21011,
+  "key": "item.melee.machete",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничий мачете",
+    "en": "Hunter's Machete"
+  },
+  "apiId": "lyv22",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4947,
+  "key": "item.plc.sticker.telegram",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Telegram",
+    "en": "Telegram Sticker  "
+  },
+  "apiId": "6dvy",
+  "apiIdStatus": "inferred"
+}

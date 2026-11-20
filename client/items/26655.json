@@ -1,0 +1,11 @@
+{
+  "clientId": 26655,
+  "key": "item.food.fish_soup",
+  "kind": "item",
+  "name": {
+    "ru": "Уха из сома «Дворянская»",
+    "en": "Nobleman's Catfish Stew"
+  },
+  "apiId": "4qd3p",
+  "apiIdStatus": "inferred"
+}

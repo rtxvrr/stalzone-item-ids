@@ -1,0 +1,11 @@
+{
+  "clientId": 8122,
+  "key": "item.quest.operation2025_id_card",
+  "kind": "item",
+  "name": {
+    "ru": "Ключ-карта Полигона-7",
+    "en": "Key card of Area-7"
+  },
+  "apiId": "767r",
+  "apiIdStatus": "inferred"
+}

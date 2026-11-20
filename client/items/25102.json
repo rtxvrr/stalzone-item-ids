@@ -1,0 +1,11 @@
+{
+  "clientId": 25102,
+  "key": "item.arm.skat9m-2",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденный «Скиф-4»",
+    "en": "Damaged Scythian-4"
+  },
+  "apiId": "g4yo5",
+  "apiIdStatus": "inferred"
+}

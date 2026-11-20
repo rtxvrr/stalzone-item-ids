@@ -1,0 +1,11 @@
+{
+  "clientId": 3600,
+  "key": "tile.3600",
+  "kind": "tile",
+  "name": {
+    "ru": "Бетон старый",
+    "en": "Old concrete"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

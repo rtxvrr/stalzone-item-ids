@@ -1,0 +1,11 @@
+{
+  "clientId": 20152,
+  "key": "item.wpn.rpd-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный РПД",
+    "en": "Worn RPD"
+  },
+  "apiId": "5ldm4",
+  "apiIdStatus": "inferred"
+}

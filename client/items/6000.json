@@ -1,0 +1,11 @@
+{
+  "clientId": 6000,
+  "key": "item.misc.saltweed",
+  "kind": "item",
+  "name": {
+    "ru": "Мякоть солевика",
+    "en": "Saltweed Pulp"
+  },
+  "apiId": "9mmq",
+  "apiIdStatus": "inferred"
+}

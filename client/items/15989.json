@@ -1,0 +1,11 @@
+{
+  "clientId": 15989,
+  "key": "item.crt.frozenbones",
+  "kind": "item",
+  "name": {
+    "ru": "Замерзшие кости",
+    "en": "Frozen Bones"
+  },
+  "apiId": "p6v75",
+  "apiIdStatus": "inferred"
+}

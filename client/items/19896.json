@@ -1,0 +1,11 @@
+{
+  "clientId": 19896,
+  "key": "item.motif.wpn.vyhlop_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "«Вепрь»",
+    "en": "Wild Boar"
+  },
+  "apiId": "96m5q",
+  "apiIdStatus": "inferred"
+}

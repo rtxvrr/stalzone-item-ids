@@ -1,0 +1,11 @@
+{
+  "clientId": 19505,
+  "key": "item.camo.unique_arm.markv",
+  "kind": "item",
+  "name": {
+    "ru": "«Mark V»",
+    "en": "Mark V"
+  },
+  "apiId": "y3oqw",
+  "apiIdStatus": "inferred"
+}

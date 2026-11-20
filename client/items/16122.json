@@ -1,0 +1,11 @@
+{
+  "clientId": 16122,
+  "key": "item.16122",
+  "kind": "item",
+  "name": {
+    "ru": "Расписка от Шамана",
+    "en": "IOU from Shaman"
+  },
+  "apiId": "7lwvj",
+  "apiIdStatus": "inferred"
+}

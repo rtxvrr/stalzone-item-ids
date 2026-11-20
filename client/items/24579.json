@@ -1,0 +1,11 @@
+{
+  "clientId": 24579,
+  "key": "item.charm.meme_cirkonus",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Цирконус»",
+    "en": "Zirconus Charm"
+  },
+  "apiId": "4q4wo",
+  "apiIdStatus": "inferred"
+}

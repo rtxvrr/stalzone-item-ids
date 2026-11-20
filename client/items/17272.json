@@ -1,0 +1,11 @@
+{
+  "clientId": 17272,
+  "key": "item.style.melee.jagd_summer26",
+  "kind": "item",
+  "name": {
+    "ru": "JDK-3",
+    "en": "JDK-3"
+  },
+  "apiId": "96k7l",
+  "apiIdStatus": "inferred"
+}

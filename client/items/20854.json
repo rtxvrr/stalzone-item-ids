@@ -1,0 +1,11 @@
+{
+  "clientId": 20854,
+  "key": "item.wpn.scarh_a",
+  "kind": "item",
+  "name": {
+    "ru": "SCAR-H (А)",
+    "en": "SCAR-H (A)"
+  },
+  "apiId": "wj6l2",
+  "apiIdStatus": "inferred"
+}

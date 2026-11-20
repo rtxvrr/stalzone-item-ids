@@ -1,0 +1,11 @@
+{
+  "clientId": 31829,
+  "key": "item.part.tank",
+  "kind": "item",
+  "name": {
+    "ru": "Часть SBA Tank",
+    "en": "SBA Tank Part"
+  },
+  "apiId": "y46y0",
+  "apiIdStatus": "inferred"
+}

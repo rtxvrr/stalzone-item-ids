@@ -1,0 +1,11 @@
+{
+  "clientId": 4503,
+  "key": "item.plc.pattern.duty",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Рубежа»",
+    "en": "Frontier Pattern"
+  },
+  "apiId": "zny9",
+  "apiIdStatus": "inferred"
+}

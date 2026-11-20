@@ -1,0 +1,11 @@
+{
+  "clientId": 22547,
+  "key": "item.att.barrel_arsenal_boar",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК «Окоем»",
+    "en": "Skyline MBC "
+  },
+  "apiId": "6wpy6",
+  "apiIdStatus": "inferred"
+}

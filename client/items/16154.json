@@ -1,0 +1,11 @@
+{
+  "clientId": 16154,
+  "key": "item.16154",
+  "kind": "item",
+  "name": {
+    "ru": "Сканер ученых 2",
+    "en": "Scientist's Scanner 2"
+  },
+  "apiId": "wjlj3",
+  "apiIdStatus": "inferred"
+}

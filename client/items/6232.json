@@ -1,0 +1,11 @@
+{
+  "clientId": 6232,
+  "key": "item.misc.organic_gases",
+  "kind": "item",
+  "name": {
+    "ru": "Биогаз",
+    "en": "Biogas"
+  },
+  "apiId": "klq0",
+  "apiIdStatus": "inferred"
+}

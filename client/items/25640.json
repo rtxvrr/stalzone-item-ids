@@ -1,0 +1,11 @@
+{
+  "clientId": 25640,
+  "key": "item.25640",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Диверсант»",
+    "en": "Saboteur Skin"
+  },
+  "apiId": "n4321",
+  "apiIdStatus": "inferred"
+}

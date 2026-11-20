@@ -1,0 +1,11 @@
+{
+  "clientId": 31351,
+  "key": "item.ny_toys.setF.toy5",
+  "kind": "item",
+  "name": {
+    "ru": "Плюшевая игрушка-звездочка",
+    "en": "Plush Star Decoration"
+  },
+  "apiId": "z3o7n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24689,
+  "key": "item.charm.winter25_pass_4",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Форум»",
+    "en": "Forum Charm"
+  },
+  "apiId": "p679d",
+  "apiIdStatus": "inferred"
+}

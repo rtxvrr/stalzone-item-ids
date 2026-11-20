@@ -1,0 +1,11 @@
+{
+  "clientId": 24544,
+  "key": "item.charm.navm_rat",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «NAV Крыса»",
+    "en": "NAV Rat Charm"
+  },
+  "apiId": "2oy25",
+  "apiIdStatus": "inferred"
+}

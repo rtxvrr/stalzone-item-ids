@@ -1,0 +1,11 @@
+{
+  "clientId": 9150,
+  "key": "item.wpn.mauser98_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Mauser 98 с прицелом",
+    "en": "Mauser 98 with a scope"
+  },
+  "apiId": "g2lp",
+  "apiIdStatus": "inferred"
+}

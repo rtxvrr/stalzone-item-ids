@@ -1,0 +1,11 @@
+{
+  "clientId": 10099,
+  "key": "item.tool.guitar_na",
+  "kind": "item",
+  "name": {
+    "ru": "Шестиструнная свобода",
+    "en": "Six-String Freedom"
+  },
+  "apiId": "z4ly",
+  "apiIdStatus": "inferred"
+}

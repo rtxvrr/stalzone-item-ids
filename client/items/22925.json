@@ -1,0 +1,11 @@
+{
+  "clientId": 22925,
+  "key": "item.att.mount_ash12_ris",
+  "kind": "item",
+  "name": {
+    "ru": "Крепление на рукоятке переноски",
+    "en": "Carry Handle Mount"
+  },
+  "apiId": "1r3k1",
+  "apiIdStatus": "inferred"
+}

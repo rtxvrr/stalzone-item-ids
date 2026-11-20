@@ -1,0 +1,11 @@
+{
+  "clientId": 4621,
+  "key": "item.plc.pattern.prestige_arrows",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Указатели»",
+    "en": "Signposts Pattern"
+  },
+  "apiId": "3m0l",
+  "apiIdStatus": "inferred"
+}

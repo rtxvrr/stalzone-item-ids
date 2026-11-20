@@ -1,0 +1,11 @@
+{
+  "clientId": 8110,
+  "key": "item.inside25_mrkovrik_beacon_half",
+  "kind": "item",
+  "name": {
+    "ru": "«Фантомный маяк» Ковровского (неполный заряд)",
+    "en": "Carpetsky Phantom Beacon (Partially Charged)"
+  },
+  "apiId": "j654",
+  "apiIdStatus": "inferred"
+}

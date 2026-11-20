@@ -1,0 +1,11 @@
+{
+  "clientId": 31752,
+  "key": "item.part.glock_ny_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть новогоднего Glock #2",
+    "en": "New Year Glock 18C Part #2"
+  },
+  "apiId": "55jyq",
+  "apiIdStatus": "inferred"
+}

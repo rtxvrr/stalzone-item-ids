@@ -1,0 +1,11 @@
+{
+  "clientId": 4911,
+  "key": "item.plc.sticker.triangle",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер-треугольник",
+    "en": "Triangle Sticker"
+  },
+  "apiId": "lpv1",
+  "apiIdStatus": "inferred"
+}

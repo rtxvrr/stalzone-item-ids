@@ -1,0 +1,11 @@
+{
+  "clientId": 12736,
+  "key": "item.amm.akumulatorb",
+  "kind": "item",
+  "name": {
+    "ru": "Улучшенный аккумулятор для винтовки Гаусса",
+    "en": "Upgraded Gauss Rifle Battery"
+  },
+  "apiId": "roj5",
+  "apiIdStatus": "inferred"
+}

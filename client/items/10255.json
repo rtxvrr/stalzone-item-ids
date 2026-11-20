@@ -1,0 +1,11 @@
+{
+  "clientId": 10255,
+  "key": "item.phonograph.vinyl_location_td",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Черные Ивы»",
+    "en": "Black Willows Vinyl Record"
+  },
+  "apiId": "4ylj",
+  "apiIdStatus": "inferred"
+}

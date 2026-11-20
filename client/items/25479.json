@@ -1,0 +1,11 @@
+{
+  "clientId": 25479,
+  "key": "item.arm.exo_lizard",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет ящеров",
+    "en": "Lizard's Exoskeleton"
+  },
+  "apiId": "4q95p",
+  "apiIdStatus": "inferred"
+}

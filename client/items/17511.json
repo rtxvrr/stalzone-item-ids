@@ -1,0 +1,11 @@
+{
+  "clientId": 17511,
+  "key": "item.style.wpn.glock_newyear24",
+  "kind": "item",
+  "name": {
+    "ru": "Новогодний Glock",
+    "en": "New Year Glock"
+  },
+  "apiId": "ly5g1",
+  "apiIdStatus": "inferred"
+}

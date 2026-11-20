@@ -1,0 +1,11 @@
+{
+  "clientId": 8047,
+  "key": "item.quest.brain_steam2",
+  "kind": "item",
+  "name": {
+    "ru": "Повторно очищенный паром мозг пси-гончей",
+    "en": "Re-steamed brain of a psy-hound"
+  },
+  "apiId": "61nj",
+  "apiIdStatus": "inferred"
+}

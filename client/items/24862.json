@@ -1,0 +1,11 @@
+{
+  "clientId": 24862,
+  "key": "item.charm.mt_gold",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Голда»",
+    "en": "Gold Charm"
+  },
+  "apiId": "m064j",
+  "apiIdStatus": "inferred"
+}

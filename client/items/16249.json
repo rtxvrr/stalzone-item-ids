@@ -1,0 +1,11 @@
+{
+  "clientId": 16249,
+  "key": "item.16249",
+  "kind": "item",
+  "name": {
+    "ru": "Ледяной кристалл",
+    "en": "Ice Crystal"
+  },
+  "apiId": "1rl1r",
+  "apiIdStatus": "inferred"
+}

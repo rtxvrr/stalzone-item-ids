@@ -1,0 +1,11 @@
+{
+  "clientId": 8085,
+  "key": "item.quest.bond_telephone",
+  "kind": "item",
+  "name": {
+    "ru": "Спутниковый телефон",
+    "en": "Satellite phone"
+  },
+  "apiId": "0vwd",
+  "apiIdStatus": "inferred"
+}

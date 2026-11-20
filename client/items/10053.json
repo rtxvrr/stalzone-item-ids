@@ -1,0 +1,11 @@
+{
+  "clientId": 10053,
+  "key": "item.misc.cn2u",
+  "kind": "item",
+  "name": {
+    "ru": "СН-2у «Ножка»",
+    "en": "SN-2u Leglet"
+  },
+  "apiId": "yw7k",
+  "apiIdStatus": "inferred"
+}

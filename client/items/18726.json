@@ -1,0 +1,11 @@
+{
+  "clientId": 18726,
+  "key": "item.camo.wpn.threads",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Нити»",
+    "en": "Thread Paint"
+  },
+  "apiId": "g4jvp",
+  "apiIdStatus": "inferred"
+}

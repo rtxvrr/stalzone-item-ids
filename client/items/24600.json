@@ -1,0 +1,11 @@
+{
+  "clientId": 24600,
+  "key": "item.charm.patch_covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Шеврон Завета»",
+    "en": "Covenant Chevron Charm"
+  },
+  "apiId": "96rjq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 19435,
+  "key": "item.camo.arm.spring25_skin_15",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Домашний ковер»",
+    "en": "Home Carpet Paint"
+  },
+  "apiId": "lygdj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16909,
+  "key": "item.quest.covenant.commandPDA",
+  "kind": "item",
+  "name": {
+    "ru": "Старый ПДА Митрополита",
+    "en": "Metropolite's Old PDA"
+  },
+  "apiId": "qj35k",
+  "apiIdStatus": "inferred"
+}

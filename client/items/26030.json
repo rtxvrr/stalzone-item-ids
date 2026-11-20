@@ -1,0 +1,11 @@
+{
+  "clientId": 26030,
+  "key": "item.med.warming_serum",
+  "kind": "item",
+  "name": {
+    "ru": "Согревающая сыворотка",
+    "en": "Warming Serum"
+  },
+  "apiId": "wjwlp",
+  "apiIdStatus": "inferred"
+}

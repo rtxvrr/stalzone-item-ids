@@ -1,0 +1,11 @@
+{
+  "clientId": 4995,
+  "key": "item.plc.sticker.prestige_stalker",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Пульсар»",
+    "en": "Pulsar Sticker"
+  },
+  "apiId": "6dky",
+  "apiIdStatus": "inferred"
+}

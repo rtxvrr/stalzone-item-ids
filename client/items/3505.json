@@ -1,0 +1,11 @@
+{
+  "clientId": 3505,
+  "key": "tile.3505",
+  "kind": "tile",
+  "name": {
+    "ru": "Плитка голубая",
+    "en": "light blue tile"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

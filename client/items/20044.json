@@ -1,0 +1,11 @@
+{
+  "clientId": 20044,
+  "key": "item.wpn.ak203",
+  "kind": "item",
+  "name": {
+    "ru": "АК-203",
+    "en": "AK-203"
+  },
+  "apiId": "2odq0",
+  "apiIdStatus": "inferred"
+}

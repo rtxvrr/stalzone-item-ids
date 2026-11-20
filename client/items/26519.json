@@ -1,0 +1,11 @@
+{
+  "clientId": 26519,
+  "key": "item.food.caviar",
+  "kind": "item",
+  "name": {
+    "ru": "Красная икра",
+    "en": "Red Caviar"
+  },
+  "apiId": "dm1ln",
+  "apiIdStatus": "inferred"
+}

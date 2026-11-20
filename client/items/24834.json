@@ -1,0 +1,11 @@
+{
+  "clientId": 24834,
+  "key": "item.charm.mk_compass",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Компас»",
+    "en": "Compass Charm"
+  },
+  "apiId": "j5k07",
+  "apiIdStatus": "inferred"
+}

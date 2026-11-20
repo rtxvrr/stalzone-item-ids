@@ -1,0 +1,11 @@
+{
+  "clientId": 24792,
+  "key": "item.charm.winter26_bear",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Медведь в Зоне»",
+    "en": "Bear in the Zone Charm"
+  },
+  "apiId": "2oqo6",
+  "apiIdStatus": "inferred"
+}

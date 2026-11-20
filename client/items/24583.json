@@ -1,0 +1,11 @@
+{
+  "clientId": 24583,
+  "key": "item.charm.meme_chad",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кубочад»",
+    "en": "Cubechad Charm"
+  },
+  "apiId": "ly7mo",
+  "apiIdStatus": "inferred"
+}

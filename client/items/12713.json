@@ -1,0 +1,11 @@
+{
+  "clientId": 12713,
+  "key": "item.amm.12dart",
+  "kind": "item",
+  "name": {
+    "ru": "Боевая пуля 12 калибра",
+    "en": "12 Caliber Slug"
+  },
+  "apiId": "0or1",
+  "apiIdStatus": "inferred"
+}

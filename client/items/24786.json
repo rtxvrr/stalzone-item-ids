@@ -1,0 +1,11 @@
+{
+  "clientId": 24786,
+  "key": "item.charm.scstore_remove_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Удалить перед балдежом»",
+    "en": "Remove Before Chilling Charm"
+  },
+  "apiId": "m06w7",
+  "apiIdStatus": "inferred"
+}

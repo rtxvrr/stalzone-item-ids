@@ -1,0 +1,11 @@
+{
+  "clientId": 11001,
+  "key": "item.art.electra_bengal",
+  "kind": "item",
+  "name": {
+    "ru": "Трещотка",
+    "en": "Rattle"
+  },
+  "apiId": "1k96",
+  "apiIdStatus": "inferred"
+}

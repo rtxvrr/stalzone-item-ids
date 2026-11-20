@@ -1,0 +1,11 @@
+{
+  "clientId": 16528,
+  "key": "item.bag.9st",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка патронов 9 мм",
+    "en": "Pouch of 9 mm Rounds"
+  },
+  "apiId": "5lo44",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25449,
+  "key": "item.arm.granite",
+  "kind": "item",
+  "name": {
+    "ru": "Сверхтяжелый бронекостюм «Гранит»",
+    "en": "Granite Super-Heavy Armored Suit"
+  },
+  "apiId": "1rpl6",
+  "apiIdStatus": "inferred"
+}

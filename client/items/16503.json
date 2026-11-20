@@ -1,0 +1,11 @@
+{
+  "clientId": 16503,
+  "key": "item.crt.summer_26",
+  "kind": "item",
+  "name": {
+    "ru": "Картридж",
+    "en": "Cartridge"
+  },
+  "apiId": "zzw99",
+  "apiIdStatus": "inferred"
+}

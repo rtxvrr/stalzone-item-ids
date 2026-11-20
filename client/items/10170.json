@@ -1,0 +1,11 @@
+{
+  "clientId": 10170,
+  "key": "item.quest.smotrikov21",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Сторона",
+    "en": "Audio recorder: Side"
+  },
+  "apiId": "7kpj",
+  "apiIdStatus": "inferred"
+}

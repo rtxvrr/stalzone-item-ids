@@ -1,0 +1,11 @@
+{
+  "clientId": 31434,
+  "key": "item.lootbox.halloween_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Спонсорский подгон",
+    "en": "Sponsors Gift"
+  },
+  "apiId": "j0g17",
+  "apiIdStatus": "inferred"
+}

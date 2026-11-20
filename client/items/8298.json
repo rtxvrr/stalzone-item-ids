@@ -1,0 +1,11 @@
+{
+  "clientId": 8298,
+  "key": "item.quest.the_shock_wave_poem",
+  "kind": "item",
+  "name": {
+    "ru": "Стихи Гребуна",
+    "en": "Grabber Poetry"
+  },
+  "apiId": "ggw6",
+  "apiIdStatus": "inferred"
+}

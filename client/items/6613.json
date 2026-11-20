@@ -1,0 +1,11 @@
+{
+  "clientId": 6613,
+  "key": "item.misc.drill",
+  "kind": "item",
+  "name": {
+    "ru": "Сверло",
+    "en": "Drill"
+  },
+  "apiId": "022k",
+  "apiIdStatus": "inferred"
+}

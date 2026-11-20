@@ -1,0 +1,11 @@
+{
+  "clientId": 16899,
+  "key": "item.quest.covenant_commandment5",
+  "kind": "item",
+  "name": {
+    "ru": "Заповедь «Завета» 5",
+    "en": "5th Covenant Commandment"
+  },
+  "apiId": "zz0vk",
+  "apiIdStatus": "inferred"
+}

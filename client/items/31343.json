@@ -1,0 +1,11 @@
+{
+  "clientId": 31343,
+  "key": "item.ny_toys.setE.garland2",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовая хорошая гирлянда",
+    "en": "Nice Purple Tree Lights"
+  },
+  "apiId": "drpzn",
+  "apiIdStatus": "inferred"
+}

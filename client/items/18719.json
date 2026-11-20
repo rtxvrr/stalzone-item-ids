@@ -1,0 +1,11 @@
+{
+  "clientId": 18719,
+  "key": "item.camo.wpn.garland",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Гирлянда»",
+    "en": "Garland Paint"
+  },
+  "apiId": "dm4jn",
+  "apiIdStatus": "inferred"
+}

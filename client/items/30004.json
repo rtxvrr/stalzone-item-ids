@@ -1,0 +1,11 @@
+{
+  "clientId": 30004,
+  "key": "item.filler.valuable_5",
+  "kind": "item",
+  "name": {
+    "ru": "Посуда",
+    "en": "Dishes"
+  },
+  "apiId": "55o5o",
+  "apiIdStatus": "inferred"
+}

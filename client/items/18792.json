@@ -1,0 +1,11 @@
+{
+  "clientId": 18792,
+  "key": "item.camo.wpn.chainmail_cursed",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Проклятая кольчуга»",
+    "en": "Damned Chain Mail Camouflage"
+  },
+  "apiId": "2om76",
+  "apiIdStatus": "inferred"
+}

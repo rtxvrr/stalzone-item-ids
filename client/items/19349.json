@@ -1,0 +1,11 @@
+{
+  "clientId": 19349,
+  "key": "item.camo.arm.dayx",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «XDev»",
+    "en": "«XDev» Paint"
+  },
+  "apiId": "1r6v1",
+  "apiIdStatus": "inferred"
+}

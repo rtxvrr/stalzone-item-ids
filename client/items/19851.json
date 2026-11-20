@@ -1,0 +1,11 @@
+{
+  "clientId": 19851,
+  "key": "item.motif.wpn.ak15_branch_summer25",
+  "kind": "item",
+  "name": {
+    "ru": "Серия «Прозрение»",
+    "en": "Series: Insight"
+  },
+  "apiId": "zz72k",
+  "apiIdStatus": "inferred"
+}

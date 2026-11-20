@@ -1,0 +1,11 @@
+{
+  "clientId": 20430,
+  "key": "item.wpn.pm_rust",
+  "kind": "item",
+  "name": {
+    "ru": "Ржавый Макаров",
+    "en": "Rust Makarov"
+  },
+  "apiId": "wj77z",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 4217,
+  "key": "item.plc.background.operations_rat",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Большая уборка»",
+    "en": "The Big Clean Up Background "
+  },
+  "apiId": "pood",
+  "apiIdStatus": "inferred"
+}

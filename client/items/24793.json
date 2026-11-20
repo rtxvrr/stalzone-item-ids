@@ -1,0 +1,11 @@
+{
+  "clientId": 24793,
+  "key": "item.charm.winter26_watch",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Потерянное время»",
+    "en": "Lost Time Charm"
+  },
+  "apiId": "3g6gg",
+  "apiIdStatus": "inferred"
+}

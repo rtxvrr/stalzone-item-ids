@@ -1,0 +1,11 @@
+{
+  "clientId": 22510,
+  "key": "item.att.barrel_lantac_bmd",
+  "kind": "item",
+  "name": {
+    "ru": "Пламегаситель Lantac BMD",
+    "en": "Lantac BMD Flash Hider"
+  },
+  "apiId": "j5254",
+  "apiIdStatus": "inferred"
+}

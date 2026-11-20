@@ -1,0 +1,11 @@
+{
+  "clientId": 15016,
+  "key": "item.case.spring25_innovative",
+  "kind": "item",
+  "name": {
+    "ru": "Передовой кейс «Назад в Изнанку»",
+    "en": "Advanced Back to the Inside Out Case"
+  },
+  "apiId": "n4k49",
+  "apiIdStatus": "inferred"
+}

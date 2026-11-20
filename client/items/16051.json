@@ -1,0 +1,11 @@
+{
+  "clientId": 16051,
+  "key": "item.misc.ssop_help_tip_1",
+  "kind": "item",
+  "name": {
+    "ru": "Базовая наводка",
+    "en": "Basic Lead"
+  },
+  "apiId": "zzkjy",
+  "apiIdStatus": "inferred"
+}

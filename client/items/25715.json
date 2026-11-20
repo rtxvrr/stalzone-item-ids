@@ -1,0 +1,11 @@
+{
+  "clientId": 25715,
+  "key": "item.skin.freedom1",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Авантюрист»",
+    "en": "Venturer Skin"
+  },
+  "apiId": "ok35m",
+  "apiIdStatus": "inferred"
+}

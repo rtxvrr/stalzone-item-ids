@@ -1,0 +1,11 @@
+{
+  "clientId": 20392,
+  "key": "item.wpn.ks23",
+  "kind": "item",
+  "name": {
+    "ru": "КС-23",
+    "en": "KS-23"
+  },
+  "apiId": "2on45",
+  "apiIdStatus": "inferred"
+}

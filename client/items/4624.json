@@ -1,0 +1,11 @@
+{
+  "clientId": 4624,
+  "key": "item.plc.pattern.electroshtorm",
+  "kind": "item",
+  "name": {
+    "ru": "Скачки напряжения",
+    "en": "Power Surges"
+  },
+  "apiId": "90ql",
+  "apiIdStatus": "inferred"
+}

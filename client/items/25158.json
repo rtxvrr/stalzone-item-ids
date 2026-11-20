@@ -1,0 +1,11 @@
+{
+  "clientId": 25158,
+  "key": "item.arm.ghost",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Призрачный охотник»",
+    "en": "Phantom Hunter Armored Suit"
+  },
+  "apiId": "j5krg",
+  "apiIdStatus": "inferred"
+}

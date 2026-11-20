@@ -1,0 +1,11 @@
+{
+  "clientId": 31690,
+  "key": "item.ravent.upgrade_tool_5",
+  "kind": "item",
+  "name": {
+    "ru": "Инструменты (+1 уровень)",
+    "en": "Tools (+1 level)"
+  },
+  "apiId": "vn5qr",
+  "apiIdStatus": "inferred"
+}

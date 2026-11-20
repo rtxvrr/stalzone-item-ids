@@ -1,0 +1,11 @@
+{
+  "clientId": 11927,
+  "key": "item.plate.composite5_frontline",
+  "kind": "item",
+  "name": {
+    "ru": "Крепкая композитная пластина",
+    "en": "Tough Composite Plate"
+  },
+  "apiId": "zjrm",
+  "apiIdStatus": "inferred"
+}

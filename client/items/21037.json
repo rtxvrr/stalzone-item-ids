@@ -1,0 +1,11 @@
+{
+  "clientId": 21037,
+  "key": "item.melee.uvsr",
+  "kind": "item",
+  "name": {
+    "ru": "УВСР",
+    "en": "UVSR"
+  },
+  "apiId": "0rqqk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 28702,
+  "key": "item.28702",
+  "kind": "item",
+  "name": {
+    "ru": "Боевой жетон",
+    "en": "Battle Token"
+  },
+  "apiId": "gn4y5",
+  "apiIdStatus": "inferred"
+}

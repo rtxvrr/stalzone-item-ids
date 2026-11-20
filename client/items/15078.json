@@ -1,0 +1,11 @@
+{
+  "clientId": 15078,
+  "key": "item.lootbox.reichstag_1",
+  "kind": "item",
+  "name": {
+    "ru": "Полевой запас",
+    "en": "Field Supply"
+  },
+  "apiId": "wj3lz",
+  "apiIdStatus": "inferred"
+}

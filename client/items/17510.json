@@ -1,0 +1,11 @@
+{
+  "clientId": 17510,
+  "key": "item.style.wpn.saiga_spring24",
+  "kind": "item",
+  "name": {
+    "ru": "«Ящеробой»",
+    "en": "Lizardbane"
+  },
+  "apiId": "j5g96",
+  "apiIdStatus": "inferred"
+}

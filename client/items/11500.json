@@ -1,0 +1,11 @@
+{
+  "clientId": 11500,
+  "key": "item.art.inside_rubik",
+  "kind": "item",
+  "name": {
+    "ru": "Рубик",
+    "en": "Rubik"
+  },
+  "apiId": "9n7z",
+  "apiIdStatus": "inferred"
+}

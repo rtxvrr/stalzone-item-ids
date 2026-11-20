@@ -1,0 +1,11 @@
+{
+  "clientId": 25366,
+  "key": "item.arm.nocturne",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-Х «Ноктюрн»",
+    "en": "Nocturne MIS-X"
+  },
+  "apiId": "vj6qd",
+  "apiIdStatus": "inferred"
+}

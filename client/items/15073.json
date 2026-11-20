@@ -1,0 +1,11 @@
+{
+  "clientId": 15073,
+  "key": "item.pack.camo.blitz_skin_11",
+  "kind": "item",
+  "name": {
+    "ru": "Набор краски «Окружение»",
+    "en": "Environment Paint Set"
+  },
+  "apiId": "1r9lr",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29987,
+  "key": "item.filler.outpost_3",
+  "kind": "item",
+  "name": {
+    "ru": "Обычный ящик с продовольствием",
+    "en": "Common Crate of Rations"
+  },
+  "apiId": "olpkm",
+  "apiIdStatus": "inferred"
+}

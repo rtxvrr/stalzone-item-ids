@@ -1,0 +1,11 @@
+{
+  "clientId": 27236,
+  "key": "item.crt.wrapper",
+  "kind": "item",
+  "name": {
+    "ru": "Фантик",
+    "en": "Wrapper"
+  },
+  "apiId": "rw3pg",
+  "apiIdStatus": "inferred"
+}

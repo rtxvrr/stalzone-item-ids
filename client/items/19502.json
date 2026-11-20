@@ -1,0 +1,11 @@
+{
+  "clientId": 19502,
+  "key": "item.camo.unique_arm.fireman",
+  "kind": "item",
+  "name": {
+    "ru": "«Пожарный»",
+    "en": "Firefighter"
+  },
+  "apiId": "g4w3g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 12206,
+  "key": "item.misc.tradepack_7",
+  "kind": "item",
+  "name": {
+    "ru": "Торговый рюкзак",
+    "en": "Trader's Backpack"
+  },
+  "apiId": "wwlp",
+  "apiIdStatus": "inferred"
+}

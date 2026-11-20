@@ -1,0 +1,11 @@
+{
+  "clientId": 10150,
+  "key": "item.quest.smotrikov1",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Приветствие",
+    "en": "Audio Recorder: Greeting"
+  },
+  "apiId": "gdg5",
+  "apiIdStatus": "inferred"
+}

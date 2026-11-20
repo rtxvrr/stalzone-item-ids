@@ -1,0 +1,11 @@
+{
+  "clientId": 25371,
+  "key": "item.arm.ronin",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Ронин»",
+    "en": "Ronin Armored Suit"
+  },
+  "apiId": "6wgwy",
+  "apiIdStatus": "inferred"
+}

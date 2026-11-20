@@ -1,0 +1,11 @@
+{
+  "clientId": 20178,
+  "key": "item.wpn.rpl20",
+  "kind": "item",
+  "name": {
+    "ru": "РПЛ-20",
+    "en": "RPL-20"
+  },
+  "apiId": "wj7nd",
+  "apiIdStatus": "inferred"
+}

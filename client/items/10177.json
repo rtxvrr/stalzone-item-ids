@@ -1,0 +1,11 @@
+{
+  "clientId": 10177,
+  "key": "item.quest.mir_korabley_cave_audio_2",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета военстала: Ветер",
+    "en": "Military Stalker Cassette: Wind"
+  },
+  "apiId": "ywl3",
+  "apiIdStatus": "inferred"
+}

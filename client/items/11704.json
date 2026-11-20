@@ -1,0 +1,11 @@
+{
+  "clientId": 11704,
+  "key": "item.weapon_module_giver",
+  "kind": "item",
+  "name": {
+    "ru": "Раздатчик Модуля (DEV)",
+    "en": "Module Dispenser (DEV)"
+  },
+  "apiId": "51j4",
+  "apiIdStatus": "inferred"
+}

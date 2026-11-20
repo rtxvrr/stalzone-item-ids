@@ -1,0 +1,11 @@
+{
+  "clientId": 8027,
+  "key": "item.quest.complex_composition",
+  "kind": "item",
+  "name": {
+    "ru": "Пробирка с комплексным составом",
+    "en": "Test Tube with Complex Contents"
+  },
+  "apiId": "z512",
+  "apiIdStatus": "inferred"
+}

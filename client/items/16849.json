@@ -1,0 +1,11 @@
+{
+  "clientId": 16849,
+  "key": "item.quest.seven_league_boots_raven24",
+  "kind": "item",
+  "name": {
+    "ru": "«Сапоги-скороходы»",
+    "en": "Seven-League Boots"
+  },
+  "apiId": "1r14r",
+  "apiIdStatus": "inferred"
+}

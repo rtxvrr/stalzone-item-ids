@@ -1,0 +1,11 @@
+{
+  "clientId": 20031,
+  "key": "item.wpn.l85_varyag",
+  "kind": "item",
+  "name": {
+    "ru": "Подарок Варяга",
+    "en": "Varyag's Gift"
+  },
+  "apiId": "4q04p",
+  "apiIdStatus": "inferred"
+}

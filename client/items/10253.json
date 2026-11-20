@@ -1,0 +1,11 @@
+{
+  "clientId": 10253,
+  "key": "item.phonograph.vinyl_location_svalka",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Свалка техники»",
+    "en": "Scrapyard Vinyl Record"
+  },
+  "apiId": "yw50",
+  "apiIdStatus": "inferred"
+}

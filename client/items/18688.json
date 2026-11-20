@@ -1,0 +1,11 @@
+{
+  "clientId": 18688,
+  "key": "item.camo.wpn.cover",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Покрытие»",
+    "en": "Cover Paint"
+  },
+  "apiId": "n41p9",
+  "apiIdStatus": "inferred"
+}

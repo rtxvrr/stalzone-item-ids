@@ -1,0 +1,11 @@
+{
+  "clientId": 16268,
+  "key": "item.misc.krovosos_tentacles_t2",
+  "kind": "item",
+  "name": {
+    "ru": "Щупальца упыря",
+    "en": "Ghoul's Tentacle"
+  },
+  "apiId": "2o0gv",
+  "apiIdStatus": "inferred"
+}

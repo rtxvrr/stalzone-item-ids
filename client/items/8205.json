@@ -1,0 +1,11 @@
+{
+  "clientId": 8205,
+  "key": "item.quest.whirlpool_active_gnosis",
+  "kind": "item",
+  "name": {
+    "ru": "Заряженный скверный гнозис",
+    "en": "Charged Nnasty Gnosis"
+  },
+  "apiId": "yp0k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 9358,
+  "key": "item.melee.m9_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "М9 Выжившего",
+    "en": "Survivor's M9"
+  },
+  "apiId": "jrz4",
+  "apiIdStatus": "inferred"
+}

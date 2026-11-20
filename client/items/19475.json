@@ -1,0 +1,11 @@
+{
+  "clientId": 19475,
+  "key": "item.camo.arm.media_partner",
+  "kind": "item",
+  "name": {
+    "ru": "Краска медиа-партнера",
+    "en": "Media Partner's Paint"
+  },
+  "apiId": "zz6y2",
+  "apiIdStatus": "inferred"
+}

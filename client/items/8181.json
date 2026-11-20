@@ -1,0 +1,11 @@
+{
+  "clientId": 8181,
+  "key": "item.quest.apocalypse_not_today_backpack",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка Олеся",
+    "en": "Oles's Bag"
+  },
+  "apiId": "qrq9",
+  "apiIdStatus": "inferred"
+}

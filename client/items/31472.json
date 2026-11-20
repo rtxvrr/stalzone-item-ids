@@ -1,0 +1,11 @@
+{
+  "clientId": 31472,
+  "key": "item.lootbox.autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Черный Презент",
+    "en": "Black Present"
+  },
+  "apiId": "9d1p0",
+  "apiIdStatus": "inferred"
+}

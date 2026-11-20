@@ -1,0 +1,11 @@
+{
+  "clientId": 25351,
+  "key": "item.arm.albatros_light",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоброня «Альбатрос-Лазутчик»",
+    "en": "Albatross Infiltrator Exoarmor"
+  },
+  "apiId": "zzjgn",
+  "apiIdStatus": "inferred"
+}

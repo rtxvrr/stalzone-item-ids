@@ -1,0 +1,11 @@
+{
+  "clientId": 22000,
+  "key": "item.att.forend_l85",
+  "kind": "item",
+  "name": {
+    "ru": "Цевье RIS L85",
+    "en": "RIS L85 Handguard"
+  },
+  "apiId": "96vzl",
+  "apiIdStatus": "inferred"
+}

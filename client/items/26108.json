@@ -1,0 +1,11 @@
+{
+  "clientId": 26108,
+  "key": "item.med.apt_ops",
+  "kind": "item",
+  "name": {
+    "ru": "Экспериментальная аптечка",
+    "en": "Experimental First-Aid Kit"
+  },
+  "apiId": "kno23",
+  "apiIdStatus": "inferred"
+}

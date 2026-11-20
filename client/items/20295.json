@@ -1,0 +1,11 @@
+{
+  "clientId": 20295,
+  "key": "item.wpn.pzb38",
+  "kind": "item",
+  "name": {
+    "ru": "PzB 38",
+    "en": "PzB 38"
+  },
+  "apiId": "6w6lp",
+  "apiIdStatus": "inferred"
+}

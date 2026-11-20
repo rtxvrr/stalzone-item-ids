@@ -1,0 +1,11 @@
+{
+  "clientId": 26096,
+  "key": "item.med.clarinol",
+  "kind": "item",
+  "name": {
+    "ru": "Кларинол",
+    "en": "Clarinol"
+  },
+  "apiId": "964o0",
+  "apiIdStatus": "inferred"
+}

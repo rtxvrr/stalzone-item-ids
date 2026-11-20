@@ -1,0 +1,11 @@
+{
+  "clientId": 17134,
+  "key": "item.style.arm.exomod_winter25",
+  "kind": "item",
+  "name": {
+    "ru": "Экзокостюм «Tejat Core-2»",
+    "en": "Tejat Core-2 Exosuit"
+  },
+  "apiId": "j5zd4",
+  "apiIdStatus": "inferred"
+}

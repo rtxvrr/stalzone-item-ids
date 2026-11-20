@@ -1,0 +1,11 @@
+{
+  "clientId": 26022,
+  "key": "item.med.apt_p",
+  "kind": "item",
+  "name": {
+    "ru": "Аптечка проводника",
+    "en": "Guide's First-Aid Kit"
+  },
+  "apiId": "7ly13",
+  "apiIdStatus": "inferred"
+}

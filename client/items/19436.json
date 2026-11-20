@@ -1,0 +1,11 @@
+{
+  "clientId": 19436,
+  "key": "item.camo.arm.spring25_skin_16",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Леопардовая шкура»",
+    "en": "Leopard Skin Paint"
+  },
+  "apiId": "rwkdg",
+  "apiIdStatus": "inferred"
+}

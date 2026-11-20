@@ -1,0 +1,11 @@
+{
+  "clientId": 31050,
+  "key": "item.brt.bar.npc",
+  "kind": "item",
+  "name": {
+    "ru": "Рассольник",
+    "en": "Pickle"
+  },
+  "apiId": "gn9l6",
+  "apiIdStatus": "inferred"
+}

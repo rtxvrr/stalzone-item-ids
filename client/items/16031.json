@@ -1,0 +1,11 @@
+{
+  "clientId": 16031,
+  "key": "item.16031",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик 7",
+    "en": "Crate 7"
+  },
+  "apiId": "4qolr",
+  "apiIdStatus": "inferred"
+}

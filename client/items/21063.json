@@ -1,0 +1,11 @@
+{
+  "clientId": 21063,
+  "key": "item.melee.misery",
+  "kind": "item",
+  "name": {
+    "ru": "Мизерикорд",
+    "en": "Misericorde"
+  },
+  "apiId": "ok9w5",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25087,
+  "key": "item.arm.gromila-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный тяжелый бронекостюм «Громила»",
+    "en": "Worn Thug Heavy Armored Suit"
+  },
+  "apiId": "ok0w6",
+  "apiIdStatus": "inferred"
+}

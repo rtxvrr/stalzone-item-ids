@@ -1,0 +1,11 @@
+{
+  "clientId": 29953,
+  "key": "item.filler.airdrop_4",
+  "kind": "item",
+  "name": {
+    "ru": "Крупная поставка торговцу",
+    "en": "Huge Merchant Delivery"
+  },
+  "apiId": "y4n13",
+  "apiIdStatus": "inferred"
+}

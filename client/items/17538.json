@@ -1,0 +1,11 @@
+{
+  "clientId": 17538,
+  "key": "item.style.wpn.f2000_branch_autumn24",
+  "kind": "item",
+  "name": {
+    "ru": "Контрабандный Арсенал",
+    "en": "Contraband Arsenal"
+  },
+  "apiId": "m0y27",
+  "apiIdStatus": "inferred"
+}

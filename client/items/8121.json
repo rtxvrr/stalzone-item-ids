@@ -1,0 +1,11 @@
+{
+  "clientId": 8121,
+  "key": "item.quest.morok_essention",
+  "kind": "item",
+  "name": {
+    "ru": "Эссенция Морока",
+    "en": "Morphs Essence"
+  },
+  "apiId": "374k",
+  "apiIdStatus": "inferred"
+}

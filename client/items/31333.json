@@ -1,0 +1,11 @@
+{
+  "clientId": 31333,
+  "key": "item.ny_toys.setE.toy1",
+  "kind": "item",
+  "name": {
+    "ru": "Фиолетовый колокольчик",
+    "en": "Purple Bell"
+  },
+  "apiId": "q0n4k",
+  "apiIdStatus": "inferred"
+}

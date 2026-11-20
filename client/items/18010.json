@@ -1,0 +1,11 @@
+{
+  "clientId": 18010,
+  "key": "item.camo.wpn.sand",
+  "kind": "item",
+  "name": {
+    "ru": "Оружейная краска «Хаки»",
+    "en": "Khaki Weapon Paint"
+  },
+  "apiId": "j5wgl",
+  "apiIdStatus": "inferred"
+}

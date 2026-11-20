@@ -1,0 +1,11 @@
+{
+  "clientId": 6601,
+  "key": "item.misc.primary_sleeve",
+  "kind": "item",
+  "name": {
+    "ru": "Гильзовая болванка",
+    "en": "Cartridge Casing"
+  },
+  "apiId": "177r",
+  "apiIdStatus": "inferred"
+}

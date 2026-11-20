@@ -1,0 +1,11 @@
+{
+  "clientId": 6129,
+  "key": "item.misc.pasta_box",
+  "kind": "item",
+  "name": {
+    "ru": "Банка с макаронами",
+    "en": "Can of Pasta"
+  },
+  "apiId": "y7mo",
+  "apiIdStatus": "inferred"
+}

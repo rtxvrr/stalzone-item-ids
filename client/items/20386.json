@@ -1,0 +1,11 @@
+{
+  "clientId": 20386,
+  "key": "item.wpn.m1014_breacher",
+  "kind": "item",
+  "name": {
+    "ru": "M1014 Breacher",
+    "en": "M1014 Breacher"
+  },
+  "apiId": "m0mz2",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25572,
+  "key": "item.arm.albatros_scout_encaged",
+  "kind": "item",
+  "name": {
+    "ru": "«Разведчик»",
+    "en": "Scout"
+  },
+  "apiId": "96y2w",
+  "apiIdStatus": "inferred"
+}

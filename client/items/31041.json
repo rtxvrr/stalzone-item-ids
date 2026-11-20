@@ -1,0 +1,11 @@
+{
+  "clientId": 31041,
+  "key": "item.brt.les.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Росток чернобыльской ромашки",
+    "en": "Sprig of Chernobyl Chamomile"
+  },
+  "apiId": "pj52w",
+  "apiIdStatus": "inferred"
+}

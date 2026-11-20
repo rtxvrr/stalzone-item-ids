@@ -1,0 +1,11 @@
+{
+  "clientId": 9178,
+  "key": "item.exp.smoke_reich",
+  "kind": "item",
+  "name": {
+    "ru": "Дымовая граната",
+    "en": "Smoke Grenade"
+  },
+  "apiId": "wr2o",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16682,
+  "key": "item.lootbox.incident_2022",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик советской лаборатории",
+    "en": "Crate from Soviet Laboratory"
+  },
+  "apiId": "j5qy0",
+  "apiIdStatus": "inferred"
+}

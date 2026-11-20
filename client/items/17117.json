@@ -1,0 +1,11 @@
+{
+  "clientId": 17117,
+  "key": "item.style.arm.centurion_marathon",
+  "kind": "item",
+  "name": {
+    "ru": "«Претендент»",
+    "en": "Contender"
+  },
+  "apiId": "p65d5",
+  "apiIdStatus": "inferred"
+}

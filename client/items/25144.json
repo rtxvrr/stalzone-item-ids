@@ -1,0 +1,11 @@
+{
+  "clientId": 25144,
+  "key": "item.arm.stranger",
+  "kind": "item",
+  "name": {
+    "ru": "«Незнакомец»",
+    "en": "Stranger"
+  },
+  "apiId": "2oq75",
+  "apiIdStatus": "inferred"
+}

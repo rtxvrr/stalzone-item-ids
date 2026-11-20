@@ -1,0 +1,11 @@
+{
+  "clientId": 19860,
+  "key": "item.motif.wpn.amb17_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Чужая улица»",
+    "en": "Other's Street"
+  },
+  "apiId": "rwr2z",
+  "apiIdStatus": "inferred"
+}

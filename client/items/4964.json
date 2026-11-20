@@ -1,0 +1,11 @@
+{
+  "clientId": 4964,
+  "key": "item.plc.sticker.ops_rating_third_league",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Ревенант»",
+    "en": "Revenant Sticker"
+  },
+  "apiId": "n1q3",
+  "apiIdStatus": "inferred"
+}

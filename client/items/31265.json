@@ -1,0 +1,11 @@
+{
+  "clientId": 31265,
+  "key": "item.ny_toys.setQ.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Советский блестящий шарик",
+    "en": "Soviet Shiny Bauble"
+  },
+  "apiId": "pjnnd",
+  "apiIdStatus": "inferred"
+}

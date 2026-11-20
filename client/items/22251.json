@@ -1,0 +1,11 @@
+{
+  "clientId": 22251,
+  "key": "item.att.scope_pso1",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический ПСО",
+    "en": "PSO Optical Sight"
+  },
+  "apiId": "zzp9k",
+  "apiIdStatus": "inferred"
+}

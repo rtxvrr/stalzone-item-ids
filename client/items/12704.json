@@ -1,0 +1,11 @@
+{
+  "clientId": 12704,
+  "key": "item.amm.9sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 9 мм СБП",
+    "en": "9 mm SBP Round"
+  },
+  "apiId": "52l0",
+  "apiIdStatus": "inferred"
+}

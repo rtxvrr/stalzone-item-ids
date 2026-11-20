@@ -1,0 +1,11 @@
+{
+  "clientId": 24581,
+  "key": "item.charm.meme_froggy",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Легушька»",
+    "en": "Fwog Charm"
+  },
+  "apiId": "qj7z3",
+  "apiIdStatus": "inferred"
+}

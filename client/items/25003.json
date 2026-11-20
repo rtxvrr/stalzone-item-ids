@@ -1,0 +1,11 @@
+{
+  "clientId": 25003,
+  "key": "item.arm.krot_bandit",
+  "kind": "item",
+  "name": {
+    "ru": "Бандитский «Крот»",
+    "en": "Mole Bandit Jacket"
+  },
+  "apiId": "zzy6y",
+  "apiIdStatus": "inferred"
+}

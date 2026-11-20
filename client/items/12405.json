@@ -1,0 +1,11 @@
+{
+  "clientId": 12405,
+  "key": "item.exp.ops.support",
+  "kind": "item",
+  "name": {
+    "ru": "«Лечение»",
+    "en": "Healing"
+  },
+  "apiId": "ykjk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 25303,
+  "key": "item.arm.altyn",
+  "kind": "item",
+  "name": {
+    "ru": "Бронекостюм «Алтын»",
+    "en": "Altyn Armored Suit"
+  },
+  "apiId": "zzy1n",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 22920,
+  "key": "item.att.mount_svt",
+  "kind": "item",
+  "name": {
+    "ru": "Планка Пикатинни для СВТ",
+    "en": "Picatinny Rail for SVT"
+  },
+  "apiId": "2o7q6",
+  "apiIdStatus": "inferred"
+}

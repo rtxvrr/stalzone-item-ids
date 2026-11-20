@@ -1,0 +1,11 @@
+{
+  "clientId": 10171,
+  "key": "item.quest.smotrikov22",
+  "kind": "item",
+  "name": {
+    "ru": "Аудиофиксатор: Сквозь",
+    "en": "Audio recorder: Through"
+  },
+  "apiId": "64p0",
+  "apiIdStatus": "inferred"
+}

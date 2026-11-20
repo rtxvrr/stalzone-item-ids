@@ -1,0 +1,11 @@
+{
+  "clientId": 16002,
+  "key": "item.16002",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон охотника",
+    "en": "Hunter Tokens"
+  },
+  "apiId": "g4k66",
+  "apiIdStatus": "inferred"
+}

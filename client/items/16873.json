@@ -1,0 +1,11 @@
+{
+  "clientId": 16873,
+  "key": "item.quest.mina_zivkasa",
+  "kind": "item",
+  "name": {
+    "ru": "Мина «Зивкаса»",
+    "en": "ZIVCAS Mine"
+  },
+  "apiId": "1r1yr",
+  "apiIdStatus": "inferred"
+}

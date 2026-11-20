@@ -1,0 +1,11 @@
+{
+  "clientId": 22575,
+  "key": "item.att.silencer_pb",
+  "kind": "item",
+  "name": {
+    "ru": "Глушитель ПБ",
+    "en": "PB Silencer"
+  },
+  "apiId": "zz9w9",
+  "apiIdStatus": "inferred"
+}

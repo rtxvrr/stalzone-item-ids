@@ -1,0 +1,11 @@
+{
+  "clientId": 12804,
+  "key": "item.amm.762fire",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 7.62 мм жгучий",
+    "en": "7.62 mm Fluff Round"
+  },
+  "apiId": "526g",
+  "apiIdStatus": "inferred"
+}

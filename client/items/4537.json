@@ -1,0 +1,11 @@
+{
+  "clientId": 4537,
+  "key": "item.plc.pattern.mt_grass",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Луг»",
+    "en": "Meadow Pattern"
+  },
+  "apiId": "06dr",
+  "apiIdStatus": "inferred"
+}

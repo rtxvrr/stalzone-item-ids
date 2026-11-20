@@ -1,0 +1,11 @@
+{
+  "clientId": 16633,
+  "key": "item.16633",
+  "kind": "item",
+  "name": {
+    "ru": "Наградной ящик сталкеров",
+    "en": "Stalkers' Reward Crate"
+  },
+  "apiId": "qjq9j",
+  "apiIdStatus": "inferred"
+}

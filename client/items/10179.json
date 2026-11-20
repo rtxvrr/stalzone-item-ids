@@ -1,0 +1,11 @@
+{
+  "clientId": 10179,
+  "key": "item.quest.audio_diary_operation_lesta_rainbow",
+  "kind": "item",
+  "name": {
+    "ru": "“РАДУГА“",
+    "en": "RAINBOW"
+  },
+  "apiId": "4ywo",
+  "apiIdStatus": "inferred"
+}

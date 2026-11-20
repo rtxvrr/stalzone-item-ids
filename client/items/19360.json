@@ -1,0 +1,11 @@
+{
+  "clientId": 19360,
+  "key": "item.camo.arm.red_expo_skin_1",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «RED»",
+    "en": "«RED» Paint "
+  },
+  "apiId": "rwk05",
+  "apiIdStatus": "inferred"
+}

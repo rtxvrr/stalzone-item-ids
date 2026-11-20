@@ -1,0 +1,11 @@
+{
+  "clientId": 11553,
+  "key": "item.art.scaries_morel",
+  "kind": "item",
+  "name": {
+    "ru": "Личинка",
+    "en": "Larva"
+  },
+  "apiId": "yq3o",
+  "apiIdStatus": "inferred"
+}

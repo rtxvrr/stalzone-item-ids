@@ -1,0 +1,11 @@
+{
+  "clientId": 11926,
+  "key": "item.plate.steel5_frontline",
+  "kind": "item",
+  "name": {
+    "ru": "Крепкая стальная пластина",
+    "en": "Tough Steel Plate"
+  },
+  "apiId": "g3q5",
+  "apiIdStatus": "inferred"
+}

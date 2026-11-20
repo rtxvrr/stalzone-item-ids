@@ -1,0 +1,11 @@
+{
+  "clientId": 31516,
+  "key": "item.ny_toys.setJ.toy3",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерские игрушка-бубенчики",
+    "en": "Stalker Bells Decoration"
+  },
+  "apiId": "nkndw",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20453,
+  "key": "item.wpn.beretta93",
+  "kind": "item",
+  "name": {
+    "ru": "Beretta 93R",
+    "en": "Beretta 93R"
+  },
+  "apiId": "y32j0",
+  "apiIdStatus": "inferred"
+}

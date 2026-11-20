@@ -1,0 +1,11 @@
+{
+  "clientId": 11006,
+  "key": "item.art.electra_dezintegrator",
+  "kind": "item",
+  "name": {
+    "ru": "Дезинтегратор",
+    "en": "Disintegrator"
+  },
+  "apiId": "wg3p",
+  "apiIdStatus": "inferred"
+}

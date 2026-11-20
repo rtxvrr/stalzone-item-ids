@@ -1,0 +1,11 @@
+{
+  "clientId": 22523,
+  "key": "item.att.barrel_longdeagle",
+  "kind": "item",
+  "name": {
+    "ru": "Удлиненный ствол D-Eagle XIX",
+    "en": "Extended Barrel D-Eagle XIX"
+  },
+  "apiId": "6wpo6",
+  "apiIdStatus": "inferred"
+}

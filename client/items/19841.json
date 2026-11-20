@@ -1,0 +1,11 @@
+{
+  "clientId": 19841,
+  "key": "item.motif.wpn.svch_ssop",
+  "kind": "item",
+  "name": {
+    "ru": "«Забойщик»",
+    "en": "Steakmaker"
+  },
+  "apiId": "p6rrd",
+  "apiIdStatus": "inferred"
+}

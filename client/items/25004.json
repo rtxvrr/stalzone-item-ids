@@ -1,0 +1,11 @@
+{
+  "clientId": 25004,
+  "key": "item.arm.kyrtka_koj",
+  "kind": "item",
+  "name": {
+    "ru": "Сталкерская кожанка",
+    "en": "Stalker Coat"
+  },
+  "apiId": "5lr71",
+  "apiIdStatus": "inferred"
+}

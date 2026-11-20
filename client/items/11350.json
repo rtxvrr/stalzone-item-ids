@@ -1,0 +1,11 @@
+{
+  "clientId": 11350,
+  "key": "item.art.puzir_spiral",
+  "kind": "item",
+  "name": {
+    "ru": "Спираль",
+    "en": "Spiral"
+  },
+  "apiId": "gyq5",
+  "apiIdStatus": "inferred"
+}

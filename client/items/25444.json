@@ -1,0 +1,11 @@
+{
+  "clientId": 25444,
+  "key": "item.arm.expedition_ny23",
+  "kind": "item",
+  "name": {
+    "ru": "Костюм «Экспедиция-23»",
+    "en": "Expedition-23 Suit"
+  },
+  "apiId": "2ov00",
+  "apiIdStatus": "inferred"
+}

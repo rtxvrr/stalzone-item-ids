@@ -1,0 +1,11 @@
+{
+  "clientId": 16811,
+  "key": "item.16811",
+  "kind": "item",
+  "name": {
+    "ru": "Карта курьера",
+    "en": "Courier's Map"
+  },
+  "apiId": "ly9r2",
+  "apiIdStatus": "inferred"
+}

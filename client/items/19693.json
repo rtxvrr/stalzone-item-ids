@@ -1,0 +1,11 @@
+{
+  "clientId": 19693,
+  "key": "item.camo.arm.spring",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Весна»",
+    "en": "Spring Camouflage"
+  },
+  "apiId": "3grql",
+  "apiIdStatus": "inferred"
+}

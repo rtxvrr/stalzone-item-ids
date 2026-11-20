@@ -1,0 +1,11 @@
+{
+  "clientId": 6215,
+  "key": "item.misc.strong_mutants_remains",
+  "kind": "item",
+  "name": {
+    "ru": "Альфа биоматериал",
+    "en": "Alpha Biomaterial"
+  },
+  "apiId": "ov7o",
+  "apiIdStatus": "inferred"
+}

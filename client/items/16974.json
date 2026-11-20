@@ -1,0 +1,11 @@
+{
+  "clientId": 16974,
+  "key": "item.season_pass.bp_token",
+  "kind": "item",
+  "name": {
+    "ru": "Сезонный Пропуск",
+    "en": "Season Pass"
+  },
+  "apiId": "g49mp",
+  "apiIdStatus": "inferred"
+}

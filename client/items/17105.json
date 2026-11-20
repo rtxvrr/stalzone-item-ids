@@ -1,0 +1,11 @@
+{
+  "clientId": 17105,
+  "key": "item.style.arm.heavy_nord",
+  "kind": "item",
+  "name": {
+    "ru": "«Хранитель» группы «Норд»",
+    "en": "Nord Group Guardian"
+  },
+  "apiId": "y30lw",
+  "apiIdStatus": "inferred"
+}

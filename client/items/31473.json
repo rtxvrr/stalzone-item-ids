@@ -1,0 +1,11 @@
+{
+  "clientId": 31473,
+  "key": "item.lootbox.autumn24_tickets_small",
+  "kind": "item",
+  "name": {
+    "ru": "Подгон от Черного Рынка",
+    "en": "Black Market Gift"
+  },
+  "apiId": "19436",
+  "apiIdStatus": "inferred"
+}

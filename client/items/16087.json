@@ -1,0 +1,11 @@
+{
+  "clientId": 16087,
+  "key": "item.quest.ssop_help_murmur_notes_4",
+  "kind": "item",
+  "name": {
+    "ru": "Документы “Шепота”",
+    "en": "Murmur Documents"
+  },
+  "apiId": "ok4r6",
+  "apiIdStatus": "inferred"
+}

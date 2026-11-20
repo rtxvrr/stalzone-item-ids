@@ -1,0 +1,11 @@
+{
+  "clientId": 11964,
+  "key": "item.plate.radiator5",
+  "kind": "item",
+  "name": {
+    "ru": "Экспериментальная термопластина V",
+    "en": "Experimental Thermoplate V"
+  },
+  "apiId": "n372",
+  "apiIdStatus": "inferred"
+}

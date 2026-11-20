@@ -1,0 +1,11 @@
+{
+  "clientId": 19707,
+  "key": "item.camo.arm.glitter",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Блеск»",
+    "en": "Shine Paint"
+  },
+  "apiId": "4q05o",
+  "apiIdStatus": "inferred"
+}

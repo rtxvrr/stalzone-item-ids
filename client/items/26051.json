@@ -1,0 +1,11 @@
+{
+  "clientId": 26051,
+  "key": "item.med.inside_lech_protection",
+  "kind": "item",
+  "name": {
+    "ru": "Защита Изнанки",
+    "en": "Inside Out Protection"
+  },
+  "apiId": "zzq02",
+  "apiIdStatus": "inferred"
+}

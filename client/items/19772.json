@@ -1,0 +1,11 @@
+{
+  "clientId": 19772,
+  "key": "item.camo.arm.hardlife",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Суровый праздник»",
+    "en": "Harsh Holiday Paint"
+  },
+  "apiId": "96moy",
+  "apiIdStatus": "inferred"
+}

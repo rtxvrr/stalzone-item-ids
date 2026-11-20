@@ -1,0 +1,11 @@
+{
+  "clientId": 11922,
+  "key": "item.plate.composite3",
+  "kind": "item",
+  "name": {
+    "ru": "Композитная пластина III",
+    "en": "Composite Plate III"
+  },
+  "apiId": "7zqj",
+  "apiIdStatus": "inferred"
+}

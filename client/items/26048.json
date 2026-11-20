@@ -1,0 +1,11 @@
+{
+  "clientId": 26048,
+  "key": "item.med.advanced_mazz",
+  "kind": "item",
+  "name": {
+    "ru": "Сильная мазь от ожогов",
+    "en": "Strong Burn Cream"
+  },
+  "apiId": "964k0",
+  "apiIdStatus": "inferred"
+}

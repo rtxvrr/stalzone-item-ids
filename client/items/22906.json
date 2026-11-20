@@ -1,0 +1,11 @@
+{
+  "clientId": 22906,
+  "key": "item.att.forend_valris1",
+  "kind": "item",
+  "name": {
+    "ru": "Хомут с планкой RIS",
+    "en": "Clamp with RIS Rail"
+  },
+  "apiId": "wjrdo",
+  "apiIdStatus": "inferred"
+}

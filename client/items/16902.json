@@ -1,0 +1,11 @@
+{
+  "clientId": 16902,
+  "key": "item.quest.covenant.sample",
+  "kind": "item",
+  "name": {
+    "ru": "Образок Сапы",
+    "en": "Sapa Icon"
+  },
+  "apiId": "g49jp",
+  "apiIdStatus": "inferred"
+}

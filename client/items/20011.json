@@ -1,0 +1,11 @@
+{
+  "clientId": 20011,
+  "key": "item.wpn.aksu_homemade",
+  "kind": "item",
+  "name": {
+    "ru": "Кустарный АКС-74У",
+    "en": "Handmade AKS-74U"
+  },
+  "apiId": "lyldj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10286,
+  "key": "item.phonograph.vinyl_location_mines",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Шахты»",
+    "en": "Mines Vinyl Record"
+  },
+  "apiId": "md3k",
+  "apiIdStatus": "inferred"
+}

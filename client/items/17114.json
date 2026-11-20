@@ -1,0 +1,11 @@
+{
+  "clientId": 17114,
+  "key": "item.style.arm.tank_ravent23",
+  "kind": "item",
+  "name": {
+    "ru": "«Подрывник»",
+    "en": "Bomber"
+  },
+  "apiId": "m01dr",
+  "apiIdStatus": "inferred"
+}

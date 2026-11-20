@@ -1,0 +1,11 @@
+{
+  "clientId": 4533,
+  "key": "item.plc.pattern.blitz_trucks",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Траки»",
+    "en": "Tracks Pattern"
+  },
+  "apiId": "qp19",
+  "apiIdStatus": "inferred"
+}

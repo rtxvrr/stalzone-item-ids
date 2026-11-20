@@ -1,0 +1,11 @@
+{
+  "clientId": 19856,
+  "key": "item.motif.wpn.pkp_winter26",
+  "kind": "item",
+  "name": {
+    "ru": "«Грех»",
+    "en": "Sin"
+  },
+  "apiId": "knlmj",
+  "apiIdStatus": "inferred"
+}

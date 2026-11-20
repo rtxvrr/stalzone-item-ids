@@ -1,0 +1,11 @@
+{
+  "clientId": 15061,
+  "key": "item.lootbox.spring26_pass_paint",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Темная звезда»",
+    "en": "Dark Star Container"
+  },
+  "apiId": "0r07k",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8207,
+  "key": "item.quest.whirlpool_active_nettle",
+  "kind": "item",
+  "name": {
+    "ru": "Заряженная кислотная крапива",
+    "en": "Charged Acid Nettle"
+  },
+  "apiId": "4v5r",
+  "apiIdStatus": "inferred"
+}

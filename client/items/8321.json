@@ -1,0 +1,11 @@
+{
+  "clientId": 8321,
+  "key": "item.quest.shock_wave_proto",
+  "kind": "item",
+  "name": {
+    "ru": "Осколок Протоцибули",
+    "en": "Proto-Onion Shard"
+  },
+  "apiId": "37r5",
+  "apiIdStatus": "inferred"
+}

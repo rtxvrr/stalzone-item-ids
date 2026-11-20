@@ -1,0 +1,11 @@
+{
+  "clientId": 19768,
+  "key": "item.camo.arm.kryptek_highlander",
+  "kind": "item",
+  "name": {
+    "ru": "Камуфляж «Kryptek Highlander»",
+    "en": "Kryptek Highlander Camouflage"
+  },
+  "apiId": "2odw5",
+  "apiIdStatus": "inferred"
+}

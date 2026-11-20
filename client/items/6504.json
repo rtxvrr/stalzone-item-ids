@@ -1,0 +1,11 @@
+{
+  "clientId": 6504,
+  "key": "item.misc.pure_aluminum",
+  "kind": "item",
+  "name": {
+    "ru": "Алюминий",
+    "en": "Aluminum"
+  },
+  "apiId": "5njq",
+  "apiIdStatus": "inferred"
+}

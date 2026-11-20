@@ -1,0 +1,11 @@
+{
+  "clientId": 25468,
+  "key": "item.arm.trader_heavycoat",
+  "kind": "item",
+  "name": {
+    "ru": "Тяжелый плащ",
+    "en": "Heavy Cloak"
+  },
+  "apiId": "2ovg0",
+  "apiIdStatus": "inferred"
+}

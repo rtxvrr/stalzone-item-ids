@@ -1,0 +1,11 @@
+{
+  "clientId": 15009,
+  "key": "item.case.spring25_exclusive_armory",
+  "kind": "item",
+  "name": {
+    "ru": "Элитный кейс «Назад в Изнанку»",
+    "en": "Elite Back to the Inside Out Case"
+  },
+  "apiId": "qj0j4",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 20125,
+  "key": "item.wpn.dp",
+  "kind": "item",
+  "name": {
+    "ru": "ДП",
+    "en": "DP"
+  },
+  "apiId": "1rdnq",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 8305,
+  "key": "item.quest.the_shock_wave_toxic_canister",
+  "kind": "item",
+  "name": {
+    "ru": "Бидон с ОБВ",
+    "en": "Water Can With HBS"
+  },
+  "apiId": "yp73",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 11418,
+  "key": "item.art.ravent_hair",
+  "kind": "item",
+  "name": {
+    "ru": "Волос из бороды Хоттабыча",
+    "en": "Khottabych beard hair"
+  },
+  "apiId": "v117",
+  "apiIdStatus": "inferred"
+}

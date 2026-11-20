@@ -1,0 +1,11 @@
+{
+  "clientId": 20493,
+  "key": "item.wpn.gauss_pistol",
+  "kind": "item",
+  "name": {
+    "ru": "CR-72",
+    "en": "CR-72"
+  },
+  "apiId": "3gnl1",
+  "apiIdStatus": "inferred"
+}

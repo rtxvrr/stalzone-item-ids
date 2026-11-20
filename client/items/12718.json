@@ -1,0 +1,11 @@
+{
+  "clientId": 12718,
+  "key": "item.amm.545sbp",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.45 мм СБП",
+    "en": "5.45 mm SBP Round"
+  },
+  "apiId": "vdjd",
+  "apiIdStatus": "inferred"
+}

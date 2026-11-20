@@ -1,0 +1,11 @@
+{
+  "clientId": 4313,
+  "key": "item.plc.background.prestige_chill",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Заслуженный отдых»",
+    "en": "Well-Earned Rest Background"
+  },
+  "apiId": "0621",
+  "apiIdStatus": "inferred"
+}

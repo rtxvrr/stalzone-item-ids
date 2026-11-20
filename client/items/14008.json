@@ -1,0 +1,11 @@
+{
+  "clientId": 14008,
+  "key": "item.exp.frag_crafted",
+  "kind": "item",
+  "name": {
+    "ru": "Кустарная осколочная граната",
+    "en": "Jury-Rigged Fragmentation Grenade"
+  },
+  "apiId": "kny20",
+  "apiIdStatus": "inferred"
+}

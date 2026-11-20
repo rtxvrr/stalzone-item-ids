@@ -1,0 +1,11 @@
+{
+  "clientId": 20900,
+  "key": "item.wpn.rgm40",
+  "kind": "item",
+  "name": {
+    "ru": "РГМ-40 «Кастет»",
+    "en": "RGM-40 Kastet"
+  },
+  "apiId": "96w1y",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 15081,
+  "key": "item.lootbox.summer26",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический резерв",
+    "en": "Tactical Stockpile"
+  },
+  "apiId": "qj0q4",
+  "apiIdStatus": "inferred"
+}

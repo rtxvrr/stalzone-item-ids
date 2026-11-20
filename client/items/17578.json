@@ -1,0 +1,11 @@
+{
+  "clientId": 17578,
+  "key": "item.style.wpn.rsh12_autumn26",
+  "kind": "item",
+  "name": {
+    "ru": "«Начертанный»",
+    "en": "Inscribed"
+  },
+  "apiId": "wjz6o",
+  "apiIdStatus": "inferred"
+}

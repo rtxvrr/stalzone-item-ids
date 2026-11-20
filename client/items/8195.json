@@ -1,0 +1,11 @@
+{
+  "clientId": 8195,
+  "key": "item.quest.devil_pda_freedom",
+  "kind": "item",
+  "name": {
+    "ru": "ПДА «Зорьки»",
+    "en": "Rise Member's PDA"
+  },
+  "apiId": "6vl6",
+  "apiIdStatus": "inferred"
+}

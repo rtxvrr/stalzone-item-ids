@@ -1,0 +1,11 @@
+{
+  "clientId": 20042,
+  "key": "item.wpn.ak74m",
+  "kind": "item",
+  "name": {
+    "ru": "АК-74М",
+    "en": "AK-74M"
+  },
+  "apiId": "vjr1n",
+  "apiIdStatus": "inferred"
+}

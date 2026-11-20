@@ -1,0 +1,11 @@
+{
+  "clientId": 25066,
+  "key": "item.arm.ao5",
+  "kind": "item",
+  "name": {
+    "ru": "УКАЗ АО-5 «Пилигрим»",
+    "en": "RAPS AH-5 Pilgrim"
+  },
+  "apiId": "vj14r",
+  "apiIdStatus": "inferred"
+}

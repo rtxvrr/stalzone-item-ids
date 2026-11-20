@@ -1,0 +1,11 @@
+{
+  "clientId": 31494,
+  "key": "item.case.winter25_usual",
+  "kind": "item",
+  "name": {
+    "ru": "Базовый кейс «Операции Криостазис»",
+    "en": "Basic Operation Cryostasis Case"
+  },
+  "apiId": "773q3",
+  "apiIdStatus": "inferred"
+}

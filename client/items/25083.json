@@ -1,0 +1,11 @@
+{
+  "clientId": 25083,
+  "key": "item.arm.jnec-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный комбинезон «Жнец»",
+    "en": "Worn Reaper Jumpsuit"
+  },
+  "apiId": "lyjzk",
+  "apiIdStatus": "inferred"
+}

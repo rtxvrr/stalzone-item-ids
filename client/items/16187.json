@@ -1,0 +1,11 @@
+{
+  "clientId": 16187,
+  "key": "item.16187",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальное образование из Леса",
+    "en": "Anomalous Formation from the Forest"
+  },
+  "apiId": "okplm",
+  "apiIdStatus": "inferred"
+}

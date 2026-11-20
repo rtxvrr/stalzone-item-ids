@@ -1,0 +1,11 @@
+{
+  "clientId": 19787,
+  "key": "item.camo.arm.idol_chains",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Цепи идола»",
+    "en": "Idol's Chains Camouflage"
+  },
+  "apiId": "okvgm",
+  "apiIdStatus": "inferred"
+}

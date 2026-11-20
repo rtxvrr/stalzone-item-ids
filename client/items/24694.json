@@ -1,0 +1,11 @@
+{
+  "clientId": 24694,
+  "key": "item.charm.winter25_twitch_1",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Керосиновая лампа»",
+    "en": "Kerosene Lamp Charm"
+  },
+  "apiId": "7ljz9",
+  "apiIdStatus": "inferred"
+}

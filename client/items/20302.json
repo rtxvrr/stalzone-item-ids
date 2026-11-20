@@ -1,0 +1,11 @@
+{
+  "clientId": 20302,
+  "key": "item.wpn.obrezbm16frost",
+  "kind": "item",
+  "name": {
+    "ru": "Охладитель",
+    "en": "Cryolator"
+  },
+  "apiId": "g4m95",
+  "apiIdStatus": "inferred"
+}

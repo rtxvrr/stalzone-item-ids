@@ -1,0 +1,11 @@
+{
+  "clientId": 24366,
+  "key": "item.charm.incident_vsegda_gotov",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Всегда готов»",
+    "en": "Always Prepared Charm"
+  },
+  "apiId": "vj75g",
+  "apiIdStatus": "inferred"
+}

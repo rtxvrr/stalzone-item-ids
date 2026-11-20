@@ -1,0 +1,11 @@
+{
+  "clientId": 31841,
+  "key": "item.part.jackhammer",
+  "kind": "item",
+  "name": {
+    "ru": "Часть Pancor Jackhammer",
+    "en": "Pancor Jackhammer Part"
+  },
+  "apiId": "pjond",
+  "apiIdStatus": "inferred"
+}

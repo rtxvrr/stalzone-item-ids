@@ -1,0 +1,11 @@
+{
+  "clientId": 28709,
+  "key": "item.key.halloween_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Купон на «Спонсорский подгон»",
+    "en": "Sponsors gift Coupon"
+  },
+  "apiId": "q0j13",
+  "apiIdStatus": "inferred"
+}

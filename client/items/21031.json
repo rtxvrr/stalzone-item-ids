@@ -1,0 +1,11 @@
+{
+  "clientId": 21031,
+  "key": "item.21031",
+  "kind": "item",
+  "name": {
+    "ru": "Нож из шипа",
+    "en": "Shiv"
+  },
+  "apiId": "4q11j",
+  "apiIdStatus": "inferred"
+}

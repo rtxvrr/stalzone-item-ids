@@ -1,0 +1,11 @@
+{
+  "clientId": 12753,
+  "key": "item.amm.barricade",
+  "kind": "item",
+  "name": {
+    "ru": "Баррикада",
+    "en": "Barricade"
+  },
+  "apiId": "y9go",
+  "apiIdStatus": "inferred"
+}

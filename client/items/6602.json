@@ -1,0 +1,11 @@
+{
+  "clientId": 6602,
+  "key": "item.misc.sleeve",
+  "kind": "item",
+  "name": {
+    "ru": "Гильза",
+    "en": "Casing"
+  },
+  "apiId": "gmmn",
+  "apiIdStatus": "inferred"
+}

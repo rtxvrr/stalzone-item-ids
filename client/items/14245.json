@@ -1,0 +1,11 @@
+{
+  "clientId": 14245,
+  "key": "item.bag.armorpack_steel5",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка стальных пластин V",
+    "en": "Bag of Steel Plates V"
+  },
+  "apiId": "3g05l",
+  "apiIdStatus": "inferred"
+}

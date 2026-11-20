@@ -1,0 +1,11 @@
+{
+  "clientId": 16028,
+  "key": "item.16028",
+  "kind": "item",
+  "name": {
+    "ru": "Старый дипломат",
+    "en": "Old Briefcase"
+  },
+  "apiId": "5lyr1",
+  "apiIdStatus": "inferred"
+}

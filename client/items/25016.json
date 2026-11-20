@@ -1,0 +1,11 @@
+{
+  "clientId": 25016,
+  "key": "item.arm.mocking-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный бронекостюм «Пересмешник»",
+    "en": "Worn Moqueur Armored Suit"
+  },
+  "apiId": "n4rp1",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 10184,
+  "key": "item.quest.shaiba_typoon",
+  "kind": "item",
+  "name": {
+    "ru": "Кассета «Тайфуна»: «Шайба»",
+    "en": "Typhoon Cassette: Puck"
+  },
+  "apiId": "rd5y",
+  "apiIdStatus": "inferred"
+}

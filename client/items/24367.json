@@ -1,0 +1,11 @@
+{
+  "clientId": 24367,
+  "key": "item.charm.incident_yach",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Энергобублики»",
+    "en": "Energo-Bagels Charm"
+  },
+  "apiId": "dm799",
+  "apiIdStatus": "inferred"
+}

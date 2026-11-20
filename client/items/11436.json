@@ -1,0 +1,11 @@
+{
+  "clientId": 11436,
+  "key": "item.ravent_izhe",
+  "kind": "item",
+  "name": {
+    "ru": "Оберег «Иже»",
+    "en": "Ize Amulet"
+  },
+  "apiId": "rngz",
+  "apiIdStatus": "inferred"
+}

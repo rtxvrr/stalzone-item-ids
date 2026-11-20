@@ -1,0 +1,11 @@
+{
+  "clientId": 19417,
+  "key": "item.camo.arm.bf_skin_20",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Фиолетовые нити»",
+    "en": "Violet threads Paint"
+  },
+  "apiId": "p6wd6",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24695,
+  "key": "item.charm.winter25_twitch_2",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Свет шахтера»",
+    "en": "Miner's Light Charm"
+  },
+  "apiId": "6wqgn",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 18777,
+  "key": "item.camo.wpn.lizard_twitch",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Twitch Lizard»",
+    "en": "Twitch Lizard Camouflage"
+  },
+  "apiId": "y3vpo",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31719,
+  "key": "item.part.p320_4",
+  "kind": "item",
+  "name": {
+    "ru": "Часть SIG Sauer P320 #4",
+    "en": "Sig Sauer P320 Part #4"
+  },
+  "apiId": "dr9m2",
+  "apiIdStatus": "inferred"
+}

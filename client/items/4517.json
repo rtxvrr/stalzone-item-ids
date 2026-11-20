@@ -1,0 +1,11 @@
+{
+  "clientId": 4517,
+  "key": "item.plc.pattern.operations_rat",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Большая уборка»",
+    "en": "The Big Clean Up Pattern"
+  },
+  "apiId": "po95",
+  "apiIdStatus": "inferred"
+}

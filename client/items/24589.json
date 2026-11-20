@@ -1,0 +1,11 @@
+{
+  "clientId": 24589,
+  "key": "item.charm.hw23_zaka",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «ZAKATOON»",
+    "en": "ZAKATOON Charm"
+  },
+  "apiId": "p67g4",
+  "apiIdStatus": "inferred"
+}

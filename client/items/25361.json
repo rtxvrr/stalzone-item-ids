@@ -1,0 +1,11 @@
+{
+  "clientId": 25361,
+  "key": "item.arm.cirkon",
+  "kind": "item",
+  "name": {
+    "ru": "КИМ-102 «Циркон»",
+    "en": "MIS-102 Zircon"
+  },
+  "apiId": "0rnw1",
+  "apiIdStatus": "inferred"
+}

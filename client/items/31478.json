@@ -1,0 +1,11 @@
+{
+  "clientId": 31478,
+  "key": "item.case.autumn24_usual",
+  "kind": "item",
+  "name": {
+    "ru": "Базовый кейс «Черного Рынка»",
+    "en": "Basic Black Market Case"
+  },
+  "apiId": "w3zrp",
+  "apiIdStatus": "inferred"
+}

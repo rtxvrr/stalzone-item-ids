@@ -1,0 +1,11 @@
+{
+  "clientId": 20358,
+  "key": "item.wpn.mr133_hunter",
+  "kind": "item",
+  "name": {
+    "ru": "Охотничий MP-133",
+    "en": "Hunter's MP-133"
+  },
+  "apiId": "j5ojg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 29933,
+  "key": "item.filler.npc_10",
+  "kind": "item",
+  "name": {
+    "ru": "Антисептик",
+    "en": "Antiseptic"
+  },
+  "apiId": "q0yd3",
+  "apiIdStatus": "inferred"
+}

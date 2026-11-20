@@ -1,0 +1,11 @@
+{
+  "clientId": 24564,
+  "key": "item.charm.pxlbattle_beer",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок с пивом!!!!!",
+    "en": "Beer Charm!!!!!"
+  },
+  "apiId": "n47z2",
+  "apiIdStatus": "inferred"
+}

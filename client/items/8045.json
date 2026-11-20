@@ -1,0 +1,11 @@
+{
+  "clientId": 8045,
+  "key": "item.quest.brain_base",
+  "kind": "item",
+  "name": {
+    "ru": "Мозг пси-гончей",
+    "en": "Brain of a psy-hound"
+  },
+  "apiId": "3ljz",
+  "apiIdStatus": "inferred"
+}

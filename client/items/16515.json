@@ -1,0 +1,11 @@
+{
+  "clientId": 16515,
+  "key": "item.16515",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик картечи 12х76 мм",
+    "en": "Crate of 12x76 mm Buckshot"
+  },
+  "apiId": "okp14",
+  "apiIdStatus": "inferred"
+}

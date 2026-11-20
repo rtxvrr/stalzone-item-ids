@@ -1,0 +1,11 @@
+{
+  "clientId": 31842,
+  "key": "item.blueprint.wpn.ravent_f2000-1",
+  "kind": "item",
+  "name": {
+    "ru": "Чертеж FN F2000",
+    "en": "FN F2000 Blueprint"
+  },
+  "apiId": "vn5g7",
+  "apiIdStatus": "inferred"
+}

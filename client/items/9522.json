@@ -1,0 +1,11 @@
+{
+  "clientId": 9522,
+  "key": "item.abl.anm.tubus_operative",
+  "kind": "item",
+  "name": {
+    "ru": "Тактический Тубус Оперативника",
+    "en": "Operative's Tactical Tube"
+  },
+  "apiId": "7q5j",
+  "apiIdStatus": "inferred"
+}

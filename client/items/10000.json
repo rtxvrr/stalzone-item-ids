@@ -1,0 +1,11 @@
+{
+  "clientId": 10000,
+  "key": "item.device.dud_svecha",
+  "kind": "item",
+  "name": {
+    "ru": "Детектор узкого диапазона «Свеча»",
+    "en": "Candle Short Range Detector"
+  },
+  "apiId": "9j0l",
+  "apiIdStatus": "inferred"
+}

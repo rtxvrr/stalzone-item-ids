@@ -1,0 +1,11 @@
+{
+  "clientId": 5019,
+  "key": "item.plc.sticker.raven26_heart_3",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер лиги «Стойкость»",
+    "en": "Persistence League Sticker"
+  },
+  "apiId": "d4d5",
+  "apiIdStatus": "inferred"
+}

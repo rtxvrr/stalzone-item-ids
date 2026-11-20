@@ -1,0 +1,11 @@
+{
+  "clientId": 16612,
+  "key": "item.16612",
+  "kind": "item",
+  "name": {
+    "ru": "Морозный ящик",
+    "en": "Frosty Crate"
+  },
+  "apiId": "rwvgv",
+  "apiIdStatus": "inferred"
+}

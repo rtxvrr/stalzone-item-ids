@@ -1,0 +1,11 @@
+{
+  "clientId": 31078,
+  "key": "item.brt.pd.signal",
+  "kind": "item",
+  "name": {
+    "ru": "Маячок группы «Гамма»",
+    "en": "Gamma Group Tracker"
+  },
+  "apiId": "w3022",
+  "apiIdStatus": "inferred"
+}

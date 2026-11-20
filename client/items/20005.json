@@ -1,0 +1,11 @@
+{
+  "clientId": 20005,
+  "key": "item.wpn.mpk",
+  "kind": "item",
+  "name": {
+    "ru": "Walther MPK",
+    "en": "Walther MPK"
+  },
+  "apiId": "y37wz",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 17101,
+  "key": "item.style.arm.skat_blizzard23",
+  "kind": "item",
+  "name": {
+    "ru": "«Хозяин вьюги»",
+    "en": "Master of the Snowstorm"
+  },
+  "apiId": "1r1zq",
+  "apiIdStatus": "inferred"
+}

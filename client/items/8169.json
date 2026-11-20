@@ -1,0 +1,11 @@
+{
+  "clientId": 8169,
+  "key": "item.quest.apocalypse_not_today_syringe_red",
+  "kind": "item",
+  "name": {
+    "ru": "Красный шприц",
+    "en": "Red Syringe"
+  },
+  "apiId": "37qk",
+  "apiIdStatus": "inferred"
+}

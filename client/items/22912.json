@@ -1,0 +1,11 @@
+{
+  "clientId": 22912,
+  "key": "item.att.mount_uziris",
+  "kind": "item",
+  "name": {
+    "ru": "Направляющая RIS",
+    "en": "Guiding RIS"
+  },
+  "apiId": "rw475",
+  "apiIdStatus": "inferred"
+}

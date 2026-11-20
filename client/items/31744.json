@@ -1,0 +1,11 @@
+{
+  "clientId": 31744,
+  "key": "item.part.sledgehammer_2",
+  "kind": "item",
+  "name": {
+    "ru": "Часть Кувалды #2",
+    "en": "Sledgehammer Part #2"
+  },
+  "apiId": "21w15",
+  "apiIdStatus": "inferred"
+}

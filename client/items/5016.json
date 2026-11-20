@@ -1,0 +1,11 @@
+{
+  "clientId": 5016,
+  "key": "item.plc.sticker.prestige_head_trauma",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Травма головы»",
+    "en": "Head Trauma Sticker"
+  },
+  "apiId": "n1d6",
+  "apiIdStatus": "inferred"
+}

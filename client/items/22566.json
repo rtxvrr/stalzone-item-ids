@@ -1,0 +1,11 @@
+{
+  "clientId": 22566,
+  "key": "item.att.barrel_stable_nord",
+  "kind": "item",
+  "name": {
+    "ru": "ДТК Stable Nord",
+    "en": "Stable Nord MBC"
+  },
+  "apiId": "vjl3g",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 24334,
+  "key": "item.charm.crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Кристалл»",
+    "en": "Crystal Charm"
+  },
+  "apiId": "j57z4",
+  "apiIdStatus": "inferred"
+}

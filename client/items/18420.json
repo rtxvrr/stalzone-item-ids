@@ -1,0 +1,11 @@
+{
+  "clientId": 18420,
+  "key": "item.camo.wpn.bf_skin_23",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Токсичные линии»",
+    "en": "Toxic lines Paint"
+  },
+  "apiId": "2owkl",
+  "apiIdStatus": "inferred"
+}

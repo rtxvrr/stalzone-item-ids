@@ -1,0 +1,11 @@
+{
+  "clientId": 4205,
+  "key": "item.plc.background.covenant",
+  "kind": "item",
+  "name": {
+    "ru": "Фон «Завета»",
+    "en": "Covenant Background"
+  },
+  "apiId": "y660",
+  "apiIdStatus": "inferred"
+}

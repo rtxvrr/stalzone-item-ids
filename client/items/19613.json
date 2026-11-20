@@ -1,0 +1,11 @@
+{
+  "clientId": 19613,
+  "key": "item.motif.arm.albatros_heavy_mt",
+  "kind": "item",
+  "name": {
+    "ru": "«Консервная банка»",
+    "en": "Tin Can"
+  },
+  "apiId": "0r3r9",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 31302,
+  "key": "item.ny_toys.setB.tinsel1",
+  "kind": "item",
+  "name": {
+    "ru": "Синяя простецкая мишура",
+    "en": "Simple Blue Tinsel"
+  },
+  "apiId": "gnpjp",
+  "apiIdStatus": "inferred"
+}

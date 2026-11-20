@@ -1,0 +1,11 @@
+{
+  "clientId": 6803,
+  "key": "item.misc.abnormal_genes",
+  "kind": "item",
+  "name": {
+    "ru": "Аномальные гены",
+    "en": "Anomalous Genes"
+  },
+  "apiId": "z2y2",
+  "apiIdStatus": "inferred"
+}

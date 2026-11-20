@@ -1,0 +1,11 @@
+{
+  "clientId": 20612,
+  "key": "item.wpn.aks74_mod",
+  "kind": "item",
+  "name": {
+    "ru": "«Рапира»",
+    "en": "Rapier"
+  },
+  "apiId": "rw27g",
+  "apiIdStatus": "inferred"
+}

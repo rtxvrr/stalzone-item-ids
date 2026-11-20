@@ -1,0 +1,11 @@
+{
+  "clientId": 22210,
+  "key": "item.att.scope_bars",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Барс",
+    "en": "Bars Optical Sight"
+  },
+  "apiId": "j561l",
+  "apiIdStatus": "inferred"
+}

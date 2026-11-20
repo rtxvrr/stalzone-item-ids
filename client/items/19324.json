@@ -1,0 +1,11 @@
+{
+  "clientId": 19324,
+  "key": "item.camo.arm.dayx_twitch_skin_4",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Заряженный урбанизм Twitch»",
+    "en": "Charged Twitch Urbanism Paint"
+  },
+  "apiId": "9625z",
+  "apiIdStatus": "inferred"
+}

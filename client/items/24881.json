@@ -1,0 +1,11 @@
+{
+  "clientId": 24881,
+  "key": "item.charm.personal_shop_card_case",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Оснащение»",
+    "en": "Loadout Charm"
+  },
+  "apiId": "qjoq6",
+  "apiIdStatus": "inferred"
+}

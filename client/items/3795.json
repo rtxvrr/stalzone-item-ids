@@ -1,0 +1,11 @@
+{
+  "clientId": 3795,
+  "key": "tile.3795",
+  "kind": "tile",
+  "name": {
+    "ru": "Пшеница 1",
+    "en": "Wheat 1"
+  },
+  "apiId": null,
+  "apiIdStatus": "unavailable"
+}

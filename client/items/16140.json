@@ -1,0 +1,11 @@
+{
+  "clientId": 16140,
+  "key": "item.quest.limansk.12462",
+  "kind": "item",
+  "name": {
+    "ru": "Портативный пси-излучатель",
+    "en": "Portable Psy-Emitter"
+  },
+  "apiId": "n4w62",
+  "apiIdStatus": "inferred"
+}

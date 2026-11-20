@@ -1,0 +1,11 @@
+{
+  "clientId": 4909,
+  "key": "item.plc.sticker.rectangle",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер-прямоугольник",
+    "en": "Rectangle Sticker"
+  },
+  "apiId": "q5gk",
+  "apiIdStatus": "inferred"
+}

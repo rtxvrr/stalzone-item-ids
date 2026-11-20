@@ -1,0 +1,11 @@
+{
+  "clientId": 20391,
+  "key": "item.wpn.jackhammer",
+  "kind": "item",
+  "name": {
+    "ru": "Pancor Jackhammer",
+    "en": "Pancor Jackhammer"
+  },
+  "apiId": "dmjz2",
+  "apiIdStatus": "inferred"
+}

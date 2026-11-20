@@ -1,0 +1,11 @@
+{
+  "clientId": 24639,
+  "key": "item.charm.x",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Хроники»",
+    "en": "Chronicles Charm"
+  },
+  "apiId": "ok775",
+  "apiIdStatus": "inferred"
+}

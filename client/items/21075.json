@@ -1,0 +1,11 @@
+{
+  "clientId": 21075,
+  "key": "item.melee.tanto_pathfinder",
+  "kind": "item",
+  "name": {
+    "ru": "Танто Первопроходца",
+    "en": "Trailblazer Tanto"
+  },
+  "apiId": "zzlpk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 21030,
+  "key": "item.melee.burner",
+  "kind": "item",
+  "name": {
+    "ru": "Прижигатель",
+    "en": "Cauterizer"
+  },
+  "apiId": "wj66z",
+  "apiIdStatus": "inferred"
+}

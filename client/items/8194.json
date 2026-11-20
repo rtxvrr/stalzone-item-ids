@@ -1,0 +1,11 @@
+{
+  "clientId": 8194,
+  "key": "item.quest.wild_north_duty_note",
+  "kind": "item",
+  "name": {
+    "ru": "Записка «рубежника»",
+    "en": "Frontier Member Note"
+  },
+  "apiId": "76or",
+  "apiIdStatus": "inferred"
+}

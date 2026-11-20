@@ -1,0 +1,11 @@
+{
+  "clientId": 24596,
+  "key": "item.charm.serum",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Аномальная сыворотка»",
+    "en": "Anomalous Serum Charm"
+  },
+  "apiId": "96rly",
+  "apiIdStatus": "inferred"
+}

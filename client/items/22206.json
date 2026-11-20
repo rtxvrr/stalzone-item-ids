@@ -1,0 +1,11 @@
+{
+  "clientId": 22206,
+  "key": "item.att.scope_acog4",
+  "kind": "item",
+  "name": {
+    "ru": "Прицел оптический Trijicon ACOG",
+    "en": "Trijicon ACOG Optical Sight"
+  },
+  "apiId": "wjp1z",
+  "apiIdStatus": "inferred"
+}

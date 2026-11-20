@@ -1,0 +1,11 @@
+{
+  "clientId": 16695,
+  "key": "item.lootbox.blizzard_2023",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик исследователя холода",
+    "en": "Frost Researcher Crate"
+  },
+  "apiId": "6w9np",
+  "apiIdStatus": "inferred"
+}

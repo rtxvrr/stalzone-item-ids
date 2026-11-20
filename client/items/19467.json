@@ -1,0 +1,11 @@
+{
+  "clientId": 19467,
+  "key": "item.camo.arm.autumn25_skin_6",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Роспись»",
+    "en": "Artwork Paint"
+  },
+  "apiId": "dmzg5",
+  "apiIdStatus": "inferred"
+}

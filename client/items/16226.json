@@ -1,0 +1,11 @@
+{
+  "clientId": 16226,
+  "key": "item.16226",
+  "kind": "item",
+  "name": {
+    "ru": "Дневник Смолкина",
+    "en": "Smolkin's Diary"
+  },
+  "apiId": "g411n",
+  "apiIdStatus": "inferred"
+}

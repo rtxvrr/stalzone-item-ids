@@ -1,0 +1,11 @@
+{
+  "clientId": 25182,
+  "key": "item.arm.exo_morgue",
+  "kind": "item",
+  "name": {
+    "ru": "Экзоскелет Морга",
+    "en": "Morgue's Exoskeleton"
+  },
+  "apiId": "j5kdg",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 9186,
+  "key": "item.melee.sg8498",
+  "kind": "item",
+  "name": {
+    "ru": "SG 84/98",
+    "en": "SG 84/98"
+  },
+  "apiId": "mgj7",
+  "apiIdStatus": "inferred"
+}

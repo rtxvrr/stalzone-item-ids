@@ -1,0 +1,11 @@
+{
+  "clientId": 18443,
+  "key": "item.camo.wpn.summer25_skin_2",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Организм»",
+    "en": "Organism Paint"
+  },
+  "apiId": "dm4lj",
+  "apiIdStatus": "inferred"
+}

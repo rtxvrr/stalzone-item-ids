@@ -1,0 +1,11 @@
+{
+  "clientId": 6612,
+  "key": "item.misc.nootrop",
+  "kind": "item",
+  "name": {
+    "ru": "Ноотроп",
+    "en": "Nootropic"
+  },
+  "apiId": "r22z",
+  "apiIdStatus": "inferred"
+}

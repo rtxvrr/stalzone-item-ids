@@ -1,0 +1,11 @@
+{
+  "clientId": 16285,
+  "key": "item.misc.boar_tusk_t1",
+  "kind": "item",
+  "name": {
+    "ru": "Бивень кабана",
+    "en": "Boar Tusk"
+  },
+  "apiId": "0rljk",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16866,
+  "key": "item.quest.Bitsadze_locator",
+  "kind": "item",
+  "name": {
+    "ru": "Локатор Бицадзе",
+    "en": "Bitsadze's Locator"
+  },
+  "apiId": "vj0g7",
+  "apiIdStatus": "inferred"
+}

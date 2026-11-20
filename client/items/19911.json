@@ -1,0 +1,11 @@
+{
+  "clientId": 19911,
+  "key": "item.mtl.wpn.magma",
+  "kind": "item",
+  "name": {
+    "ru": "«Магма»",
+    "en": "Magma"
+  },
+  "apiId": "lylz1",
+  "apiIdStatus": "inferred"
+}

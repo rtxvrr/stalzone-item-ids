@@ -1,0 +1,11 @@
+{
+  "clientId": 4906,
+  "key": "item.plc.sticker.arcade_220",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер 220 ур. сессионных боев",
+    "en": "Level 220 Session Battles Sticker"
+  },
+  "apiId": "wv6o",
+  "apiIdStatus": "inferred"
+}

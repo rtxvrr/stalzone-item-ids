@@ -1,0 +1,11 @@
+{
+  "clientId": 25686,
+  "key": "item.skin.newyear4",
+  "kind": "item",
+  "name": {
+    "ru": "Скин «Ледяной взгляд»",
+    "en": "Icy Look Skin"
+  },
+  "apiId": "m03ky",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 16001,
+  "key": "item.16001",
+  "kind": "item",
+  "name": {
+    "ru": "Жетон бойца",
+    "en": "Fighter Tokens"
+  },
+  "apiId": "1ro5g",
+  "apiIdStatus": "inferred"
+}

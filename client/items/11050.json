@@ -1,0 +1,11 @@
+{
+  "clientId": 11050,
+  "key": "item.art.jarka_crystal",
+  "kind": "item",
+  "name": {
+    "ru": "Красный кристалл",
+    "en": "Red Crystal"
+  },
+  "apiId": "gy10",
+  "apiIdStatus": "inferred"
+}

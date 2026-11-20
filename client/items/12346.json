@@ -1,0 +1,11 @@
+{
+  "clientId": 12346,
+  "key": "item.exp.v40",
+  "kind": "item",
+  "name": {
+    "ru": "V40 Mini-Grenade",
+    "en": "V40 Mini-Grenade"
+  },
+  "apiId": "7yrr",
+  "apiIdStatus": "inferred"
+}

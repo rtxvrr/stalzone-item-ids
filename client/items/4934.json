@@ -1,0 +1,11 @@
+{
+  "clientId": 4934,
+  "key": "item.plc.sticker.scstore_protector",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер «Запаска»",
+    "en": "Spare Sticker"
+  },
+  "apiId": "jj16",
+  "apiIdStatus": "inferred"
+}

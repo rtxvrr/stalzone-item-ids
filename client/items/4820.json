@@ -1,0 +1,11 @@
+{
+  "clientId": 4820,
+  "key": "item.plc.sticker.shaman",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Шамана",
+    "en": "Shaman Sticker"
+  },
+  "apiId": "2mmv",
+  "apiIdStatus": "inferred"
+}

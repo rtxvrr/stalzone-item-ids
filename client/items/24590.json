@@ -1,0 +1,11 @@
+{
+  "clientId": 24590,
+  "key": "item.charm.hw23_hlop",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Камера, мотор, смерть»",
+    "en": "Lights, Camera, Death Charm"
+  },
+  "apiId": "vj7kp",
+  "apiIdStatus": "inferred"
+}

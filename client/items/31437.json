@@ -1,0 +1,11 @@
+{
+  "clientId": 31437,
+  "key": "item.lootbox.arm_camo_rare",
+  "kind": "item",
+  "name": {
+    "ru": "Ящик ценителя брони",
+    "en": "Armor Connoisseur's Crate"
+  },
+  "apiId": "00jkd",
+  "apiIdStatus": "inferred"
+}

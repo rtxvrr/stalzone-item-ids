@@ -1,0 +1,11 @@
+{
+  "clientId": 31497,
+  "key": "item.lootbox.zivcasmist",
+  "kind": "item",
+  "name": {
+    "ru": "Контейнер «Туман озарения»",
+    "en": "Mist of Enlightenment Container"
+  },
+  "apiId": "194z6",
+  "apiIdStatus": "inferred"
+}

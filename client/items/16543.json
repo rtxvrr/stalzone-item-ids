@@ -1,0 +1,11 @@
+{
+  "clientId": 16543,
+  "key": "item.bag.762bb",
+  "kind": "item",
+  "name": {
+    "ru": "Сумка бронебойных 7.62 мм",
+    "en": "Pouch of 7.62 mm Armor-Piercing Rounds"
+  },
+  "apiId": "dmyd9",
+  "apiIdStatus": "inferred"
+}

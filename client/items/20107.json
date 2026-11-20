@@ -1,0 +1,11 @@
+{
+  "clientId": 20107,
+  "key": "item.wpn.mk47",
+  "kind": "item",
+  "name": {
+    "ru": "MK47 Mutant",
+    "en": "MK47 Mutant"
+  },
+  "apiId": "4q0gl",
+  "apiIdStatus": "inferred"
+}

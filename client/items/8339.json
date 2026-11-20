@@ -1,0 +1,11 @@
+{
+  "clientId": 8339,
+  "key": "item.amm.ptrd_the_shock_wave",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон со снотворным для ПТРД-М",
+    "en": "Tranquilizer round for the PTRD-M"
+  },
+  "apiId": "ojmm",
+  "apiIdStatus": "inferred"
+}

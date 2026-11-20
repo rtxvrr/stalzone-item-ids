@@ -1,0 +1,11 @@
+{
+  "clientId": 18717,
+  "key": "item.camo.wpn.candy",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Леденцы»",
+    "en": "Candy Paint"
+  },
+  "apiId": "p6z32",
+  "apiIdStatus": "inferred"
+}

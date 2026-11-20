@@ -1,0 +1,11 @@
+{
+  "clientId": 31548,
+  "key": "item.ny_toys.setM.toy7",
+  "kind": "item",
+  "name": {
+    "ru": "Игрушка-гвозди диггеров",
+    "en": "Digger's Nails Decoration"
+  },
+  "apiId": "9d1rw",
+  "apiIdStatus": "inferred"
+}

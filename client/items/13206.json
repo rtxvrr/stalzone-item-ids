@@ -1,0 +1,11 @@
+{
+  "clientId": 13206,
+  "key": "item.camo.wpn.dmz26_skin_24",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Ленты»",
+    "en": "Belts Paint"
+  },
+  "apiId": "w22z",
+  "apiIdStatus": "inferred"
+}

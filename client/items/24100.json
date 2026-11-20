@@ -1,0 +1,11 @@
+{
+  "clientId": 24100,
+  "key": "item.24100",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Красная звезда»",
+    "en": "Red Star Charm"
+  },
+  "apiId": "96jyz",
+  "apiIdStatus": "inferred"
+}

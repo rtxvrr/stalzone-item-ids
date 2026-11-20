@@ -1,0 +1,11 @@
+{
+  "clientId": 30033,
+  "key": "item.filler.wild_mining_4",
+  "kind": "item",
+  "name": {
+    "ru": "Поврежденное оборудование",
+    "en": "Damaged Equipment"
+  },
+  "apiId": "q0qy4",
+  "apiIdStatus": "inferred"
+}

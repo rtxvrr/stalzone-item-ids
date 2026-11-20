@@ -1,0 +1,11 @@
+{
+  "clientId": 24759,
+  "key": "item.charm.molot",
+  "kind": "item",
+  "name": {
+    "ru": "Брелок «Мини Кувалда»",
+    "en": "Mini Sledgehammer Charm"
+  },
+  "apiId": "ly7q1",
+  "apiIdStatus": "inferred"
+}

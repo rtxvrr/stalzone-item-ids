@@ -1,0 +1,11 @@
+{
+  "clientId": 4819,
+  "key": "item.plc.sticker.morgue",
+  "kind": "item",
+  "name": {
+    "ru": "Стикер Морга",
+    "en": "Morgue Sticker"
+  },
+  "apiId": "d44g",
+  "apiIdStatus": "inferred"
+}

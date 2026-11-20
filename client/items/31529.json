@@ -1,0 +1,11 @@
+{
+  "clientId": 31529,
+  "key": "item.ny_toys.setL.toy2",
+  "kind": "item",
+  "name": {
+    "ru": "Артефакт-игрушка Куриный бог",
+    "en": "Chicken God Artifact Decoration"
+  },
+  "apiId": "y4yww",
+  "apiIdStatus": "inferred"
+}

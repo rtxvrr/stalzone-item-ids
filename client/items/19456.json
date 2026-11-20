@@ -1,0 +1,11 @@
+{
+  "clientId": 19456,
+  "key": "item.camo.arm.summer25_skin_15",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Разрыв»",
+    "en": "Gap Paint"
+  },
+  "apiId": "kn170",
+  "apiIdStatus": "inferred"
+}

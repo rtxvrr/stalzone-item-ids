@@ -1,0 +1,11 @@
+{
+  "clientId": 31001,
+  "key": "item.brt.bolota.mob",
+  "kind": "item",
+  "name": {
+    "ru": "Зеленая плесень",
+    "en": "Green Mold"
+  },
+  "apiId": "191kg",
+  "apiIdStatus": "inferred"
+}

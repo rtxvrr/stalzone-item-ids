@@ -1,0 +1,11 @@
+{
+  "clientId": 12813,
+  "key": "item.amm.556silver",
+  "kind": "item",
+  "name": {
+    "ru": "Патрон 5.56 мм серебряный",
+    "en": "5.56 mm Silver Round"
+  },
+  "apiId": "0o9d",
+  "apiIdStatus": "inferred"
+}

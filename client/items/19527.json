@@ -1,0 +1,11 @@
+{
+  "clientId": 19527,
+  "key": "item.camo.unique_arm.hellrider",
+  "kind": "item",
+  "name": {
+    "ru": "«Hell Rider»",
+    "en": "Hell Rider"
+  },
+  "apiId": "zz6q9",
+  "apiIdStatus": "inferred"
+}

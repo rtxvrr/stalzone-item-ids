@@ -1,0 +1,11 @@
+{
+  "clientId": 8029,
+  "key": "item.quest.hideout_keys",
+  "kind": "item",
+  "name": {
+    "ru": "Ключи от Убежища",
+    "en": "Keys to a Hideout"
+  },
+  "apiId": "yz9z",
+  "apiIdStatus": "inferred"
+}

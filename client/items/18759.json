@@ -1,0 +1,11 @@
+{
+  "clientId": 18759,
+  "key": "item.camo.wpn.transition",
+  "kind": "item",
+  "name": {
+    "ru": "Краска «Переход»",
+    "en": "Transition Paint"
+  },
+  "apiId": "lypz1",
+  "apiIdStatus": "inferred"
+}

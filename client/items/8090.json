@@ -1,0 +1,11 @@
+{
+  "clientId": 8090,
+  "key": "item.quest.hookah_fir",
+  "kind": "item",
+  "name": {
+    "ru": "Ветка пихты",
+    "en": "Fir Branch"
+  },
+  "apiId": "vpjn",
+  "apiIdStatus": "inferred"
+}

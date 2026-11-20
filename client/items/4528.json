@@ -1,0 +1,11 @@
+{
+  "clientId": 4528,
+  "key": "item.plc.pattern.dmz26_4",
+  "kind": "item",
+  "name": {
+    "ru": "Паттерн «Окопный»",
+    "en": "Trench Pattern"
+  },
+  "apiId": "5j14",
+  "apiIdStatus": "inferred"
+}

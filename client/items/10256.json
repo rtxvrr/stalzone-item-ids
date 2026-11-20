@@ -1,0 +1,11 @@
+{
+  "clientId": 10256,
+  "key": "item.phonograph.vinyl_location_yama",
+  "kind": "item",
+  "name": {
+    "ru": "Пластинка «Яма»",
+    "en": "The Pit Vinyl Record"
+  },
+  "apiId": "kdqj",
+  "apiIdStatus": "inferred"
+}

@@ -1,0 +1,11 @@
+{
+  "clientId": 30005,
+  "key": "item.filler.valuable_6",
+  "kind": "item",
+  "name": {
+    "ru": "Медицинские инструменты",
+    "en": "Medical Instruments"
+  },
+  "apiId": "y4n40",
+  "apiIdStatus": "inferred"
+}

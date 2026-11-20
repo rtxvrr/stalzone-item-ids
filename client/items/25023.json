@@ -1,0 +1,11 @@
+{
+  "clientId": 25023,
+  "key": "item.arm.trapper-1",
+  "kind": "item",
+  "name": {
+    "ru": "Поношенный костюм «Траппер»",
+    "en": "Worn Trapper Suit"
+  },
+  "apiId": "6w0rp",
+  "apiIdStatus": "inferred"
+}
